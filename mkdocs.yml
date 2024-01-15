@@ -6,4 +6,4 @@ theme:
 
 
 extra_css:
-  styles.css
+  - styles.css
