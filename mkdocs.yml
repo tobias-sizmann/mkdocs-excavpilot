@@ -1,3 +1,5 @@
 site_name: excav pilot Bedienungsanleitung
 theme:
   name: material
+  palette:
+    primary: custom
