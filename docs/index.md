@@ -1,3 +1,3 @@
-# Wilkommen bei der interaktiven Bedienungsanleitung
+# Willkommen bei der interaktiven Bedienungsanleitung
 
 Die Anleitung befindet sich im Aufbau und kommt demnächst.
