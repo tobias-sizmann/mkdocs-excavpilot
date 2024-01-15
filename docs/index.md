@@ -3,6 +3,9 @@
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 Hello world
 
+hello world 2
+
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
