@@ -5,6 +5,15 @@ theme:
   favicon: assets/icon.png
   palette:
     primary: custom
+    - scheme: default
+      toggle:
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        name: Switch to light mode
+
 
 
 extra_css:
