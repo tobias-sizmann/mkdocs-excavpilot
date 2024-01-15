@@ -14,5 +14,22 @@ Ein Live-Beispiel zum Aufstellen der Basisstation finden Sie auch in unserer Vid
 
 
 ## Anzeigekreuz
+Das Anzeigekreuz bietet visuelle Unterstützung bei der Erfassung der Schaufelposition in Relation zur Planierfläche. 
+
+Der vertikale LED-Strang informiert über die Höhendifferenz von Schaufelschneide und eingegebener Soll-Höhe. 
+* Ein LED-Ausschlag nach oben bedeutet, dass sich die Schaufel noch über der eingegebenen Soll-Höhe befindet 
+* Ein LED-Ausschlag nach unten bedeutet, dass sich die Schaufel bereits unter der eingegebenen Soll-Höhe befindet 
+
+Der horizontale LED-Strang informiert über die Abweichung der frontalen Schaufelneigung zur Flächen-Soll-Neigung. 
+* Ein LED-Ausschlag nach rechts bedeutet, dass die Schaufel zu weit nach rechts (im Uhrzeigersinn) geneigt ist
+* Ein LED-Ausschlag nach links bedeutet, dass die Schaufel zu weit nach links (gegen den Uhrzeigersinn) geneigt ist
+
+Schalten Sie die LED-Anzeige an, indem Sie den Knopf auf der Rückseite des Gehäuses drücken. Ein grün leuchtender LED-Ring um den Rand des Knopfes bedeutet, dass die LED-Anzeige eingeschaltet ist.
+
+Befestigen Sie die LED-Anzeige anschließend mit den angebrachten Magneten auf mittlerer Höhe an der zur Fahrerkabine zeigenden Seite des Baggerarms. Achten Sie hierbei auf gute Sichtbarkeit aus der Fahrerkabine. 
+
+Ein Live-Beispiel zum Befestigen der LED-Anzeige am Baggerarm finden Sie auch in unserer Videoanleitung in der App unter “Home (Startbildschirm) => Videoanleitung”. 
+
+
 
 ## Sensor
