@@ -19,7 +19,7 @@ site_name: excav PILOT
 
 nav:
   - Willkommen: index.md
-  - Übersicht: uebersicht.md
+  - Geräteübersicht: uebersicht.md
   - Erste Schritte:
     - Aufbauen: erste_schritte/aufbauen.md
     - Einrichten: erste_schritte/einrichten.md
