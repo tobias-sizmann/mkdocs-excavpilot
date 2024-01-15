@@ -1,6 +1,7 @@
 site_name: excav pilot Bedienungsanleitung
 theme:
   name: material
+  logo: assets/icon.png
   palette:
     primary: custom
 
