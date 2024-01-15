@@ -4,15 +4,25 @@ theme:
   logo: assets/icon.png
   favicon: assets/icon.png
   palette:
-    primary: custom
-    - scheme: default
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
       toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
         name: Switch to dark mode
 
     # Palette toggle for dark mode
-    - scheme: slate
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       toggle:
-        name: Switch to light mode
+        icon: material/brightness-4
+        name: Switch to system preference
 
 
 
