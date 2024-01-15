@@ -1,4 +1,4 @@
-site_name: excav pilot Bedienungsanleitung
+site_name: excav Pilot
 theme:
   name: material
   logo: assets/icon.png
@@ -18,9 +18,26 @@ theme:
         icon: material/weather-night
         name: Switch to dark mode
 
-
-
-
+nav:
+  - Willkommen: index.md
+  - Uebersicht: uebersicht.md
+  - Erste Schritte:
+    - Aufbauen: erste_schritte/aufbauen.md
+    - Einrichten: erste_schritte/einrichten.md
+    - Erste Flaeche abziehen: erste_schritte/flaeche.md
+  - App:
+    - Einrichtungsassistent: app/einrichtungsassistent.md
+    - Arbeitsansicht: app/arbeitsansicht.md
+    - Funktionen:
+      - Punkte: app/funktionen/punkte.md
+      - Strecke: app/funktionen/strecke.md
+      - Flaeche: app/funktionen/flaeche.md
+      - Bauplan: app/funktionen/bauplan.md
+      - Schaufeleinstellungen: app/funktionen/schaufeleinstellungen.md
+      - Einstellungen: app/funktionen/einstellungen.md
+      - Protokoll und Status: app/funktionen/protokoll_status.md
+  - Haeufige Fragen: faqs.md
+  - Fehlerbehebung: fehlerbehebung.md
 
 extra_css:
   - styles.css

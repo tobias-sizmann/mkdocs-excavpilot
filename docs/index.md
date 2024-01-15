@@ -1,5 +1,2 @@
-# Willkommen bei der interaktiven Bedienungsanleitung
-
-Die Anleitung befindet sich im Aufbau und kommt demnächst.
-
-asb
+# Willkommen zur excav Pilot Bedienungsanleitung!
+Hier werden sie demnaechst eine ausfuerliche Bedienungsanleitung fuer excav Pilot finden. Im Moment ist diese noch in der Erstellung.
