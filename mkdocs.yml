@@ -20,11 +20,11 @@ theme:
 
 nav:
   - Willkommen: index.md
-  - Uebersicht: uebersicht.md
+  - Übersicht: uebersicht.md
   - Erste Schritte:
     - Aufbauen: erste_schritte/aufbauen.md
     - Einrichten: erste_schritte/einrichten.md
-    - Erste Flaeche abziehen: erste_schritte/flaeche.md
+    - Erste Fläche abziehen: erste_schritte/flaeche.md
   - App:
     - Einrichtungsassistent: app/einrichtungsassistent.md
     - Arbeitsansicht: app/arbeitsansicht.md
