@@ -1,5 +1,4 @@
-site_name: excav Pilot
-theme:
+site_name: excav PILOT
   name: material
   logo: assets/icon.png
   favicon: assets/icon.png
@@ -31,12 +30,12 @@ nav:
     - Funktionen:
       - Punkte: app/funktionen/punkte.md
       - Strecke: app/funktionen/strecke.md
-      - Flaeche: app/funktionen/flaeche.md
+      - Fläche: app/funktionen/flaeche.md
       - Bauplan: app/funktionen/bauplan.md
       - Schaufeleinstellungen: app/funktionen/schaufeleinstellungen.md
       - Einstellungen: app/funktionen/einstellungen.md
       - Protokoll und Status: app/funktionen/protokoll_status.md
-  - Haeufige Fragen: faqs.md
+  - Häufige Fragen: faqs.md
   - Fehlerbehebung: fehlerbehebung.md
 
 extra_css:
