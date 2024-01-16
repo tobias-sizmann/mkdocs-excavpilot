@@ -1,4 +1,7 @@
+# site_name: excavPILOT
+#   name: material
 site_name: excav PILOT
+theme: 
   name: material
   logo: assets/icon.png
   favicon: assets/icon.png
