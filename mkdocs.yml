@@ -24,7 +24,7 @@ nav:
   - Willkommen: index.md
   - Geräteübersicht: uebersicht.md
   - Erste Schritte:
-    - Aufbauen: erste_schritte/aufbauen.md
+    - Aufbauen und Anbringen: erste_schritte/aufbauen.md
     - Einrichten: erste_schritte/einrichten.md
     - Erste Fläche abziehen: erste_schritte/flaeche.md
   - App:
