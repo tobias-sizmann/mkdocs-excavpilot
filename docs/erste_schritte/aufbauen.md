@@ -37,3 +37,10 @@ Befestigen Sie den Sensor an der Baggerschaufel. Beachten Sie dabei bitte folgen
 
 Die richtige Anbringung des Sensors auf der Baggerschaufel ist entscheidend für gute Ergebnisse und lässt sich rein textbasiert nicht ganz trivial beschreiben. Wir empfehlen daher, dass Sie sich auch mithilfe der grafischen Anleitung in der App unter “Home => Videoanleitung” informieren.
 
+## Tablet und Halterung im Fahrerhaus anbringen
+Der Tablet-Halter wird an einer Fensterscheibe auf der Innenseite der Fahrerkabine des Baggers befestigt. Achten Sie dabei bitte auf eine saubere Fensterscheibe. Drücken Sie die Halterung an gewünschter Stelle an die Fensterscheibe und drehen Sie diese an den beiden Saugnäpfen fest. Prüfen Sie anschließend durch leichtes Wackeln den sicheren Sitz der Saugnäpfe. Danach kann die Halterung in die gewünschte Position geschwenkt werden. Schrauben Sie hierzu das Bindeglied zwischen Saugnäpfen und Halterung leicht auf und ziehen Sie es nach Positionierung wieder fest. Das Tablet kann nachfolgend in die Halterung eingeschoben werden.
+
+Mit den Knöpfen an der Seite des Tablets kann dieses ein- und ausgeschaltet werden.
+Sofern der Bagger über einen Zigarettenanzünder oder einen 5V- bzw. 12V-Anschluss verfügt, können Sie das Tablet auch an den Strom anschließen.
+Falls Sie mit einem Tablet den ganzen Tag auf Akku arbeiten möchten, empfehlen wir, dieses in den Pausen abzuschalten.
+

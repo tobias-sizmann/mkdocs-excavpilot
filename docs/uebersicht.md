@@ -22,5 +22,8 @@ Der horizontale LED-Strang informiert über die Abweichung der frontalen Schaufe
 ## Sensor
 Der Sensor erfasst über GNSS und weitere Sensoren die Position, Lage und Ausrichtung der Schaufel und errechnet daraus die resultierenden Steuerempfehlungen für den Baggerfahrer. Entsprechend ist eine präzise Anbringung und Vermessung essentiell für die Qualität der Ergebnisse.
 
+## Tablet 
+Das Tablet visualisiert die vom Sensor ermittelten Raumdaten von Schaufel und Planierfläche. Zudem können Sensor und Anzeige über das Tablet nach Bedarf konfiguriert werden. Weitere Informationen und Beschreibungen zur Benutzeroberfläche und den Funktionen finden sich unter "App".
+
 ## Kalibriertool
 Das Kalibriertool dient als Hilfe bei der Vermessung und Justierung der Schaufel.
