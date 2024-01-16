@@ -29,12 +29,13 @@ nav:
     - Einrichtungsassistent: app/einrichtungsassistent.md
     - Arbeitsansicht: app/arbeitsansicht.md
     - Funktionen:
+      - Übersicht: app/funktionen/uebersicht.md
       - Punkte: app/funktionen/punkte.md
       - Strecke: app/funktionen/strecke.md
-      - Fläche: app/funktionen/flaeche.md
+      - Flächen: app/funktionen/flaeche.md
       - Bauplan: app/funktionen/bauplan.md
       - Schaufeleinstellungen: app/funktionen/schaufeleinstellungen.md
-      - Einstellungen: app/funktionen/einstellungen.md
+      - Sonstige Einstellungen: app/funktionen/einstellungen.md
       - Protokoll und Status: app/funktionen/protokoll_status.md
   - Häufige Fragen: faqs.md
   - Fehlerbehebung: fehlerbehebung.md
