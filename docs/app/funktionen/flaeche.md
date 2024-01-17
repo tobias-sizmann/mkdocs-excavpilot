@@ -20,3 +20,9 @@ Mit dieser Funktion können Sie eine Fläche (Ihre gewünschte Planierfläche) a
 ![Horizontale Fläche](0pt_plane.png)
 
 Mit dieser Funktion können Sie eine Fläche (Ihre gewünschte Planierfläche) mit Hilfe eines von Ihnen ausgewählten Punktes erschaffen (der Punkt muss erst erfasst werden und in die Punkteliste eingespeichert werden, siehe [Punkte erfassen](https://docs.excav.de/app/funktionen/punkte/)). Für die Flächenberechnung wird lediglich die Höhe des ausgewählten Punkts herangezogen. Auf Basis dieser Höhe wird dann eine Parallele zur Horizontalen geschaffen.
+
+## Höhenversatz der Planierfläche wählen
+![Versatz wählen](choose_offset.png)
+
+Diese Funktion bietet Ihnen die Möglichkeit, ihre Planierfläche parallel zu verschieben, indem Sie einen Versatz eingeben. Negativer Versatz bedeutet Verschiebung nach unten (z.B. hilfreich, wenn Gelände abgetragen werden soll) und positiver Versatz bedeutet Verschiebung nach oben (z.B. hilfreich, wenn Erde aufgeschüttet werden soll). Der Versatz kann zudem vertikal oder orthogonal bemessen werden. Vertikaler Versatz bemisst sich senrecht zur Horizontalen, wohingegen orthogonaler Versatz orthogonal zur ursprünglichen Fläche gemessen wird. Legen Sie den Regler “Orthogonalen Versatz verwenden” um, falls Sie Ihre Abmessung orthogonal zur Ursprungsfläche vornehmen wollen (z.B. wenn Sie eine Schicht Humus gegebener Dicke entsprechend dem Versatz auf eine geneigte Fläche aufbringen möchten).
+
