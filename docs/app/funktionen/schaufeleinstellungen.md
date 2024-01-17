@@ -9,3 +9,12 @@ Diese Funktion bietet Ihnen die Möglichkeit, Ihre während der Kalibrierung fes
 ![Schaufelkalabrierung](calibrate_shovel.png)
 
 Mit dieser Funktion können Sie die bereits während der Kalibrierung vorgenommene Abmessungen der Schaufel ändern (z.B. falls Sie sich vermessen haben oder die Schaufel gewechselt wurde, siehe [Schaufel vermessen](https://docs.excav.de/erste_schritte/einrichten/#schaufel-vermessen)). 
+
+## Schaufelmaße abspeichern 
+![Schaufel speichern](safe_shovel.png)
+
+Sie können Ihre Schaufelmaße - falls bereits vermessen - auch abspeichern. Wir bieten Ihnen hierfür zwei Alternativen an:
+
+* Sie können die Schaufelmaße auf dem Sensor speichern
+* Sie können die Schaufelmaße auf einem Schaufel-RFID-Tag speichern. Dieser kann zum Beispiel direkt an der Schaufel befestigt werden und der Sensor muss lediglich daraufgesetzt werden und erkennt die Schaufel automatisch. 
+
