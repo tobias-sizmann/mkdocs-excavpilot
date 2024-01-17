@@ -30,8 +30,7 @@ nav:
     - Arbeitsansicht: app/arbeitsansicht.md
     - Funktionen:
       - Übersicht: app/funktionen/uebersicht.md
-      - Punkte: app/funktionen/punkte.md
-      - Strecke: app/funktionen/strecke.md
+      - Punkte und Strecken: app/funktionen/punkte.md
       - Flächen: app/funktionen/flaeche.md
       - Bauplan: app/funktionen/bauplan.md
       - Schaufeleinstellungen: app/funktionen/schaufeleinstellungen.md
