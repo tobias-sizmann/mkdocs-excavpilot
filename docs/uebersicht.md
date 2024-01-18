@@ -6,6 +6,8 @@ Die Basisstation dient zur Ermittlung der GNSS-Korrekturdaten (Globales Navigati
 
 
 ## Anzeigekreuz
+![Anzeigekreuz](indicator.png)
+
 Das Anzeigekreuz bietet visuelle Unterstützung bei der Erfassung der Schaufelposition in Relation zur Planierfläche. 
 
 Der vertikale LED-Strang informiert über die Höhendifferenz von Schaufelschneide und eingegebener Soll-Höhe.
@@ -20,10 +22,14 @@ Der horizontale LED-Strang informiert über die Abweichung der frontalen Schaufe
 
 
 ## Sensor
+![Sensor](sensor.png)
+
 Der Sensor erfasst über GNSS und weitere Sensoren die Position, Lage und Ausrichtung der Schaufel und errechnet daraus die resultierenden Steuerempfehlungen für den Baggerfahrer. Entsprechend ist eine präzise Anbringung und Vermessung essentiell für die Qualität der Ergebnisse.
 
 ## Tablet 
 Das Tablet visualisiert die vom Sensor ermittelten Raumdaten von Schaufel und Planierfläche. Zudem können Sensor und Anzeige über das Tablet nach Bedarf konfiguriert werden. Weitere Informationen und Beschreibungen zur Benutzeroberfläche und den Funktionen finden sich unter "App".
 
 ## Kalibriertool
+![Kalibriertool](cal_tool.png)
+
 Das Kalibriertool dient als Hilfe bei der Vermessung und Justierung der Schaufel.
