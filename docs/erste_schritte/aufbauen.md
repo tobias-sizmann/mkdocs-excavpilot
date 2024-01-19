@@ -1,6 +1,10 @@
 # Aufbauen und Anbringen
 
 ## Basisstation aufstellen
+![Basis falsch](base_wrong.png)
+![Basis richtig](base_correct.png)
+![Basis falsch2](base_wrong2.png)
+
 Bitte beachten Sie beim Aufstellen der Basisstation folgende Richtlinien:
 
 * Die Basisstation darf während der Arbeiten nicht bewegt werden und benötigt stabilen Untergrund
@@ -15,6 +19,8 @@ Ein Live-Beispiel zum Aufstellen der Basisstation finden Sie auch in unserer Vid
 
 
 ## Anzeigekreuz anbringen
+![Anzeigekreuz angebracht](place_indicator.png)
+
 Schalten Sie das Anzeigekreuz an, indem Sie den Knopf auf der Rückseite des Gehäuses drücken. Ein grün leuchtender LED-Ring um den Rand des Knopfes bedeutet, dass die LED-Anzeige eingeschaltet ist.
 
 Befestigen Sie das Anzeigekreuz anschließend mit den angebrachten Magneten auf mittlerer Höhe an der zur Fahrerkabine zeigenden Seite des Baggerarms. Achten Sie hierbei auf gute Sichtbarkeit aus der Fahrerkabine. 
@@ -23,6 +29,8 @@ Ein Live-Beispiel zum Befestigen des Anzeigekreuzes am Baggerarm finden Sie auch
 
 
 ## Sensor anbringen
+![Sensor angebracht](place_sensor.png)
+
 Schalten Sie den Sensor ein, indem Sie den Knopf auf der Unterseite des Gehäuses drücken. Ein grün leuchtender LED-Ring um den Rand des Knopfes bedeutet, dass der Sensor eingeschaltet ist.
 
 Befestigen Sie den Sensor an der Baggerschaufel. Beachten Sie dabei bitte folgende Richtlinien:
@@ -38,6 +46,9 @@ Befestigen Sie den Sensor an der Baggerschaufel. Beachten Sie dabei bitte folgen
 Die richtige Anbringung des Sensors auf der Baggerschaufel ist entscheidend für gute Ergebnisse und lässt sich rein textbasiert nicht ganz trivial beschreiben. Wir empfehlen daher, dass Sie sich auch mithilfe der grafischen Anleitung in der App unter “Home => Videoanleitung” informieren.
 
 ## Tablet und Halterung im Fahrerhaus anbringen
+![Tablethalterung](tablet_empty.png)
+![Tablet einsetzen](tablet_in.png)
+
 Der Tablet-Halter wird an einer Fensterscheibe auf der Innenseite der Fahrerkabine des Baggers befestigt. Achten Sie dabei bitte auf eine saubere Fensterscheibe. Drücken Sie die Halterung an gewünschter Stelle an die Fensterscheibe und drehen Sie diese an den beiden Saugnäpfen fest. Prüfen Sie anschließend durch leichtes Wackeln den sicheren Sitz der Saugnäpfe. Danach kann die Halterung in die gewünschte Position geschwenkt werden. Schrauben Sie hierzu das Bindeglied zwischen Saugnäpfen und Halterung leicht auf und ziehen Sie es nach Positionierung wieder fest. Das Tablet kann nachfolgend in die Halterung eingeschoben werden.
 
 Mit den Knöpfen an der Seite des Tablets kann dieses ein- und ausgeschaltet werden.
