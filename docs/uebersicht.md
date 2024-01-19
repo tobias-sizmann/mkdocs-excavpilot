@@ -1,12 +1,14 @@
 # Geräteübersicht
-Eine schnelle Übersicht der im Koffer befindlichen Systemteile.
+Eine schnelle Übersicht der im Koffer befindlichen Systemteile und deren Anbringungsorte sowie deren technischen Daten.
+
+![Systemübersicht](./images/systemuebersicht_grau.png)
 
 ## Basisstation
 Die Basisstation dient zur Ermittlung der GNSS-Korrekturdaten (Globales Navigationssatellitensystem). 
 
 
 ## Anzeigekreuz
-![Anzeigekreuz](indicator.png)
+![Anzeigekreuz](./images/indicator.png)
 
 Das Anzeigekreuz bietet visuelle Unterstützung bei der Erfassung der Schaufelposition in Relation zur Planierfläche. 
 
@@ -22,7 +24,7 @@ Der horizontale LED-Strang informiert über die Abweichung der frontalen Schaufe
 
 
 ## Sensor
-![Sensor](sensor.png)
+![Sensor](./images/sensor.png)
 
 Der Sensor erfasst über GNSS und weitere Sensoren die Position, Lage und Ausrichtung der Schaufel und errechnet daraus die resultierenden Steuerempfehlungen für den Baggerfahrer. Entsprechend ist eine präzise Anbringung und Vermessung essentiell für die Qualität der Ergebnisse.
 
@@ -30,6 +32,9 @@ Der Sensor erfasst über GNSS und weitere Sensoren die Position, Lage und Ausric
 Das Tablet visualisiert die vom Sensor ermittelten Raumdaten von Schaufel und Planierfläche. Zudem können Sensor und Anzeige über das Tablet nach Bedarf konfiguriert werden. Weitere Informationen und Beschreibungen zur Benutzeroberfläche und den Funktionen finden sich unter "App".
 
 ## Kalibriertool
-![Kalibriertool](cal_tool.png)
+![Kalibriertool](./images/cal_tool.png)
 
 Das Kalibriertool dient als Hilfe bei der Vermessung und Justierung der Schaufel.
+
+## Aufladen
+Der Sensor, die Anzeige und die Basis verfügen über einen magnetischen Ladestecker auf der Unterseite. Das Tablet hat einen regulären USB-C Anschluss. Mit dem mitgelieferten Ladekabeln und Steckdosennetzteil kann das komplette System über Nacht aufgeladen werden.

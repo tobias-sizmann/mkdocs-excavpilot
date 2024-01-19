@@ -1,4 +1,25 @@
 # excav PILOT Bedienungsanleitung!
-Hier werden sie demnächst eine ausfürliche Bedienungsanleitung für excav PILOT finden, ausgestattet mit vielen Bildern und Videos. Im Moment ist diese noch in der Erstellung.
+Hier finden Sie eine ausfürliche Bedienungsanleitung für excav PILOT, ausgestattet mit vielen Bildern, Videos, Tipps und Tricks. Im Moment ist diese noch in der Erstellung, falls Sie zu einem Teil Fragen haben, kontaktieren Sie uns gerne per Mail an [kontakt@excav.de](mailto:kontakt@excav.de)
 
-![Example Image](systemuebersicht_grau.png)
+## Hinweise
+
+<img src="./markups/wilkommen/info_bsp.svg">
+<img src="./markups/wilkommen/warning_bsp.svg">
+<img src="./markups/wilkommen/error_bsp.svg">
+
+## Struktur
+
+### Geräteübersicht
+
+Hier wird die gesamte Hardware inklusive der technischen Daten erläutert.
+
+### Erste Schritte
+
+Falls Sie das System zum ersten mal in Betrieb nehmen, starten sie am besten hier oder schauen sich das Anleitungsvideo an.
+
+### App
+
+Hier finden Sie alle Erläuterungen zur App sowie der Einstellungsmöglichen des Systems über die App und alle implementierten Funktionen mit Erklärung.
+
+
+
