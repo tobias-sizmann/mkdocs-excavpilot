@@ -11,6 +11,8 @@ Unter "Home => Videoanleitung" finden Sie eine ausführliche Videoanleitung, in 
 Bevor Sie mit der Konfiguration des Systems starten können, müssen Basisstation, Anzeige und der Sensor verbunden sein. Sollte die Verbindung eines oder mehrerer Geräte fehlschlagen, prüfen Sie bitte zuerst den Akkustand und ob die entsprechenden Geräte eingeschaltet sind. Versuchen Sie bei dennoch anhaltenden Verbindungsproblemen, die Geräte näher zusammenzubringen.
 
 ## Kalibriertool anbringen
+![Kalibriertool anbringen](assistant_cal_tool.png)
+
 Gehen Sie bei der Anbringen des Kalibriertools an der Schaufel wie folgt vor: 
 
 * Positionieren Sie die Schaufel mit der Schneide auf einem ebenen und stabilen Untergrund, die Schneide darf nicht einsinken
@@ -33,6 +35,7 @@ Sollten Sie die Schaufel bereits in der Vergangenheit vermessen haben und diese 
 
 ## Schaufel justieren
 ![Schaufel justieren](assistant_shovel_perpendicular.png)
+![Schaufel justieren Img](assistant_cal_tool2.png)
 
 Heben Sie die Schaufel als nächstes leicht an und neigen Sie diese, bis die Spitze des Meterstabs exakt mit der Schneide übereinstimmt (das Kalibriertool mit fixiertem Meterstab dient Ihnen als Hilfe, das Lot zu finden). Holen Sie sich hierzu ggf. eine zweite Person zu Hilfe, die die Position von der Seite überprüft. Bestätigen Sie diese in der App mit “Weiter”. 
 
