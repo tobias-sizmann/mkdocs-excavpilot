@@ -2,12 +2,18 @@
 Nach erfolgreicher Kalibrierung Ihres Systems gelangen Sie automatisch in die Arbeitsansicht, die Ihnen Informationen über die Positionierung der Baggerschaufel im Raum und in Bezug zur Planierfläche bietet und Sie bei Ihren Arbeiten visuell unterstützt.
 
 ## Batterieanzeige von Anzeige, Basis und Sensor
+![Batterie](battery.png)
+
 Die Kopfleiste der Arbeitsansicht zeigt stets den aktuellen Akkustand von jeweils Anzeige, Basisstation und Sensor an. Achten Sie idealerweise darauf, dass die Akkustände nicht unter 10% fallen, da sich dies insbesondere bei Sensor und Basisstation negativ auf die Performanz auswirken kann. Eine volle Akkuladung reicht circa acht Stunden und die Ladezeit beläuft sich in etwa auf vier Stunden. 
 
 ## Frontalansicht - Baggerschaufel in Bezug zur Planierfläche
+![Frontalansicht](top_left.png)
+
 Die linke obere Box in der Arbeitsansicht visualisiert die Baggerschaufel in einer 2D-Frontalansicht. In der obigen Abbildung stellt das graue Rechteck die Schaufel dar (Seitenverhältnisse entsprechend der Eingabe von Höhe und Breite bei der Vermessung), der rote Punkt an der unteren rechten Ecke der Schaufel die ausgewählte Schaufelecke und braun eingefärbt ist die von Ihnen erstellte Planierfläche ([Flächenerstellungen](https://docs.excav.de/app/funktionen/flaeche/)). Sollten Sie noch keine eigene Fläche erstellt haben, dann wird standardmäßig eine Parallele zur Horizontalen auf Höhe des Referenzpunktes gezogen. Der grüne Strich zeigt die Höhe der erstellten Fläche ohne Versatz an (nur sichtbar, falls ein [Versatz](https://docs.excav.de/app/funktionen/flaeche/#hohenversatz-der-planierflache-wahlen) angesetzt wurde), die versetzt eingestellte Fläche (Zielfläche) wird braun dargestellt.
 
 ## Seitenansicht - Baggerschaufel in Bezug zur Planierfläche
+![Seitenansicht](top_right.png)
+
 Die rechte obere Box in der Arbeitsansicht visualisiert die Baggerschaufel in einer 2D-Seitenansicht. In der obigen Abbildung ist durch die grüne Linie die von Ihnen erstellte Planierfläche gezeigt ([Flächenerstellungen](https://docs.excav.de/app/funktionen/flaeche/)). Die Zielfläche, also mit dem von Ihnen eingestellten Versatz zur Fläche, wird braun dargestellt. Sollten Sie noch keine eigene Fläche erstellt haben, dann wird standardmäßig eine Parallele zur Horizontalen auf Höhe des Referenzpunktes gezogen. Der grüne Strich zeigt zudem den Versatz zur ursprünglichen Fläche an (nur sichtbar, falls ein [Versatz](https://docs.excav.de/app/funktionen/flaeche/#hohenversatz-der-planierflache-wahlen) angesetzt wurde). 
 
 ## Draufsicht Baustelle / Bauplan
