@@ -1,4 +1,6 @@
 # Arbeitsansicht
+![Arbeitsansicht](arbeitsansicht_in_frame.png)
+
 Nach erfolgreicher Kalibrierung Ihres Systems gelangen Sie automatisch in die Arbeitsansicht, die Ihnen Informationen über die Positionierung der Baggerschaufel im Raum und in Bezug zur Planierfläche bietet und Sie bei Ihren Arbeiten visuell unterstützt.
 
 ## Batterieanzeige von Anzeige, Basis und Sensor
@@ -17,7 +19,9 @@ Die linke obere Box in der Arbeitsansicht visualisiert die Baggerschaufel in ein
 Die rechte obere Box in der Arbeitsansicht visualisiert die Baggerschaufel in einer 2D-Seitenansicht. In der obigen Abbildung ist durch die grüne Linie die von Ihnen erstellte Planierfläche gezeigt ([Flächenerstellungen](https://docs.excav.de/app/funktionen/flaeche/)). Die Zielfläche, also mit dem von Ihnen eingestellten Versatz zur Fläche, wird braun dargestellt. Sollten Sie noch keine eigene Fläche erstellt haben, dann wird standardmäßig eine Parallele zur Horizontalen auf Höhe des Referenzpunktes gezogen. Der grüne Strich zeigt zudem den Versatz zur ursprünglichen Fläche an (nur sichtbar, falls ein [Versatz](https://docs.excav.de/app/funktionen/flaeche/#hohenversatz-der-planierflache-wahlen) angesetzt wurde). 
 
 ## Draufsicht Baustelle / Bauplan
-Die Draufsicht auf die Baustelle informiert Sie über die Position der Baggerschaufel (der rote horizontale Strich, Länge entsprechend der eingegebenen Schaufelbreite) in Bezug zu Referenzpunkt (REF) und von Ihnen erfassten Punkten auf der Baustelle (in der Beispielgrafik wurde lediglich ein Punkt erfasst und in Punkt-Slot A gespeichert). Zudem zeigt der rot gekennzeichnete Vektor N stets Richtung Norden. 
+![Draufsicht Baustelle](construction_site_view.png)
+
+Die Draufsicht auf die Baustelle informiert Sie über die Position der Baggerschaufel (der rote horizontale Strich, Länge entsprechend der eingegebenen Schaufelbreite) in Bezug zu Referenzpunkt (REF) und von Ihnen erfassten Punkten auf der Baustelle (in der Beispielgrafik wurde lediglich der Referenzpunkt erfasst). Zudem zeigt der rot gekennzeichnete Vektor N stets Richtung Norden. 
 
 Sie können auch Ihren eigenen Bauplan in der Draufsicht hochladen. Mehr Informationen hier zu unter App "Bauplan laden". 
 

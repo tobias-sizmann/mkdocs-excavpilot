@@ -1,6 +1,9 @@
 # Baupläne vorbereiten und einbinden
 
 ## Bauplan als SVG laden
+![Bauplan laden Button](construction_site.png)
+
+![Bauplan laden Screen](load_svg_screen.png)
 
 Sie können - falls vorhanden -  auch einen konkreten Bauplan Ihrer Baustelle in die Kartenansicht der [Arbeitsansicht](https://docs.excav.de/app/arbeitsansicht/) einbinden. Die unter “AUSWÄHLEN” aufgelisteten Dateien beinhalten ausschließlich jene Dateien des Formates .svg, welche in dem Ordner /Downloads/SVG-folder/ ihres Tablets abgelegt wurden. Falls Sie Ihren Bauplan nicht aufgelistet finden, gehen Sie bitte wie folgt vor: Minimieren Sie die App, gehen Sie unter “Eigene Dateien, Downloads, SVG_folder” und speichern Sie dort Ihren Bauplan ab. Beachten Sie bitte, dass vorerst nur Baupläne des Formates .svg gelesen werden können. Alternativ kann es sein, dass Sie Ihrer excav App erst die Berechtigung erteilen müssen, auf den externen Speicher ihres Tablets zugreifen zu dürfen. Schließen Sie hierfür Ihre App, gehen Sie unter “Einstellungen, Apps, excav, Berechtigungen” und aktivieren Sie dort die Erlaubnis für Fotos und Videos. Starten Sie im Anschluss die App neu. 
 
