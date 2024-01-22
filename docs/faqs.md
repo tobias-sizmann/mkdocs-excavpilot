@@ -1,12 +1,10 @@
-### Frage 1
-Antwort auf Frage 1.
+??? question "Frage 1"
+    Hier steht die Antwort zu Frage 1.
 
-### Frage 2
+??? question "Frage 2"
+    Hier steht die Antwort zu Frage 2.
 
-Antwort auf Frage 2.
-
-### Frage 3
-
-Antwort auf Frage 3.
+??? question "Frage 3"
+    Hier steht die Antwort zu Frage 3.
 
 
