@@ -16,15 +16,15 @@ Hier finden Sie eine ausfürliche Bedienungsanleitung für excav PILOT, ausgesta
 
 ### Geräteübersicht
 
-Hier wird die gesamte Hardware inklusive der technischen Daten erläutert.
+[Hier](https://docs.excav.de/uebersicht/) wird die gesamte Hardware inklusive der technischen Daten erläutert.
 
 ### Erste Schritte
 
-Falls Sie das System zum ersten mal in Betrieb nehmen, starten sie am besten hier oder schauen sich das Anleitungsvideo an.
+Falls Sie das System zum Ersten mal in Betrieb nehmen, starten Sie am besten [hier](https://docs.excav.de/erste_schritte/aufbauen/) oder schauen sich das Anleitungsvideo an.
 
 ### App
 
-Hier finden Sie alle Erläuterungen zur App sowie der Einstellungsmöglichen des Systems über die App und alle implementierten Funktionen mit Erklärung.
+[Hier](https://docs.excav.de/app/arbeitsansicht/) finden Sie alle Erläuterungen zur App sowie der Einstellungsmöglichen des Systems über die App und alle implementierten Funktionen mit Erklärung.
 
 
 
