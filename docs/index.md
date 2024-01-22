@@ -3,9 +3,14 @@ Hier finden Sie eine ausfürliche Bedienungsanleitung für excav PILOT, ausgesta
 
 ## Hinweise
 
-<img src="./markups/wilkommen/info_bsp.svg">
-<img src="./markups/wilkommen/warning_bsp.svg">
-<img src="./markups/wilkommen/error_bsp.svg">
+!!! info "Information"
+    Hier finden Sie relevante Informationen.
+
+!!! warning "Warnung"
+    Diese Nachricht warnt vor möglichen Fehlern.
+
+!!! danger "Gefahr"
+    Diese Nachricht weist auf Gefahren hin.
 
 ## Struktur
 

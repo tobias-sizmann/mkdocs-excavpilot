@@ -25,13 +25,15 @@ Gehen Sie bei der Anbringen des Kalibriertools an der Schaufel wie folgt vor:
 Die nachstehenden Schritte müssen sorgfältig ausgeführt werden, da ansonsten Messfehler entstehen, die sich in der späteren Arbeit fortsetzen.
 
 Lesen Sie die Höhe (Distanz zwischen Kalibriertoolmarkierung und Schaufelspitze) vom Meterstab am Kalibriertool ab und tragen Sie diese in der App ein.
-Bestimmen Sie anschließend den seitlichen Versatz (Einrückung) vom Sensor. Dies ist die Distanz von der Sensormitte bis zur von der Fahrerkabine gesehen rechten Außenseite der Schaufel. Bei manchen Schaufeln sind die Seitenwände leicht angeschrägt oder die Schneide steht etwas über. Messen Sie in diesem Fall die geschätzte Distanz bis zum äußersten Punkt der Schaufel(schneide). Tragen Sie den ermittelten Wert in die App ein.
+Bestimmen Sie anschließend den seitlichen Versatz (Einrückung) vom Sensor. Dies ist die Distanz von der Sensormitte bis zur von der Fahrerkabine gesehen rechten Außenseite der Schaufel. Tragen Sie den ermittelten Wert in die App ein.
+!!! info "Abgenutzte Schaufelschneide" 
+    Bei manchen Schaufeln sind die Seitenwände leicht angeschrägt oder die Schneide steht etwas über. Messen Sie in diesem Fall die geschätzte Distanz bis zum äußersten Punkt der Schaufel(schneide).
 Zuletzt muss noch die Breite der Schneide gemessen und in die App eingetragen werden. Diese entspricht dem Abstand von linker und rechter Schaufelecke. 
 
 
 Lassen Sie das Kalibriertool für den nachfolgenden Schritt an der Schaufel befestigt.  
 
-Sollten Sie die Schaufel bereits in der Vergangenheit vermessen haben und diese Maße auf dem Sensor gespeichert haben, können Sie diese abrufen, indem Sie auf “Schaufel laden” klicken. Nach erfolgreichem Laden der Schaufelmaßen können Sie obigen Schritt überspringen. Ausführlichere Informationen zum Speichern von Schaufelmaßen auf dem Sensor finden Sie unter "Schaufelmaße abspeichern”.
+Sollten Sie die Schaufel bereits in der Vergangenheit vermessen haben und diese Maße auf dem Sensor gespeichert haben, können Sie diese abrufen, indem Sie auf “Schaufel laden” klicken. Nach erfolgreichem Laden der Schaufelmaßen können Sie obigen Schritt überspringen. Ausführlichere Informationen zum Speichern von Schaufelmaßen auf dem Sensor finden Sie unter [Schaufelmaße abspeichern](https://docs.excav.de/app/funktionen/schaufeleinstellungen/#schaufelmae-abspeichern-laden).
 
 ## Schaufel justieren
 ![Schaufel justieren](assistant_shovel_perpendicular.png)

@@ -20,7 +20,10 @@ Als visuelles Feature für die Arbeitsansicht bietet sich auch die Option, die S
 
 ![Referenzpunkt setzen Screen](set_refpt_screen.png)
 
-Diese Funktion erlaubt eine Neuermittlung des Referenzpunkts. WARNUNG: Wenn Sie den Referenzpunkt neu setzen, werden alle bisher erfassten oder eingestellten Punkte oder Flächen um die Differenz zwischen dem aktuellen Referenzpunkt und dem neuen Referenzpunkt verschoben und sind somit nicht mehr gültig! Wenn die Basisstation neu gestartet wurde oder eine neue Positionserfassung durchgeführt wurde, kann durch erneutes Setzen des Referenzpunktes an der Stelle des alten Referenzpunktes die Arbeitsfläche wieder zur Baustelle synchronisiert werden.
+Diese Funktion erlaubt eine Neuermittlung des Referenzpunkts. 
+
+!!! danger "Warnung: Setzen des Referenzpunktes"
+    Wenn Sie den Referenzpunkt neu setzen, werden alle bisher erfassten oder eingestellten Punkte oder Flächen um die Differenz zwischen dem aktuellen Referenzpunkt und dem neuen Referenzpunkt verschoben und sind somit nicht mehr gültig! Wenn die Basisstation neu gestartet wurde oder eine neue Positionserfassung durchgeführt wurde, kann durch erneutes Setzen des Referenzpunktes an der Stelle des alten Referenzpunktes die Arbeitsfläche wieder zur Baustelle synchronisiert werden.
 
 ## Ausschalten und verstauen
 ![System abschalten](shut_down.png)
