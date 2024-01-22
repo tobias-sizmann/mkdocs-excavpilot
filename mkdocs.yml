@@ -39,5 +39,9 @@ nav:
   - Häufige Fragen: faqs.md
   - Fehlerbehebung: fehlerbehebung.md
 
+
 extra_css:
   - styles.css
+
+markdown_extensions:
+  - attr_list
