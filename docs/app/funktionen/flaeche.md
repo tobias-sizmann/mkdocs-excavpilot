@@ -20,7 +20,7 @@ Mit dieser Funktion können Sie eine Fläche (Ihre gewünschte Planierfläche) a
 
 ![Einpunktfläche Screen](1pt_plane_screen.png)
 
-Mit dieser Funktion können Sie eine Fläche (Ihre gewünschte Planierfläche) aus einem von Ihnen ausgewählten Punkt, einem Neigungswinkel und einem Richtungswinkel erschaffen (der Punkt muss erst erfasst werden und in die Punkteliste eingespeichert werden, siehe [Punkte erfassen](https://docs.excav.de/app/funktionen/punkte/)). Sie können als Richtung eine gezielte Himmelsrichtung auswählen (z.B. Ausrichtung nach Norden 0°, Osten 90°, Süden 180° oder Westen 270°) oder Sie nutzen die Schaufelrichtung (Fläche steigt dann hinter der Schaufel an). Legen Sie hierfür den Regler “Schaufelrichtung nutzen” um und  schwenken Sie den Bagger, sodass die Baggerschaufel in die gewünschte Richtung zeigt, bevor Sie die Flächenberechnung starten.
+Mit dieser Funktion können Sie eine Fläche (Ihre gewünschte Planierfläche) aus einem von Ihnen ausgewählten Punkt, einem Neigungswinkel und einem Richtungswinkel erschaffen (der Punkt muss erst erfasst werden und in die Punkteliste eingespeichert werden, siehe [Punkte erfassen](https://docs.excav.de/app/funktionen/punkte/)). Sie können als Richtung eine gezielte Himmelsrichtung auswählen (z.B. Ausrichtung nach Norden 0°, Osten 90°, Süden 180° oder Westen 270°) oder Sie nutzen die Löffelrichtung (Fläche steigt dann hinter dem Löffel an). Legen Sie hierfür den Regler “Löffelrichtung nutzen” um und schwenken Sie den Bagger, sodass der Baggerlöffel in die gewünschte Richtung zeigt, bevor Sie die Flächenberechnung starten.
 
 ## Parallele Fläche zur Horizontalen definiert durch einen Punkt
 ![Horizontale Fläche Button](0pt_plane.png)

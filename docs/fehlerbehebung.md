@@ -4,6 +4,6 @@
 ??? warning "Die App zeigt an, dass keine der Hardware gefunden wurde."
     Überprüfen Sie die WLAN-Verbindung. Wischen Sie dazu vom oberen Bildschirmrand herunter und halten Sie das WLAN-Logo bis die Einstellungen göffnet werden. Überprüfen Sie hier die Verbindung, bzw. verbinden Sie im Zweifelsfall neu.
 
-??? warning "Die Neigung der Schaufel passt nicht zu der auf der App angezeigten Neigung."
-    Überprüfen Sie, ob der Pfeil auf dem Sensor in Richtung Fahrerkabine zeigt. Wenn der Sensor falsch montiert war, führen Sie nach der Korrektur erneut eine Schaufelkalibrierung durch.
+??? warning "Die Neigung des Löffel passt nicht zu der auf der App angezeigten Neigung."
+    Überprüfen Sie, ob der Pfeil auf dem Sensor in Richtung Fahrerkabine zeigt. Wenn der Sensor falsch montiert war, führen Sie nach der Korrektur erneut eine Löffelkalibrierung durch.
 
