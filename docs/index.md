@@ -20,7 +20,7 @@ Hier finden Sie eine ausfürliche Bedienungsanleitung für excav PILOT, ausgesta
 
 ### Erste Schritte
 
-Falls Sie das System zum Ersten mal in Betrieb nehmen, starten Sie am besten [hier](https://docs.excav.de/erste_schritte/aufbauen/) oder schauen sich das Anleitungsvideo an.
+Falls Sie das System zum ersten Mal in Betrieb nehmen, starten Sie am besten [hier](https://docs.excav.de/erste_schritte/aufbauen/) oder schauen sich das Anleitungsvideo an.
 
 ### App
 
