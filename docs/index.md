@@ -1,7 +1,8 @@
 # excav PILOT Bedienungsanleitung!
-Hier finden Sie eine ausfürliche Bedienungsanleitung für excav PILOT, ausgestattet mit vielen Bildern, Videos, Tipps und Tricks. Im Moment ist diese noch in der Erstellung, falls Sie zu einem Teil Fragen haben, kontaktieren Sie uns gerne per Mail an [kontakt@excav.de](mailto:kontakt@excav.de)
+Hier finden Sie eine ausführliche Bedienungsanleitung für Ihren excav PILOT, ausgestattet mit vielen Bildern, Videos, Tipps und Tricks. Im Moment ist diese noch in der Erstellung, falls Sie zu einem Teil Fragen haben, kontaktieren Sie uns gerne per Mail an [kontakt@excav.de](mailto:kontakt@excav.de)
 
 ## Hinweise
+In dieser Bedienungsanleitung wird wie folgt auf wichtige Informationen, Warnungen und Gefahren aufmerksam gemacht:
 
 !!! info "Information"
     Hier finden Sie relevante Informationen.
@@ -16,15 +17,15 @@ Hier finden Sie eine ausfürliche Bedienungsanleitung für excav PILOT, ausgesta
 
 ### Geräteübersicht
 
-[Hier](https://docs.excav.de/uebersicht/) wird die gesamte Hardware inklusive der technischen Daten erläutert.
+In der [Geräteübersicht](https://docs.excav.de/uebersicht/) wird die gesamte Hardware inklusive der technischen Daten erläutert.
 
 ### Erste Schritte
 
-Falls Sie das System zum ersten Mal in Betrieb nehmen, starten Sie am besten [hier](https://docs.excav.de/erste_schritte/aufbauen/) oder schauen sich das Anleitungsvideo an.
+Falls Sie das System zum ersten Mal in Betrieb nehmen, starten Sie am besten im Reiter [Erste Schritte](https://docs.excav.de/erste_schritte/aufbauen/). Zusätzlich können Sie sich das Anleitungsvideo anschauen.
 
 ### App
 
-[Hier](https://docs.excav.de/app/arbeitsansicht/) finden Sie alle Erläuterungen zur App sowie der Einstellungsmöglichen des Systems über die App und alle implementierten Funktionen mit Erklärung.
+Nach erfolgreicher Inbetriebnahme finden Sie im Reiter [Arbeitsansicht](https://docs.excav.de/app/arbeitsansicht/) alle Erläuterungen zur App sowie deren Einstellungsmöglichen.
 
 
 

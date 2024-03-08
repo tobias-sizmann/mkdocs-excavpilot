@@ -19,7 +19,7 @@ theme:
         name: Switch to dark mode
 
 nav:
-  - Willkommen: index.md
+  - Start: index.md
   - Geräteübersicht: uebersicht.md
   - Erste Schritte:
     - Aufbauen und Anbringen: erste_schritte/aufbauen.md
@@ -33,7 +33,7 @@ nav:
       - Punkte und Strecken: app/funktionen/punkte.md
       - Flächen: app/funktionen/flaeche.md
       - Bauplan: app/funktionen/bauplan.md
-      - Schaufeleinstellungen: app/funktionen/schaufeleinstellungen.md
+      - Löffeleinstellungen: app/funktionen/schaufeleinstellungen.md
       - Sonstige Einstellungen: app/funktionen/einstellungen.md
       - Protokoll und Status: app/funktionen/protokoll_status.md
   - Häufige Fragen: faqs.md

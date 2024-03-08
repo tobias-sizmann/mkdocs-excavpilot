@@ -16,3 +16,4 @@ Sollten ein oder mehrere dieser Schritte nicht erfolgt sein, kann das System nic
 Das Log-Window agiert als App-interne Konsole, welche etwaige Nutzeraktivitäten und die Kommunikation mit der Hardware protokolliert. Sollten Probleme bei der Benutzung des Systems auftreten, laden Sie bitte die Konsole aus dem internen Speicher des Tablets (“KONSOLE LADEN”) und schicken Sie einen Screenshot/ ein Foto an support@excav.de.
 (Bitte bei Problemen zuerst die Status-Übersicht prüfen)
 
+
