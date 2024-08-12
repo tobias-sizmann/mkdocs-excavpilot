@@ -1,6 +1,7 @@
 site_name: excav PILOT
 theme: 
   name: material
+  custom_dir: docs/overrides
   logo: assets/icon.png
   favicon: assets/icon.png
   palette:
@@ -17,6 +18,11 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
+
+plugins: 
+  - print-site:
+      path_to_pdf: "assets/anleitung_excav_pilot.pdf"
+
 
 nav:
   - Start: index.md
