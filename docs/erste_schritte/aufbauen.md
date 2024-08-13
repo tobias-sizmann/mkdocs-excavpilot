@@ -1,6 +1,6 @@
 # Aufbauen und Anbringen
 
-Ein Live-Beispiel zum Aufbauen und Einrichten des Systems finden Sie auch in unserer Videoanleitung in der App unter “Home (Startbildschirm) => Videoanleitung”.
+Ein Live-Beispiel zum Aufbauen und Einrichten des Systems finden Sie auch in unserer [Videoanleitung](https://www.youtube.com/watch?v=dZmhDPmHHl0){:target="_blank"} (auch in der App abspielbar).
 
 ## Basisstation aufstellen
 ![Basis richtig](base_correct.png)
