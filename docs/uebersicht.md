@@ -7,24 +7,35 @@
 # Geräteübersicht
 Dies ist eine schnelle Übersicht der im Koffer befindlichen Systemteile und deren Funktionen.
 
-![Systemübersicht](./images/systemuebersicht_grau.png)
+<!-- ![Systemübersicht](./images/systemuebersicht_grau.png) -->
+<p align="center" width="100%">
+  <img width="100%" src="/images/systemübersicht_new.png"/>
+</p>
 
+## Koffer
+<p align="center" width="100%">
+  <img width="80%" src="\images\Koffer_links.png"/>
+</p>
+Das System wird mit einem stabilen Koffer ausgeliefert. Der An- und Abtransport des Systems zur und von der Baustelle ist so sicher möglich. 
 
 ## Sensor
-![Sensor](./images/sensor.png)
-
+<p align="center" width="100%">
+  <img width="40%" src="\images\Sensor_ObenVogel_KH.png"/>
+</p>
 Der Sensor ermittelt über ein GNSS-Modul und weitere Sensoren die Position, Ausrichtung und Neigung des Löffels und errechnet daraus die Steuerempfehlungen für den Baggerfahrer. Entsprechend ist eine präzise Anbringung und Vermessung während der Einrichtung des Systems essentiell für die Qualität der Ergebnisse.
 
 
-## Anzeigekreuz
-![Anzeigekreuz](./images/indicator.png)
+## LED-Anzeigekreuz
+<p align="center" width="100%">
+  <img width="40%" src="\images\Kreuz_Oben_KeinHintergrund.png"/>
+</p>
 
-Das Anzeigekreuz bietet eine visuelle Unterstützung bei der Erfassung der Löffelposition in Relation zur Planierfläche. 
+Das LED-Anzeigekreuz wird am Stiel oberhalb des Löffels montiert und bietet eine visuelle Unterstützung bei der Erfassung der Löffelposition in Relation zur Planierfläche. 
 
 Der vertikale LED-Strang informiert über die Höhendifferenz von Löffelschneide und eingegebener Soll-Höhe:
 
-* Ein LED-Ausschlag nach oben bedeutet, dass sich der Löffel noch über der eingegebenen Soll-Höhe befindet.
-* Ein LED-Ausschlag nach unten bedeutet, dass sich der Löffel bereits unter der eingegebenen Soll-Höhe befindet.
+* Ein LED-Ausschlag nach oben bedeutet, dass sich die Löffelschneide noch über der eingegebenen Soll-Höhe befindet.
+* Ein LED-Ausschlag nach unten bedeutet, dass sich die Löffelschneide bereits unter der eingegebenen Soll-Höhe befindet.
 
 Der horizontale LED-Strang informiert über die Abweichung der frontalen Löffelneigung zur Flächen-Soll-Neigung:
 
@@ -43,7 +54,7 @@ Das Tablet visualisiert die vom Sensor ermittelten Raumdaten von Löffel und Pla
 
 ## Basisstation
 <p align="center" width="100%">
-  <img width="75%" src="/images/Basisstation.png"/>
+  <img width="40%" src="/images/Sensor_Seitlich_KH.png"/>
 </p>
 
 
@@ -51,10 +62,23 @@ Die Basisstation dient ausschließlich zur Ermittlung der GNSS-Korrekturdaten un
 
 
 ## Kalibriertool
-![Kalibriertool](./images/cal_tool.png)
+<p align="center" width="100%">
+  <img width="75%" src="/images/Caltool1.png"/>
+</p>
 
-Das Kalibriertool dient als Hilfe bei der Vermessung und Justierung des Löffels.
+Das Kalibriertool dient als Hilfe bei der Vermessung und Kalibrierung des Löffels.
+
+
+## Messstab
+<p align="center" width="100%">
+  <img width="60%" rotate="45deg" src="/images/Messstab.png"/>
+  <img width="16%" rotate="45deg" src="/images/Messstab3.png"/>
+</p>
+Mit dem Messstab ist es besonders einfach Punkte auf der Baustelle einzulesen. Der Sensor wird an der Oberseite des Messstabs angebracht. Mithilfe der Tablethalterung kann auch das Tablet seitlich am Messstab mitgeführt werden.
 
 ## Aufladen
-Der Sensor, die Anzeige und die Basis verfügen über einen magnetischen Ladestecker auf der Unterseite. Das Tablet hat einen regulären USB-C Anschluss. Mit dem mitgelieferten Ladekabeln und Steckdosennetzteil kann das komplette System über Nacht aufgeladen werden.
+<p align="center" width="100%">
+  <img width="75%" src="/images/LadeStecker.png"/>
+</p>
+Der Sensor, die Anzeige und die Basis verfügen über einen magnetischen Ladestecker auf der Unterseite. Das Tablet hat einen regulären USB-C Anschluss. Mit dem mitgelieferten Ladekabeln und Steckdosennetzteil kann das komplette System in 2,5 Stunden aufgeladen werden.
 
