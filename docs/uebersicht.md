@@ -63,7 +63,7 @@ Die Basisstation dient ausschließlich zur Ermittlung der GNSS-Korrekturdaten un
 
 ## Kalibriertool
 <p align="center" width="100%">
-  <img width="75%" src="/images/Caltool1.png"/>
+  <img width="75%" src="/images/CalTool1.png"/>
 </p>
 
 Das Kalibriertool dient als Hilfe bei der Vermessung und Kalibrierung des Löffels.
