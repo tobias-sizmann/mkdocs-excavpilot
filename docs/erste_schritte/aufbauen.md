@@ -15,7 +15,10 @@ Bitte beachten Sie beim Aufstellen der Basisstation folgende Richtlinien:
 * Die Basisstation muss auf festem Untergrund platziert werden.
 
 !!! warning "Vorsicht bei Standortwahl"
-    Gehen Sie bei der Wahl eines geeigneten Standorts besonders sorgsam vor und wählen Sie eine möglichst freie Position. Denn auch höhere Bäume oder Häuser im Radius von 15 Metern um die Basisstation können die Kommunikation beeinträchtigen.
+    Gehen Sie bei der Wahl eines geeigneten Standorts besonders sorgsam vor und wählen Sie eine möglichst freie Position. Denn auch höhere Bäume oder Häuser im Radius von 15 Metern um die Basisstation können die Kommunikation beeinträchtigen. 
+
+!!! danger "Kran auf der Baustelle"
+    Besonders problematisch für die Qualität der Korrekturdaten ist ein größerer, aktiver Kran auf der Baustelle (d.h. er ändert seine Position regelmäßig). Unter Umständen kann in diesem Fall nicht mit dem System gearbeitet werden.
 
 !!! danger "Vorsicht vor weichem Untergrund"
     Beim Platzieren der Basisstation auf weichem Untergrund kann es passieren, dass sich die Position der Basisstation während der Arbeiten durch Absinken des Stativs verändert. Dies hat zur Folge, dass sich alle erstellten Punkte/Ebenen um die selbe Abweichung verschieben. Folglich sind alle nachfolgenden Arbeiten fehlerhaft.
@@ -31,7 +34,7 @@ Schalten Sie das Anzeigekreuz an, indem Sie den Knopf auf der Rückseite des Geh
 Befestigen Sie das Anzeigekreuz anschließend mit den angebrachten Magneten auf mittlerer Höhe an der zur Fahrerkabine zeigenden Seite des Baggerarms. Achten Sie hierbei auf gute Sichtbarkeit aus der Fahrerkabine. 
 
 !!! info "WLAN"
-    Das Anzeigekreuz dient nicht nur der visuellen Unterstützung, sondern spannt auch das WLAN-Netz für das Tablet auf. Zusätzlich wird über das Anzeigekreuz ein zweiter Kommunikationskanal zwischen Sensor und Basisstation bereitgestellt, sollte die Verbindungsqualität durch z.B. Ausschachtungsarbeiten beeinträchtigt sein. 
+    Das Anzeigekreuz dient nicht nur der visuellen Unterstützung, sondern spannt auch das WLAN-Netz für das Tablet auf. Zusätzlich wird über das Anzeigekreuz ein zweiter Kommunikationskanal zwischen Sensor und Basisstation bereitgestellt, sollte die Verbindungsqualität durch z.B. Ausschachtungsarbeiten beeinträchtigt sein. Entsprechend kann es bei tieferen Arbeiten Abhilfe schaffen, das Anzeigekreuz weiter oben am Baggerstil zu montieren. 
 
 
 ## Sensor anbringen
@@ -46,12 +49,15 @@ Befestigen Sie den Sensor an der Baggerschaufel. Beachten Sie dabei bitte folgen
 * Der Pfeil auf der Oberseite des Sensors muss zur Fahrerkabine zeigen.
 * Die Hinterkante des Sensors muss parallel zur Schaufelschneide verlaufen.
 * Der Sensor darf nicht durch Hydraulik oder überstehende Bleche verdeckt werden.
-* Der Sensor sollte auf einem möglichst geschützten Bereich an des Löffels befestigt werden.
+* Der Sensor sollte auf einem möglichst geschützten Bereich am Löffels befestigt werden.
+
+!!! danger "Löffel bzw. Schaufel an der Anbringstelle ordentlich säubern"
+    Der Löffel bzw. die Schaufel muss an der Anbringstelle des Sensors sauber sein, sodass die Magneten direkt das Metall berühren und keine Dreckschicht dazwischen liegt. Auch wenn diese nur aus etwas Sand besteht, kann dies die Magnetstärke signifikant beeinträchtigen. 
 
 !!! danger "Sensor sorgfältig anbringen"
     Sowohl das Anbringen des Sensors als auch das im nächsten Kapitel beschriebene Einmessen des Löffels sind von äußerster Wichtigkeit. Ist die Einrichtung des Sensors fehlerhaft, so kann dies die Qualität der darauffolgenden Arbeiten nachhaltig beeinträchtigen.
 
-Die richtige Anbringung des Sensors auf der Baggerschaufel ist entscheidend für gute Ergebnisse und lässt sich rein textbasiert nicht ganz trivial beschreiben. Wir empfehlen daher, dass Sie sich auch mithilfe der grafischen Anleitung in der App unter “Home => Videoanleitung” informieren.
+Die richtige Anbringung des Sensors auf der Baggerschaufel ist entscheidend für gute Ergebnisse und lässt sich rein textbasiert nicht ganz trivial beschreiben. Wir empfehlen daher, dass Sie sich auch mithilfe der grafischen Anleitung in unserem [youtube Video](https://youtu.be/dZmhDPmHHl0?t=162){:target="_blank"} informieren (auch in der App abspielbar).
 
 ## Tablet und Halterung im Fahrerhaus anbringen
 ![Tablethalterung](tablet_empty.png)
