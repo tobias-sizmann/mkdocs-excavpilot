@@ -1,7 +1,7 @@
 ## Referenzpunkt neu setzen
-![Referenzpunkt setzen Button](setref_pt.png)
+![Referenzpunkt setzen Button](../images_funktionen/setref_pt.png)
 
-![Referenzpunkt setzen Screen](set_refpt_screen.png)
+![Referenzpunkt setzen Screen](../images_funktionen/set_refpt_screen.png)
 
 Diese Funktion erlaubt eine Neuermittlung des Referenzpunkts. 
 
