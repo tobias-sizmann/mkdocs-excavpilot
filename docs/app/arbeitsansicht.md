@@ -1,15 +1,25 @@
 # Arbeitsansicht
-![Arbeitsansicht](arbeitsansicht_in_frame.png)
+<!-- ![Arbeitsansicht](Workscreen.png) -->
+<p align="center" width="100%">
+  <img width="50%" src="/app/Workscreen.png"/>
+</p>
 
-Nach erfolgreicher Kalibrierung Ihres Systems gelangen Sie automatisch in die Arbeitsansicht, die Ihnen Informationen über die Positionierung des Baggerlöffels im Raum und in Bezug zur Planierfläche bietet und Sie bei Ihren Arbeiten visuell unterstützt.
+
+Nach erfolgreicher Kalibrierung des Systems gelangen Sie automatisch in die Arbeitsansicht, die Ihnen Informationen über die Position des Löffels im Raum und in Bezug zur Planierfläche bietet und Sie bei Ihren Arbeiten visuell unterstützt.
 
 ## Batterieanzeige von Anzeige, Basis und Sensor
-![Batterie](battery.png)
+<!-- ![Batterie](battery.png) -->
+<p align="center" width="100%">
+  <img width="100%" src="/app/battery.png"/>
+</p>
 
-Die Kopfleiste der Arbeitsansicht zeigt den aktuellen Akkustand der Anzeige, der Basisstation und des Sensors an. Achten Sie idealerweise darauf, dass die Akkustände nicht unter 10% fallen, da sich dies insbesondere bei Sensor und Basisstation negativ auf die Performanz auswirken kann. Eine volle Akkuladung reicht circa acht Stunden. Die Ladezeit beläuft sich in etwa auf vier Stunden. 
+Die Kopfleiste der Arbeitsansicht zeigt den aktuellen Akkustand der Anzeige, der Basisstation und des Sensors an. Achten Sie idealerweise darauf, dass die Akkustände nicht unter 10% fallen, da sich dies insbesondere bei Sensor und Basisstation negativ auf die Performanz auswirken kann. Eine volle Akkuladung reicht ca. 20 Stunden. Die Ladezeit beläuft sich in etwa auf 2,5 Stunden. 
 
-## Frontalansicht - Baggerlöffel in Bezug zur Planierfläche
-![Frontalansicht](top_left.png)
+## Frontalansicht - Löffel in Bezug zur Planierfläche
+<!-- ![Frontalansicht](top_left.png) -->
+<p align="center" width="100%">
+  <img width="50%" src="/app/top_left.png"/>
+</p>
 
 Die linke obere Box in der Arbeitsansicht visualisiert den Baggerlöffel in einer 2D-Frontalansicht:
 
@@ -19,7 +29,10 @@ Die linke obere Box in der Arbeitsansicht visualisiert den Baggerlöffel in eine
 * Braun eingefärbt ist die von Ihnen erstellte Planierfläche (Soll-Fläche). Sollten Sie noch keine eigene Fläche erstellt haben  ([Flächenerstellungen](https://docs.excav.de/app/funktionen/flaeche/)), dann wird standardmäßig eine Parallele zur Horizontalen auf Höhe des Referenzpunktes gezogen.
 
 ## Seitenansicht - Baggerlöffel in Bezug zur Planierfläche
-![Seitenansicht](top_right.png)
+<!-- ![Seitenansicht](top_right.png) -->
+<p align="center" width="100%">
+  <img width="50%" src="/app/top_right.png"/> 
+</p>
 
 Die rechte obere Box in der Arbeitsansicht visualisiert den Baggerlöffel in einer 2D-Seitenansicht:
 
@@ -28,7 +41,10 @@ Die rechte obere Box in der Arbeitsansicht visualisiert den Baggerlöffel in ein
 * Die Zielfläche, also mit dem von Ihnen eingestellten Versatz zur eingemessenen Fläche, wird braun dargestellt. Sollten Sie noch keine eigene Fläche erstellt haben ([Flächenerstellungen](https://docs.excav.de/app/funktionen/flaeche/)), dann wird standardmäßig eine Parallele zur Horizontalen auf Höhe des Referenzpunktes gezogen.
 
 ## Draufsicht Baustelle / Bauplan
-![Draufsicht Baustelle](construction_site_view.png)
+<!-- ![Draufsicht Baustelle](construction_site_view.png) -->
+<p align="center" width="100%">
+  <img width="75%" src="/app/MapScreen.png"/> 
+</p>
 
 Die Draufsicht auf die Baustelle informiert Sie über die Position des Baggerlöffels in Bezug zum Referenzpunkt (REF) und den von Ihnen erfassten Punkten auf der Baustelle. Der graue horizontale Strich stellt den Löffel dar, wobei die Länge des Strichs der eingegebenen Löffelbreite entspricht. Zudem zeigt der rot gekennzeichnete Vektor N stets Richtung Norden.
 

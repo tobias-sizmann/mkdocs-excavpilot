@@ -14,14 +14,22 @@ Unter "Startmenü => Videoanleitung" finden Sie eine ausführliche [Videoanleitu
   <img width="50%" src="/erste_schritte/assistant_con_devices.png"/>
 </p>
 
+
 Bevor Sie mit der Konfiguration des Systems starten können, müssen Basisstation, Anzeige und der Sensor verbunden sein. Sollte die Verbindung eines oder mehrerer Geräte fehlschlagen, prüfen Sie bitte zuerst den Akkustand und ob die entsprechenden Geräte eingeschaltet sind. Versuchen Sie bei dennoch anhaltenden Verbindungsproblemen die Geräte näher zusammenzubringen.
+
+## Arbeitsplatz anlegen/laden
+<p align="center" width="100%">
+  <img width="50%" src="/erste_schritte/AnlegenLaden_Arbeitsplatz.png"/>
+</p>
+
+Um einen neuen Arbeitsplatz anzulegen, wählen Sie "Neuer Arbeitsplatz". Sie können hier auch einen bereits angelegten Arbeitsplatz laden. Das Laden eines Arbeitsplatzes wird unter [App/Funktionen/Arbeitsplatz](https://docs.excav.de/app/funktionen/uebersicht/).
 
 ## Baumaschine wählen
 <p align="center" width="100%">
   <img width="50%" src="/erste_schritte/assistant_select_machine.png"/>
 </p>
 
-Wählen Sie hier die Baumaschine aus, an der Sie den PILOT anbringen wollen. Die Einrichtung bleibt unabhängig von der Schaufelwahl gleich.
+Wählen Sie hier die Baumaschine aus, an der Sie den PILOT anbringen wollen. Der Einrichtungsprozess läuft für jede Maschine gleich ab. Einzig der Messstab wird direkt geladen und bedarf keiner weiteren Kalibrierung. 
 
 ## Schaufel vermessen
 <!-- ![Schaufel vermessen](assistant_cal_shovel.png) -->
