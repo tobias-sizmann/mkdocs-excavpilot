@@ -1,1 +1,1 @@
-![Funktionsübersicht](funktionen_in_frame.png)
+![Funktionsübersicht](../images_funktionen/funktionen_in_frame.png)

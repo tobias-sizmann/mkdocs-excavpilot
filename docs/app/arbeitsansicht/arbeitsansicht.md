@@ -1,7 +1,7 @@
 # Arbeitsansicht
 <!-- ![Arbeitsansicht](Workscreen.png) -->
 <p align="center" width="100%">
-  <img width="50%" src="/app/Workscreen.png"/>
+  <img width="50%" src="/app/arbeitsansicht/images_arbeitsansicht/tablet_Workscreen.png"/>
 </p>
 
 
@@ -10,7 +10,7 @@ Nach erfolgreicher Kalibrierung des Systems gelangen Sie automatisch in die Arbe
 ## Batterieanzeige von Anzeige, Basis und Sensor
 <!-- ![Batterie](battery.png) -->
 <p align="center" width="100%">
-  <img width="100%" src="/app/battery.png"/>
+  <img width="100%" src="/app/arbeitsansicht/images_arbeitsansicht/battery.png"/>
 </p>
 
 Die Kopfleiste der Arbeitsansicht zeigt den aktuellen Akkustand der Anzeige, der Basisstation und des Sensors an. Achten Sie idealerweise darauf, dass die Akkustände nicht unter 10% fallen, da sich dies insbesondere bei Sensor und Basisstation negativ auf die Performanz auswirken kann. Eine volle Akkuladung reicht ca. 20 Stunden. Die Ladezeit beläuft sich in etwa auf 2,5 Stunden. 
@@ -18,20 +18,20 @@ Die Kopfleiste der Arbeitsansicht zeigt den aktuellen Akkustand der Anzeige, der
 ## Frontalansicht - Löffel in Bezug zur Planierfläche
 <!-- ![Frontalansicht](top_left.png) -->
 <p align="center" width="100%">
-  <img width="50%" src="/app/top_left.png"/>
+  <img width="50%" src="/app/arbeitsansicht/images_arbeitsansicht/top_left.png"/>
 </p>
 
 Die linke obere Box in der Arbeitsansicht visualisiert den Baggerlöffel in einer 2D-Frontalansicht:
 
 * Das graue Rechteck stellt den Löffel dar, wobei die Seitenverhältnisse der Eingaben von Höhe und Breite bei der Vermessung entsprechen. 
-* Der rote Punkt an der unteren rechten Ecke des Löffels zeigt die zum Abtasten von Punkten ausgewählte Löffelecke. 
+* Der rote Punkt an der unteren rechten Ecke des Löffels zeigt die ausgewählte Löffelecke. Von diesem Punkt aus wird der Abstand zur Fläche berechnet.  
 * Der grüne Strich zeigt die Höhe der erstellten Fläche ohne Versatz an (Ist-Fläche). Er ist nur sichtbar, wenn ein [Versatz](https://docs.excav.de/app/funktionen/flaeche #hohenversatz-der-planierflache-wahlen) angesetzt wurde.
 * Braun eingefärbt ist die von Ihnen erstellte Planierfläche (Soll-Fläche). Sollten Sie noch keine eigene Fläche erstellt haben  ([Flächenerstellungen](https://docs.excav.de/app/funktionen/flaeche/)), dann wird standardmäßig eine Parallele zur Horizontalen auf Höhe des Referenzpunktes gezogen.
 
 ## Seitenansicht - Baggerlöffel in Bezug zur Planierfläche
 <!-- ![Seitenansicht](top_right.png) -->
 <p align="center" width="100%">
-  <img width="50%" src="/app/top_right.png"/> 
+  <img width="50%" src="/app/arbeitsansicht/images_arbeitsansicht/top_right.png"/> 
 </p>
 
 Die rechte obere Box in der Arbeitsansicht visualisiert den Baggerlöffel in einer 2D-Seitenansicht:
@@ -43,7 +43,7 @@ Die rechte obere Box in der Arbeitsansicht visualisiert den Baggerlöffel in ein
 ## Draufsicht Baustelle / Bauplan
 <!-- ![Draufsicht Baustelle](construction_site_view.png) -->
 <p align="center" width="100%">
-  <img width="75%" src="/app/MapScreen.png"/> 
+  <img width="75%" src="/app/arbeitsansicht/images_arbeitsansicht/MapScreen.png"/> 
 </p>
 
 Die Draufsicht auf die Baustelle informiert Sie über die Position des Baggerlöffels in Bezug zum Referenzpunkt (REF) und den von Ihnen erfassten Punkten auf der Baustelle. Der graue horizontale Strich stellt den Löffel dar, wobei die Länge des Strichs der eingegebenen Löffelbreite entspricht. Zudem zeigt der rot gekennzeichnete Vektor N stets Richtung Norden.

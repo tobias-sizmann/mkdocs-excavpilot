@@ -9,25 +9,25 @@ Dies ist eine schnelle Übersicht der im Koffer befindlichen Systemteile und der
 
 <!-- ![Systemübersicht](./images/systemuebersicht_grau.png) -->
 <p align="center" width="100%">
-  <img width="100%" src="/images/systemübersicht_new.png"/>
+  <img width="100%" src="/geräteübersicht/images_geräteübersicht/systemübersicht_new.png"/>
 </p>
 
 ## Koffer
 <p align="center" width="100%">
-  <img width="80%" src="\images\Koffer_links.png"/>
+  <img width="80%" src="/geräteübersicht/images_geräteübersicht/Koffer_links.png"/>
 </p>
 Das System wird mit einem stabilen Koffer ausgeliefert. Der An- und Abtransport des Systems zur und von der Baustelle ist so sicher möglich. 
 
 ## Sensor
 <p align="center" width="100%">
-  <img width="40%" src="\images\Sensor_ObenVogel_KH.png"/>
+  <img width="40%" src="/geräteübersicht/images_geräteübersicht/Sensor_ObenVogel_KH.png"/>
 </p>
 Der Sensor ermittelt über ein GNSS-Modul und weitere Sensoren die Position, Ausrichtung und Neigung des Löffels und errechnet daraus die Steuerempfehlungen für den Baggerfahrer. Entsprechend ist eine präzise Anbringung und Vermessung während der Einrichtung des Systems essentiell für die Qualität der Ergebnisse.
 
 
 ## LED-Anzeigekreuz
 <p align="center" width="100%">
-  <img width="40%" src="\images\Kreuz_Oben_KeinHintergrund.png"/>
+  <img width="40%" src="/geräteübersicht/images_geräteübersicht/Kreuz_Oben_KeinHintergrund.png"/>
 </p>
 
 Das LED-Anzeigekreuz wird am Stiel oberhalb des Löffels montiert und bietet eine visuelle Unterstützung bei der Erfassung der Löffelposition in Relation zur Planierfläche. 
@@ -45,7 +45,7 @@ Der horizontale LED-Strang informiert über die Abweichung der frontalen Löffel
 
 ## Tablet 
 <p align="center" width="100%">
-  <img width="35%" src="/app/arbeitsansicht_in_frame.png"/>
+  <img width="35%" src="/geräteübersicht/images_geräteübersicht/arbeitsansicht_in_frame.png"/>
 </p>
 
 
@@ -54,7 +54,7 @@ Das Tablet visualisiert die vom Sensor ermittelten Raumdaten von Löffel und Pla
 
 ## Basisstation
 <p align="center" width="100%">
-  <img width="40%" src="/images/Sensor_Seitlich_KH.png"/>
+  <img width="40%" src="/geräteübersicht/images_geräteübersicht/Sensor_Seitlich_KH.png"/>
 </p>
 
 
@@ -63,7 +63,7 @@ Die Basisstation dient ausschließlich zur Ermittlung der GNSS-Korrekturdaten un
 
 ## Kalibriertool
 <p align="center" width="100%">
-  <img width="75%" src="/images/CalTool1.png"/>
+  <img width="75%" src="/geräteübersicht/images_geräteübersicht/CalTool1.png"/>
 </p>
 
 Das Kalibriertool dient als Hilfe bei der Vermessung und Kalibrierung des Löffels.
@@ -71,14 +71,14 @@ Das Kalibriertool dient als Hilfe bei der Vermessung und Kalibrierung des Löffe
 
 ## Messstab
 <p align="center" width="100%">
-  <img width="60%" rotate="45deg" src="/images/Messstab.png"/>
-  <img width="16%" rotate="45deg" src="/images/Messstab3.png"/>
+  <img width="60%" rotate="45deg" src="/geräteübersicht/images_geräteübersicht/Messstab.png"/>
+  <img width="16%" rotate="45deg" src="/geräteübersicht/images_geräteübersicht/Messstab3.png"/>
 </p>
 Mit dem Messstab ist es besonders einfach Punkte auf der Baustelle einzulesen. Der Sensor wird an der Oberseite des Messstabs angebracht. Mithilfe der Tablethalterung kann auch das Tablet seitlich am Messstab mitgeführt werden.
 
 ## Aufladen
 <p align="center" width="100%">
-  <img width="75%" src="/images/LadeStecker.png"/>
+  <img width="75%" src="/geräteübersicht/images_geräteübersicht/LadeStecker.png"/>
 </p>
 Der Sensor, die Anzeige und die Basis verfügen über einen magnetischen Ladestecker auf der Unterseite. Das Tablet hat einen regulären USB-C Anschluss. Mit dem mitgelieferten Ladekabeln und Steckdosennetzteil kann das komplette System in 2,5 Stunden aufgeladen werden.
 

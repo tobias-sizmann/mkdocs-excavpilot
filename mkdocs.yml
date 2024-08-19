@@ -26,22 +26,39 @@ plugins:
 
 nav:
   - Start: index.md
-  - Geräteübersicht: uebersicht.md
+  - Geräteübersicht: geräteübersicht/geraeteuebersicht.md
   - Erste Schritte:
-    - Aufbauen und Anbringen: erste_schritte/aufbauen.md
-    - System einrichten: erste_schritte/einrichten.md
-    - Erste Fläche abziehen: erste_schritte/flaeche.md
+    - Aufbauen und Anbringen: erste_schritte/aufbauen_und_anbringen.md
+    - System einrichten: erste_schritte/system_einrichten.md
+    - Erste Fläche abziehen: erste_schritte/erste_flaeche_abziehen.md
   - App:
-    - Einrichtungsassistent: app/einrichtungsassistent.md
-    - Arbeitsansicht: app/arbeitsansicht.md
+    - Einrichtungsassistent: app/einrichtungsassistent/einrichtungsassistent.md
+    - Arbeitsansicht: app/arbeitsansicht/arbeitsansicht.md
     - Funktionen:
       - Übersicht: app/funktionen/uebersicht.md
-      - Punkte und Strecken: app/funktionen/punkte.md
-      - Flächen: app/funktionen/flaeche.md
-      - Bauplan: app/funktionen/bauplan.md
-      - Löffeleinstellungen: app/funktionen/schaufeleinstellungen.md
-      - Sonstige Einstellungen: app/funktionen/einstellungen.md
-      - Protokoll und Status: app/funktionen/protokoll_status.md
+      - Punkte und Flächen: 
+         - Punkte erfassen: app/funktionen/punkte_und_flächen/punkte_erfassen.md
+         - Punkte löschen: app/funktionen/punkte_und_flächen/punkte_loeschen.md
+         - Strecke ziehen: app/funktionen/punkte_und_flächen/strecke_ziehen.md
+         - Strecke löschen: app/funktionen/punkte_und_flächen/strecke_loeschen.md
+         - Fläche mit 3 Punkten: app/funktionen/punkte_und_flächen/flaeche_3_pt.md
+         - Fläche mit 2 Punkten und Steigung: app/funktionen/punkte_und_flächen/flaeche_2_pt.md
+         - Fläche mit Punkt, Richtung und Steigung: app/funktionen/punkte_und_flächen/flaeche_1_pt.md
+         - Fläche Horizontal: app/funktionen/punkte_und_flächen/flaeche_0_pt.md
+         - Polyeder erstellen: app/funktionen/punkte_und_flächen/polyeder_erstellen.md
+      - Arbeitseinstellungen:
+         - Werkzeug speichern: app/funktionen/arbeitseinstellungen/werkzeug_speichern.md
+         - Werkzeug laden: app/funktionen/arbeitseinstellungen/werkzeug_laden.md
+         - Arbeitsplatz speichern: app/funktionen/arbeitseinstellungen/arbeitsplatz_speichern.md
+         - Arbeitsplatz laden: app/funktionen/arbeitseinstellungen/arbeitsplatz_laden.md
+         - Werkzeugecke wechseln: app/funktionen/arbeitseinstellungen/werkzeugecke_wechseln.md
+         - Höhenversatz wählen: app/funktionen/arbeitseinstellungen/hoehenversatz_waehlen.md
+         - Referenzpunkt neu setzen: app/funktionen/arbeitseinstellungen/set_ref_pt.md
+         - Bauplan laden: app/funktionen/arbeitseinstellungen/bauplan_laden.md
+      - Sonstige Einstellungen:
+         - Einstellungen Anzeigekreuz: app/funktionen/sonstige_einstellungen/einstellungen_anzeigekreuz.md
+         - Hilfe/ Status prüfen: app/funktionen/sonstige_einstellungen/hilfe_status_pruefen.md
+         - System ausschalten: app/funktionen/sonstige_einstellungen/system_ausschalten.md
   - Häufige Fragen: faqs.md
   - Fehlerbehebung: fehlerbehebung.md
 
