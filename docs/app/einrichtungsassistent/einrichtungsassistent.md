@@ -1,1 +1,1 @@
-Der Einrichtungsassistent ist unter [Erste Schritte -> System Einrichten](https://docs.excav.de/erste_schritte/einrichten/) beschrieben.
+Der Einrichtungsassistent ist unter [Erste Schritte -> System Einrichten](https://docs.excav.de/erste_schritte/system_einrichten/) beschrieben.

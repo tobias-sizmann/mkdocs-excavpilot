@@ -3,9 +3,10 @@
 Ein Live-Beispiel zum Aufbauen und Einrichten des Systems finden Sie auch in unserer [Videoanleitung](https://www.youtube.com/watch?v=dZmhDPmHHl0){:target="_blank"} (auch in der App abspielbar).
 
 ## Basisstation aufstellen
-![Basis richtig](images_erste_schritte/base_correct.png)
-![Basis falsch](images_erste_schritte/base_wrong.png)
-![Basis falsch2](images_erste_schritte/base_wrong2.png)
+
+![Basis falsch](images_erste_schritte/Basis_Baum_Falsch_518.jpg)
+![Basis falsch2](images_erste_schritte/Basis_Wand_Falsch_518.jpg)
+![Basis richtig](images_erste_schritte/Basis_Richtig.jpg)
 
 Bitte beachten Sie beim Aufstellen der Basisstation folgende Richtlinien:
 
