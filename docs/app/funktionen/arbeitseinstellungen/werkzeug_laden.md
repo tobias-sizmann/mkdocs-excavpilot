@@ -1,2 +1,4 @@
 ## Werkzeug laden
 ![Werkzeug laden](../images_funktionen/WerkzeugLaden.png)
+
+Mit der Funktion "Werkzeug laden" können Sie bereits einmal erstelle Löffel und/oder Schaufeln erneut laden (ohne eine erneute Kalibrierung durchführen zu müssen) oder auf den Messstab wechseln. Dieser ist standardmäßig als Werkzeug hinterlegt. Beachten Sie bitte, dass Ihre Werkzeuge nur lokal in Ihrem [Arbeitsplatz](https://docs.excav.de/app/funktionen/arbeitseinstellungen/arbeitsplatz_laden/) gespeichert sind. D.h. Sie müssen zuerst den entsprechenden Arbeitsplatz laden, bevor Ihnen in diesem Projekt abgelegte Werkzeuge angezeigt werden. 
