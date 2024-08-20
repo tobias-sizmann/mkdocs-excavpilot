@@ -17,15 +17,15 @@ In dieser Bedienungsanleitung wird wie folgt auf wichtige Informationen, Warnung
 
 ### Geräteübersicht
 
-In der [Geräteübersicht](https://docs.excav.de/uebersicht/) wird die gesamte Hardware inklusive aller technischen Daten erläutert.
+In der [Geräteübersicht](https://docs.excav.de/geräteübersicht/geraeteuebersicht/) wird die gesamte Hardware inklusive aller technischen Daten erläutert.
 
 ### Erste Schritte
 
-Falls Sie das System zum ersten Mal in Betrieb nehmen, starten Sie am Besten im Reiter [Erste Schritte](https://docs.excav.de/erste_schritte/aufbauen/). Wir empfehlen Ihnen zudem, sich ausführlich unsere [Videoanleitung](https://www.youtube.com/watch?v=dZmhDPmHHl0){:target="_blank"} anzusehen. 
+Falls Sie das System zum ersten Mal in Betrieb nehmen, starten Sie am Besten im Reiter [Erste Schritte](https://docs.excav.de/erste_schritte/aufbauen_und_anbringen/). Wir empfehlen Ihnen zudem, sich ausführlich unsere [Videoanleitung](https://www.youtube.com/watch?v=dZmhDPmHHl0){:target="_blank"} anzusehen. 
 
 ### App
 
-Nach erfolgreicher Inbetriebnahme finden Sie im Reiter [Arbeitsansicht](https://docs.excav.de/app/arbeitsansicht/) alle Erläuterungen zur App sowie deren Einstellungsmöglichen.
+Nach erfolgreicher Inbetriebnahme finden Sie im Reiter [Arbeitsansicht](https://docs.excav.de/app/arbeitsansicht/arbeitsansicht/) alle Erläuterungen zur App sowie deren Einstellungsmöglichen.
 
 
 

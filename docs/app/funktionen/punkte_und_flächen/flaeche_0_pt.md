@@ -3,4 +3,4 @@
 
 ![Horizontale Fläche Screen](../images_funktionen/0pt_plane_screen.png)
 
-Mit dieser Funktion können Sie eine Fläche (Ihre gewünschte Planierfläche) mit Hilfe eines von Ihnen ausgewählten [Punktes](https://docs.excav.de/app/funktionen/punkte/) erschaffen. Für die Flächenberechnung wird lediglich die Höhe des ausgewählten Punktes herangezogen. Auf Basis dieser Höhe wird dann eine parallele Ebene zur Horizontalen geschaffen.
+Mit dieser Funktion können Sie eine Fläche (Ihre gewünschte Planierfläche) mit Hilfe eines von Ihnen ausgewählten [Punktes](https://docs.excav.de/app/funktionen/punkte_und_flächen/punkte_erfassen/) erschaffen. Für die Flächenberechnung wird lediglich die Höhe des ausgewählten Punktes herangezogen. Auf Basis dieser Höhe wird dann eine parallele Ebene zur Horizontalen geschaffen.

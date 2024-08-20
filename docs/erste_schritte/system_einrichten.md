@@ -4,9 +4,9 @@
   <img width="50%" src="/erste_schritte/images_erste_schritte/assistant_start.png"/>
 </p>
 
-Lesen Sie sich bitte die folgenden Unterpunkte sorgfältig durch und starten Sie anschließend die excav PILOT App. Dort finden Sie unter “Startmenü => Einrichtungsassistent" ein geführtes Menü zur Kalibrierung Ihres Systems. Vergewissern Sie sich bitte davor, dass die einzelnen Geräte gemäß des vorherigen Abschnitts [Aufbauen und Anbringen](https://docs.excav.de/erste_schritte/aufbauen/) richtig aufgestellt bzw. an Baggerarm und Löffel befestigt wurden. 
+Lesen Sie sich bitte die folgenden Unterpunkte sorgfältig durch und starten Sie anschließend die excav PILOT App. Dort finden Sie unter “Startmenü => Einrichtungsassistent" ein geführtes Menü zur Kalibrierung Ihres Systems. Vergewissern Sie sich bitte davor, dass die einzelnen Geräte gemäß des vorherigen Abschnitts [Aufbauen und Anbringen](https://docs.excav.de/erste_schritte/aufbauen_und_anbringen/) richtig aufgestellt bzw. an Baggerarm und Löffel befestigt wurden. 
 
-Unter "Startmenü => Videoanleitung" finden Sie eine ausführliche [Videoanleitung](https://www.youtube.com/watch?v=dZmhDPmHHl0){:target="_blank"}, in der ein komplettes Setup durchgeführt und erklärt wird. Wir raten Erstnutzern dringend, bei der Systemeinrichtung auf die Videoanleitung zurückzugreifen und den nachstehenden Leitfaden nur unterstützend zu verstehen.
+Es gibt eine ausführliche [Videoanleitung](https://www.youtube.com/watch?v=dZmhDPmHHl0){:target="_blank"} auf youtube (auch in der App abspielbar), in der ein komplettes Setup durchgeführt und erklärt wird. Wir raten Erstnutzern dringend, bei der Systemeinrichtung auf die Videoanleitung zurückzugreifen und den nachstehenden Leitfaden nur unterstützend zu verstehen.
 
 ## Geräte verbinden
 <!-- ![Verbundene Geräte](assistant_con_devices.png) -->
@@ -22,7 +22,7 @@ Bevor Sie mit der Konfiguration des Systems starten können, müssen Basisstatio
   <img width="50%" src="/erste_schritte/images_erste_schritte/AnlegenLaden_Arbeitsplatz.png"/>
 </p>
 
-Um einen neuen Arbeitsplatz anzulegen, wählen Sie "Neuer Arbeitsplatz". Sie können hier auch einen bereits angelegten Arbeitsplatz laden. Das Laden eines Arbeitsplatzes wird unter [App/Funktionen/Arbeitsplatz](https://docs.excav.de/app/funktionen/uebersicht/).
+Um einen neuen Arbeitsplatz anzulegen, wählen Sie "Neuer Arbeitsplatz". Sie können hier auch einen bereits angelegten Arbeitsplatz laden. Das Laden eines Arbeitsplatzes wird [hier](https://docs.excav.de/app/funktionen/arbeitseinstellungen/arbeitsplatz_laden/) beschrieben.
 
 ## Baumaschine wählen
 <p align="center" width="100%">

@@ -1,9 +1,9 @@
 # Sonstige Einstellungen 
 
 ## Einstellungen des Anzeigekreuzes
-![Anzeige Einstellungen Button](indicator_settings.png)
+![Anzeige Einstellungen Button](../images_funktionen/indicator_settings.png)
 
-![Anzeige Einstellungen Screen](indicator_settings_screen.png)
+![Anzeige Einstellungen Screen](../images_funktionen/indicator_settings_screen.png)
 
 Die Einstellungen des Anzeigekreuzes erlauben es Ihnen die Helligkeit der LEDs festzulegen und Anpassungen der horizontalen sowie vertikalen Ausschlagssensibilität vorzunehmen. Die Standardeinstellungen sind: 
 
