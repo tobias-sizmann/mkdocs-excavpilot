@@ -43,12 +43,12 @@ Befestigen Sie das Anzeigekreuz anschließend mit den angebrachten Magneten auf 
 
 Schalten Sie den Sensor ein, indem Sie den Knopf auf der Unterseite des Gehäuses drücken. Ein grün leuchtender Knopf bedeutet, dass der Sensor eingeschaltet ist.
 
-Befestigen Sie den Sensor an der Baggerschaufel. Beachten Sie dabei bitte folgende Richtlinien:
+Befestigen Sie den Sensor am Löffel. Beachten Sie dabei bitte folgende Richtlinien:
 
-* Der Sensor sollte möglichst weit außen auf der von der Fahrerkabine aus gesehen rechten oberen Seite der Schaufel befestigt werden.
+* Der Sensor sollte möglichst weit außen auf der von der Fahrerkabine aus gesehen rechten oberen Seite des Löffels befestigt werden.
 * Der Sensor darf nicht über den Rand des Löffels hinausragen.
 * Der Pfeil auf der Oberseite des Sensors muss zur Fahrerkabine zeigen.
-* Die Hinterkante des Sensors muss parallel zur Schaufelschneide verlaufen.
+* Die Hinterkante des Sensors muss parallel zur Löffelschneide verlaufen.
 * Der Sensor darf nicht durch Hydraulik oder überstehende Bleche verdeckt werden.
 * Der Sensor sollte auf einem möglichst geschützten Bereich am Löffels befestigt werden.
 
@@ -56,7 +56,7 @@ Befestigen Sie den Sensor an der Baggerschaufel. Beachten Sie dabei bitte folgen
     Der Löffel bzw. die Schaufel muss an der Anbringstelle des Sensors sauber sein, sodass die Magneten direkt das Metall berühren und keine Dreckschicht dazwischen liegt. Auch wenn diese nur aus etwas Sand besteht, kann dies die Magnetstärke signifikant beeinträchtigen. 
 
 !!! danger "Sensor sorgfältig anbringen"
-    Sowohl das Anbringen des Sensors als auch das im nächsten Kapitel beschriebene Einmessen des Löffels sind von äußerster Wichtigkeit. Ist die Einrichtung des Sensors fehlerhaft, so kann dies die Qualität der darauffolgenden Arbeiten nachhaltig beeinträchtigen.
+    Sowohl das Anbringen des Sensors als auch das im nächsten Kapitel beschriebene Einmessen des Löffels sind von äußerster Wichtigkeit. Ist die Einrichtung des Sensors fehlerhaft, so kann dies die Qualität der darauffolgenden Arbeiten nachhaltig reduzieren.
 
 Die richtige Anbringung des Sensors auf der Baggerschaufel ist entscheidend für gute Ergebnisse und lässt sich rein textbasiert nicht ganz trivial beschreiben. Wir empfehlen daher, dass Sie sich auch mithilfe der grafischen Anleitung in unserem [youtube Video](https://youtu.be/dZmhDPmHHl0?t=162){:target="_blank"} informieren (auch in der App abspielbar).
 

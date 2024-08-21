@@ -25,7 +25,7 @@ Falls Sie das System zum ersten Mal in Betrieb nehmen, starten Sie am Besten im 
 
 ### App
 
-Nach erfolgreicher Inbetriebnahme finden Sie im Reiter [Arbeitsansicht](https://docs.excav.de/app/arbeitsansicht/arbeitsansicht/) alle Erläuterungen zur App sowie deren Einstellungsmöglichen.
+Nach erfolgreicher Inbetriebnahme finden Sie im Reiter [Arbeitsansicht](https://docs.excav.de/app/arbeitsansicht/arbeitsansicht/) sowie im Reiter [Funktionen](https://docs.excav.de/app/funktionen/uebersicht/) alle Erläuterungen zur App sowie deren Einstellungsmöglichen.
 
 
 

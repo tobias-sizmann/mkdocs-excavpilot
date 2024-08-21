@@ -45,7 +45,7 @@ Der horizontale LED-Strang informiert über die Abweichung der frontalen Löffel
 
 ## Tablet 
 <p align="center" width="100%">
-  <img width="35%" src="/geräteübersicht/images_geräteübersicht/arbeitsansicht_in_frame.png"/>
+  <img width="35%" src="/geräteübersicht/images_geräteübersicht/tablet_Workscreen.png"/>
 </p>
 
 
