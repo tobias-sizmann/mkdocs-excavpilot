@@ -1,7 +1,7 @@
 # System einrichten
 <!-- ![Startbildschirm](assistant_start.png) -->
 <p align="center" width="100%">
-  <img width="50%" src="/erste_schritte/images_erste_schritte/assistant_start.png"/>
+  <img width="50%" src="/erste_schritte/images_erste_schritte/StartScreen.png"/>
 </p>
 
 Lesen Sie sich bitte die folgenden Unterpunkte sorgfältig durch und starten Sie anschließend die excav PILOT App. Dort finden Sie unter “Startmenü => Einrichtungsassistent" ein geführtes Menü zur Kalibrierung Ihres Systems. Vergewissern Sie sich bitte davor, dass die einzelnen Geräte gemäß des vorherigen Abschnitts [Aufbauen und Anbringen](https://docs.excav.de/erste_schritte/aufbauen_und_anbringen/) richtig aufgestellt bzw. an Baggerarm und Löffel befestigt wurden. 
@@ -11,7 +11,7 @@ Es gibt eine ausführliche [Videoanleitung](https://www.youtube.com/watch?v=dZmh
 ## Geräte verbinden
 <!-- ![Verbundene Geräte](assistant_con_devices.png) -->
 <p align="center" width="100%">
-  <img width="50%" src="/erste_schritte/images_erste_schritte/assistant_con_devices.png"/>
+  <img width="50%" src="/erste_schritte/images_erste_schritte/Setup_Verbunden.png"/>
 </p>
 
 
@@ -19,14 +19,14 @@ Bevor Sie mit der Konfiguration des Systems starten können, müssen Basisstatio
 
 ## Arbeitsplatz anlegen/laden
 <p align="center" width="100%">
-  <img width="50%" src="/erste_schritte/images_erste_schritte/AnlegenLaden_Arbeitsplatz.png"/>
+  <img width="50%" src="/erste_schritte/images_erste_schritte/Setup_Arbeitsplatz.png"/>
 </p>
 
 Um einen neuen Arbeitsplatz anzulegen, wählen Sie "Neuer Arbeitsplatz". Sie können hier auch einen bereits angelegten Arbeitsplatz laden. Das Laden eines Arbeitsplatzes wird [hier](https://docs.excav.de/app/funktionen/arbeitseinstellungen/arbeitsplatz_laden/) beschrieben.
 
 ## Baumaschine wählen
 <p align="center" width="100%">
-  <img width="50%" src="/erste_schritte/images_erste_schritte/assistant_select_machine.png"/>
+  <img width="50%" src="/erste_schritte/images_erste_schritte/Setup_Werkzeug.png"/>
 </p>
 
 Wählen Sie hier die Baumaschine aus, an der Sie den PILOT anbringen wollen. Der Einrichtungsprozess läuft für jede Maschine gleich ab. Einzig der Messstab wird direkt geladen und bedarf keiner weiteren Kalibrierung. 
@@ -34,7 +34,7 @@ Wählen Sie hier die Baumaschine aus, an der Sie den PILOT anbringen wollen. Der
 ## Schaufel vermessen
 <!-- ![Schaufel vermessen](assistant_cal_shovel.png) -->
 <p align="center" width="100%">
-  <img width="50%" src="/erste_schritte/images_erste_schritte/assistant_cal_shovel.png"/>
+  <img width="50%" src="/erste_schritte/images_erste_schritte/Setup_Vermessen.png"/>
 </p>
 
 Die nachstehenden Schritte müssen sorgfältig ausgeführt werden, da ansonsten Messfehler entstehen, die sich in der späteren Arbeit fortsetzen. Bitte messen Sie bis auf eine Nachkommastelle genau.
@@ -64,7 +64,7 @@ Lassen Sie das Kalibriertool mit Meterstab für den nachfolgenden Schritt an der
 
 ## Schaufel justieren
 <p align = "center" width="100%">
-  <img width="38%" src="/erste_schritte/images_erste_schritte/assistant_shovel_perpendicular.png"/>
+  <img width="38%" src="/erste_schritte/images_erste_schritte/Setup_Justieren.png"/>
   <img width="52.01%" src="/erste_schritte/images_erste_schritte/Kalibriertool_Ausrichtung.png"/>
 </p>
 
@@ -73,7 +73,7 @@ Heben Sie die Schaufel als nächstes leicht an und neigen Sie diese, bis die Spi
 ## Schaufelecke wählen
 <!-- ![Schaufelecke wählen](assistant_select_corner.png) -->
 <p align = "center" width="100%">
-  <img width="50%" src="/erste_schritte/images_erste_schritte/assistant_select_corner.png"/>
+  <img width="50%" src="/erste_schritte/images_erste_schritte/Setup_Schaufelecke.png"/>
 </p>
 
 Als nächstes können Sie die gewünschte Schaufelecke auswählen. Von dieser wird die Höhendifferenz zur Planierfläche berechnet. Des Weiteren wird sie zur Erfassung von Punkten auf der Baustelle herangezogen. 
@@ -82,8 +82,8 @@ Den genauesten Messwert erhalten Sie an der am nächsten zum Sensor befindlichen
 ## Referenzpunkt setzen
 <!-- ![Referenzpunkt setzen](assistant_set_ref.png) -->
 <p align = "center" width="100%">
-  <img width="49%" src="/erste_schritte/images_erste_schritte/assistant_set_ref.png"/>
-  <img width="49%" src="/erste_schritte/images_erste_schritte/assistant_set_ref2.png"/>
+  <img width="49%" src="/erste_schritte/images_erste_schritte/Setup_SetRefProblem.png"/>
+  <img width="49%" src="/erste_schritte/images_erste_schritte/Setup_SetRef.png"/>
 </p>
 
 Der Referenzpunkt dient als Nullpunkt, von dem aus alle weiteren Maße errechnet werden. Hierfür bietet sich eine Stelle auf der Baustelle an, die über den gesamten Bauverlauf verfügbar bleibt, jederzeit gut zu erreichen ist und freie Sicht auf den Himmel bietet.
