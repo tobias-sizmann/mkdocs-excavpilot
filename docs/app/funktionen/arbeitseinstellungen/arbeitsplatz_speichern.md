@@ -12,4 +12,4 @@ Im Arbeitsplatz abgespeichert werden folgende Informationen:
 * Alle erstellten Werkzeuge (Löffel und Schaufeln)
 
 Bitte beachten Sie, dass Sie alle Änderungen manuell erneut abspeichern müssen. Schließen Sie die App, dann gehen alle nicht abgespeicherten Änderungen verloren (Minimieren der App ist dagegen kein Problem). 
-Ob Sie ungespeicherte Änderungen in Ihrem Arbeitsplatz haben, können Sie ganz unten im Funktionsbildschirm(LINK) überprüfen. 
+Ob Sie ungespeicherte Änderungen in Ihrem Arbeitsplatz haben, können Sie ganz unten im [Funktionsbildschirm](https://docs.excav.de/app/funktionen/uebersicht/) überprüfen. 
