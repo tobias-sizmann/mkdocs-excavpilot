@@ -1,7 +1,7 @@
 # Protokoll und Status
 
 ## Status-Übersicht
-![Status](../images_funktionen/Status.png)
+![Status](../images_funktionen/status.png)
 
 Die Status-Übersicht dient als Hilfe bei der Inbetriebnahme Ihres Systems. Dort aufgelistet finden Sie alle relevanten Kennzeichen (Verbindung zu den einzelnen Systemeinheiten Sensor, Anzeige und Basis; Positionserfassung; Referenzpunkt setzen; Orientierung; Löffelkalibrierung; GNSS-RTK; WLAN-Verbindung).
 Sollten ein oder mehrere dieser Schritte nicht erfolgt sein, kann das System nicht in Betrieb genommen werden. Alle Kennzeichen - bis auf das Erfassen der Orientierung - werden im geführten Menü des [Einrichtungsassistenten](https://docs.excav.de/erste_schritte/system_einrichten/) abgefragt. Beklagt die App das Fehlen mehrerer der oben aufgelisteten Kennzeichen, empfiehlt sich entsprechend eine wiederholte Durchführung des Einrichtungsassistenten. Das System findet die Orientierung im Normalfall nach wenigen Minuten von selbst (hierfür muss der Baggerlöffel bewegt und geschwenkt werden). Existiert keine GNSS-RTK-Lösung, befinden Sie sich wahrscheinlich mit dem Sensor zu nahe an größeren Strukturen wie Bäumen oder Häusern. 
