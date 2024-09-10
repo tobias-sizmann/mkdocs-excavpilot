@@ -61,6 +61,7 @@ nav:
          - System ausschalten: app/funktionen/sonstige_einstellungen/system_ausschalten.md
   - Häufige Fragen: faqs.md
   - Fehlerbehebung: fehlerbehebung.md
+  - Sicherheitshinweise: Sicherheitshinweise.md
 
 
 extra_css:
