@@ -1,5 +1,5 @@
 site_name: excav PILOT
-theme: 
+theme:
   name: material
   custom_dir: docs/overrides
   logo: assets/icon.png
@@ -11,7 +11,7 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-        
+
     # Palette toggle for light mode
     - scheme: default
       primary: custom
@@ -19,50 +19,52 @@ theme:
         icon: material/weather-night
         name: Switch to dark mode
 
-plugins: 
+plugins:
   - print-site:
       path_to_pdf: "assets/anleitung_excav_pilot.pdf"
 
-
 nav:
-  - Start: index.md
-  - Geräteübersicht: geräteübersicht/geraeteuebersicht.md
-  - Erste Schritte:
-    - Aufbauen und Anbringen: erste_schritte/aufbauen_und_anbringen.md
-    - System einrichten: erste_schritte/system_einrichten.md
-    - Erste Fläche abziehen: erste_schritte/erste_flaeche_abziehen.md
-  - App:
-    - Einrichtungsassistent: app/einrichtungsassistent/einrichtungsassistent.md
-    - Arbeitsansicht: app/arbeitsansicht/arbeitsansicht.md
-    - Funktionen:
-      - Übersicht: app/funktionen/uebersicht.md
-      - Punkte und Flächen: 
-         - Punkte erfassen: app/funktionen/punkte_und_flächen/punkte_erfassen.md
-         - Punkte löschen: app/funktionen/punkte_und_flächen/punkte_loeschen.md
-         - Strecke ziehen: app/funktionen/punkte_und_flächen/strecke_ziehen.md
-         - Strecke löschen: app/funktionen/punkte_und_flächen/strecke_loeschen.md
-         - Fläche mit 3 Punkten: app/funktionen/punkte_und_flächen/flaeche_3_pt.md
-         - Fläche mit 2 Punkten und Steigung: app/funktionen/punkte_und_flächen/flaeche_2_pt.md
-         - Fläche mit Punkt, Richtung und Steigung: app/funktionen/punkte_und_flächen/flaeche_1_pt.md
-         - Fläche Horizontal: app/funktionen/punkte_und_flächen/flaeche_0_pt.md
-         - Polyeder erstellen: app/funktionen/punkte_und_flächen/polyeder_erstellen.md
-      - Arbeitseinstellungen:
-         - Werkzeug speichern: app/funktionen/arbeitseinstellungen/werkzeug_speichern.md
-         - Werkzeug laden: app/funktionen/arbeitseinstellungen/werkzeug_laden.md
-         - Arbeitsplatz speichern: app/funktionen/arbeitseinstellungen/arbeitsplatz_speichern.md
-         - Arbeitsplatz laden: app/funktionen/arbeitseinstellungen/arbeitsplatz_laden.md
-         - Werkzeugecke wechseln: app/funktionen/arbeitseinstellungen/werkzeugecke_wechseln.md
-         - Höhenversatz wählen: app/funktionen/arbeitseinstellungen/hoehenversatz_waehlen.md
-         - Referenzpunkt neu setzen: app/funktionen/arbeitseinstellungen/set_ref_pt.md
-         - Bauplan laden: app/funktionen/arbeitseinstellungen/bauplan_laden.md
-      - Sonstige Einstellungen:
-         - Einstellungen Anzeigekreuz: app/funktionen/sonstige_einstellungen/einstellungen_anzeigekreuz.md
-         - Hilfe/ Status prüfen: app/funktionen/sonstige_einstellungen/hilfe_status_pruefen.md
-         - System ausschalten: app/funktionen/sonstige_einstellungen/system_ausschalten.md
-  - Häufige Fragen: faqs.md
-  - Fehlerbehebung: fehlerbehebung.md
-  - Sicherheitshinweise: Sicherheitshinweise.md
+  - Startseite: index.md
+  - Geräteübersicht:
+      - Gesamtsystem: Gesamtsystem/Gesamtsystem.md
+      - GNSS-Sensor: GNSS-Sensor/GNSS-Sensor.md
+      - LED-Anzeigekreuz: LED-Anzeigekreuz/LED-Anzeigekreuz.md
+      - Tablet und Halterung: Tablet und Halterung/Tablet und Halterung.md
+      - Basisstation: Basisstation/Basisstation.md
+      - Messstab: Messstab/Messstab.md
+      - Transportkoffer: Transportkoffer/Transportkoffer.md
+      - Ladegerät: Ladegerät/Ladegerät.md
+      - Metallrahmen: Metallrahmen/Metallrahmen.md
 
+  - App:
+      - Allgemein:
+          - Einführung: Einführung/Einführung.md
+          - Arbeitsansicht: Arbeitsansicht/Arbeitsansicht.md
+      - Startmenü:
+          - Start: Start/Start.md
+          - Geräte: Geräte/Geräte.md
+          - NTRIP: NTRIP/NTRIP.md
+          - Werkzeuge: Werkzeuge/Werkzeuge.md
+          - Arbeitsplatz: Arbeitsplatz/Arbeitsplatz.md
+      - Arbeitsmenü:
+          - Übersicht: Übersicht/Übersicht.md
+          - Koordinatensystem: Koordinatensystem/Koordinatensystem.md
+          - Punkte: Punkte/Punkte.md
+          - Linien: Linien/Linien.md
+          - Kreise: Kreise/Kreise.md
+          - Flächen: Flächen/Flächen.md
+          - Baugrube: Baugrube/Baugrube.md
+          - Bauplan: Bauplan/Bauplan.md
+          - Gelände: Gelände/Gelände.md
+
+  - Erste Schritte:
+      - System aufbauen: System aufbauen/System aufbauen.md
+      - System einrichten: System einrichten/System einrichten.md
+
+  - Weitere Informationen:
+      - Häufige Fragen: Häufige Fragen/Häufige Fragen.md
+      - Fehlerbehebung: Fehlerbehebung/Fehlerbehebung.md
+      - Sicherheitshinweise: Sicherheitshinweise/Sicherheitshinweise.md
 
 extra_css:
   - styles.css

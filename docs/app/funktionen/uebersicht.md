@@ -1,1 +1,0 @@
-![Funktionsübersicht](../images_funktionen/FunktionScreen.png)

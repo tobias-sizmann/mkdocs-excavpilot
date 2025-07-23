@@ -1,2 +1,0 @@
-# Erste Fläche abziehen
-Hier wird in naher Zukunft ein Beispiel hinterlegt, das das Arbeiten mit und Definieren von Flächen zeigt (siehe [Flächenerstellungen](https://docs.excav.de/app/funktionen/flaeche/)). 
