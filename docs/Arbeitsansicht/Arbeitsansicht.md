@@ -15,21 +15,70 @@ Der Arbeitsbereich setzt sich aus mehreren Ansichten zusammen, die Aufschluss ü
 
 Über die Buttons in der primären Arbeitsansicht gelangen Sie zu den Dropdown-Menüs, welche wichtige Funktionen und Einstellungsmöglichkeiten für den Umgang mit dem System beinhalten.
 
-## Ansicht Menüleiste ganz oben
+[//]: # (todo: Ab hier die Bilder so anpassen, dass entweder nur die angesprochenen Elemente zu sehen sind oder die Elemente visuell hervorgehoben werden. Am Besten vorher einen Löffel kalibrieren, sodass dieser in der Arbeitsansicht zu sehen ist.)
+
+## Topbar
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Kopfleiste.jpg"/>
 </p>
 
-Die Kopfleiste stellt folgende Werte kontinuierlich dar: den Ladestand des LED-Anzeigekreuz, den Ladestand des Sensors, das Vorhandensein eines absoluten Punktes für die Orientierung, das Vorhandensein der Konnektivität zu einem GNSS-System sowie das Vorhandensein von externen NTRIP-Korrekturdaten (beispielsweise über den Dienst SAPOS, falls keine Basisstation vorliegt).
+Die Topbar stellt folgende Werte kontinuierlich dar:
 
-Im Abschnitt links außen der Kopfleiste befindet sich die Menüführung (genannt „Menü“) für folgende Menüführungspunkte: Startansicht, Geräte, NTRIP, Werkzeuge und Arbeitsplatz.
+- den Ladestand des LED-Anzeigekreuz 
+- den Ladestand des Sensors 
+- die Qualität der Orientierung:
 
-Der Akkustand der LED-Anzeige und des Sensors werden dauerhaft angezeigt. Achten Sie darauf, dass die Akkustände der einzelnen Geräte nicht unter 10% fallen, da sich dies bei Sensor und ggf. der optionalen Basisstation negativ auf die Performanz und somit Genauigkeit auswirken kann. Eine volle Akkuladung reicht für ca. 16 Stunden Einsatzdauer. Die Ladezeit der Geräte beläuft sich in etwa auf 2,5 Stunden. Empfehlenswerte Ladezeiträume sind daher die zwischenzeitliche Arbeitspausen, der Fahrzeugwechsel auf der Baustelle sowie ebenfalls die Abend- und Nachtzeit.
+    <span style="display: inline-flex; align-items: center;">
+      <span style="width: 12px; height: 12px; border-radius: 50%; border: 1px solid red; display: inline-block; margin-right: 8px;"></span>
+      <span>nicht vorhanden</span>
+    </span> | 
+    <span style="display: inline-flex; align-items: center;">
+      <span style="width: 12px; height: 12px; border-radius: 50%; border: 1px solid yellow; display: inline-block; margin-right: 8px;"></span>
+      <span>ungenau</span>
+    </span> | 
+    <span style="display: inline-flex; align-items: center;">
+      <span style="width: 12px; height: 12px; border-radius: 50%; border: 1px solid green; display: inline-block; margin-right: 8px;"></span>
+      <span>vorhanden</span>
+    </span>
 
-Durch das Drücken auf die Symbol-Icons für die Systemeinheiten und das GNSS erhalten Sie nähere Informationen zu den Geräten im Betrieb und zum verfügbaren GNSS-System.
+- die GNSS-Qualität des Sensors:
 
-## Ansicht Arbeitsbereich linksoben
+    <span style="display: inline-flex; align-items: center;">
+      <span style="width: 12px; height: 12px; border-radius: 50%; border: 1px solid red; display: inline-block; margin-right: 8px;"></span>
+      <span>kein GNSS-Empfang</span>
+    </span> | 
+    <span style="display: inline-flex; align-items: center;">
+      <span style="width: 12px; height: 12px; border-radius: 50%; border: 1px solid yellow; display: inline-block; margin-right: 8px;"></span>
+      <span>schlechter GNSS-Empfang</span>
+    </span> | 
+    <span style="display: inline-flex; align-items: center;">
+      <span style="width: 12px; height: 12px; border-radius: 50%; border: 1px solid green; display: inline-block; margin-right: 8px;"></span>
+      <span>guter GNSS-Empfang</span>
+    </span>
+
+- das Vorhandensein von NTRIP-Korrekturdaten:
+
+    <span style="display: inline-flex; align-items: center;">
+      <span style="width: 12px; height: 12px; border-radius: 50%; border: 1px solid red; display: inline-block; margin-right: 8px;"></span>
+      <span>Verbindung abgebrochen</span>
+    </span> | 
+    <span style="display: inline-flex; align-items: center;">
+      <span style="width: 12px; height: 12px; border-radius: 50%; border: 1px solid blue; display: inline-block; margin-right: 8px;"></span>
+      <span>verbinde mit Korrekturdaten-Dienst</span>
+    </span> | 
+    <span style="display: inline-flex; align-items: center;">
+      <span style="width: 12px; height: 12px; border-radius: 50%; border: 1px solid green; display: inline-block; margin-right: 8px;"></span>
+      <span>verbunden</span>
+    </span>
+
+
+Durch das Drücken auf die Symbol-Icons erhalten Sie nähere Informationen zu den angezeigten Werten.
+
+Der Akkustand der LED-Anzeige und des Sensors werden dauerhaft angezeigt. Achten Sie darauf, dass die Akkustände der einzelnen Geräte nicht unter 10% fallen, da sich dies bei Sensor und ggf. der optionalen Basisstation negativ auf die Performanz und somit Genauigkeit auswirken kann. Eine volle Akkuladung reicht für ca. 16 Stunden Einsatzdauer. Die Ladezeit der Geräte beläuft sich in etwa auf 2,5 Stunden.
+
+
+## Frontalansicht
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht linksoben.jpg"/>
@@ -37,13 +86,13 @@ Durch das Drücken auf die Symbol-Icons für die Systemeinheiten und das GNSS er
 
 Die linke obere Ansicht in der Arbeitsansicht unterhalb der Kopfleiste visualisiert die aktiv genutzte Baggerschaufel oder das Werkzeug in einer frontalen 3D-Ansicht (aus der Kabine):
 
-• Die Baggerschaufel oder das Werkzeug werden entsprechend der Höhen- und Seitenverhältnisse der Eingaben von Höhe und Breite dargestellt (in cm oder m).
+- Die Baggerschaufel oder das Werkzeug werden entsprechend der Höhen- und Seitenverhältnisse dargestellt.
 
-• Das rote Quadrat an der unteren rechten Ecke der Baggerschaufel oder dem Werkzeug zeigt die ausgewählte Werkzeugecke an. Von diesem Punkt aus wird der Abstand zur Fläche (hier als Linie dargestellt) berechnet.
+- Das Quadrat zeigt die ausgewählte Werkzeugecke an. Von diesem Punkt aus wird der Abstand zur Fläche / zum Geländemodell (hier als Linie dargestellt) berechnet.
 
-• Der rote Strich stellt die Höhe der erstellten Fläche im Geländemodell dar.
+- Der rote Strich stellt die Höhe der erstellten Fläche im Geländemodell dar.
 
-## Ansicht Arbeitsbereich rechtsoben
+## Seitenansicht
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht rechtsoben.jpg"/>
@@ -51,20 +100,23 @@ Die linke obere Ansicht in der Arbeitsansicht unterhalb der Kopfleiste visualisi
 
 Die rechte obere Ansicht in der Arbeitsansicht unterhalb der Kopfleiste visualisiert die Baggerschaufel oder das Werkzeug in einer 3D-Ansicht von der Seite:
 
-• Die Baggerschaufel oder das Werkzeug werden entsprechend der Höhen- und Seitenverhältnisse der Eingaben von Höhe und Breite dargestellt (in cm oder m).
+- Die Baggerschaufel oder das Werkzeug werden entsprechend der Höhen- und Seitenverhältnisse dargestellt.
 
-• Die grüne Linie zeigt die eingemessene Fläche. Sie ist nur sichtbar, wenn ein Versatz angesetzt wurde.
+- Der grüne Strich stellt die Höhe der erstellten Fläche im Geländemodell dar.
 
-## Ansicht Hauptarbeitsbereich
+## Hauptarbeitsbereich
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Hauptbereich.jpg"/>
 </p>
 
-Der primäre Arbeitsplatz – die Ansicht ist in 2D oder in 3D erhältlich – informiert den Nutzer über die exakte Position der Baggerschaufel oder das Werkzeug in Bezug zum Referenzpunkt (REF) und den von Ihnen erfassten Punkten auf der Baustelle. Die aktuelle Höhe der Sensoreinheit auf der Baggerschaufel oder dem Werkzeug wird kontinuierlich links oben in cm angezeigt.
+Der primäre Arbeitsplatz informiert den Nutzer über die exakte Position der Baggerschaufel oder des Werkzeugs in Bezug zum Referenzpunkt (REF) und den von Ihnen erfassten Punkten auf der Baustelle. Die aktuelle Höhe nach DHHN (Deutsches Höhenhauptnetz) der ausgewählten Ecke der Baggerschaufel oder des Werkzeugs wird links oben in Meter angezeigt.
 
-Die Höhe des Referenzpunktes wird durch ein festes Gitternetz dargestellt. Sie können der Bewegung der Baggerschaufel oder des Werkzeugs im Raum frei folgen und jederzeit in die primäre Ansicht tiefer rein- sowie rauszoomen. Die Baggerschaufel oder das Werkzeug werden entsprechend der eingegebenen Schaufel- oder Werkzeugbreite dreidimensional in Dunkelgrau in der primären Arbeitsansicht dargestellt. Die ausgewählte Werkzeugecke wird dreidimensional durch einen transparenten Würfel mit roten Kanten dargestellt, analog zum roten Quadrat an der Werkzeugecke in den Nebenansichten. Der ggf. eingeblendete blaue Strich wird als senkrechtes Lot zur Arbeitsfläche dargestellt. Sie können eigene Baupläne in der Arbeitsansicht hochladen. Mehr Informationen hierzu finden Sie nachfolgend in der App unter "App / Bauplan laden".
+Die Höhe des Referenzpunktes wird durch ein festes Gitternetz dargestellt, wobei jedes Quadrat eine 1x1 Meter Fläche beschreibt. Sie können der Bewegung der Baggerschaufel oder des Werkzeugs im Raum frei folgen und jederzeit in die primäre Ansicht tiefer rein- sowie rauszoomen. Die Baggerschaufel oder das Werkzeug werden entsprechend der eingegebenen Schaufel- oder Werkzeugbreite dreidimensional in Dunkelgrau dargestellt. Die ausgewählte Werkzeugecke wird dreidimensional durch einen transparenten Würfel dargestellt, analog zum roten Quadrat an der Werkzeugecke in den Nebenansichten. 
 
+Sie können eigene Baupläne sowie digitale Geländemodelle in der Arbeitsansicht hochladen. Mehr Informationen hierzu finden Sie nachfolgend in der App unter [Bauplan](../Bauplan/Bauplan.md) und [Gelände](../Gelände/Gelände.md).
+
+[//]: # (todo: Der folgende Abschnitt muss entfernt werden. Existiert nicht mehr. Dagegen wird jetzt die Höhen- und Neigungsabweichung in der Bildschirmecke oben links angezeigt, wenn eine Fläche / Geländemodell aktiv gesetzt wird. Dies muss entsprechend ergänzt werden.)
 ## Anzeige der horizontalen und vertikalen Abweichung
 
 Die farblichen Balken auf der linken Seite der Arbeitsansicht stellen das Analogon zur LED-Anzeige am Baggerarm (vgl. LED-Anzeigekreuz) dar, um die Abweichung von der Soll-Höhe und die Neigung zur Horizontalen darzustellen.
@@ -81,7 +133,7 @@ Die Farbgebung der Balken entspricht analog der Farbgebung der LED-Stränge der 
 
 Über die auf der rechten Seite der Ansicht befindlichen mittleren Buttons können Sie die Koordinate Absolut-Nord aktivieren oder deaktivieren. Durch Absolut-Nord können Sie die Ansicht des Gitternetzes fixieren oder am Werkzeug ausrichten.
 
-Sie können die primäre Arbeitsansicht wahlweise von 2D auf 3D wechseln und umgekehrt. Die aktuelle App (standardmäßig seit Mai 2025 erhältlich) ermöglicht präzise Erdarbeiten vollständig in 3D. Sie können weiterhin jederzeit auf eine 2D-Ansicht aus der Vogelperspektive wechseln.
+Sie können die primäre Arbeitsansicht wahlweise von 2D auf 3D wechseln und umgekehrt. PDF-Baupläne werden nur und der 2D-Ansicht angezeigt. Für DGMs bietet sich die 3D-Ansicht an. 
 
 ## Ansicht Buttons der primären Arbeitsansicht
 
@@ -91,14 +143,10 @@ Sie können die primäre Arbeitsansicht wahlweise von 2D auf 3D wechseln und umg
 
 Über mehrere Buttons auf der primären Arbeitsansicht können Sie die laufenden Tätigkeiten im Arbeitsplatz schnell und in wenigen Schritten anpassen.
 
-Über den Button mit dem Werkzeug-Symbol öffnet sich eine Auswahl der aktuell verfügbaren Werkzeuge. Dadurch können Sie schnell nach Bedarf das Werkzeug ändern sowie zum standardmäßig hinterlegten Messstab mit Sensor wechseln. Das Werkzeug wird unter Angabe der Breite und Höhe in cm dargestellt.
+Über den Button mit dem Werkzeug-Symbol öffnet sich eine Auswahl der aktuell verfügbaren Werkzeuge. Dadurch können Sie schnell nach Bedarf das Werkzeug ändern sowie zum standardmäßig hinterlegten Messstab wechseln.
 
-Über den Button mit dem Geolokalisations-Symbol öffnet sich eine Auswahl zur Erfassung von Punkten mittels GNSS oder manuelle Eingabe der Informationen.
+Über den Button mit dem Geolokalisations-Symbol öffnet sich eine Auswahl zur Erfassung von Punkten. Hier können Sie über die Funktion „GNSS-Punkt“ einen neuen Punkt von der aktuellen Position aus erfasst oder über die Funktion „Manueller Punkt“ einen Punkt durch die Eingabe seiner absoluten Koordinaten einlesen. Weiter Informationen erhalten Sie unter [Punkte](../Punkte/Punkte.md)
 
-Über die Funktion „GNSS-Punkt“ kann ein neuer Punkt von der aktuellen Position aus erfasst und gespeichert werden. Vergeben Sie dem Punkt einen geeigneten Namen aus und bestätigen Sie den Vorgang mit „Ok“ oder brechen Sie ihn ab mit „Abbrechen“.
+Über den nachfolgenden Button mit dem Pfeil-Symbol können Sie einfache Flächen, Baugruben und Geländemodelle aktiv schalten. Dadurch wird die Höhen- und Neigungsabweichung vom Werkzeug zur aktiven Geländestruktur sowohl in der Arbeitsansicht als auch auf dem LED-Anzeigekreuz angezeigt.
 
-Über die Funktion „Manueller Punkt“ können Sie einen Punkt der Wahl unter Angabe von Koordinatensystem, Hochwert, Rechtswert und Höhe auch ohne direkt Erfassung und Speicherung vor Ort erstellen.
-
-Über den nachfolgenden Button mit dem Pfeil-Symbol (nach oben gerichtet) öffnet sich eine Auswahl von Möglichkeiten zum Hochladen von Arbeitsplatzelementen, wie Flächen, Gelände, Baugrube und Referenz.
-
-Über den Button mit dem Tintenfüllerspitzen-Symbol öffnet sich als seitliches Menüfenster eine Auswahl von Funktionen für die Organisation der Arbeit auf der Baustelle. Die Funktionen werden im Abschnitt „Arbeitsmenü“ näher erläutert.
+Über den Button mit dem Tintenfüller-Symbol öffnet sich das Arbeitsmenü mit einer Auswahl von Funktionen für die Organisation der Arbeit auf der Baustelle. Die Funktionen werden im Abschnitt „Arbeitsmenü“ näher erläutert.
