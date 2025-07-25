@@ -10,6 +10,10 @@
   <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht.jpg"/>
 </p>
 
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Placeholder IMG 2.jpg"/>
+</p>
+
 Nach erfolgreicher Einrichtung des Systems gelangen Sie direkt zur primären Arbeitsansicht, welche die wichtigsten Informationen über die präzise Position der Baggerschaufel oder des Werkzeugs im Raum sowie in Bezug zur Arbeitsfläche bietet und Sie bei Ihren Arbeiten visuell unterstützt. Der Sensor bzw. das Werkzeug werden in der App dreidimensional im Raum dargestellt.
 Der Arbeitsbereich setzt sich aus mehreren Ansichten zusammen, die Aufschluss über die exakte Lage des Sensors und des Werkzeugs im Raum, den Akkuladestand der Systemeinheiten, die Konnektivität sowie zu wichtigen weiterführenden Menüpunkten bietet.
 
