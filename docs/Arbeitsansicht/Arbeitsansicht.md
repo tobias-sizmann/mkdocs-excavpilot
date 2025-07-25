@@ -143,10 +143,10 @@ Sie können die primäre Arbeitsansicht wahlweise von 2D auf 3D wechseln und umg
 
 Über mehrere Buttons auf der primären Arbeitsansicht können Sie die laufenden Tätigkeiten im Arbeitsplatz schnell und in wenigen Schritten anpassen.
 
-Über den Button mit dem Werkzeug-Symbol öffnet sich eine Auswahl der aktuell verfügbaren Werkzeuge. Dadurch können Sie schnell nach Bedarf das Werkzeug ändern sowie zum standardmäßig hinterlegten Messstab wechseln.
+Über den Button mit dem **Werkzeug-Symbol** öffnet sich eine Auswahl der aktuell verfügbaren Werkzeuge. Dadurch können Sie schnell nach Bedarf das Werkzeug ändern sowie zum standardmäßig hinterlegten Messstab wechseln.
 
-Über den Button mit dem Geolokalisations-Symbol öffnet sich eine Auswahl zur Erfassung von Punkten. Hier können Sie über die Funktion „GNSS-Punkt“ einen neuen Punkt von der aktuellen Position aus erfasst oder über die Funktion „Manueller Punkt“ einen Punkt durch die Eingabe seiner absoluten Koordinaten einlesen. Weiter Informationen erhalten Sie unter [Punkte](../Punkte/Punkte.md)
+Über den Button mit dem **Geolokalisations-Symbol** öffnet sich eine Auswahl zur Erfassung von Punkten. Hier können Sie über die Funktion „GNSS-Punkt“ einen neuen Punkt von der aktuellen Position aus erfasst oder über die Funktion „Manueller Punkt“ einen Punkt durch die Eingabe seiner absoluten Koordinaten einlesen. Weiter Informationen erhalten Sie unter [Punkte](../Punkte/Punkte.md)
 
-Über den nachfolgenden Button mit dem Pfeil-Symbol können Sie einfache Flächen, Baugruben und Geländemodelle aktiv schalten. Dadurch wird die Höhen- und Neigungsabweichung vom Werkzeug zur aktiven Geländestruktur sowohl in der Arbeitsansicht als auch auf dem LED-Anzeigekreuz angezeigt.
+Über den nachfolgenden Button mit dem **Pfeil-Symbol** können Sie einfache Flächen, Baugruben und Geländemodelle aktiv schalten. Dadurch wird die Höhen- und Neigungsabweichung vom Werkzeug zur aktiven Geländestruktur sowohl in der Arbeitsansicht als auch auf dem LED-Anzeigekreuz angezeigt.
 
-Über den Button mit dem Tintenfüller-Symbol öffnet sich das Arbeitsmenü mit einer Auswahl von Funktionen für die Organisation der Arbeit auf der Baustelle. Die Funktionen werden im Abschnitt „Arbeitsmenü“ näher erläutert.
+Über den Button mit dem **Tintenfüller-Symbol** öffnet sich das Arbeitsmenü mit einer Auswahl von Funktionen für die Organisation der Arbeit auf der Baustelle. Die Funktionen werden im Abschnitt „Arbeitsmenü“ näher erläutert.

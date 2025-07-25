@@ -18,17 +18,17 @@ NTRIP steht für Networked Transport of RTCM via Internet Protocol und ist ein g
 
 # Was brauche ich für die Nutzung von NTRIP?
 
-Sie benötigen eine [SIM-Karte](https://excav.de/produkte/) mit ausreichend Datenvolumen für den Zugang zu mobilem Internet und einen professionellen Dienstleister für die Bereitstellung von RTK-Korrekturdaten. Bei Fehlen externer Korrekturdaten können über eine eigene Basisstation Korrekturdaten generiert werden.
+Sie benötigen eine [SIM-Karte](https://excav.de/produkte/) mit ausreichend Datenvolumen für den Zugang zu mobilem Internet und einen professionellen Dienstleister für die Bereitstellung von RTK-Korrekturdaten. 
 
 excav bietet eine eigene Roaming SIM-Karte an, die europaweit nutzbar ist und automatisch das beste Netz auswählt. Die SIM-Karte ist sowohl monatlich aktivierbar als auch deaktivierbar.
 
 # RTK-Korrektur: Empfehlung - SAPOS Heps
 
-Der deutsche Staat bietet mit SAPOS Heps einen hochgenauen und kostengünstig verfügbaren Echtzeit-RTK-Korrekturservice an.
+Die Arbeitsgemeinschaft der Vermessungsverwaltungen der Länder der Bundesrepublik Deutschland (AdV) bietet mit SAPOS Heps einen hochgenauen und kostengünstigen Echtzeit-RTK-Korrekturdaten-Service an.
 
 Für jedes Bundesland stehen eigene SAPOS Heps Dienste zur Verfügung. Sie können mit dem jeweiligen Dienst entsprechend Korrekturdaten nur für das betreffende Bundesland beziehen.
 
-Einen für die bundesweite Nutzung vorgesehenen SAPOS Heps Dienst stellt das Landesamt für Geoinformation und Landesvermessung mit Standort in Niedersachsen zur Verfügung.
+Einen für die bundesweite Nutzung vorgesehenen SAPOS Heps Dienst stellt die Zentrale Stelle SAPOS (ZSS) über das Landesamt für Geoinformation und Landesvermessung mit Standort in Niedersachsen zur Verfügung.
 
 In der folgenden Auflistung gelangen Sie zu den Übersichtsseiten der bundesweit zentralen SAPOS-Stelle sowie zu den zuständigen untergeordneten Stellen der einzelnen Bundesländer:
 

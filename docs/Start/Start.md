@@ -11,3 +11,5 @@
 </p>
 
 Der erste Menüpunkt unter „Menü“ linksoben ist die Start-Anzeige „Start“, welche Sie jederzeit aus einem untergeordneten Menüpunkt zur primären Arbeitsansicht zurückbringt. Der aktuell ausgewählte Menüpunkt wird in Orange farblich hinterlegt und optisch hervorgehoben.
+
+[//]: # (todo: Ich würde diese Seite komplett rausnehmen, da eigentlich selbstverständlich. Vielleicht müssen wir in der App Start in Arbeitsansicht umbenennen.)
