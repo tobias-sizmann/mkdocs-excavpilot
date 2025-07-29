@@ -4,7 +4,7 @@
   <img width="100%" src="/images_docs/Anleitung & FAQ Bild 0-Photoroom.png"/>
 </p>
 
-Hier finden Sie eine ausführliche Online-Bedienungsanleitung für Ihren excav PILOT, ausgestattet mit zahlreichen Bildern, Tipps und Empfehlungen. Falls Sie zu Ihrem neuen excav PILOT Fragen oder Probleme haben, kontaktieren Sie uns gerne jederzeit per E-Mail an support@excav.de.
+Hier finden Sie eine ausführliche Online-Bedienungsanleitung für Ihren excav PILOT, ausgestattet mit zahlreichen Bildern, Tipps und Empfehlungen. Falls Sie zu Ihrem neuen excav PILOT Fragen oder Probleme haben, kontaktieren Sie uns gerne jederzeit per E-Mail an support@excav.de. 
 
 ## Wichtige Hinweise
 
