@@ -37,16 +37,15 @@ nav:
       - Metallrahmen: Metallrahmen/Metallrahmen.md
 
   - App:
-      - Allgemein:
-          - Einführung: Einführung/Einführung.md
-          - Arbeitsansicht: Arbeitsansicht/Arbeitsansicht.md
+      - Einführung: Einführung/Einführung.md
+      - Arbeitsansicht: Arbeitsansicht/Arbeitsansicht.md
       - Startmenü:
           - Start: Start/Start.md
           - Geräte: Geräte/Geräte.md
           - NTRIP: NTRIP/NTRIP.md
           - Werkzeuge: Werkzeuge/Werkzeuge.md
           - Arbeitsplatz: Arbeitsplatz/Arbeitsplatz.md
-      - Arbeitsmenü:
+      - Designmenü:
           - Übersicht: Übersicht/Übersicht.md
           - Koordinatensystem: Koordinatensystem/Koordinatensystem.md
           - Punkte: Punkte/Punkte.md
