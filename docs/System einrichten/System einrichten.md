@@ -100,7 +100,7 @@ Gehen Sie beim Anbringen des Kalibriertools an der Baggerschaufel oder am Werkze
 
 • Lassen Sie das Kalibriertool mit Meterstab für den nachfolgenden Schritt an der Baggerschaufel oder am Werkzeug befestigt.
 
-**Baggerschaufel/Werkzeug justieren**
+**Baggerschaufel/Werkzeug justieren** 
 
 Heben Sie die Baggerschaufel durch Bedienung der Baumaschine als nächstes leicht an und neigen Sie diesen, bis die Spitze des Meterstabs exakt mit der Schneide übereinstimmt. 
 
