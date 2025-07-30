@@ -12,11 +12,13 @@
 
 [//]: # (todo: Bitte nochmal komplett überarbeiten. kurze Anmerkungen: Anstatt "Arbeitsplatz als LandXML/DXF" bitte "Arbeitsplatz aus LandXML/DXF". Der Arbeitsplatz wird aus diesen Dateien generiert und in ein systemeigenes Format überführt.; Werkzeuge sind in einem Arbeitsplatz nicht mehr abgespeichert. Diese werden jetzt separat gespeichert. Ein Arbeitsplatz speichert alles, was du im Designmenü (Füllersymbol in der Arbeitsansicht) sehen kannst.; Es gibt aktuell keine Basisstation. Alle Punkte werden jetzt nicht mehr relativ, sondern absolut erfasst.;  )
 
-Der Menüpunkt „Arbeitsplatz“ bietet eine Reihe von Funktionen, um Arbeitsplätze anzulegen, zu speichern und zu organisieren. Er umfasst derzeit folgende Unterpunkte: Neuer Arbeitsplatz, Arbeitsplatz speichern, Arbeitsplatz speichern als, Arbeitsplatz als LandXML, Arbeitsplatz als DXF sowie Referenzpunkt verschieben.
+[//]: # (Peter: Arbeitsplatz aus LandXML/DXF / Werkzeuge nicht in Arbeitsplatz gespeichert / Infos über Design Menü)
+
+Der Menüpunkt „Arbeitsplatz“ bietet eine Reihe von Funktionen, um Arbeitsplätze anzulegen, zu speichern und zu organisieren. Er umfasst derzeit folgende Unterpunkte: Neuer Arbeitsplatz, Arbeitsplatz speichern, Arbeitsplatz speichern als, Arbeitsplatz aus LandXML, Arbeitsplatz aus DXF sowie Referenzpunkt verschieben.
 
 Die Ansicht des Arbeitsplatzmenü bietet Zugang zu mehreren Arbeitsplätzen mit Angabe von Datum und Uhrzeit des letzten Bearbeitungsstandes. Ein Arbeitsplatz lässt sich neu erstellen, bearbeiten sowie löschen, falls nicht länger erforderlich. Beachten Sie beim Laden den Hinweis, dass ungespeicherte Änderungen verloren gehen können. Vergeben Sie dem neuen Arbeitsplatz einen Namen und bestätigen Sie den Vorgang mit „Ok“ oder brechen Sie ihn ab mit „Abbrechen“.
 
-Sie können einen zuvor abgespeicherten Arbeitsplatz wieder laden und bearbeiten. In Ihrem ausgewählten Arbeitsplatz befinden sich folgende Informationen:
+Sie können einen zuvor abgespeicherten Arbeitsplatz wieder laden und bearbeiten. In Ihrem ausgewählten Arbeitsplatz befinden sich alle folgenden Informationen gespeichert, die über das Designmenü (siehe das Füller-Symbol) angelegt worden sind:
 
 • Alle erfassten Punkte inklusive Referenzpunkt
 
@@ -26,7 +28,7 @@ Sie können einen zuvor abgespeicherten Arbeitsplatz wieder laden und bearbeiten
 
 • Den aktuell geladenen und entsprechend ausgerichteten Bauplan
 
-• Alle erstellten Werkzeuge (z.B. Baggerschaufel oder andere)
+Die erstellten Werkzeuge (z.B. Baggerschaufel oder andere Werkzeuge) werden zwar auf Ebene der App, jedoch nicht auf der Ebene des einzelnen Arbeitsplatzes selbst gespeichert. Auf diese Weise bleiben alle exakt einkalibrierten Werkzeuge erhalten und müssen nicht stets aufs Neue in jedem Arbeitsplatz neu kalibriert und hinterlegt werden. Zudem gehen die einkalibrierten Maße nicht verloren, sollten Sie ohne Speicherung der Daten den Arbeitsplatz wechseln.
 
 Wichtig: Im Arbeitsplatz sind alle Punkte relativ zum Referenzpunkt gespeichert (sie haben keine absoluten Koordinaten und folglich keinen absoluten Bezugspunkt) und der Referenzpunkt wird in Relation zur Basisstation erfasst (falls vorhanden). Das bedeutet, dass Sie beim Laden des Arbeitsplatzes zwei Möglichkeiten haben:
 Sie haben seit den letzten Arbeiten die Basisstation nicht bewegt (z.B. über die Mittagspause haben Sie das System ausgeschaltet). Dann können Sie, ohne den Referenzpunkt neu zu setzen direkt dort weiterarbeiten, wo Sie aufgehört haben.
@@ -79,6 +81,8 @@ Bitte beachten Sie, dass Sie alle Änderungen manuell erneut abspeichern müssen
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Arbeitsplatz 3.jpg"/>
 </p>
+
+[//]: # (Peter: Aspekt LandXML überarbeitet, die Erklärung im Detail unter "Gelände")
 
 Um einen neuen Arbeitsplatz speziell im Format LandXML in der App anzulegen, müssen Sie einen vorhandenen Baustellenplan als LandXML-Datei zunächst auf das Tablet hochladen und lokal ablegen. Wenn Sie die Funktion Gelände auswählen, werden Sie gebeten über "+ XML importieren" eine LandXML-Datei vom Tablet auszuwählen. Als Nächstes müssen Sie exakte Angaben zu den XML-Metadaten der Datei für das Geo-Referenz- und Höhen-Referenzsystem machen, die Sie im Vorfeld vom Planungs- oder Ingenieuersbüro erhalten.
 
