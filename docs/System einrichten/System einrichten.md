@@ -11,6 +11,8 @@ Es gibt eine ausführliche [Videoanleitung auf YouTube](https://www.youtube.com/
 
 <br>
 
+[//]: # (Peter: Einführung jtzt unter System einrichten)
+
 # Einführung
 
 <p align="center" width="100%">
@@ -29,6 +31,8 @@ Um Ihre Fortschritte speichern zu können, benötigen Sie einen aktiven Arbeitsp
 
 # System erstmals einrichten 
 
+[//]: # (Peter: System einrichten / neuer Screenshot)
+
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/System einrichten excav PILOT erste Ansicht Start V3.png"/>
 </p>
@@ -38,6 +42,8 @@ Sobald Sie den excav PILOT erstmals nach der Anbringung der Hardwarekomponenten 
 Sobald Sie das Tablet aktivieren und die excav PILOT App starten, gelangen sie zur primären Arbeitsansicht und erhalten zwei Fehlermeldungen zu Beginn gleichzeitig: sowohl "Sensor nicht verbunden" sowie "Kein Arbeitsplatz aktiv". Begeben Sie sich zum Start-Menü und wählen Sie die Kategorie Geräte aus. Dort können der Sensor und das LED-Anzeigekreuz verbunden werden.   
 
 ## Geräte verbinden
+
+[//]: # (Peter: Geräte verbinden / neuer Screenshot)
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/System einrichten excav PILOT erste Ansicht Geräte V5.png"/>
@@ -61,9 +67,13 @@ Hinweis: Durch den GPS-Empfang über ein globales Satellitennetzwerk und RTK-Kor
 
 ## NTRIP
 
+[//]: # (Peter: NTRP überareitet / neuer Screenshot)
+
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Start V3.png"/>
 </p>
+
+Die Abkürzung NTRIP steht für _Networked Transport of RTCM via Internet Protocol_ und ist ein gängiges Verfahren zur Bereitstellung von RTK-Korrekturdaten über das Internet durch mobile Daten. Die erreichbare Lagegenauigkeit wird je nach GNSS-Korrekturdatendienstleister mit ca. 1 - 3 cm angegeben. Der bekannteste Dienstleister auf dem deutschen Markt ist dabei SAPOS.
 
 Die NTRIP-Funktion wird benötigt, um externe RTK-Korrekturdaten von einem Anbieter für GNSS-Dienste zu beziehen. Klicken Sie auf den Button "+ Hinzufügen", um erstmals eine NTRIP-Verbindung anlegen zu können. Füllen Sie die Eingabefelder mit den verfügbaren Daten des GNSS-Anbieters aus und vergeben Sie einen geeigneten Namen, insbesondere wenn später mehrere NTRIP-Verbindungen eingerichtet werden. Da die Arbeit im Freien auf Baustellen erfolgt, werden für eine Internetverbindung mobile Daten über eine eingesetzte SIM-Karte benötigt. 
 
@@ -76,7 +86,7 @@ Sobald die Internet- und NTRIP-Verbindung aktiv sind und aufgrund Blick auf den 
 Mehr Informationen finden Sie auf der dazugehörigen Unterseite [App/Startmenü/NTRIP](../NTRIP/NTRIP.md)
 
 
-## Baggerschaufel/Werkzeug vermessen
+## Baggerschaufel/Werkzeug kalibrieren
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Werkzeug 3.jpg"/>
@@ -84,7 +94,7 @@ Mehr Informationen finden Sie auf der dazugehörigen Unterseite [App/Startmenü/
 
 Die nachstehenden Schritte müssen sorgfältig ausgeführt werden, da ansonsten Messfehler entstehen, die sich in der späteren Arbeit immer wieder fortsetzen und Ergebnisse verfälschen. 
 
-Es gibt zwei Möglichkeiten ein Werkzeug erstmals zu kalibrieren: Das Eingabeverfahren mit ermittelten Messwerten sowie das Antastverfahren über das Werkzeug mit dem Sensor. Das Antastverfahren ist einfacher realisierbar und daher bei der ersten Einrichtung empfehlen.   
+Es gibt zwei Möglichkeiten ein Werkzeug erstmals zu kalibrieren: Das **Eingabeverfahren** mit ermittelten Messwerten sowie das **Antastverfahren** über das Werkzeug mit dem Sensor. Das Antastverfahren ist einfacher realisierbar und daher bei der ersten Einrichtung zu empfehlen.   
 
 **1. Antastverfahren**
 

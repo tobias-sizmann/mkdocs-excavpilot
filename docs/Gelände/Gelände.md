@@ -6,6 +6,8 @@
 
 # Gelände
 
+[//]: # (Peter: Gelände überarbeitet / neuer Erklärung hier angelegt)
+
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Arbeitsplatz Gelände.jpg"/>
 </p>
