@@ -6,7 +6,10 @@
 
 # System einrichten
 
-Im Folgenden werden Sie von der erstmaligen Inbetriebnahme der App bis zur vollständigen Systemeinrichtung geleitet. Nähere Informationen erfahren Sie unter den Themenseiten. 
+Lesen Sie sich bitte die folgenden Unterpunkte sorgfältig durch und starten Sie anschließend die excav PILOT App auf dem mitgelieferten Tablet. Vergewissern Sie sich bitte davor, dass die einzelnen Geräte gemäß dem vorherigen Abschnitt „System aufbauen und anbringen“ richtig aufgestellt bzw. am Stiel und der Baggerschaufel oder dem Werkzeug befestigt wurden.
+Es gibt eine ausführliche [Videoanleitung auf YouTube](https://www.youtube.com/watch?v=dZmhDPmHHl0&t=224s), in der ein komplettes erstmaliges Setup im Detail durchgeführt und erklärt wird. Wir raten Erstnutzern, bei der Systemeinrichtung des excav PILOT auf die Videoanleitung zurückzugreifen und den Leitfaden nur unterstützend zu verstehen.
+
+<br>
 
 # Einführung
 
@@ -22,19 +25,12 @@ In der App können Sie über Menü/Geräte Ihren GNSS-Sensor mit dem dazugehöri
 !!! warning "**Kein Arbeitsplatz aktiv**"
 Um Ihre Fortschritte speichern zu können, benötigen Sie einen aktiven Arbeitsplatz. Legen Sie sich entweder einen neuen Arbeitsplatz an, oder laden Sie einen bereits vorhandenen Arbeitsplatz hoch. Weitere Informationen finden Sie unter [App/Startmenü/Arbeitsplatz](../Arbeitsplatz/Arbeitsplatz.md).
 
+<br>
+
 # System erstmals einrichten 
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Start V2.png"/>
-</p>
-
-Lesen Sie sich bitte die folgenden Unterpunkte sorgfältig durch und starten Sie anschließend die excav PILOT App auf dem mitgelieferten Tablet. Vergewissern Sie sich bitte davor, dass die einzelnen Geräte gemäß dem vorherigen Abschnitt „System aufbauen und anbringen“ richtig aufgestellt bzw. am Stiel und der Baggerschaufel oder dem Werkzeug befestigt wurden.
-Es gibt eine ausführliche [Videoanleitung auf YouTube](https://www.youtube.com/watch?v=dZmhDPmHHl0&t=224s), in der ein komplettes erstmaliges Setup im Detail durchgeführt und erklärt wird. Wir raten Erstnutzern, bei der Systemeinrichtung des excav PILOT auf die Videoanleitung zurückzugreifen und den Leitfaden nur unterstützend zu verstehen. 
-
-## Allgemeines
-
-<p align="center" width="100%">
-  <img width="100%" src="/images_docs/System einrichten excav PILOT erste Ansicht Start.jpg"/>
+  <img width="100%" src="/images_docs/System einrichten excav PILOT erste Ansicht Start V3.png"/>
 </p>
 
 Sobald Sie den excav PILOT erstmals nach der Anbringung der Hardwarekomponenten einrichten möchten, müssen Sie die ersten wichtigen Schritte in der App genau befolgen. Bevor Sie einen neuen Arbeitsplatz anlegen oder laden können, müssen als Erstes die Grundfunktionen (siehe Geräte, NTRIP und Werkzeuge) im Start-Menü oben links eingerichtet werden. 
@@ -44,12 +40,22 @@ Sobald Sie das Tablet aktivieren und die excav PILOT App starten, gelangen sie z
 ## Geräte verbinden
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Geräte V2.jpg"/>
+  <img width="100%" src="/images_docs/System einrichten excav PILOT erste Ansicht Geräte V5.png"/>
 </p>
 
-Es können standardmäßig zwei Geräte, der GNSS-Sensor und das als Hilfestellung dienende LED-Anzeigekreuz verbunden werden. Optional kann eine Basisstation hinzugefügt werden, die gehört jedoch nicht zu den systemrelevanten Hardwarekomponenten. Bevor Sie mit der Konfiguration des Systems starten können, müssen der Sensor, die LED-Anzeige und die optional erhältliche Basisstation verbunden sein. Aktivieren Sie als Erstes den Sensor. 
+Um Geräte gezielt der App hinzuzufügen und systemeinheiten zu koppeln muss Bluetooth aktiviert sein, da die Kommunikation der Geräte zum Tablet über Bluetooth Low Energy erfolgt. Es können standardmäßig zwei Geräte, der GNSS-Sensor und das als Hilfestellung dienende LED-Anzeigekreuz verbunden werden. Optional kann eine Basisstation hinzugefügt werden, die gehört jedoch nicht zu den systemrelevanten Hardwarekomponenten. Bevor Sie mit der Konfiguration des Systems starten können, müssen der Sensor, die LED-Anzeige und die optional erhältliche Basisstation verbunden sein. Schalten Sie den Sensor un das LED-Anzeigekreuz, um sie mit dem Tablet zu koppeln, wobei der Sensor als Komponente für alle weiteren Schritte essenziell ist. 
 
-Im Normalfall wird künftig die Sensoreinheit zuerst angezeigt, die dem System bereits bekannt war. Betätigen Sie "Scannen" und wählen Sie den angezeigten Sensor aus. Die Verbindung kann jederzeit manuell wieder aufgehoben werden. Sollte die Verbindung eines oder mehrerer Geräte fehlschlagen, prüfen Sie bitte zuerst den Akkustand der entsprechenden Geräte und ob sie eingeschaltet sind. Versuchen Sie bei anhaltenden Verbindungsproblemen die Geräte räumlich näher zusammenzubringen bis der Aufbau gelingt und alle Geräte sind.
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/System einrichten excav PILOT erste Ansicht Geräte V2.png"/>
+</p>
+
+Künftig die Sensoreinheit zuerst angezeigt, die dem System bereits bekannt war bzw. zuletzt verbunden war. Im Normalfall wurde nur in Sensor zuvor verbunden und wird folglich wieder vorgeschlagen. Betätigen Sie "Scannen" und wählen Sie den angezeigten Sensor aus. Die Verbindung kann jederzeit manuell wieder aufgehoben werden. Sollte die Verbindung eines oder mehrerer Geräte fehlschlagen, prüfen Sie bitte zuerst den Akkustand der entsprechenden Geräte und ob sie eingeschaltet sind. Versuchen Sie bei anhaltenden Verbindungsproblemen die Geräte räumlich näher zusammenzubringen bis der Aufbau gelingt und alle Geräte sind.
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/System einrichten excav PILOT erste Ansicht Geräte V4.png"/>
+</p>
+
+Die Angabe des Buttons "X Trennen"bedeutet, dass beide Geräte (darunter das optionale LED-Anzeigekreuz) erfolgreich verbunden worden sind und ggf. wieder getrennt werden können.  
 
 Hinweis: Durch den GPS-Empfang über ein globales Satellitennetzwerk und RTK-Korrekturdaten über NTRIP kann die exakte Position des Sensors im Raum bestimmt werden. Um zudem die genaue Ausrichtung zu bestimmen, muss der Sensor zu Beginn oder bei entsprechendem Hinweis (kein GNSS oder GNSS zu ungenau) geschwenkt oder bewegt werden - auch, um den verloren gegangenen GPS-Empfang wiederherzustellen.
 
