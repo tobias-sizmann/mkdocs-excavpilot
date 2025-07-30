@@ -117,13 +117,9 @@ Die Höhe des Referenzpunktes wird durch ein festes Gitternetz dargestellt, wobe
 Sie können eigene Baupläne sowie digitale Geländemodelle in der Arbeitsansicht hochladen. Mehr Informationen hierzu finden Sie nachfolgend in der App unter [Bauplan](../Bauplan/Bauplan.md) und [Gelände](../Gelände/Gelände.md).
 
 [//]: # (todo: Der folgende Abschnitt muss entfernt werden. Existiert nicht mehr. Dagegen wird jetzt die Höhen- und Neigungsabweichung in der Bildschirmecke oben links angezeigt, wenn eine Fläche / Geländemodell aktiv gesetzt wird. Dies muss entsprechend ergänzt werden.)
-## Anzeige der horizontalen und vertikalen Abweichung
+## Ansicht der Höhen- und Neigungsabweichung
 
-Die farblichen Balken auf der linken Seite der Arbeitsansicht stellen das Analogon zur LED-Anzeige am Baggerarm (vgl. LED-Anzeigekreuz) dar, um die Abweichung von der Soll-Höhe und die Neigung zur Horizontalen darzustellen.
-
-Je nach Präferenz oder falls die LED-Anzeige am Baggerarm aus der Fahrerkabine nicht gut einsehbar ist, können hierüber aktuelle Höhen- und Neigungsabweichungen von den Soll-Werten abgelesen werden. Der mittige Strich in beiden Balken bezeichnet den jeweiligen Soll-Wert.
-
-Die Farbgebung der Balken entspricht analog der Farbgebung der LED-Stränge der Anzeige. Sie umfasst Grün (ideale Ausrichtung bis moderate Abweichung), Gelb (erhöhte Abweichung) sowie Rot (erhebliche Abweichung). Andere Farboptionen treten lediglich im Problemfall auf.
+Die Höhen- und Neigungsabweichung erscheint in der oben links in der Arbeitsansicht angezeigt, wenn eine Fläche oder in Geländemodell aktiv ist. Die Farbgebung entspricht analog derselben der LED-Lichtquellen des LED-Anzeigekreuz. 
 
 ## Ansicht Anpassung der primären Arbeitsansicht
 
