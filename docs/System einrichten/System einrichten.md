@@ -67,7 +67,13 @@ Hinweis: Durch den GPS-Empfang über ein globales Satellitennetzwerk und RTK-Kor
 
 Die NTRIP-Funktion wird benötigt, um externe RTK-Korrekturdaten von einem Anbieter für GNSS-Dienste zu beziehen. Klicken Sie auf den Button "+ Hinzufügen", um erstmals eine NTRIP-Verbindung anlegen zu können. Füllen Sie die Eingabefelder mit den verfügbaren Daten des GNSS-Anbieters aus und vergeben Sie einen geeigneten Namen, insbesondere wenn später mehrere NTRIP-Verbindungen eingerichtet werden. Da die Arbeit im Freien auf Baustellen erfolgt, werden für eine Internetverbindung mobile Daten über eine eingesetzte SIM-Karte benötigt. 
 
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/System einrichten excav PILOT erste Ansicht NTRIP V2.png"/>
+</p>
+
 Sobald die Internet- und NTRIP-Verbindung aktiv sind und aufgrund Blick auf den freien Himmel der Aufbau einer GPS-Verbindung möglich ist, können Sie mit der Kalibrierung eines Werkzeuges, wie einer Baggerschaufel, beginnen. Dies erkennt man daran, dass alle drei Symbole oben rechts in der Ansicht (Ausrichtung, GPS-Empfang und NTRIP-Verbindung) in Grün hinterlegt sind. Der Messstab ist nicht erforderlich, da dieser standardmäßig hinterlegt und damit direkt einsatzbereit ist. Daher muss zunächst das gewünschte Werkzeug kalibriert und hinterlegt werden.  
+
+Mehr Informationen finden Sie auf der dazugehörigen Unterseite [App/Startmenü/NTRIP](../NTRIP/NTRIP.md)
 
 
 ## Baggerschaufel/Werkzeug vermessen
