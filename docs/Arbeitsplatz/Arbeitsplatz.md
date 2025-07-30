@@ -85,6 +85,8 @@ Um einen neuen Arbeitsplatz speziell im Format LandXML anzulegen, müssen Sie XX
 
 - Schritt XML-Metadaten
 
+- Erklärung Aufgabe User 
+
 Beachten Sie den Hinweis, dass ungespeicherte Änderungen verloren können. Vergeben Sie dem neuen Arbeitsplatz unter „Bezeichnung“ einen Namen und bestätigen Sie den Vorgang mit „Ok“ oder brechen Sie ihn ab mit „Abbrechen“. Wählen Sie im Anschluss die gewünschte LandXML-Datei aus, die zuvor auf das Tablet hochgeladen worden ist.
 
 ## Arbeitsplatz als DXF
