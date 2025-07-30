@@ -116,10 +116,9 @@ Die Höhe des Referenzpunktes wird durch ein festes Gitternetz dargestellt, wobe
 
 Sie können eigene Baupläne sowie digitale Geländemodelle in der Arbeitsansicht hochladen. Mehr Informationen hierzu finden Sie nachfolgend in der App unter [Bauplan](../Bauplan/Bauplan.md) und [Gelände](../Gelände/Gelände.md).
 
-[//]: # (todo: Der folgende Abschnitt muss entfernt werden. Existiert nicht mehr. Dagegen wird jetzt die Höhen- und Neigungsabweichung in der Bildschirmecke oben links angezeigt, wenn eine Fläche / Geländemodell aktiv gesetzt wird. Dies muss entsprechend ergänzt werden.)
 ## Ansicht der Höhen- und Neigungsabweichung
 
-Die Höhen- und Neigungsabweichung erscheint in der oben links in der Arbeitsansicht angezeigt, wenn eine Fläche oder in Geländemodell aktiv ist. Die Farbgebung entspricht analog derselben der LED-Lichtquellen des LED-Anzeigekreuz. 
+Die Höhen- und Neigungsabweichung erscheint in der oben links in der Arbeitsansicht angezeigt, wenn eine Fläche oder in Geländemodell aktiv ist. Die Farbgebung entspricht analog derselben der LED-Lichtquellen des LED-Anzeigekreuz.
 
 ## Ansicht Anpassung der primären Arbeitsansicht
 
