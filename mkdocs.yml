@@ -40,7 +40,6 @@ nav:
       - Einführung: Einführung/Einführung.md
       - Arbeitsansicht: Arbeitsansicht/Arbeitsansicht.md
       - Startmenü:
-          - Start: Start/Start.md
           - Geräte: Geräte/Geräte.md
           - NTRIP: NTRIP/NTRIP.md
           - Werkzeuge: Werkzeuge/Werkzeuge.md
