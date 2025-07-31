@@ -12,7 +12,7 @@
 
 [//]: # (todo: Bitte nochmal komplett überarbeiten. kurze Anmerkungen: Anstatt "Arbeitsplatz als LandXML/DXF" bitte "Arbeitsplatz aus LandXML/DXF". Der Arbeitsplatz wird aus diesen Dateien generiert und in ein systemeigenes Format überführt.; Werkzeuge sind in einem Arbeitsplatz nicht mehr abgespeichert. Diese werden jetzt separat gespeichert. Ein Arbeitsplatz speichert alles, was du im Designmenü (Füllersymbol in der Arbeitsansicht) sehen kannst.; Es gibt aktuell keine Basisstation. Alle Punkte werden jetzt nicht mehr relativ, sondern absolut erfasst.;  )
 
-[//]: # (Peter: Arbeitsplatz aus LandXML/DXF / Werkzeuge nicht in Arbeitsplatz gespeichert / Infos über Design Menü / Basisstation entfernt / Alle Punkt absolut, statt relativ)
+[//]: # (Peter: Arbeitsplatz aus LandXML/DXF / Werkzeuge nicht in Arbeitsplatz gespeichert / Infos über Design Menü / Thema Basisstation entfernt / Alle Punkte absolut, statt relativ)
 
 Der Menüpunkt „Arbeitsplatz“ bietet eine Reihe von Funktionen, um Arbeitsplätze anzulegen, zu speichern und zu organisieren. Er umfasst derzeit folgende Unterpunkte: Neuer Arbeitsplatz, Arbeitsplatz speichern, Arbeitsplatz speichern als, Arbeitsplatz aus LandXML, Arbeitsplatz aus DXF sowie Referenzpunkt verschieben.
 
@@ -54,7 +54,9 @@ Um einen neuen Arbeitsplatz anzulegen, müssen Sie einen neuen Referenzpunkt set
 
 [//]: # (todo: Von der alten App. Bitte überarbeiten. siehe Kommentar oben)
 
-Die Funktion "Arbeitsplatz speichern" nutzen Sie, um alle erfassten – für den Arbeitsbereich der Baustelle relevanten – Werte und Einstellungen dauerhaft zu speichern. Sie haben hierfür zwei Optionen. Entweder Sie erstellen eine neue Datei (Neu anlegen) oder überschreiben einen bereits existierenden Arbeitsplatz (Überschreiben). Abgespeichert werden folgende Informationen:
+[//]: # (Peter: Thema Werkzeuge entfernt)
+
+Die Funktion "Arbeitsplatz speichern" nutzen Sie, um alle für den Arbeitsbereich der Baustelle relevanten Werte und Einstellungen dauerhaft zu speichern. Sie haben hierfür zwei Optionen. Entweder Sie erstellen eine neue Datei (Neu anlegen) oder überschreiben einen bereits existierenden Arbeitsplatz (Überschreiben). Abgespeichert werden folgende Informationen:
 
 • Alle erfassten Punkte inklusive Referenzpunkt
 
@@ -63,8 +65,6 @@ Die Funktion "Arbeitsplatz speichern" nutzen Sie, um alle erfassten – für den
 • Die aktuell aktive Fläche mit eingestelltem Versatz und aktiver Werkzeugecke
 
 • Den aktuell geladenen und entsprechend ausgerichteten Bauplan
-
-• Alle erstellten Werkzeuge (z.B. Baggerschaufel oder andere)
 
 Bitte beachten Sie, dass Sie alle Änderungen manuell erneut abspeichern müssen. Schließen Sie die App, dann gehen alle nicht abgespeicherten Änderungen verloren (Minimieren der App ist dagegen kein Problem und führt nicht zu Datenverlust). Ob Sie ungespeicherte Änderungen in Ihrem Arbeitsplatz haben, können Sie ganz unten im Funktionsbildschirm überprüfen.
 
@@ -79,53 +79,7 @@ Bitte beachten Sie, dass Sie alle Änderungen manuell erneut abspeichern müssen
 
 Um einen neuen Arbeitsplatz speziell im Format LandXML in der App anzulegen, müssen Sie einen vorhandenen Baustellenplan als LandXML-Datei zunächst auf das Tablet hochladen und lokal ablegen. Wenn Sie die Funktion Gelände auswählen, werden Sie gebeten über "+ XML importieren" eine LandXML-Datei vom Tablet auszuwählen. Als Nächstes müssen Sie exakte Angaben zu den XML-Metadaten der Datei für das Geo-Referenz- und Höhen-Referenzsystem machen, die Sie im Vorfeld vom Planungs- oder Ingenieuersbüro erhalten.
 
-Über Art und Umfang der erforderlichen Angaben entscheidet maßgeblich die Wahl des Geo-Referenzsystems. Sollten die eingebenen Daten oder Einstellungen sowie die Beschaffenheit der LandXML-Datei nicht miteinander übereinstimmen, wird automatisch eine Fehlermeldung ausgelöst. 
-
-
-**Auswahloption: Referenzsystem ETRS89/UTM**
-
-Für das Geo-Referenzsystem sind folgende Angaben erforderlich: 
-
-- Referenzsystem: Wählen Sie die Option ETRS89/UTM aus
-
-- Layout: NorthEastAlt (Zone: 32 / 33) / EastNorthAlt (Zone: 32 / 33)/ NorthZonedEastAlt / ZonedEastNorthAlt
-
-Für das Höhen-Referenzsystem sind folgende Angaben erforderlich: 
-
-- Referenzsystem: Wählen Sie zwischen den Optionen DHHN und Ellipsoid aus
-
-
-**Auswahloption: Referenzsystem DHDN/GK3**
-
-Für das Geo-Referenzsystem sind folgende Angaben erforderlich: 
-
-- Referenzsystem: Wählen Sie die Option DHDN/GK3 aus
-
-- Layout: HochRechtsAlt (Zone: 2 / 3/ 4) / RechtsHochAlt (Zone: 2 / 3 / 4) / HochZonedRechtsAlt / ZonedRechtsHochAlt
-
-- Bundesland: Auswahl des betreffenden Bundeslandes
-
-Für das Höhen-Referenzsystem sind folgende Angaben erforderlich: 
-
-- Referenzsystem: Wählen Sie zwischen den Optionen DHHN und Ellipsoid aus
-
-
-**Vorgang XML kalibrieren**
-
-Punkte oder Punktewolken in LandXML-Dateien sind zwar absolut als reale Punkte auf der Erde referenziert, doch es können etwaige Fehler und Abweichungen auftreten, wodurch Abweichungen zwischen den vordefinierten LandXML-Punkten und realen Punkten später mittels des Messstabs auf der Baustelle möglich sind. Über die Funktion XML kalibrieren können Sie bestimmen, dass reale Punkte auf der Baustelle genutzt werden, um die Bauplanansicht der LandXML-Datei daran auszurichten. Der Punkt bzw. die Punkte innerhalb der LandXML-Datei werden um die Differenz entsprechend verschoben. Wählen Sie mindestens einen Punkt aus, damit dieser mit einem eingmessenen Punkt der Wahl in Übereinstimmung gbracht wird.   
-
-Beachten Sie den Hinweis, dass ungespeicherte Änderungen verloren können. Vergeben Sie dem neuen Arbeitsplatz unter „Bezeichnung“ einen Namen und bestätigen Sie den Vorgang mit „Ok“ oder brechen Sie ihn ab mit „Abbrechen“. Wählen Sie im Anschluss die gewünschte LandXML-Datei aus, die zuvor auf das Tablet hochgeladen worden ist.
-
-
-## Arbeitsplatz als DXF
-
-<p align="center" width="100%">
-<img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Arbeitsplatz 4.jpg"/>
-</p>
-
-[//]: # (todo: Ist noch Beta und sollte hier erstmal entfernt werden.)
-
-Um einen neuen Arbeitsplatz speziell im Format DXF anzulegen, müssen Sie einen neuen Referenzpunkt setzen. Beachten Sie den Hinweis, dass ungespeicherte Änderungen verloren können. Vergeben Sie dem neuen Arbeitsplatz unter „Bezeichnung“ einen Namen und bestätigen Sie den Vorgang mit „Ok“ oder brechen Sie ihn ab mit „Abbrechen“. Wählen Sie im Anschluss die gewünschte DXF-Datei aus, die zuvor auf das Tablet hochgeladen worden ist.
+Über Art und Umfang der erforderlichen Angaben entscheidet maßgeblich die Wahl des Geo-Referenzsystems. Sollten die eingebenen Daten oder Einstellungen sowie die Beschaffenheit der LandXML-Datei nicht miteinander übereinstimmen, wird automatisch eine Fehlermeldung ausgelöst.
 
 
 ## Referenzpunkt verschieben
@@ -135,3 +89,17 @@ Um einen neuen Arbeitsplatz speziell im Format DXF anzulegen, müssen Sie einen 
 </p>
 
 Ein Referenzpunkt kann ebenfalls nachträglich verschoben werden. Beachten Sie den Hinweis, dass ungespeicherte Änderungen verloren gehen können. Vergeben Sie dem neuen Arbeitsplatz einen Namen und bestätigen Sie den Vorgang mit „Ok“ oder brechen Sie ihn ab mit „Abbrechen“.
+
+
+## Referenzpunkt neu setzen
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Referenzpunkt.jpg"/>
+</p>
+
+Diese Funktion erlaubt eine Neuermittlung des Referenzpunkts, falls erforderlich. Das Setzen des Referenzpunktes wird automatisch zu Beginn der Erstellung eines Arbeitsplatzes abgefragt.
+
+!!! warning "Setzen des Referenzpunktes"
+
+Wenn Sie den Referenzpunkt neu setzen, werden alle erfassten und eingestellten Punkte oder Flächen um die Differenz zwischen dem aktuellen Referenzpunkt und dem neuen Referenzpunkt verschoben und sind somit nicht mehr gültig.
+Wenn die Basisstation neu gestartet wurde oder eine neue Positionserfassung durchgeführt wurde, kann durch erneutes Setzen des Referenzpunktes an der Stelle des alten die Arbeitsfläche wieder zur Baustelle synchronisiert werden.

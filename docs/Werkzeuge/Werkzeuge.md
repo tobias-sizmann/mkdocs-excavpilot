@@ -54,24 +54,6 @@ Hinweis: Beachten Sie bitte, dass Ihre Werkzeuge nur lokal in Ihrem Arbeitsplatz
 
 [//]: # (todo: Ist auch von der alten App und muss überarbeitet werden, auch wenn es sinngemäß stimmt. Der zweite Teil (Ebene/Höhenversatz) hat mit Werkzeugecke nichts zu tun und muss entfernt werden.)
 
-Diese Funktion bietet Ihnen die Möglichkeit, Ihre während der Kalibrierung festgelegte Schaufel- oder Werkzeugecke (primär notwendig zum Antasten von Punkten) zu wechseln. Je weiter die Schaufel- oder Werkzeugecke vom Sensor entfernt ist, desto größer wird der Messfehler.
-Wir empfehlen daher, im Normalfall die Mitte oder die rechte Schaufel- oder Werkzeugecke (bei Montage des Sensors auf der rechten Seite) zu nutzen. Sollte der Sensor ausnahmsweise links montiert sein, empfehlen wir folglich die Mitte oder die linke Schaufel- oder Werkzeugecke.
+Diese Funktion bietet Ihnen die Möglichkeit, Ihre während der Kalibrierung festgelegte Schaufel- oder Werkzeugecke (primär notwendig zum Antasten von Punkten) während der Nutzung nachträglich zu wechseln. Je weiter die Schaufel- oder Werkzeugecke vom Sensor entfernt ist, desto größer wird der Messfehler.
 
-Nachdem Sie Ihre Ebene (Ist-Fläche) erstellt haben, müssen Sie einen Höhenversatz wählen, um so die Soll-Fläche in Ihrer Arbeitsansicht zu definieren. Sie können dabei einstellen, ob Sie einen Versatz nach oben (z.B. hilfreich, wenn Erde aufgeschüttet werden soll) oder einen Versatz nach unten (z.B. hilfreich, wenn Erde abgetragen werden soll) haben möchten.
-Der Versatz kann vertikal oder orthogonal bemessen werden. Vertikaler Versatz bemisst sich senkrecht zur Horizontalen, wohingegen orthogonaler Versatz orthogonal zur Ursprungsebene gemessen wird.
-
-
-[//]: # (todo: Referenzpunkt hat mit Werkzeug nichts zu tun)
-
-## Referenzpunkt neu setzen
-
-<p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Referenzpunkt.jpg"/>
-</p>
-
-Diese Funktion erlaubt eine Neuermittlung des Referenzpunkts, falls erforderlich. Das Setzen des Referenzpunktes wird automatisch zu Beginn der Erstellung eines Arbeitsplatzes abgefragt.
-
-!!! warning "Setzen des Referenzpunktes"
-
-Wenn Sie den Referenzpunkt neu setzen, werden alle erfassten und eingestellten Punkte oder Flächen um die Differenz zwischen dem aktuellen Referenzpunkt und dem neuen Referenzpunkt verschoben und sind somit nicht mehr gültig.
-Wenn die Basisstation neu gestartet wurde oder eine neue Positionserfassung durchgeführt wurde, kann durch erneutes Setzen des Referenz-punktes an der Stelle des alten die Arbeitsfläche wieder zur Baustelle synchronisiert werden.
+Wir empfehlen daher, im Normalfall die Mitte oder die rechte Schaufel- oder Werkzeugecke (bei Montage des Sensors auf der rechten Seite) zu nutzen. Sollte der Sensor ausnahmsweise links montiert sein, empfehlen wir folglich die Mitte oder die linke Schaufel- oder Werkzeugecke zu wählen.
