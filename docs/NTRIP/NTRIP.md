@@ -111,7 +111,7 @@ In der Kopfleiste befindet sich ganz rechts das Icon zur Darstellung des NTRIP-E
 
 **Farbgebung**
 
-- Grau: Keine Verbindung | z.B. kein Internet oder kein Caster verbunden
+- Grau: Keine Verbindung | z.B. keine Internetverbindung oder kein Caster verbunden
 
 - Blau: Verbindung ist im Aufbau befindlich
 

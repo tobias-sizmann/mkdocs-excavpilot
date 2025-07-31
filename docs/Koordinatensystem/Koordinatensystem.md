@@ -16,7 +16,7 @@ Unter dem Menüpunkt „Koordinatensystem“ erhalten Sie die Möglichkeit ein d
 
 # Anwendungsbeispiel: Koordinatensystem in 2D
 
-Das Anlegen eines Koordinatensystems ermöglicht Ihnen einen zweidimensionalen Raum präzise zu definieren und Punkte darin zu bestimmen, auch wenn kein externer Bauplan als Datei für die Positionsbestimmung vorliegt. Als Mittelpunkt eines neu angelegten Koordinatensystems kann ein wichtiger Referenzpunkt in der Beauplanung - beispielsweise die Ecke eines Zauns oder Gatters - definiert werden. Von diesem ausgehend kann eine Zaunseite als Linie für die x-Achse definiert werden, eine weitere im 90° Winkel als die Linie für die y-Achse. Dadurch kann der Nutzer ausgehend vom Mittelpunkt des Koordinatensystems und ohnen einen externen Bauplan einzelne Punkte einmessen, Linien und Geraden ziehen sowie erste Flächen erstellen.
+Das Anlegen eines Koordinatensystems ermöglicht Ihnen einen zweidimensionalen Raum präzise zu definieren und Punkte darin zu bestimmen, auch wenn kein externer Bauplan als Datei für die Positionsbestimmung vorliegt. Als Mittelpunkt eines neu angelegten Koordinatensystems kann ein wichtiger Referenzpunkt in der Beauplanung - beispielsweise die Ecke eines Zauns oder Gatters - definiert werden. Von diesem ausgehend kann eine Zaunseite als Linie für die x-Achse definiert werden, eine weitere im 90° Winkel als die Linie für die y-Achse. Dadurch kann der Nutzer ausgehend vom Mittelpunkt des Koordinatensystems und ohne einen externen Bauplan einzelne Punkte einmessen, Linien und Geraden ziehen sowie erste Flächen erstellen.
 
 **Beispiel für Koordinatensystem in 2D**
 
@@ -32,6 +32,6 @@ Als Mittelpunkt eines neu angelegten Koordinatensystems kann ein wichtiger Refer
 
 **Beispiel für Koordinatensystem in 3D**
 
-Ausgehend vom Mittelpunkt (Eckpfosten eines Zauns oder Gatters) werden zwei zueinander im 90° Winkel stehende Zäune jeweils als Linien für die x- und y-Achse verwendet. Zusätzlich wird eine vertikale Linie oder Lot (beispielsweise der Eckpfosten) als z-Achse durch den Mittelpunkt gezogen, um eine dreidimensionale Positionsestimmung zu ermöglichen.
+Ausgehend vom Mittelpunkt (Eckpfosten eines Zauns oder Gatters) werden zwei zueinander im 90° Winkel stehende Zäune jeweils als Linien für die x- und y-Achse verwendet. Zusätzlich wird eine vertikale Linie oder Lot (beispielsweise der Eckpfosten) als z-Achse durch den Mittelpunkt gezogen, um eine dreidimensionale Positionsbestimmung zu ermöglichen.
 
-Dadurch kann im dreidimensionalen Koordinatensystem ein jeweils 100 cm von beiden Achsen entfernter Punkte als erster Referenzpunkt für die Ecke einer horozontalen Fläche definiert und angelegt werden. Zusätzlich kann im dreidimensionalen Raum eine Höhe für die Fläche, beispielsweise als maximale oder Solltiefe, für Erdaushubarbeiten definiert werden.
+Dadurch kann im dreidimensionalen Koordinatensystem ein jeweils 100 cm von beiden Achsen entfernter Punkte als erster Referenzpunkt für die Ecke einer horizontalen Fläche definiert und angelegt werden. Zusätzlich kann im dreidimensionalen Raum eine Höhe für die Fläche, beispielsweise als maximale oder Solltiefe, für Erdaushubarbeiten definiert werden.

@@ -46,12 +46,13 @@ Befestigen Sie den Sensor oberhalb an der Baggerschaufel oder das Werkzeug. Beac
 
 • Der Sensor sollte auf einem vor Geröll und Bauschutt sowie Stößen geschützten Bereich an der Baggerschaufel oder am Werkzeug befestigt werden.
 
-!!! warning "Werkzeug an der Anbringstelle ordentlich säubern"
+!!! warning "Werkzeug an der Anbringstelle ordentlich säubern."
+
 Die Baggerschaufel oder das Werkzeug muss an der Anbringstelle des Sensors sauber und möglichst glatt sein, sodass die Magneten direkt das Metall der Baggerschaufel oder des Werkzeugs berühren und keine Schmutzschicht dazwischen liegt. Wenn diese aus Sand und Lehm besteht, kann dies die Magnetstärke und somit Haftfähigkeit signifikant beeinträchtigen.
 
-!!! warning "Sensor sorgfältig und fest anbringen"
+!!! warning "Sensor sorgfältig und fest anbringen."
 
-Sowohl das Anbringen des Sensors als auch das Einmessen der Baggerschaufel oder des Werkzeug sind von hoher Wichtigkeit. Ist die Einrichtung des Sensors fehlerhaft, so kann dies die Qualität der darauffolgenden Arbeiten reduzieren.
+Sowohl das Anbringen des Sensors als auch das Einmessen der Baggerschaufel oder des Werkzeugs sind von hoher Wichtigkeit. Ist die Einrichtung des Sensors fehlerhaft, so kann dies die Qualität der darauffolgenden Arbeiten reduzieren.
 Die richtige Anbringung des Sensors auf der Baggerschaufel oder des Werkzeugs ist entscheidend für gute Ergebnisse und lässt sich rein textbasiert in einer Anleitung nicht trivial beschreiben. Wir empfehlen daher, dass Sie sich auch mithilfe der grafischen Anleitung in unserem YouTube-Video informieren.
 
 ## Tablet und Tablet-Halterung im Fahrerhaus anbringen

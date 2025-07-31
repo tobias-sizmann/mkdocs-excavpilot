@@ -12,7 +12,7 @@
 
 Das Erstellen von Linien in Form von Strecken und Geraden gehört - neben dem Definieren und Setzen von Punkten - zu den wichtigsten praktischen Anwendungen. Die Bestimmung einer Linie erfordert mindestens zwei Punkte im zweidimensionalen Raum und unterteilt sich in zwei arten: Strecken und Geraden. Eine Strecke ist eine begrenzt lange Linie innerhalb von zwei Punkten, eine Gerade hingegen ist eine unbegrenzt lange Linie zwischen zwei Punkten. In der Länge begrenzte Linien wie Strecken eignen sich daher ideal für das Erstellen von geometrischen Körpern, wie Baugruben, welche exakte Angaben zur Kantenlänge erfordern.
 
-Unter dem Menüpunkt „Linien“ erhalten Sie die Möglichkeit Punkte zu Linien zusammenzuführen sowie neue Linien zu hinterlegen und zu speichern. Unter Einstellungen (Zahnradsymbol rechtsoben) haben Sie die Möglichkeit sich die Informationen zu zahlreichen Angaben im Hinblick auf Strecken, Polylinien und Polyeder darstellen zu lassen oder bei Bedarf auszublenden.
+Unter dem Menüpunkt „Linien“ erhalten Sie die Möglichkeit Punkte zu Linien zusammenzuführen sowie neue Linien zu hinterlegen und zu speichern. Unter Einstellungen (Zahnradsymbol rechts oben) haben Sie die Möglichkeit, sich die Informationen zu zahlreichen Angaben im Hinblick auf Strecken, Polylinien und Polyeder darstellen zu lassen oder bei Bedarf auszublenden.
 
 ## Linien als Strecken und Geraden
 
@@ -36,7 +36,7 @@ Sie können in der Kartenansicht der Arbeitsansicht Strecken bzw. Geraden abbild
   <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Arbeitsplatz Menü 2-9.jpg"/>
 </p>
 
-Möchten Sie mehrere Punkte geschlossen mit Strecken verbinden, so können Sie einen so genannten Polyeder erstellen. Wählen Sie hierzu 3 oder mehr Punkte in der Reihenfolge aus, in der diese Punkte verbunden werden sollen. Dabei wird Punkt 1 mit Punkt 2, Punkt 2 mit Punkt 3, Punkt 3 mit Punkt 4, usw. verbunden. Der letzte Punkt wird dann wieder mit Punkt 1 verbunden. Mit dieser Funktion lassen sich z.B. Baugruben in der Arbeitsansicht spezifisch einzeichnen.
+Möchten Sie mehrere Punkte geschlossen mit Strecken verbinden, so können Sie einen Polyeder erstellen. Wählen Sie hierzu 3 oder mehr Punkte in der Reihenfolge aus, in der diese Punkte verbunden werden sollen. Dabei wird Punkt 1 mit Punkt 2, Punkt 2 mit Punkt 3, Punkt 3 mit Punkt 4, usw. verbunden. Der letzte Punkt wird dann wieder mit Punkt 1 verbunden. Mit dieser Funktion lassen sich z.B. Baugruben in der Arbeitsansicht spezifisch einzeichnen.
 
 ## Strecken und Geraden löschen
 

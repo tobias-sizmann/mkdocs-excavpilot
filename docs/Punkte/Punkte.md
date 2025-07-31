@@ -12,7 +12,7 @@
 
 Das Definieren und Setzen von Messpunkten zuzüglich zum Referenzpunkt auf der Baustelle ist eine der wichtigsten Funktionen und als Grundlage essenziell für höhere Funktionen, wie das Erstellen von Linien, Geraden, Flächen, Ebenen und geometrischen Formen, wie für Baugruben. Durch den mitgelieferten GNSS-Sensor, den zerlegbaren Messstab und eine Tablethalterung können Nutzer einfach und schnell beliebig viele Punkte erstellen und auflisten.
 
-Unter dem Menüpunkt „Punkt“ erhalten Sie die Möglichkeit den aktuellen Referenzpunkt unter Angabe präziser Entfernungswerte einzusehen sowie neue Punkte per GNSS oder manuell per Eingabe zu hinterlegen und in der Punkteliste zu speichern. Unter Einstellungen (Zahnradsymbol rechtsoben) haben Sie die Möglichkeit die Informationen zu Entfernungswerten darstellen zu lassen oder bei Bedarf auszublenden. Die Funktionen werden im Folgenden näher beschrieben.
+Unter dem Menüpunkt „Punkt“ erhalten Sie die Möglichkeit, den aktuellen Referenzpunkt unter Angabe präziser Entfernungswerte einzusehen sowie neue Punkte per GNSS oder manuell per Eingabe zu hinterlegen und in der Punkteliste zu speichern. Unter Einstellungen (Zahnradsymbol rechts oben) haben Sie die Möglichkeit, die Informationen zu Entfernungswerten darstellen zu lassen oder bei Bedarf auszublenden. Die Funktionen werden im Folgenden näher beschrieben.
 Normale Punkte können, anders als der Referenzpunkt, nachträglich bearbeitet und geändert werden. Zudem lässt sich die Farbe der Punkte für bessere Übersichtlichkeit ebenfalls ändern.
 
 ## Punkte erfassen

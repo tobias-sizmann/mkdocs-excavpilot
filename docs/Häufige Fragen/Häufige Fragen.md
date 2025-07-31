@@ -18,6 +18,6 @@ Nein. Jedes Gesamtsystem kann um eine eigene optionale Basisstation ergänzt wer
 
 Ja, da alles über Magnet bzw. Saugnapf angebracht wird, wird die Baumaschine nicht modifiziert bzw. müssen keine Komponenten angeschraubt oder dauerhaft angeschweißt werden. Folglich können Sie die Systemeinheiten des excav PILOT an angemieteten Baumaschinen einsetzen.
 
-!!! question "Wieviel kostet der Versand?"
+!!! question "Wie viel kostet der Versand?"
 
 Wir übernehmen alle anfallenden Versandkosten. Wir versenden im Normalfall mit DHL. Wenn Sie einen anderen Versanddienstleister wünschen, sprechen Sie uns bitte an.

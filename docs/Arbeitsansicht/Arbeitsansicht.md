@@ -77,7 +77,7 @@ Die Topbar stellt folgende Werte kontinuierlich dar:
 
 Durch das Drücken auf die Symbol-Icons erhalten Sie nähere Informationen zu den angezeigten Werten.
 
-Der Akkustand der LED-Anzeige und des Sensors werden dauerhaft angezeigt. Achten Sie darauf, dass die Akkustände der einzelnen Geräte nicht unter 10% fallen, da sich dies bei Sensor und ggf. der optionalen Basisstation negativ auf die Performanz und somit Genauigkeit auswirken kann. Eine volle Akkuladung reicht für ca. 16 Stunden Einsatzdauer. Die Ladezeit der Geräte beläuft sich in etwa auf 2,5 Stunden.
+Der Akkustand der LED-Anzeige und des Sensors werden dauerhaft angezeigt. Achten Sie darauf, dass die Akkustände der einzelnen Geräte nicht unter 10 % fallen, da sich dies bei Sensor und ggf. der optionalen Basisstation negativ auf die Performanz und somit Genauigkeit auswirken kann. Eine volle Akkuladung reicht für ca. 16 Stunden Einsatzdauer. Die Ladezeit der Geräte beläuft sich in etwa auf 2,5 Stunden.
 
 
 ## Frontalansicht
@@ -114,13 +114,13 @@ Die rechte obere Ansicht in der Arbeitsansicht unterhalb der Kopfleiste visualis
 
 Der primäre Arbeitsplatz informiert den Nutzer über die exakte Position der Baggerschaufel oder des Werkzeugs in Bezug zum Referenzpunkt (REF) und den von Ihnen erfassten Punkten auf der Baustelle. Die aktuelle Höhe nach DHHN (Deutsches Höhenhauptnetz) der ausgewählten Ecke der Baggerschaufel oder des Werkzeugs wird links oben in Meter angezeigt.
 
-Die Höhe des Referenzpunktes wird durch ein festes Gitternetz dargestellt, wobei jedes Quadrat eine 1x1 Meter Fläche beschreibt. Sie können der Bewegung der Baggerschaufel oder des Werkzeugs im Raum frei folgen und jederzeit in die primäre Ansicht tiefer rein- sowie rauszoomen. Die Baggerschaufel oder das Werkzeug werden entsprechend der eingegebenen Schaufel- oder Werkzeugbreite dreidimensional in Dunkelgrau dargestellt. Die ausgewählte Werkzeugecke wird dreidimensional durch einen transparenten Würfel dargestellt, analog zum roten Quadrat an der Werkzeugecke in den Nebenansichten. 
+Die Höhe des Referenzpunktes wird durch ein festes Gitternetz dargestellt, wobei jedes Quadrat eine 1 x 1 Meter Fläche beschreibt. Sie können der Bewegung der Baggerschaufel oder des Werkzeugs im Raum frei folgen und jederzeit in die primäre Ansicht tiefer rein- sowie herauszoomen. Die Baggerschaufel oder das Werkzeug werden entsprechend der eingegebenen Schaufel- oder Werkzeugbreite dreidimensional in Dunkelgrau dargestellt. Die ausgewählte Werkzeugecke wird dreidimensional durch einen transparenten Würfel dargestellt, analog zum roten Quadrat an der Werkzeugecke in den Nebenansichten. 
 
 Sie können eigene Baupläne sowie digitale Geländemodelle in der Arbeitsansicht hochladen. Mehr Informationen hierzu finden Sie nachfolgend in der App unter [Bauplan](../Bauplan/Bauplan.md) und [Gelände](../Gelände/Gelände.md).
 
 ## Ansicht der Höhen- und Neigungsabweichung
 
-Die Höhen- und Neigungsabweichung erscheint in der oben links in der Arbeitsansicht angezeigt, wenn eine Fläche oder in Geländemodell aktiv ist. Die Farbgebung entspricht analog derselben der LED-Lichtquellen des LED-Anzeigekreuz.
+Die Höhen- und Neigungsabweichung erscheint in der oben links in der Arbeitsansicht angezeigt, wenn eine Fläche oder in Geländemodell aktiv ist. Die Farbgebung entspricht analog derselben der LED-Lichtquellen des LED-Anzeigekreuzes.
 
 ## Ansicht Anpassung der primären Arbeitsansicht
 

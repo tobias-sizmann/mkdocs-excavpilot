@@ -25,9 +25,9 @@ Das aktuelle Werkzeug wird unter dem Reiter „Aktuell ausgewählt“ dargestell
 
 [//]: # (Peter: Bereich überarbeitet / Eingabeverfahren / Antastverfahren)
 
-Für die Durchführung präziser Erdarbeiten stehen die wichtigsten Werkzeuge für Baumaschinen zur Verfügung. Aktuell können folgende Arten von Werkzeugen genutzt werden: Der Messstab als standardmäßig hinterlegtes Werkzeug für das Einmessen von Punkten sowie der Baggerlöffel, die Baggerschaufel und der Planierschild für Erdarbeiten im Bau. 
+Für die Durchführung präziser Erdarbeiten stehen die wichtigsten Werkzeuge für Baumaschinen zur Verfügung. Aktuell können folgende Arten von Werkzeugen genutzt werden: der Messstab als standardmäßig hinterlegtes Werkzeug für das Einmessen von Punkten sowie der Baggerlöffel, die Baggerschaufel und der Planierschild für Erdarbeiten im Bau. 
 
-Die Kalibrierung der Werkzeuge erfolgt über zwei Verfahrensweisen: Das so genannte Eingabe- oder Antastverfahren. Für den Messstab ist eine Höhenangabe erforderlich. Der Schild kann derzeit nur durch das Antastverfahren hinterlegt werden.
+Die Kalibrierung der Werkzeuge erfolgt über zwei Verfahrensweisen: Das Eingabe- oder Antastverfahren. Für den Messstab ist eine Höhenangabe erforderlich. Der Schild kann derzeit nur durch das Antastverfahren hinterlegt werden.
 
 • Die Hinterlegung des Baggerlöffels als Werkzeug erfordert als Angaben die Höhe, Breite, Einrückung in cm und eine Bezeichnung des Werkzeugs (per Eingabeverfahren). Das Werkzeug ist nicht direkt an einem Arbeitsplatz gebunden. 
 
@@ -38,7 +38,7 @@ Die Kalibrierung der Werkzeuge erfolgt über zwei Verfahrensweisen: Das so genan
 
 **Kalibrierung des Messstabs**
 
-Der Messstab ist standardmäßig hinterlegt und erfordert die Höhe ab der Platte in cm per Eingabeverfahren. Der Messstab lässt sich einfach kalbrieren. Hierzu muss der Sensor mit Starkmagneten auf die Montageplatte platziert werden nd der Messstab als Werkzeug ausgewählt werden. Wichtig zu bedenken ist, dass der Sensor bereits von Werk ab derart eingestellt ist, dass er automatisch hochpräzise auf die Spitze des mitgelieferten Messstabs herunterrechnet, auch im geneigten Zustand. Folglich wrerden Punkte derart aufgenommen, als würde der Sensor sich räumlich selbst direkt über den Punkt befinden und ihn einmessen.  
+Der Messstab ist standardmäßig hinterlegt und erfordert die Höhe ab der Platte in cm per Eingabeverfahren. Der Messstab lässt sich einfach kalibrieren. Hierzu muss der Sensor mit Starkmagneten auf die Montageplatte platziert werden und der Messstab als Werkzeug ausgewählt werden. Wichtig zu bedenken ist, dass der Sensor bereits von Werk ab derart eingestellt ist, dass er automatisch hochpräzise auf die Spitze des mitgelieferten Messstabs herunterrechnet, auch im geneigten Zustand. Folglich werden Punkte derart aufgenommen, als würde der Sensor sich räumlich selbst direkt über den Punkt befinden und ihn einmessen.  
 
 
 ## Verfahren zur Kalibrierung
@@ -51,7 +51,7 @@ Es gibt grundsätzlich zwei Möglichkeiten ein Werkzeug erstmals zu kalibrieren:
 
 Für das Antastverfahren benötigen Sie einen statischen Basispunkt auf dem Boden, der sich gut merken und wieder ansteuern lässt. Definieren Sie den Basispunkt, indem Sie den Sensor exakt mittig darauf platzieren und drücken Sie auf "Punkt erfassen". 
 
-Als nächstes platzieren Sie den Sensor mit Blickrichtung zur Fahrerkabine der Baumaschine auf die linke Außenseite des Werkzeugs, um die linke Werkzeugecke zu erfassen. Bewegen Sie das Werkzeug derart, dass die linke Werkzeugecke (aus Sicht der Fahrerkabine heraus) an dem Basispunkt aufliegt und erfassen Sie den Punkt. Praktizieren Sie den gleichen Vorgang analog mit der rechten Werkzeugecke und erfassen Sie ebenfalls den Punkt. Nach Abschluss der Punkterfassung müssen Sie dem Werkzeug noch einen geeigneten Namen vergeben.
+Als Nächstes platzieren Sie den Sensor mit Blickrichtung zur Fahrerkabine der Baumaschine auf die linke Außenseite des Werkzeugs, um die linke Werkzeugecke zu erfassen. Bewegen Sie das Werkzeug derart, dass die linke Werkzeugecke (aus Sicht der Fahrerkabine heraus) an dem Basispunkt aufliegt und erfassen Sie den Punkt. Praktizieren Sie den gleichen Vorgang analog mit der rechten Werkzeugecke und erfassen Sie ebenfalls den Punkt. Nach Abschluss der Punkterfassung müssen Sie dem Werkzeug noch einen geeigneten Namen vergeben.
 
 **2. Eingabeverfahren**
 
@@ -59,12 +59,12 @@ Für das Eingabeverfahren werden exakte Angaben zum Werkzeug benötigt, damit de
 
 Für das manuelle Eingabeverfahren wird das mitgelieferte Kalibriertool benötigt. Die Anleitung zur genauen Herangehensweise mit dem Kalibriertool erfahren Sie im nachfolgenden Abschnitt.
 
-Auf diese Weise können alle wichtigen Arten von Werkzeugen an gängigen Baumaschinen für Tief- und Straßenbauarbeiten (Klein- und Großbagger, Radlader, Planierraupen, Kompaktlader, Straßenhobel, ähnlich rbeitende Baumaschinen und weitere Messstäbe) erfasst und dauerhaft abgelegt werden.
+Auf diese Weise können alle wichtigen Arten von Werkzeugen an gängigen Baumaschinen für Tief- und Straßenbauarbeiten (Klein- und Großbagger, Radlader, Planierraupen, Kompaktlader, Straßenhobel, ähnlich arbeitende Baumaschinen und weitere Messstäbe) erfasst und dauerhaft abgelegt werden.
 
 
 **Beispiel: Kalibrierung der Baggerschaufel**
 
-Das gängigste Werkzeug für Erdarbeiten im Tiefbau sowie Garten- und Landschaftsbau ist typischerweise die klassische Baggerschaufel. Folglich ist diese als Werkzeugtyp standardmäßig hinterlegt und kann mit entsprechender Routine leicht einkalibriert werden. Für die Kalibrierung sind folgende Werte erforderlich: Höhe, Breite, Einrückung vom äußeren Rand aus in cm und die Bezeichnung des Werkzeugs. Für die Kalibrierung der Baggerschaufel sind beide Verfahren geeignet. Erfassen Sie die Werte für Höhe und Breite in cm sowie die Einrückung des Sensors vom äußeren Rand der Baggerschaufel möglichst genau mit einem Zollstock oder Messband. Je genauer und akkurater die Werte sind desto besser, denn Messfehler in der Kalibrierung schleichen sich in allen nachfolgenden Arbeiten ein. Sollte eine Seitenwand der Baggerschaufel minimal überstehen , abgeschliffen oder angeschrägt sein, messen Sie die Distanz bis zum äußersten Punkt der Schaufel- oder Werkzeugschneide in cm.  
+Das gängigste Werkzeug für Erdarbeiten im Tiefbau sowie Garten- und Landschaftsbau ist typischerweise die klassische Baggerschaufel. Folglich ist diese als Werkzeugtyp standardmäßig hinterlegt und kann mit entsprechender Routine leicht einkalibriert werden. Für die Kalibrierung sind folgende Werte erforderlich: Höhe, Breite, Einrückung vom äußeren Rand aus in cm und die Bezeichnung des Werkzeugs. Für die Kalibrierung der Baggerschaufel sind beide Verfahren geeignet. Erfassen Sie die Werte für Höhe und Breite in cm sowie die Einrückung des Sensors vom äußeren Rand der Baggerschaufel möglichst genau mit einem Zollstock oder Messband. Je genauer und akkurater die Werte sind, desto besser, denn Messfehler in der Kalibrierung schleichen sich in allen nachfolgenden Arbeiten ein. Sollte eine Seitenwand der Baggerschaufel minimal überstehen , abgeschliffen oder angeschrägt sein, messen Sie die Distanz bis zum äußersten Punkt der Schaufel- oder Werkzeugschneide in cm.  
 
 
 ## Werkzeug laden

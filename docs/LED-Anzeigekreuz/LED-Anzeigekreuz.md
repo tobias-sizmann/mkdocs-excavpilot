@@ -10,13 +10,13 @@
 
 Das mitgelieferte LED-Anzeigekreuz wird am Arm oder Stiel oberhalb der Baggerschaufel oder des Werkzeugs montiert und bietet eine zusätzliche visuelle Unterstützung bei der Erfassung der aktuellen Werkzeugposition in Relation zur gewünschten Sollhöhe oder -tiefe der Arbeitsfläche.
 
-Die Farbgebung der LED-Stränge umfasst Grün (ideale Ausrichtung bis moderate Abweichung), Gelb (erhöhte bis merkliche Abweichung) sowie Rot (erhebliche Abweichung von der Soll-Höhe).
+Die Farbgebung der LED-Stränge umfasst Grün (ideale Ausrichtung bis moderate Abweichung), Gelb (erhöhte bis merkliche Abweichung) sowie Rot (erhebliche Abweichung von der Sollhöhe).
 
-Der **vertikale LED-Strang** informiert über die Höhendifferenz von Schaufel- oder Werkzeugschneide und eingegebener Soll-Höhe:
+Der **vertikale LED-Strang** informiert über die Höhendifferenz von Schaufel- oder Werkzeugschneide und eingegebener Sollhöhe:
 
-- Ein LED-Ausschlag nach oben bedeutet, dass sich die Schaufel- oder Werkzeugschneide noch über der eingegebenen Soll-Höhe befindet und abgesenkt werden sollte.
+- Ein LED-Ausschlag nach oben bedeutet, dass sich die Schaufel- oder Werkzeugschneide noch über der eingegebenen Sollhöhe befindet und abgesenkt werden sollte.
 
-- Ein LED-Ausschlag nach unten bedeutet, dass sich die Schaufel- oder Werkzeugschneide bereits unter der eingegebenen Soll-Höhe befindet und angehoben werden sollte.
+- Ein LED-Ausschlag nach unten bedeutet, dass sich die Schaufel- oder Werkzeugschneide bereits unter der eingegebenen Sollhöhe befindet und angehoben werden sollte.
 
 Der **horizontale LED-Strang** informiert über die Abweichung der frontalen Schaufel- oder Werkzeugneigung zur Flächen-Soll-Neigung:
 

@@ -12,7 +12,7 @@
 
 Ebene oder im dreidimensionalen Raum vertikale oder geneigte Flächen lassen sich am einfachsten über das definieren und Setzen von Punkten sowie das Erstellen von Linien durch Strecken und Geraden anlegen. Zudem haben Nutzer die Möglichkeit Flächen durch ein bis drei einzelne Punkte sowie Angabe eines Neigungswinkels im Raum anzulegen und darzustellen.
 
-Unter dem Menüpunkt „Flächen“ erhalten Sie die Möglichkeit Flächen anhand mehrerer Optionen zu hinterlegen und zu speichern. Unter Einstellungen (Zahnradsymbol rechtsoben) haben Sie die Möglichkeit den Typ und den Höhenversatz darstellen zu lassen oder bei Bedarf auszublenden. Wenn sie eine neuer Fläche erstellen möchten, betätigen Sie den Button „+ Neue Fläche“. Sie gelangen zu einer Ansicht, über die Sie mehrere Möglichkeiten haben, eine Fläche zu erstellen, sowohl über einen als auch über mehrere Punkte.
+Unter dem Menüpunkt „Flächen“ erhalten Sie die Möglichkeit Flächen anhand mehrerer Optionen zu hinterlegen und zu speichern. Unter Einstellungen (Zahnradsymbol rechts oben) haben Sie die Möglichkeit den Typ und den Höhenversatz darstellen zu lassen oder bei Bedarf auszublenden. Wenn sie eine neuen Fläche erstellen möchten, betätigen Sie den Button „+ Neue Fläche“. Sie gelangen zu einer Ansicht, über die Sie mehrere Möglichkeiten haben, eine Fläche zu erstellen, sowohl über einen als auch über mehrere Punkte.
 
 Hinweis: Eine horizontale Fläche ist als Ebene mathematisch unendlich in der Ausdehnung. Durch die Begrenzung durch Linien entsteht aus einer Ebene eine klar definierte Fläche.  
 

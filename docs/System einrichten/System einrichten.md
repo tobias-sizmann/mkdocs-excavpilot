@@ -49,7 +49,7 @@ Sobald Sie das Tablet aktivieren und die excav PILOT App starten, gelangen sie z
   <img width="100%" src="/images_docs/System einrichten excav PILOT erste Ansicht Geräte V5.png"/>
 </p>
 
-Um Geräte gezielt der App hinzuzufügen und systemeinheiten zu koppeln muss Bluetooth aktiviert sein, da die Kommunikation der Geräte zum Tablet über Bluetooth Low Energy erfolgt. Es können standardmäßig zwei Geräte, der GNSS-Sensor und das als Hilfestellung dienende LED-Anzeigekreuz verbunden werden. Optional kann eine Basisstation hinzugefügt werden, die gehört jedoch nicht zu den systemrelevanten Hardwarekomponenten. Bevor Sie mit der Konfiguration des Systems starten können, müssen der Sensor, die LED-Anzeige und die optional erhältliche Basisstation verbunden sein. Schalten Sie den Sensor un das LED-Anzeigekreuz, um sie mit dem Tablet zu koppeln, wobei der Sensor als Komponente für alle weiteren Schritte essenziell ist. 
+Um Geräte gezielt der App hinzuzufügen und Systemeinheiten zu koppeln muss Bluetooth aktiviert sein, da die Kommunikation der Geräte zum Tablet über Bluetooth Low Energy erfolgt. Es können standardmäßig zwei Geräte, der GNSS-Sensor und das als Hilfestellung dienende LED-Anzeigekreuz verbunden werden. Optional kann eine Basisstation hinzugefügt werden, die gehört jedoch nicht zu den systemrelevanten Hardwarekomponenten. Bevor Sie mit der Konfiguration des Systems starten können, müssen der Sensor, die LED-Anzeige und die optional erhältliche Basisstation verbunden sein. Schalten Sie den Sensor und das LED-Anzeigekreuz, um sie mit dem Tablet zu koppeln, wobei der Sensor als Komponente für alle weiteren Schritte essenziell ist. 
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/System einrichten excav PILOT erste Ansicht Geräte V2.png"/>
@@ -102,7 +102,7 @@ Es gibt zwei Möglichkeiten ein Werkzeug erstmals zu kalibrieren: Das **Eingabev
 
 Für das Antastverfahren benötigen Sie einen statischen Basispunkt auf dem Boden, der sich gut merken und wieder ansteuern lässt. Definieren Sie den Basispunkt, indem Sie den Sensor exakt mittig darauf platzieren und drücken Sie auf "Punkt erfassen". 
 
-Als nächstes platzieren Sie den Sensor mit Blickrichtung zur Fahrerkabine der Baumaschine auf die linke Außenseite des Werkzeugs, um die linke Werkzeugecke zu erfassen. Bewegen Sie das Werkzeug derart, dass die linke Werkzeugecke (aus Sicht der Fahrerkabine heraus) an dem Basispunkt aufliegt und erfassen Sie den Punkt. Praktizieren Sie den gleichen Vorgang analog mit der rechten Werkzeugecke und erfassen Sie ebenfalls den Punkt. Nach Abschluss der Punkterfassung müssen Sie dem Werkzeug noch einen geeigneten Namen vergeben.
+Als Nächstes platzieren Sie den Sensor mit Blickrichtung zur Fahrerkabine der Baumaschine auf die linke Außenseite des Werkzeugs, um die linke Werkzeugecke zu erfassen. Bewegen Sie das Werkzeug derart, dass die linke Werkzeugecke (aus Sicht der Fahrerkabine heraus) an dem Basispunkt aufliegt und erfassen Sie den Punkt. Praktizieren Sie den gleichen Vorgang analog mit der rechten Werkzeugecke und erfassen Sie ebenfalls den Punkt. Nach Abschluss der Punkterfassung müssen Sie dem Werkzeug noch einen geeigneten Namen vergeben.
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Werkzeug 5.jpg"/>
