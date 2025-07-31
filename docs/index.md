@@ -45,4 +45,4 @@ Falls Sie das System zum ersten Mal in Betrieb nehmen, starten Sie am besten im 
 
 Nach erfolgreicher Inbetriebnahme finden Sie im Reiter [„App/Arbeitsansicht“](Arbeitsansicht/Arbeitsansicht.md) alle Erklärungen zur App sowie den Funktionen und Einstellungsmöglichkeiten. Die App wird standardmäßig auf dem Tablet installiert ausgeliefert und schrittweise um neue Funktionen für die Baubranche ergänzt.
 
-[//]: # (todo: Dies ist ein Kommentar. Er wird nicht in der Dokumentation auf der Website angezeigt.)
+[//]: # (todo: Dies ist ein interner Kommentar. Er wird nicht in der Dokumentation auf der Webseite angezeigt.)
