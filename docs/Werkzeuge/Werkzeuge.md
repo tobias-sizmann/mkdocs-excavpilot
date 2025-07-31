@@ -21,7 +21,7 @@ Das aktuelle Werkzeug wird unter dem Reiter „Aktuell ausgewählt“ dargestell
   <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Werkzeug 3.jpg"/>
 </p>
 
-[//]: # (todo: Text überarbeiten: Nur kurz erwähnen, dass aktuell Messstab, Löffel, Schaufel und Schild unterstützt werden. Danach einfach möglichst genau auf Antast- und Eingabeverfahren eingehen und ein Beispiel anhand einer Baggerschaufel geben. Vielleicht mögliche Fehlerquellen in der Kalibrierung beachten. Alle anderen Werkzeuge sind dann analog und müssen deshalb nicht gesondert erklärt werden. Messstab allerdings kurz gesondert erklären.)
+[//]: # (Maurice: Text überarbeiten: Nur kurz erwähnen, dass aktuell Messstab, Löffel, Schaufel und Schild unterstützt werden. Danach einfach möglichst genau auf Antast- und Eingabeverfahren eingehen und ein Beispiel anhand einer Baggerschaufel geben. Vielleicht mögliche Fehlerquellen in der Kalibrierung beachten. Alle anderen Werkzeuge sind dann analog und müssen deshalb nicht gesondert erklärt werden. Messstab allerdings kurz gesondert erklären.)
 
 [//]: # (Peter: Bereich überarbeitet / Eingabeverfahren / Antastverfahren)
 
@@ -60,6 +60,11 @@ Für das Eingabeverfahren werden exakte Angaben zum Werkzeug benötigt, damit de
 Für das manuelle Eingabeverfahren wird das mitgelieferte Kalibriertool benötigt. Die Anleitung zur genauen Herangehensweise mit dem Kalibriertool erfahren Sie im nachfolgenden Abschnitt.
 
 Auf diese Weise können alle wichtigen Arten von Werkzeugen an gängigen Baumaschinen für Tief- und Straßenbauarbeiten (Klein- und Großbagger, Radlader, Planierraupen, Kompaktlader, Straßenhobel, ähnlich rbeitende Baumaschinen und weitere Messstäbe) erfasst und dauerhaft abgelegt werden.
+
+
+**Beispiel: Kalibrierung der Baggerschaufel**
+
+Das gängigste Werkzeug für Erdarbeiten im Tiefbau sowie Garten- und Landschaftsbau ist typischerweise die klassische Baggerschaufel. Folglich ist diese als Werkzeugtyp standardmäßig hinterlegt und kann mit entsprechender Routine leicht einkalibriert werden. Für die Kalibrierung sind folgende Werte erforderlich: Höhe, Breite, Einrückung vom äußeren Rand aus in cm und die Bezeichnung des Werkzeugs. Für die Kalibrierung der Baggerschaufel sind beide Verfahren geeignet. Erfassen Sie die Werte für Höhe und Breite in cm sowie die Einrückung des Sensors vom äußeren Rand der Baggerschaufel möglichst genau mit einem Zollstock oder Messband. Je genauer und akkurater die Werte sind desto besser, denn Messfehler in der Kalibrierung schleichen sich in allen nachfolgenden Arbeiten ein. Sollte eine Seitenwand der Baggerschaufel minimal überstehen , abgeschliffen oder angeschrägt sein, messen Sie die Distanz bis zum äußersten Punkt der Schaufel- oder Werkzeugschneide in cm.  
 
 
 ## Werkzeug laden
