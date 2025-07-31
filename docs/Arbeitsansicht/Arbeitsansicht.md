@@ -7,7 +7,7 @@
 # Arbeitsansicht
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht.jpg"/>
+  <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht neu.jpg"/>
 </p>
 
 Nach erfolgreicher Einrichtung des Systems gelangen Sie direkt zur primären Arbeitsansicht, welche die wichtigsten Informationen über die präzise Position der Baggerschaufel oder des Werkzeugs im Raum sowie in Bezug zur Arbeitsfläche bietet und Sie bei Ihren Arbeiten visuell unterstützt. Der Sensor bzw. das Werkzeug werden in der App dreidimensional im Raum dargestellt.
@@ -15,12 +15,14 @@ Der Arbeitsbereich setzt sich aus mehreren Ansichten zusammen, die Aufschluss ü
 
 Über die Buttons in der primären Arbeitsansicht gelangen Sie zu den Dropdown-Menüs, welche wichtige Funktionen und Einstellungsmöglichkeiten für den Umgang mit dem System beinhalten.
 
-[//]: # (todo: Ab hier die Bilder so anpassen, dass entweder nur die angesprochenen Elemente zu sehen sind oder die Elemente visuell hervorgehoben werden. Am Besten vorher einen Löffel kalibrieren, sodass dieser in der Arbeitsansicht zu sehen ist.)
+[//]: # (Maurice: Ab hier die Bilder so anpassen, dass entweder nur die angesprochenen Elemente zu sehen sind oder die Elemente visuell hervorgehoben werden. Am Besten vorher einen Löffel kalibrieren, sodass dieser in der Arbeitsansicht zu sehen ist.)
 
-## Topbar
+[//]: # (Peter: Bilder (neue Screenshots) geändert)
+
+## Ansicht Obere Kopfleiste (Topbar)
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Kopfleiste.jpg"/>
+  <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Kopfleiste neu.jpg"/>
 </p>
 
 Die Topbar stellt folgende Werte kontinuierlich dar:
@@ -81,7 +83,7 @@ Der Akkustand der LED-Anzeige und des Sensors werden dauerhaft angezeigt. Achten
 ## Frontalansicht
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht linksoben.jpg"/>
+  <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht linksoben neu.jpg"/>
 </p>
 
 Die linke obere Ansicht in der Arbeitsansicht unterhalb der Kopfleiste visualisiert die aktiv genutzte Baggerschaufel oder das Werkzeug in einer frontalen 3D-Ansicht (aus der Kabine):
@@ -95,7 +97,7 @@ Die linke obere Ansicht in der Arbeitsansicht unterhalb der Kopfleiste visualisi
 ## Seitenansicht
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht rechtsoben.jpg"/>
+  <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht linksoben neu.jpg"/>
 </p>
 
 Die rechte obere Ansicht in der Arbeitsansicht unterhalb der Kopfleiste visualisiert die Baggerschaufel oder das Werkzeug in einer 3D-Ansicht von der Seite:
@@ -107,7 +109,7 @@ Die rechte obere Ansicht in der Arbeitsansicht unterhalb der Kopfleiste visualis
 ## Hauptarbeitsbereich
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Hauptbereich.jpg"/>
+  <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Hauptbereich neu.jpg"/>
 </p>
 
 Der primäre Arbeitsplatz informiert den Nutzer über die exakte Position der Baggerschaufel oder des Werkzeugs in Bezug zum Referenzpunkt (REF) und den von Ihnen erfassten Punkten auf der Baustelle. Die aktuelle Höhe nach DHHN (Deutsches Höhenhauptnetz) der ausgewählten Ecke der Baggerschaufel oder des Werkzeugs wird links oben in Meter angezeigt.
@@ -123,7 +125,7 @@ Die Höhen- und Neigungsabweichung erscheint in der oben links in der Arbeitsans
 ## Ansicht Anpassung der primären Arbeitsansicht
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Nord.jpg"/>
+  <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Nord neu.jpg"/>
 </p>
 
 Über die auf der rechten Seite der Ansicht befindlichen mittleren Buttons können Sie die Koordinate Absolut-Nord aktivieren oder deaktivieren. Durch Absolut-Nord können Sie die Ansicht des Gitternetzes fixieren oder am Werkzeug ausrichten.
@@ -133,7 +135,7 @@ Sie können die primäre Arbeitsansicht wahlweise von 2D auf 3D wechseln und umg
 ## Ansicht Buttons der primären Arbeitsansicht
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Menü 1.jpg"/>
+  <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Menü 1 neu.jpg"/>
 </p>
 
 Über mehrere Buttons auf der primären Arbeitsansicht können Sie die laufenden Tätigkeiten im Arbeitsplatz schnell und in wenigen Schritten anpassen.
