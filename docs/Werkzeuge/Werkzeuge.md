@@ -23,11 +23,11 @@ Das aktuelle Werkzeug wird unter dem Reiter „Aktuell ausgewählt“ dargestell
 
 [//]: # (todo: Text überarbeiten: Nur kurz erwähnen, dass aktuell Messstab, Löffel, Schaufel und Schild unterstützt werden. Danach einfach möglichst genau auf Antast- und Eingabeverfahren eingehen und ein Beispiel anhand einer Baggerschaufel geben. Vielleicht mögliche Fehlerquellen in der Kalibrierung beachten. Alle anderen Werkzeuge sind dann analog und müssen deshalb nicht gesondert erklärt werden. Messstab allerdings kurz gesondert erklären.)
 
-[//]: # (Peter: XXX)
+[//]: # (Peter: Bereich überarbeitet / Eingabeverfahren / Antastverfahren)
 
-Aktuell stehen folgende Arten von Werkzeugen zur Verfügung: Der Messstab als standardmäßig hinterlegtes Werkzeug für da Einmessen von Punkten sowie Baggerschaufel und Planierschild für Erdarbeiten im Bau. 
+Für die Durchführung präziser Erdarbeiten stehen die wichtigsten Werkzeuge für Baumaschinen zur Verfügung. Aktuell können folgende Arten von Werkzeugen genutzt werden: Der Messstab als standardmäßig hinterlegtes Werkzeug für das Einmessen von Punkten sowie der Baggerlöffel, die Baggerschaufel und der Planierschild für Erdarbeiten im Bau. 
 
-Die Kalibrierung der Werkzeuge erfolgt über das so genannte Eingabe- oder Antastverfahren. Für den Messstab ist eine Höhenangabe erforderlich. Der Schild kann derzeit nur durch das Antastverfahren hinterlegt werden.
+Die Kalibrierung der Werkzeuge erfolgt über zwei Verfahrensweisen: Das so genannte Eingabe- oder Antastverfahren. Für den Messstab ist eine Höhenangabe erforderlich. Der Schild kann derzeit nur durch das Antastverfahren hinterlegt werden.
 
 • Die Hinterlegung des Baggerlöffels als Werkzeug erfordert als Angaben die Höhe, Breite, Einrückung in cm und eine Bezeichnung des Werkzeugs (per Eingabeverfahren). Das Werkzeug ist nicht direkt an einem Arbeitsplatz gebunden. 
 
@@ -38,8 +38,7 @@ Die Kalibrierung der Werkzeuge erfolgt über das so genannte Eingabe- oder Antas
 
 **Kalibrierung des Messstabs**
 
-
-Der Messstab ist standardmäßig hinterlegt und erfordert die Höhe ab der Platte in cm per Eingabeverfahren. Der Messstab lässt sich einfach kalbrieren. Hierzu muss der Sensor mit Starkmagneten auf die Montageplatte platziert werden nd der Messstab als Werkzeug ausgewählt werden.  
+Der Messstab ist standardmäßig hinterlegt und erfordert die Höhe ab der Platte in cm per Eingabeverfahren. Der Messstab lässt sich einfach kalbrieren. Hierzu muss der Sensor mit Starkmagneten auf die Montageplatte platziert werden nd der Messstab als Werkzeug ausgewählt werden. Wichtig zu bedenken ist, dass der Sensor bereits von Werk ab derart eingestellt ist, dass er automatisch hochpräzise auf die Spitze des mitgelieferten Messstabs herunterrechnet, auch im geneigten Zustand. Folglich wrerden Punkte derart aufgenommen, als würde der Sensor sich räumlich selbst direkt über den Punkt befinden und ihn einmessen.  
 
 
 ## Verfahren zur Kalibrierung
