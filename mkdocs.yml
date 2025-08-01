@@ -43,7 +43,6 @@ nav:
           - NTRIP: NTRIP/NTRIP.md
           - Werkzeuge: Werkzeuge/Werkzeuge.md
           - Arbeitsplatz: Arbeitsplatz/Arbeitsplatz.md
-          - Kalibrierung: Kalibrierung/Kalibrierung.md
       - Designmenü:
           - Übersicht: Übersicht/Übersicht.md
           - Koordinatensystem: Koordinatensystem/Koordinatensystem.md
@@ -58,6 +57,7 @@ nav:
   - Erste Schritte:
       - System aufbauen: System aufbauen/System aufbauen.md
       - System einrichten: System einrichten/System einrichten.md
+      - Kalibrierung: Kalibrierung/Kalibrierung.md
 
   - Weitere Informationen:
       - Häufige Fragen: Häufige Fragen/Häufige Fragen.md

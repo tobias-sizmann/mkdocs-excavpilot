@@ -4,29 +4,20 @@
     }
 </style>
 
-# Kalibrierung
+# Kalibrierung und Verfahren
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/XXX.jpg"/>
+  <img width="100%" src="/images_docs/Kalibrierung Mockup (1).jpg"/>
 </p>
 
-Text
+Für die Kalibrierung der Baggerschaufel stehen Ihnen das klassische Engabeverfahren mit genau ermittelten Messwerten sowie das Antastverfahren. Beide Verfahren zur Kalibrierung werden im Rahmen eines Beispiels mit einer Mockup-Baggerschaufel visuell vereinfacht dargestellt. Die nachstehenden Schritte im Rahmen der Kalibrierung müssen sorgfältig ausgeführt werden, da ansonsten Messfehler entstehen, die sich in der späteren Arbeit immer wieder fortsetzen. 
 
-## Titel
 
-<p align="center" width="100%">
-  <img width="100%" src="/images_docs/XXX.jpg"/>
-</p>
-
-Text
-
-## Baggerschaufel/Werkzeug kalibrieren
+## Baggerschaufel oder Werkzeug kalibrieren
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Werkzeug 3.jpg"/>
 </p>
-
-Die nachstehenden Schritte müssen sorgfältig ausgeführt werden, da ansonsten Messfehler entstehen, die sich in der späteren Arbeit immer wieder fortsetzen und Ergebnisse verfälschen. 
 
 Es gibt zwei Möglichkeiten ein Werkzeug erstmals zu kalibrieren: Das **Eingabeverfahren** mit ermittelten Messwerten sowie das **Antastverfahren** über das Werkzeug mit dem Sensor. Das Antastverfahren ist einfacher realisierbar und daher bei der ersten Einrichtung zu empfehlen.   
 
@@ -52,7 +43,7 @@ Für das manuelle Eingabeverfahren wird das mitgelieferte Kalibriertool benötig
 
 Bei manchen Baggerschaufeln oder Werkzeugen sind die Seitenwände leicht angeschrägt oder die Schneide steht etwas über. Messen Sie in diesem Fall die Distanz bis zum äußersten Punkt der Schaufel- oder Werkzeugschneide. Wie Sie die Höhe der Baggerschaufel oder des Werkzeugs mithilfe des Kalibriertools ablesen, wird Ihnen im nächsten Abschnitt erklärt.
 
-## Kalibriertool anbringen
+## Optional: Kalibrierung mit Kalibriertool
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Anleitung & FAQ Anbringung 5.png"/>
@@ -74,9 +65,9 @@ Gehen Sie beim Anbringen des Kalibriertools an der Baggerschaufel oder am Werkze
 
 • Lassen Sie das Kalibriertool mit Meterstab für den nachfolgenden Schritt an der Baggerschaufel oder am Werkzeug befestigt.
 
-**Baggerschaufel/Werkzeug justieren** 
+**Baggerschaufel oder Werkzeug justieren** 
 
-Heben Sie die Baggerschaufel durch Bedienung der Baumaschine als nächstes leicht an und neigen Sie diesen, bis die Spitze des Meterstabs exakt mit der Schneide übereinstimmt. 
+Heben Sie die Baggerschaufel durch Bedienung der Baumaschine als nächstes leicht an und neigen Sie diesen, bis die Spitze des Meterstabs exakt mit der Schneide des Werkeugs übereinstimmt. 
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Anleitung & FAQ Anbringung 6.png"/>
