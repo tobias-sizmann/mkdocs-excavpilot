@@ -1,0 +1,20 @@
+
+# Ablage für später
+
+
+## Arbeitsplatz als DXF
+
+<p align="center" width="100%">
+<img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Arbeitsplatz 4.jpg"/>
+</p>
+
+Um einen neuen Arbeitsplatz speziell im Format DXF anzulegen, müssen Sie einen neuen Referenzpunkt setzen. Beachten Sie den Hinweis, dass ungespeicherte Änderungen verloren können. Vergeben Sie dem neuen Arbeitsplatz unter „Bezeichnung“ einen Namen und bestätigen Sie den Vorgang mit „Ok“ oder brechen Sie ihn ab mit „Abbrechen“. Wählen Sie im Anschluss die gewünschte DXF-Datei aus, die zuvor auf das Tablet hochgeladen worden ist.
+
+
+# Streichung Inhalte
+
+
+**Thema Höhenversatz**
+
+Nachdem Sie Ihre Ebene (Ist-Fläche) erstellt haben, müssen Sie einen Höhenversatz wählen, um so die Soll-Fläche in Ihrer Arbeitsansicht zu definieren. Sie können dabei einstellen, ob Sie einen Versatz nach oben (z.B. hilfreich, wenn Erde aufgeschüttet werden soll) oder einen Versatz nach unten (z.B. hilfreich, wenn Erde abgetragen werden soll) haben möchten.
+Der Versatz kann vertikal oder orthogonal bemessen werden. Vertikaler Versatz bemisst sich senkrecht zur Horizontalen, wohingegen orthogonaler Versatz orthogonal zur Ursprungsebene gemessen wird.
