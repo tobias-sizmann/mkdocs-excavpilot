@@ -3,29 +3,22 @@
         justify-content: center;
     }
 </style>
+# NTRIP
 
-# Was ist NTRIP
+## Was ist NTRIP?
 
-<p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Start 2.png"/>
-</p>
+NTRIP steht für Networked Transport of RTCM via Internet Protocol und ist ein gängiges Verfahren zur Bereitstellung von RTK-Korrekturdaten über das Internet. Die erreichbare **Lagegenauigkeit** wird je nach Korrekturdatendienstleister mit **ca. 1 - 3 cm** angegeben.
 
-!!! info "NTRIP"
+## Was brauche ich für die Nutzung von NTRIP?
 
-NTRIP steht für Networked Transport of RTCM via Internet Protocol und ist ein gängiges Verfahren zur Bereitstellung von RTK-Korrekturdaten über das Internet. Die erreichbare Lagegenauigkeit wird je nach Korrekturdatendienstleister mit ca. 1 - 3 cm angegeben.
+Sie benötigen eine SIM-Karte mit ausreichend Datenvolumen für den **Zugang zu mobilem Internet** und einen professionellen **Dienstleister für die Bereitstellung von RTK-Korrekturdaten**. 
 
-<br>
-
-# Was brauche ich für die Nutzung von NTRIP?
-
-Sie benötigen eine [SIM-Karte](https://excav.de/produkte/) mit ausreichend Datenvolumen für den Zugang zu mobilem Internet und einen professionellen Dienstleister für die Bereitstellung von RTK-Korrekturdaten. 
-
-excav bietet eine eigene Roaming SIM-Karte an, die europaweit nutzbar ist und automatisch das beste Netz auswählt. Die SIM-Karte ist sowohl monatlich aktivierbar als auch deaktivierbar.
+excav bietet eine eigene [Roaming SIM-Karte](https://excav.de/produkte/) an, die europaweit nutzbar ist und automatisch das beste Netz auswählt. Die SIM-Karte ist sowohl monatlich aktivierbar als auch deaktivierbar.
 
 
-# RTK-Korrektur: Empfehlung - SAPOS Heps
+## RTK-Korrektur: Empfehlung - SAPOS Heps
 
-Die Arbeitsgemeinschaft der Vermessungsverwaltungen der Länder der Bundesrepublik Deutschland (AdV) bietet mit SAPOS Heps einen hochgenauen und kostengünstigen Echtzeit-RTK-Korrekturdaten-Service an.
+Die Arbeitsgemeinschaft der Vermessungsverwaltungen der Länder der Bundesrepublik Deutschland (AdV) bietet mit **SAPOS Heps** einen hochgenauen und kostengünstigen Echtzeit-RTK-Korrekturdaten-Service an.
 
 Für jedes Bundesland stehen eigene SAPOS Heps Dienste zur Verfügung. Sie können mit dem jeweiligen Dienst entsprechend Korrekturdaten nur für das betreffende Bundesland beziehen.
 
@@ -67,55 +60,63 @@ In der folgenden Auflistung gelangen Sie zu den Übersichtsseiten der bundesweit
 
 Es gibt weitere national sowie zum Teil international tätige Anbieter, welche in speziellen Anwendungsfällen, wie in Grenznähe zu anderen Staaten oder bei grenzüberschreitenden Projekten im Bau, kostengünstig und hilfreich sind.
 
-<br>
+## Wie verbinde ich mich mit NTRIP?
 
-# Wie verbinde ich mich mit NTRIP?
-
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Start 2.png"/>
+</p>
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht NTRIP 1 2.png"/>
 </p>
-
-<br>
-
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht NTRIP 2.jpg"/>
 </p>
 
-Über den Button "+Hinzufügen" können Sie eine neue NTRIP-Verbindung anlegen. Sie erhalten hier eine Erklärung zu allen relevanten Eingaben:
+Über den Button "Hinzufügen" können Sie eine neue NTRIP-Verbindung anlegen. Sie erhalten nachfolgend eine Erklärung zu allen relevanten Eingaben:
 
 **NTRIP-Daten**
 
-- Bezeichnung: Individuell wählbar - unter welchem Namen soll die NTRIP-Verbindung abgespeichert werden? Vergeben Sie hierzu einen leicht wiedererkennbaren Namen.
+- Bezeichnung: Individuell wählbar - unter welchem Namen soll die NTRIP-Verbindung abgespeichert werden?
 
-- DNS: Domain Name System | Die Internet-Adresse des NTRIP-Casters - wird Ihnen von Ihrem Korrekturdatendienstleister bei Registrierung mitgeteilt;
+- DNS: Domain Name System: Die Internet-Adresse des NTRIP-Casters - wird Ihnen von Ihrem Korrekturdatendienstleister bei Registrierung mitgeteilt;
   Wichtig: Hier den Domain-Namen eingeben (z.B. für SAPOS Deutschland: www.sapos-ntrip.de) und nicht die IP-Adresse
 
 - Port: numerische Adresse auf dem NTRIP-Caster - wird Ihnen von Ihrem Korrekturdatendienstleister bei Registrierung mitgeteilt (für SAPOS: 2101)
 
 - Mountpoint: Kennung des Korrekturdatenstroms - wird Ihnen von Ihrem Korrekturdatendienstleister bei Registrierung mitgeteilt (für SAPOS: VRS_3_4G)
 
-- Username: Der Ihnen von Ihrem Korrekturdatendienstleister (z.B. SAPOS) zugewiesene Nutzername
+- Username: Der Ihnen von Ihrem Korrekturdatendienstleister zugewiesene Nutzername
 
-- Passwort: Das Ihnen von Ihrem Korrekturdatendienstleister (z.B. SAPOS) zugewiesene Passwort
+- Passwort: Das Ihnen von Ihrem Korrekturdatendienstleister zugewiesene Passwort
 
-- Latitude: Breitengrad Ihrer Baustelle | Tipp: Schalten Sie den Sensor an und drücken Sie nach Signalaufbau den Button rechts neben der Eingabe, um Ihre aktuelle Position zu erfassen.
+- Latitude: Breitengrad Ihrer Baustelle; Tipp: Schalten Sie den Sensor an und drücken Sie nach Signalaufbau den Button rechts neben der Eingabe, um Ihre aktuelle Position zu erfassen.
 
-- Longitude: Längengrad Ihrer Baustelle | Tipp: Schalten Sie den Sensor an und drücken Sie nach Signalaufbau den Button rechts neben der Eingabe, um Ihre aktuelle Position zu erfassen.
+- Longitude: Längengrad Ihrer Baustelle; Tipp: Schalten Sie den Sensor an und drücken Sie nach Signalaufbau den Button rechts neben der Eingabe, um Ihre aktuelle Position zu erfassen.
 
 <br>
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Farbbalken 2.png"/>
+  <img width="100%" src="/images_docs/NTRIP4.jpg"/>
 </p>
 
 In der Kopfleiste befindet sich ganz rechts das Icon zur Darstellung des NTRIP-Empfangs. Die verschiedene Farbgebung weist auf den aktuellen Status der NTRIP-Funktionalität hin.
 
-**Farbgebung**
+Grau &nbsp;&nbsp; - &nbsp;&nbsp; <span style="display: inline-flex; align-items: center;">
+      <span style="width: 12px; height: 12px; border-radius: 50%; border: 1px solid grey; display: inline-block; margin-right: 8px;"></span>
+      <span>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Keine Verbindung (z.B. keine Internetverbindung oder kein Caster verbunden)</span>
+</span>
 
-- Grau: Keine Verbindung | z.B. keine Internetverbindung oder kein Caster verbunden
+Blau &nbsp;&nbsp; - &nbsp;&nbsp;  <span style="display: inline-flex; align-items: center;">
+      <span style="width: 12px; height: 12px; border-radius: 50%; border: 1px solid blue; display: inline-block; margin-right: 8px;"></span>
+      <span>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aufbau der Verbindung ist gescheitert</span>
+</span>
 
-- Blau: Verbindung ist im Aufbau befindlich
+Rot &nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;  <span style="display: inline-flex; align-items: center;">
+      <span style="width: 12px; height: 12px; border-radius: 50%; border: 1px solid red; display: inline-block; margin-right: 8px;"></span>
+      <span>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aufbau der Verbindung ist gescheitert</span>
+</span>
 
-- Rot: Aufbau der Verbindung ist gescheitert
-
-- Grün: Erfolgreich verbunden und aktiv
+Grün &nbsp;&nbsp; - &nbsp;&nbsp;  <span style="display: inline-flex; align-items: center;">
+      <span style="width: 12px; height: 12px; border-radius: 50%; border: 1px solid lightgreen; display: inline-block; margin-right: 8px;"></span>
+      <span>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Erfolgreich verbunden und aktiv</span>
+</span>

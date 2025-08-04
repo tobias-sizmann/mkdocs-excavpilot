@@ -6,15 +6,15 @@
 
 # Arbeitsplatz
 
+Die Verwendung von Arbeitsplätzen wird gerade konzeptionell überarbeitet. Eine neue Anleitung folgt in Kürze. 
+
+<!--
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Arbeitsplatz 1.jpg"/>
 </p>
+-->
 
-[//]: # (Maurice: Bitte nochmal komplett überarbeiten. kurze Anmerkungen: Anstatt "Arbeitsplatz als LandXML/DXF" bitte "Arbeitsplatz aus LandXML/DXF". Der Arbeitsplatz wird aus diesen Dateien generiert und in ein systemeigenes Format überführt.; Werkzeuge sind in einem Arbeitsplatz nicht mehr abgespeichert. Diese werden jetzt separat gespeichert. Ein Arbeitsplatz speichert alles, was du im Designmenü (Füllersymbol in der Arbeitsansicht) sehen kannst.; Es gibt aktuell keine Basisstation. Alle Punkte werden jetzt nicht mehr relativ, sondern absolut erfasst.;  )
-
-[//]: # (Peter: Arbeitsplatz aus LandXML/DXF / Werkzeuge nicht in Arbeitsplatz gespeichert / Infos über Design Menü / Thema Basisstation entfernt / Alle Punkte absolut, statt relativ)
-
-Der Menüpunkt „Arbeitsplatz“ bietet eine Reihe von Funktionen, um Arbeitsplätze anzulegen, zu speichern und zu organisieren. Er umfasst derzeit folgende Unterpunkte: Neuer Arbeitsplatz, Arbeitsplatz speichern, Arbeitsplatz speichern als, Arbeitsplatz aus LandXML, Arbeitsplatz aus DXF sowie Referenzpunkt verschieben.
+<!-- Der Menüpunkt „Arbeitsplatz“ bietet eine Reihe von Funktionen, um Arbeitsplätze anzulegen, zu speichern und zu organisieren. Er umfasst derzeit folgende Unterpunkte: Neuer Arbeitsplatz, Arbeitsplatz speichern, Arbeitsplatz speichern als, Arbeitsplatz aus LandXML, Arbeitsplatz aus DXF sowie Referenzpunkt verschieben. 
 
 Die Ansicht des Arbeitsplatzmenüs bietet Zugang zu mehreren Arbeitsplätzen mit Angabe von Datum und Uhrzeit des letzten Bearbeitungsstandes. Ein Arbeitsplatz lässt sich neu erstellen, bearbeiten sowie löschen, falls nicht länger erforderlich. Beachten Sie beim Laden den Hinweis, dass ungespeicherte Änderungen verloren gehen können. Vergeben Sie dem neuen Arbeitsplatz einen Namen und bestätigen Sie den Vorgang mit „Ok“ oder brechen Sie ihn ab mit „Abbrechen“.
 
@@ -34,9 +34,9 @@ Wichtig: Im Arbeitsplatz sind alle Punkte absolut (nicht relativ) zum Referenzpu
 
 !!! warning "Speichern von Daten erforderlich"
 
-Wenn Sie den Arbeitsplatz neu laden, werden alle bisher erfassten und eingestellten Punkte oder Flächen nicht gespeichert und die Daten gehen somit verloren. Speichern Sie zur Sicherheit Ihren aktuellen Arbeitsplatz nach jedem größeren Bearbeitungsschritt, um Datenverluste zu vermeiden.
+Wenn Sie den Arbeitsplatz neu laden, werden alle bisher erfassten und eingestellten Punkte oder Flächen nicht gespeichert und die Daten gehen somit verloren. Speichern Sie zur Sicherheit Ihren aktuellen Arbeitsplatz nach jedem größeren Bearbeitungsschritt, um Datenverluste zu vermeiden. -->
 
-
+<!--
 ## Neuer Arbeitsplatz
 
 <p align="center" width="100%">
@@ -102,4 +102,4 @@ Diese Funktion erlaubt eine Neuermittlung des Referenzpunkts, falls erforderlich
 !!! warning "Setzen des Referenzpunktes"
 
 Wenn Sie den Referenzpunkt neu setzen, werden alle erfassten und eingestellten Punkte oder Flächen um die Differenz zwischen dem aktuellen Referenzpunkt und dem neuen Referenzpunkt verschoben und sind somit nicht mehr gültig.
-Wenn die Basisstation neu gestartet wurde oder eine neue Positionserfassung durchgeführt wurde, kann durch erneutes Setzen des Referenzpunktes an der Stelle des alten die Arbeitsfläche wieder zur Baustelle synchronisiert werden.
+Wenn die Basisstation neu gestartet wurde oder eine neue Positionserfassung durchgeführt wurde, kann durch erneutes Setzen des Referenzpunktes an der Stelle des alten die Arbeitsfläche wieder zur Baustelle synchronisiert werden. -->
