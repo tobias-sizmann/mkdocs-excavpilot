@@ -48,7 +48,7 @@ Der Rover-Stab ist standardmäßig als Werkzeug in der App hinterlegt.
 !!! warning "Wichtig!"
     Bitte verwenden Sie alle vier Komponenten des Rover-Stabs, ansonsten stimmt die Vorabkalibrierung nicht!
 
-Falls Sie Ihren eigenen Rover-Stab mit abweichender Länge kalibrieren möchten, dann muss die Länge von der Stab-Spitze parallel laufend bis zur Gehäuseunterkante des Sensors gemessen werden.
+Falls Sie Ihren eigenen Rover-Stab mit abweichender Länge kalibrieren möchten, dann muss die Länge von der Stab-Spitze parallel laufend bis zur Gehäuseunterkante des Sensors gemessen werden. Achten Sie bei kürzeren Rover-Stäben darauf, dass Sie den Stab zur Punkterfassung möglichst weit vom Körper weghalten (ausgestreckter Arm). 
 
 ## Werkzeug wechseln und Werkzeugecke wechseln
 
