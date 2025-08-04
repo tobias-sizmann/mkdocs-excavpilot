@@ -22,6 +22,7 @@ Sie benötigen eine [SIM-Karte](https://excav.de/produkte/) mit ausreichend Date
 
 excav bietet eine eigene Roaming SIM-Karte an, die europaweit nutzbar ist und automatisch das beste Netz auswählt. Die SIM-Karte ist sowohl monatlich aktivierbar als auch deaktivierbar.
 
+
 # RTK-Korrektur: Empfehlung - SAPOS Heps
 
 Die Arbeitsgemeinschaft der Vermessungsverwaltungen der Länder der Bundesrepublik Deutschland (AdV) bietet mit SAPOS Heps einen hochgenauen und kostengünstigen Echtzeit-RTK-Korrekturdaten-Service an.
