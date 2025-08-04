@@ -99,7 +99,7 @@ Es gibt weitere national sowie zum Teil international tätige Anbieter, welche i
   <img width="100%" src="/images_docs/NTRIP4.jpg"/>
 </p>
 
-In der Kopfleiste befindet sich ganz rechts das Icon zur Darstellung des NTRIP-Empfangs. Die verschiedene Farbgebung weist auf den aktuellen Status der NTRIP-Funktionalität hin.
+In der Kopfleiste befindet sich ganz rechts das Icon zur Darstellung des NTRIP-Empfangs. Die verschiedene Farbgebung weist auf den aktuellen Status der NTRIP-Verbindung hin.
 
 Grau &nbsp;&nbsp; - &nbsp;&nbsp; <span style="display: inline-flex; align-items: center;">
       <span style="width: 12px; height: 12px; border-radius: 50%; border: 1px solid grey; display: inline-block; margin-right: 8px;"></span>
