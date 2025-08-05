@@ -10,8 +10,10 @@
   <img width="100%" src="/images_docs/Anleitung & FAQ Bild 2-Photoroom.png"/>
 </p>
 
-Der GNSS-Sensor ermittelt über ein integriertes GPS-Modul und weitere hochpräzise Sensorik die exakte Position, Ausrichtung und Neigung der Baggerschaufel oder des Werkzeugs und errechnet daraus direkt die Steuer- und Handlungsempfehlungen für den Baumaschinenführer.
+Der GNSS-Sensor ermittelt über ein integriertes GNSS-Modul und weitere hochpräzise Sensorik die exakte Position, Ausrichtung und Neigung des Baggerlöffels und errechnet daraus direkt die Steuerempfehlungen für den Baumaschinenführer.
 
-Die visuelle Darstellung der genauen Lage im Raum des ausgewählten Werkzeugs erfolgt über das Tablet und das LED-Anzeigekreuz. Entsprechend ist eine präzise Anbringung am Werkzeug und Kalibrierung während der Einrichtung des Systems essenziell wichtig für die fortlaufende Qualität der Arbeitsergebnisse, da sich sonst anfängliche Messfehler fortlaufend fortsetzen.
+Die exakte räumliche Position des Löffels wird visuell über das Tablet sowie das LED-Anzeigekreuz dargestellt.
 
-Der oben beschriebene GNSS-Sensor lässt sich optional als weitere GNSS-Sensoreinheit oder als eine eigene Basisstation einzeln erwerben. Nehmen Sie bei Bedarf für weitere Komponenten und Zubehör hierzu direkt excav Kontakt auf oder besuchen Sie die [Produktübersicht](https://excav.de/produkte/) der Webseite.
+Zusätzlich zum Hauptsensor können Sie auch [Zweitsensoren](https://excav.de/produkte/) erwerben, z.B. wenn Sie für bestimmte Bauarbeiten regelmäßig das Werkzeug wechseln müssen. In absehbarer Zeit werden Zweitsensoren optional als stationäre Basisstationen nutzbar sein, etwa in Einsatzszenarien mit eingeschränktem mobilen Datenempfang auf der Baustelle.
+
+

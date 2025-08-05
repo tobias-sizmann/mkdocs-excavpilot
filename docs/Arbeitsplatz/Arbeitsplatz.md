@@ -6,7 +6,7 @@
 
 # Arbeitsplatz
 
-Die Verwendung von Arbeitsplätzen wird gerade konzeptionell überarbeitet. Eine neue Anleitung folgt in Kürze. 
+Die Verwendung von Arbeitsplätzen wird gerade konzeptionell überarbeitet. Eine Anleitung folgt in Kürze. 
 
 <!--
 <p align="center" width="100%">

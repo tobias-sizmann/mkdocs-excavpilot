@@ -29,12 +29,11 @@ nav:
       - Gesamtsystem: Gesamtsystem/Gesamtsystem.md
       - GNSS-Sensor: GNSS-Sensor/GNSS-Sensor.md
       - LED-Anzeigekreuz: LED-Anzeigekreuz/LED-Anzeigekreuz.md
+      - Rover-Stab: Messstab/Messstab.md
       - Tablet und Halterung: Tablet und Halterung/Tablet und Halterung.md
-      - Basisstation: Basisstation/Basisstation.md
-      - Messstab: Messstab/Messstab.md
-      - Transportkoffer: Transportkoffer/Transportkoffer.md
-      - Ladegerät: Ladegerät/Ladegerät.md
+      - Ladegerät und Kabel: Ladegerät/Ladegerät.md
       - Metallrahmen: Metallrahmen/Metallrahmen.md
+      - Transportkoffer: Transportkoffer/Transportkoffer.md
 
   - App:
       - Arbeitsansicht: Arbeitsansicht/Arbeitsansicht.md

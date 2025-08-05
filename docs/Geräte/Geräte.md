@@ -12,8 +12,6 @@
 
 [//]: # (Maurice: Hier sollten wir genauer darauf eingehen, wie der User sich mit einem Gerät verbindet (genauer Ablauf; sowas wie: Gerät anschalten, checken Bluetooth an, Gerät aus Liste auswählen) und was er machen kann, wenn er ein Problem hat. Probleme könnten sein: App findet Gerät nicht; App hat nicht die nötigen Rechte; Sensor schon mit einem anderen Tablet verbunden?)
 
-[//]: # (Peter: Gewünschte Punkte abgearbeitet)
-
 Der Menüpunkt „Geräte“ stellt die zwei standardmäßig vorhandenen Systemeinheiten – den GNSS-Sensor (abgekürzt Sensor) und das LED-Anzeigekreuz – dar. Über den Menüpunkt können Sie die Verbindung zu den Geräten manuell herstellen oder auch trennen sowie die aktuelle Verbindung prüfen, falls Probleme bei der Konnektivität vorliegen sollten.
 
 Um die Geräte hinzuzufügen und mit der App-Anwendung zu verknüpfen, müssen beide Hardwarekomponenten zunächst angeschaltet werden. Beginnen Sie hierbei mit dem Sensor und halten Sie den Button auf der Rückseite kurz gedrückt, is das rückseitige Licht grün aufleuchtet. Beachten Sie bitte, dass Bluetooth auf dem Tablet aktiviert sein muss, da die Kommunikation mit der Komponenten untereinander über Bluetooth Low Energy erfolgt. Sobald die Geräte eingeschaltet und Bluetooth aktiviert sind, betätigen Sie in der App unter dem Menüpunkt "Geräte" den orangen Button "Scannen" als Erstes für den Sensor. 

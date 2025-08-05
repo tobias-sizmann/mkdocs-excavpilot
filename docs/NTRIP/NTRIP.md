@@ -108,7 +108,7 @@ Grau &nbsp;&nbsp; - &nbsp;&nbsp; <span style="display: inline-flex; align-items:
 
 Blau &nbsp;&nbsp; - &nbsp;&nbsp;  <span style="display: inline-flex; align-items: center;">
       <span style="width: 12px; height: 12px; border-radius: 50%; border: 1px solid blue; display: inline-block; margin-right: 8px;"></span>
-      <span>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aufbau der Verbindung ist gescheitert</span>
+      <span>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Verbindung wird aufgebaut</span>
 </span>
 
 Rot &nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;  <span style="display: inline-flex; align-items: center;">
