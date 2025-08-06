@@ -1,0 +1,1473 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../../System%20einrichten/System%20einrichten/">
+      
+      
+        <link rel="next" href="../../H%C3%A4ufige%20Fragen/H%C3%A4ufige%20Fragen/">
+      
+      
+      <link rel="icon" href="../../assets/icon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.16">
+    
+    
+      
+        <title>Kalibrierung - excav PILOT</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.7e37652d.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../css/print-site.css">
+    
+      <link rel="stylesheet" href="../../css/print-site-material.css">
+    
+      <link rel="stylesheet" href="../../styles.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="slate" data-md-color-primary="custom" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#werkzeugkalibrierung-und-verfahren" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="excav PILOT" class="md-header__button md-logo" aria-label="excav PILOT" data-md-component="logo">
+      
+  <img src="../../assets/icon.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            excav PILOT
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Kalibrierung
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="custom" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="excav PILOT" class="md-nav__button md-logo" aria-label="excav PILOT" data-md-component="logo">
+      
+  <img src="../../assets/icon.png" alt="logo">
+
+    </a>
+    excav PILOT
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Startseite
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Komponentenübersicht
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Komponentenübersicht
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Gesamtsystem/Gesamtsystem/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Gesamtsystem
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../GNSS-Sensor/GNSS-Sensor/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    GNSS-Sensor
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../LED-Anzeigekreuz/LED-Anzeigekreuz/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    LED-Anzeigekreuz
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Messstab/Messstab/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Rover-Stab
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Tablet%20und%20Halterung/Tablet%20und%20Halterung/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Tablet und Halterung
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Ladeger%C3%A4t/Ladeger%C3%A4t/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Ladegerät und Kabel
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Metallrahmen/Metallrahmen/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Metallrahmen
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Transportkoffer/Transportkoffer/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Transportkoffer
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    App
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            App
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Arbeitsansicht/Arbeitsansicht/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Arbeitsansicht
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2" id="__nav_3_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Startmenü
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            Startmenü
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Ger%C3%A4te/Ger%C3%A4te/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Geräte
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../NTRIP/NTRIP/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    NTRIP
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Werkzeuge/Werkzeuge/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Werkzeuge
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Arbeitsplatz/Arbeitsplatz/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Arbeitsplatz
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_3" id="__nav_3_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Designmenü
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_3">
+            <span class="md-nav__icon md-icon"></span>
+            Designmenü
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../%C3%9Cbersicht/%C3%9Cbersicht/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Übersicht
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Koordinatensystem/Koordinatensystem/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Koordinatensystem
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Punkte/Punkte/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Punkte
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Linien/Linien/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Linien
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Kreise/Kreise/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Kreise
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Fl%C3%A4chen/Fl%C3%A4chen/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Flächen
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Baugrube/Baugrube/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Baugrube
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Bauplan/Bauplan/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Bauplan
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Gel%C3%A4nde/Gel%C3%A4nde/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Gelände
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Erste Schritte
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Erste Schritte
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../System%20aufbauen/System%20aufbauen/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    System aufbauen
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../System%20einrichten/System%20einrichten/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    System einrichten
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Kalibrierung
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    Kalibrierung
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#baggerschaufel-oder-werkzeug-kalibrieren" class="md-nav__link">
+    <span class="md-ellipsis">
+      Baggerschaufel oder Werkzeug kalibrieren
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#verfahren-1-das-antastverfahren" class="md-nav__link">
+    <span class="md-ellipsis">
+      Verfahren 1: Das Antastverfahren
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#verfahren-2-das-eingabeverfahren" class="md-nav__link">
+    <span class="md-ellipsis">
+      Verfahren 2: Das Eingabeverfahren
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#optional-kalibrierung-mit-kalibriertool" class="md-nav__link">
+    <span class="md-ellipsis">
+      Optional: Kalibrierung mit Kalibriertool
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Weitere Informationen
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Weitere Informationen
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../H%C3%A4ufige%20Fragen/H%C3%A4ufige%20Fragen/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Häufige Fragen
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Fehlerbehebung/Fehlerbehebung/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Fehlerbehebung
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Sicherheitshinweise/Sicherheitshinweise/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Sicherheitshinweise
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#baggerschaufel-oder-werkzeug-kalibrieren" class="md-nav__link">
+    <span class="md-ellipsis">
+      Baggerschaufel oder Werkzeug kalibrieren
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#verfahren-1-das-antastverfahren" class="md-nav__link">
+    <span class="md-ellipsis">
+      Verfahren 1: Das Antastverfahren
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#verfahren-2-das-eingabeverfahren" class="md-nav__link">
+    <span class="md-ellipsis">
+      Verfahren 2: Das Eingabeverfahren
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#optional-kalibrierung-mit-kalibriertool" class="md-nav__link">
+    <span class="md-ellipsis">
+      Optional: Kalibrierung mit Kalibriertool
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+
+
+    <a href="../../assets/anleitung_excav_pilot.pdf" target=”_blank” title="Site PDF" class="md-content__button md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2m-9.5 8.5c0 .8-.7 1.5-1.5 1.5H7v2H5.5V9H8c.8 0 1.5.7 1.5 1.5zm5 2c0 .8-.7 1.5-1.5 1.5h-2.5V9H13c.8 0 1.5.7 1.5 1.5zm4-3H17v1h1.5V13H17v2h-1.5V9h3zm-6.5 0h1v3h-1zm-5 0h1v1H7z"/></svg>
+    </a>
+
+
+
+                  
+
+
+
+<style>
+    setCenter{
+        justify-content: center;
+    }
+</style>
+
+<h1 id="werkzeugkalibrierung-und-verfahren">Werkzeugkalibrierung und Verfahren</h1>
+<p><strong>Verfügbare Verfahren zur Kalibirierung</strong></p>
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Kalibrierung Mockup (1).jpg"/>
+</p>
+
+<p>Für die Kalibrierung der Baggerschaufel stehen Ihnen das klassische Engabeverfahren mit genau ermittelten Messwerten sowie das Antastverfahren. Beide Verfahren zur Kalibrierung werden im Rahmen eines Beispiels mit einer Mockup-Baggerschaufel visuell vereinfacht dargestellt. Die nachstehenden Schritte im Rahmen der Kalibrierung müssen sorgfältig ausgeführt werden, da ansonsten Messfehler entstehen, die sich in der späteren Arbeit immer wieder fortsetzen. </p>
+<h2 id="baggerschaufel-oder-werkzeug-kalibrieren">Baggerschaufel oder Werkzeug kalibrieren</h2>
+<p><strong>Antast- und Eingabeverfahren in der App</strong></p>
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Werkzeug 3.jpg"/>
+</p>
+
+<p>Es gibt zwei Möglichkeiten ein Werkzeug erstmals zu kalibrieren: Das <strong>Eingabeverfahren</strong> mit ermittelten Messwerten sowie das <strong>Antastverfahren</strong> über das Werkzeug mit dem Sensor. Das Antastverfahren ist einfacher realisierbar und daher bei der ersten Einrichtung zu empfehlen.   </p>
+<h2 id="verfahren-1-das-antastverfahren">Verfahren 1: Das Antastverfahren</h2>
+<p><strong>Kalibrierung des GNSS-Sensors über die Werkzeugecke</strong></p>
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Kalibrierung Mockup (1).jpg"/>
+</p>
+
+<p>Das Antastverfahren erlaubt es, die Maße der Baggerschaufel oder des Werkzeugs über eine Mitteilung der exakten Position des GNSS-Sensors durch das Werkzeug selbst zu bestimmen. </p>
+<p>Über die Schaufel- oder Werkzeugecke wird die Höhendifferenz zur Arbeitsfläche berechnet und des Weiteren wird sie zur Erfassung von Punkten auf der Baustelle herangezogen. Daher kann die Schaufel- oder Werkzeugecke zur Bestimmung von Punkten genutzt werden. Den genauesten Messwert erhalten Sie jeweils an der am nächsten zum Sensor befindlichen Ecke. Bei bereits abgenutzten Ecken der Schaufel- oder Werkzeugschneide empfiehlt sich die mittlere Position zum Antasten von Punkten, vor allem bei denen die Höhe relevant ist. </p>
+<p><br></p>
+<p><strong>Platzierung des Sensors mit dem Mittelpunkt auf der Markierung</strong></p>
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Kalibrierung Mockup (10).jpg"/>
+</p>
+
+<p>Für das Antastverfahren benötigen Sie einen statischen Basispunkt auf dem Boden, der sich gut merken und wieder ansteuern lässt. Definieren Sie den Basispunkt, indem Sie den Sensor exakt mittig darauf platzieren und drücken Sie auf "Punkt erfassen". </p>
+<p><br></p>
+<p><strong>Erfassung der exakten Position des Sensors in der App per Antastverfahren</strong></p>
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Werkzeug 5 neu.jpg"/>
+</p>
+
+<p>Sobald sich der Mittelpunkt des Sensors oder die jeweiligen Werkzeugecken am Punkt der gewünschten Markierung befinden, erfassen Sie den Punkt einfach automatischüber die App. </p>
+<p><br></p>
+<p><strong>Platzierung der linken Werkzeugecke auf der Markierung</strong></p>
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Kalibrierung Mockup (6).jpg"/>
+</p>
+
+<p>Als Nächstes platzieren Sie den Sensor mit Blickrichtung zur Fahrerkabine der Baumaschine auf die linke Außenseite des Werkzeugs, um die linke Werkzeugecke zu erfassen. Bewegen Sie das Werkzeug derart, dass die linke Werkzeugecke (aus Sicht der Fahrerkabine heraus) an dem Basispunkt aufliegt und erfassen Sie den Punkt. </p>
+<p><br></p>
+<p><strong>Platzierung der rechten Werkzeugecke auf der Markierung</strong></p>
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Kalibrierung Mockup (4).jpg"/>
+</p>
+
+<p>Praktizieren Sie den gleichen Vorgang analog mit der rechten Werkzeugecke und erfassen Sie ebenfalls den Punkt. Nach Abschluss der Punkterfassung müssen Sie der Baggerschaufel oder dem Werkzeug noch einen geeigneten und eindeutigen Namen vergeben.</p>
+<h2 id="verfahren-2-das-eingabeverfahren">Verfahren 2: Das Eingabeverfahren</h2>
+<p><br></p>
+<p><strong>Kalibrierung des GNSS-Sensors über manuelle Eingabe von Messwerten</strong></p>
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Kalibrierung Mockup (20).jpg"/>
+</p>
+
+<p>Das Eingabeverfahren erlaubt es, die Maße der Baggerschaufel oder des Werkzeugs über eine Mitteilung der exakten Position des GNSS-Sensors durch zuvor vermessene Werte in cm zu bestimmen. Für das Eingabeverfahren werden exakte Angaben zum Werkzeug benötigt, damit der Sensor die Maße in der App korrekt abbilden kann.</p>
+<p><br></p>
+<p><strong>Erfassung der vollständigen Breite der Schaufelschneide in cm</strong></p>
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Kalibrierung Mockup (22).jpg"/>
+</p>
+
+<p>Bestimmen Sie zuerst die Breite der Schaufel- oder Werkzeugschneide und tragen Sie den Wert in das Abfragefeld der App ein. Bitte messen Sie bis auf eine Nachkommastelle im Zentimeterbereich genau. </p>
+<p><br></p>
+<p><strong>Erfassung der Einrückung des Sensors vom Seitenrand bis zum Mittelpunkt</strong></p>
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Kalibrierung Mockup (25).jpg"/>
+</p>
+
+<p>Danach bestimmen Sie den seitlichen Versatz (Einrückung) des Sensors. Dies ist die Distanz von der Sensormitte bis zur von der Fahrerkabine gesehen rechten Außenseite der Baggerschaufel oder des Werkzeugs. Tragen Sie den ermittelten Wert in das Abfragefeld in der App ein und bestätigen Sie diese. </p>
+<p><br></p>
+<p><strong>Erfassung der Distanz vom Mittelpunkt des Sensors bis zur Schaufelschneide</strong></p>
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Kalibrierung Mockup (34).jpg"/>
+</p>
+
+<p>Erfassen Sie mit einem Messband oder Zollstock die exakte Distanz von der Spitze der Schaufelschneide bis zur mittleren Markierung an der Seite des Sensors. </p>
+<p><br></p>
+<p><strong>Kalibrierung des Sensors mit der vorderen Schaufelkante im senkrechten Lot</strong></p>
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Kalibrierung Mockup (52).jpg"/>
+</p>
+
+<p>Erfassen Sie zuletzt die exakte Position des Sensors, wenn sich die vordere Schaufelkante im senkrechten Lot zum Boden befindet, damit der Sensor eiß, wann sich die Baggerschaufel oder das Werkzeug im Lot über dem Boden befindet.  </p>
+<p>Für das manuelle Eingabeverfahren wird das mitgelieferte Kalibriertool benötigt. Die Anleitung zur genauen Herangehensweise mit dem Kalibriertool erfahren Sie im nachfolgenden Abschnitt.</p>
+<div class="admonition information">
+<p class="admonition-title">Abgenutzte Schaufel- oder Werkzeugschneide</p>
+</div>
+<p>Bei manchen Baggerschaufeln oder Werkzeugen sind die Seitenwände leicht angeschrägt oder die Schneide steht etwas über. Messen Sie in diesem Fall die Distanz bis zum äußersten Punkt der Schaufel- oder Werkzeugschneide. Wie Sie die Höhe der Baggerschaufel oder des Werkzeugs mithilfe des Kalibriertools ablesen, wird Ihnen im nächsten Abschnitt erklärt.</p>
+<h2 id="optional-kalibrierung-mit-kalibriertool">Optional: Kalibrierung mit Kalibriertool</h2>
+<p><br></p>
+<p><strong>Verwendung eines speziellen Kalibriertools mit älteren Systemen</strong></p>
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Anleitung & FAQ Anbringung 5.png"/>
+</p>
+
+<p>Hinweis: Der excav PILOT wurde ursprünglich mit einem kleinen und handlichen Kalibriertool ausgestattet, um das Eingabeverfahren zu erleichtern. Dieses ist bei älteren excav Systemen bereits erhältlich gewesen und kann daher weiterhin zur Kalibrierung Anwendung finden.</p>
+<p><strong>Nutzung des Kalibriertools</strong></p>
+<p>Gehen Sie beim Anbringen des Kalibriertools an der Baggerschaufel oder am Werkzeug so vor:</p>
+<p>• Positionieren Sie die an der Baumaschine montierte Baggerschaufel oder Werkzeug mit der Schneide auf einem ebenen und stabilen Untergrund. Die Schneide darf während des Kalibrierungsvorgangs nicht im Bodengrund einsinken oder anderweitig bewegt werden.</p>
+<p>• Bringen Sie anschließend das Kalibriertool an der Schaufel- oder Werkzeugseite an, sodass der blaue Punkt auf dem Sensor in der Mitte des kleinen Sichtrohres erscheint.</p>
+<p>• Befestigen Sie den Meterstab (Zollstock) so in der Halterung am Ende des Kalibriertools, dass dieser am Ort der Schaufel- oder Werkzeugschneide den Boden berührt. Der Meterstab kann durch leichtes Drücken in das Kalibriertool eingesetzt und fixiert werden.</p>
+<p>• Lesen Sie anschließend die Höhe in cm ab. Sie ist der Abstand zwischen der Schaufel- oder Werkzeugschneide und Markierung (Kerbe) am Kalibriertool.</p>
+<p>• Lassen Sie das Kalibriertool mit Meterstab für den nachfolgenden Schritt an der Baggerschaufel oder am Werkzeug befestigt.</p>
+<p><strong>Baggerschaufel oder Werkzeug justieren</strong> </p>
+<p>Heben Sie die Baggerschaufel durch Bedienung der Baumaschine als nächstes leicht an und neigen Sie diesen, bis die Spitze des Meterstabs exakt mit der Schneide des Werkeugs übereinstimmt. </p>
+<p><br></p>
+<p><strong>Nutzung des Kalibriertools für die Bestimmung der Sensorposition im senkrechten Lot</strong></p>
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Anleitung & FAQ Anbringung 6.png"/>
+</p>
+
+<p>Das Kalibriertool mit fixiertem Meterstab dient Ihnen dabei als Hilfe, das Lot von 180° zu finden. Holen Sie sich hierzu ggf. eine zweite Person zu Hilfe, die die Position von der Seite überprüft. Ist die angegebene Position eingenommen, dann bestätigen Sie dies in der App mit “Weiter”.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.d50fe291.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.50899def.min.js"></script>
+      
+        <script src="../../js/print-site.js"></script>
+      
+    
+  </body>
+</html>
