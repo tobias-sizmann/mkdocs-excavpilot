@@ -10,7 +10,7 @@
 
 Diese schematische und kompakte Übersicht zeigt die im Transportkoffer enthaltenen Hardwarekomponenten sowie das ergänzende Zubehör.
 
-Der excav PILOT wird als ein vollfunktionsfähiges und direkt einsatzbereites 3D-GNSS-Assistenzsystem für Baumaschinen ausgeliefert. Der vollständige Lieferumfang umfasst:
+Der Lieferumfang umfasst:
 
 - [excav GNSS-Sensor](https://docs.excav.de/GNSS-Sensor/GNSS-Sensor/)
 - [excav LED-Anzeigekreuz](https://docs.excav.de/LED-Anzeigekreuz/LED-Anzeigekreuz/)
