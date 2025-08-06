@@ -63,7 +63,7 @@ Hierzu ist anzumerken, dass wir das Abspeichern und erneute Laden von Werkzeugen
 
 **<span style="color: red; font-weight: bold;">2: &nbsp;</span> Werkzeugecke wechseln** - Die aktive Werkzeugecke (von der Fahrerkabine aus: linke Ecke, Mitte, rechte Ecke) hat zwei entscheidende Funktionalitäten: 
 
-1. **Höhenabweichung zur Sollhöhe** - Die Höhenabweichung zur Sollhöhe wird immer von der aktiven Werkzeugecke berechnet. Dies ist vor allem zu beachten, wenn Sie z.B eine Böschung rausziehen!
+1. **Höhenabweichung zur Sollhöhe** - Die Höhenabweichung zur Sollhöhe wird immer von der aktiven Werkzeugecke berechnet. Dies ist vor allem zu beachten, wenn Sie z.B. eine Böschung rausziehen!
 
 2. **Punkte erfassen mit Werkzeugecke** - Wenn Sie mit dem Löffel [Punkte auf der Baustelle erfassen](https://docs.excav.de/Punkte/Punkte/) möchten, dann wird immer die aktuell aktive Werkzeugecke zur Punkterfassung herangezogen. Wenn die x- und y-Koordinate des Punktes von Relevanz ist, dann empfehlen wir die dem Sensor nächstgelegene Löffelecke zu wählen (Bsp.: rechte Ecke, wenn Sensor auf der rechten Seite des Löffels angebracht ist), da dann kleine Kalibrierungsfehler am geringsten ins Gewicht fallen. Wenn Sie nur eine Höhenreferenz benötigen, dann empfehlen wir die Mitte als Werkzeugecke. Denn bei älteren Löffeln sind die Schneiden an den Seiten oft ein wenig abgenutzt. 
 
