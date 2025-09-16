@@ -35,4 +35,4 @@ Benötigen Sie eine reine Höhenreferenz, bietet es sich an die Mitte der Bagger
   <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Arbeitsplatz Menü 2-5.jpg"/>
 </p>
 
-Sollten Sie einen oder mehrere der bereits abgespeicherten Punkte für künftige Bauarbeiten nicht mehr benötigen, können Sie diese(n) wieder aus Ihrer Punkteliste löschen. Wählen Sie hierzu den zugehörigen Punkt-Slot aus und bestätigen Sie den Löschvorgang mit "Ja".
+Sollten Sie einen oder mehrere der bereits abgespeicherten Punkte für künftige Bauarbeiten nicht mehr benötigen, können Sie diese(n) wieder aus Ihrer Punkteliste löschen. Wählen Sie hierzu den zugehörigen Punkt-Slot aus und bestätigen Sie den Löschvorgang mit "Ja". -->

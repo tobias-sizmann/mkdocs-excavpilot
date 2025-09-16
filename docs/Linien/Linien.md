@@ -46,4 +46,4 @@ Möchten Sie mehrere Punkte geschlossen mit Strecken verbinden, so können Sie e
   <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Arbeitsplatz Menü 2-10.jpg"/>
 </p>
 
-Wird die erstellte Strecke bzw. Gerade für anschließende Bauarbeiten nicht mehr benötigt oder ist sie fehlerhaft, können Sie diese mithilfe von “Strecke löschen” auch wieder entfernen. Wählen Sie dazu die zu löschende Strecke aus und bestätigen Sie mit "Ok".
+Wird die erstellte Strecke bzw. Gerade für anschließende Bauarbeiten nicht mehr benötigt oder ist sie fehlerhaft, können Sie diese mithilfe von “Strecke löschen” auch wieder entfernen. Wählen Sie dazu die zu löschende Strecke aus und bestätigen Sie mit "Ok". -->

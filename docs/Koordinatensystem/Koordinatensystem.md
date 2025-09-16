@@ -37,4 +37,4 @@ Als Mittelpunkt eines neu angelegten Koordinatensystems kann ein wichtiger Refer
 
 Ausgehend vom Mittelpunkt (Eckpfosten eines Zauns oder Gatters) werden zwei zueinander im 90° Winkel stehende Zäune jeweils als Linien für die x- und y-Achse verwendet. Zusätzlich wird eine vertikale Linie oder Lot (beispielsweise der Eckpfosten) als z-Achse durch den Mittelpunkt gezogen, um eine dreidimensionale Positionsbestimmung zu ermöglichen.
 
-Dadurch kann im dreidimensionalen Koordinatensystem ein jeweils 100 cm von beiden Achsen entfernter Punkte als erster Referenzpunkt für die Ecke einer horizontalen Fläche definiert und angelegt werden. Zusätzlich kann im dreidimensionalen Raum eine Höhe für die Fläche, beispielsweise als maximale oder Solltiefe, für Erdaushubarbeiten definiert werden.
+Dadurch kann im dreidimensionalen Koordinatensystem ein jeweils 100 cm von beiden Achsen entfernter Punkte als erster Referenzpunkt für die Ecke einer horizontalen Fläche definiert und angelegt werden. Zusätzlich kann im dreidimensionalen Raum eine Höhe für die Fläche, beispielsweise als maximale oder Solltiefe, für Erdaushubarbeiten definiert werden. -->
