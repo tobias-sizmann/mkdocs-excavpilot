@@ -6,7 +6,9 @@
 
 # Kreise
 
-<p align="center" width="100%">
+Diese Seite befindet sich gerade in Bearbeitung.
+
+<!-- <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Arbeitsplatz Menü 2-11.jpg"/>
 </p>
 

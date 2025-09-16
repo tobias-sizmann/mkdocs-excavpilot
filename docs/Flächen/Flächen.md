@@ -6,6 +6,16 @@
 
 # Flächen
 
+Diese Seite befindet sich gerade in Bearbeitung.
+
+<!-- <style>
+    setCenter{
+        justify-content: center;
+    }
+</style>
+
+# Flächen
+
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Arbeitsplatz Flächen 1.jpg"/>
 </p>
@@ -66,4 +76,4 @@ Um eine Drei-Punkt-Fläche zu erstellen, müssen Sie drei Punkte erfassen und sp
 
 [//]: # (Peter: Beispiel Drei-Punkt-Fläche)
 
-Ebenfalls lässt sich eine größere geneigte Fläche, wie eine moderat ansteigende Auffahrt zu einem Wohnhaus mithilfe einer Drei-Punkt-Fläche erstellen. Ein Punkt befindet sich beispielsweise an der Schwelle zur Garage, zwei weitere Punkte an der Schelle ur Straße, um die Ausmaße (Länge und Breite der Fläche) und den Neigungswinkel für das Gefälle zu bestimmen. 
+Ebenfalls lässt sich eine größere geneigte Fläche, wie eine moderat ansteigende Auffahrt zu einem Wohnhaus mithilfe einer Drei-Punkt-Fläche erstellen. Ein Punkt befindet sich beispielsweise an der Schwelle zur Garage, zwei weitere Punkte an der Schelle ur Straße, um die Ausmaße (Länge und Breite der Fläche) und den Neigungswinkel für das Gefälle zu bestimmen. -->
