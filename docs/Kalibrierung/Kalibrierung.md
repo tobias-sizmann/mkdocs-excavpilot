@@ -6,7 +6,7 @@
 
 # Werkzeugkalibrierung und Verfahren
 
-**Verfügbare Verfahren zur Kalibirierung**
+<!-- **Verfügbare Verfahren zur Kalibirierung**
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Kalibrierung Mockup (1).jpg"/>
@@ -202,4 +202,4 @@ Heben Sie die Baggerschaufel durch Bedienung der Baumaschine als nächstes leich
   <img width="100%" src="/images_docs/Anleitung & FAQ Anbringung 6.png"/>
 </p>
 
-Das Kalibriertool mit fixiertem Meterstab dient Ihnen dabei als Hilfe, das Lot von 180° zu finden. Holen Sie sich hierzu ggf. eine zweite Person zu Hilfe, die die Position von der Seite überprüft. Ist die angegebene Position eingenommen, dann bestätigen Sie dies in der App mit “Weiter”.
+Das Kalibriertool mit fixiertem Meterstab dient Ihnen dabei als Hilfe, das Lot von 180° zu finden. Holen Sie sich hierzu ggf. eine zweite Person zu Hilfe, die die Position von der Seite überprüft. Ist die angegebene Position eingenommen, dann bestätigen Sie dies in der App mit “Weiter”. -->

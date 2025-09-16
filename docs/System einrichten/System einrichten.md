@@ -6,7 +6,9 @@
 
 # System einrichten
 
-Lesen Sie sich bitte die folgenden Unterpunkte sorgfältig durch und starten Sie anschließend die excav PILOT App auf dem mitgelieferten Tablet. Vergewissern Sie sich bitte davor, dass die einzelnen Geräte gemäß dem vorherigen Abschnitt „System aufbauen und anbringen“ richtig aufgestellt bzw. am Stiel und der Baggerschaufel oder dem Werkzeug befestigt wurden.
+Diese Seite befindet sich gerade in Bearbeitung.
+
+<!-- Lesen Sie sich bitte die folgenden Unterpunkte sorgfältig durch und starten Sie anschließend die excav PILOT App auf dem mitgelieferten Tablet. Vergewissern Sie sich bitte davor, dass die einzelnen Geräte gemäß dem vorherigen Abschnitt „System aufbauen und anbringen“ richtig aufgestellt bzw. am Stiel und der Baggerschaufel oder dem Werkzeug befestigt wurden.
 Es gibt eine ausführliche [Videoanleitung auf YouTube](https://www.youtube.com/watch?v=dZmhDPmHHl0&t=224s), in der ein komplettes erstmaliges Setup im Detail durchgeführt und erklärt wird. Wir raten Erstnutzern, bei der Systemeinrichtung des excav PILOT auf die Videoanleitung zurückzugreifen und den Leitfaden nur unterstützend zu verstehen.
 
 <br>
@@ -208,4 +210,4 @@ Stellt die App das Fehlen mehrerer der oben aufgelisteten Kennzeichen fest, empf
   <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht System ausschalten.jpg"/>
 </p>
 
-Die Hardware kann durch das Betätigen der Drucktasten an Sensor, LED-Anzeige und ebenfalls bei der optional erhältlichen Basisstation manuell abgeschaltet werden. Schalten Sie die Geräte im Normalfall nach Beendigung und Speicherung der Arbeit am Tablet aus. 
+Die Hardware kann durch das Betätigen der Drucktasten an Sensor, LED-Anzeige und ebenfalls bei der optional erhältlichen Basisstation manuell abgeschaltet werden. Schalten Sie die Geräte im Normalfall nach Beendigung und Speicherung der Arbeit am Tablet aus.  -->

@@ -6,7 +6,9 @@
 
 # System aufbauen
 
-<p align="center" width="100%">
+Diese Seite befindet sich gerade in Bearbeitung.
+
+<!-- <p align="center" width="100%">
   <img width="100%" src="/images_docs/Anleitung & FAQ Youtube Thumbnail.png"/>
 </p>
 
@@ -68,4 +70,4 @@ Danach kann die Tablet-Halterung in die gewünschte Position eingeschwenkt werde
 !!! information "Anfeuchten der Saugnäpfe"
 
 Sollte sich der Tablet-Halter wiederholt von der Scheibe lösen, können Sie die Saugnäpfe mit Wasser oder Reinigungsmittel behutsam anfeuchten. Dies garantiert einen deutlich besseren Halt an der Innenseite der Fensterscheibe.
-Mit den Knöpfen an der Seite des Tablets kann dieses ein- und ausgeschaltet werden. Sofern die Baumaschine über einen Zigarettenanzünder oder einen 5V- bzw. 12V-Anschluss verfügt, können Sie das Tablet auch an die bordeigene Stromquelle anschließen. Falls Sie mit einem Tablet den ganzen Tag auf Akku arbeiten möchten, empfehlen wir, dieses in den Pausen kurz auszuschalten.
+Mit den Knöpfen an der Seite des Tablets kann dieses ein- und ausgeschaltet werden. Sofern die Baumaschine über einen Zigarettenanzünder oder einen 5V- bzw. 12V-Anschluss verfügt, können Sie das Tablet auch an die bordeigene Stromquelle anschließen. Falls Sie mit einem Tablet den ganzen Tag auf Akku arbeiten möchten, empfehlen wir, dieses in den Pausen kurz auszuschalten. -->
