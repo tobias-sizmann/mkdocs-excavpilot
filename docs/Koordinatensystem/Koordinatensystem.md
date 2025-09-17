@@ -10,7 +10,7 @@
 ## Koordinatensystem mit Ursprung und x-Achse
 
 <p align="center" width="100%">
-  <img width="100%" src="/1 (3) - Kopie 2.png"/>
+  <img width="100%" src="/1 (3) - Kopie 2.PNG"/>
 </p>
 
 **<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** - Text 1
