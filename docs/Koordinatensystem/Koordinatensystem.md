@@ -46,7 +46,7 @@ Text
 ## H2 Titel
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot (34) - Kopie.png"/>
+  <img width="100%" src="/images_docs/Screenshot (34) - Kopie 2.png"/>
 </p>
 
 **<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** - Text 1
