@@ -54,6 +54,18 @@ Text
 
 Text
 
+## H2 Titel
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Screenshot (22) - Kopie.png"/>
+</p>
+
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** - Text 1
+
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Text** - Text 2
+
+Text
+
 Diese Seite befindet sich gerade in Bearbeitung.
 
 <!-- <p align="center" width="100%">
