@@ -29,7 +29,7 @@ Text
 
 Text
 
-## H2 Koordinatensystem mit x-Achse und y-Achse
+## Koordinatensystem mit x-Achse und y-Achse
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/1 (4) - Kopie 2.png"/>
@@ -42,7 +42,7 @@ Text
 
 Text
 
-## H2 Titel
+## Lokalen Punkt manuell über Punkte setzen
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot (34) - Kopie 2.png"/>
@@ -54,7 +54,7 @@ Text
 
 Text
 
-## H2 Titel
+## Angabe der Achsen-Werte in der Arbeitsansicht
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot (22) - Kopie.png"/>
