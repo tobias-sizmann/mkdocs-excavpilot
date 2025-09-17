@@ -7,7 +7,13 @@
 # Koordinatensystem
 
 
-## H2 Titel
+## Koordinatensystem mit Ursprung und x-Achse
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/XXX.jpg"/>
+</p>
+
+## H2 Koordinatensystem mit x-Achse und y-Achse
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/XXX.jpg"/>
@@ -31,15 +37,9 @@
   <img width="100%" src="/images_docs/XXX.jpg"/>
 </p>
 
-## H2 Titel
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** - Text 1
 
-<p align="center" width="100%">
-  <img width="100%" src="/images_docs/XXX.jpg"/>
-</p>
-
-**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Batterieanzeige Sensor und Anzeige** - Text
-
-**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Qualität der Orientierung** - Text
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Text** - Text 2
 
 Diese Seite befindet sich gerade in Bearbeitung.
 
