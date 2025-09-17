@@ -13,23 +13,23 @@
   <img width="100%" src="/images_docs/XXX.jpg"/>
 </p>
 
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** - Text 1
+
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Text** - Text 2
+
+Text
+
 ## H2 Koordinatensystem mit x-Achse und y-Achse
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/XXX.jpg"/>
 </p>
 
-## H2 Titel
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** - Text 1
 
-<p align="center" width="100%">
-  <img width="100%" src="/images_docs/XXX.jpg"/>
-</p>
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Text** - Text 2
 
-## H2 Titel
-
-<p align="center" width="100%">
-  <img width="100%" src="/images_docs/XXX.jpg"/>
-</p>
+Text
 
 ## H2 Titel
 
@@ -40,6 +40,32 @@
 **<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** - Text 1
 
 **<span style="color: red; font-weight: bold;">2: &nbsp;</span> Text** - Text 2
+
+Text
+
+## H2 Titel
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/XXX.jpg"/>
+</p>
+
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** - Text 1
+
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Text** - Text 2
+
+Text
+
+## H2 Titel
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/XXX.jpg"/>
+</p>
+
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** - Text 1
+
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Text** - Text 2
+
+Text
 
 Diese Seite befindet sich gerade in Bearbeitung.
 
