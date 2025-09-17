@@ -22,7 +22,7 @@ Text
 ## H2 Koordinatensystem mit x-Achse und y-Achse
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/1 (4) - Kopie.jpg"/>
+  <img width="100%" src="/images_docs/1 (4) - Kopie 2.png"/>
 </p>
 
 **<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** - Text 1
