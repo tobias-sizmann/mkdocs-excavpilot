@@ -9,13 +9,37 @@
 
 ## H2 Titel
 
-## H2 Titel
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/XXX.jpg"/>
+</p>
 
 ## H2 Titel
 
-## H2 Titel
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/XXX.jpg"/>
+</p>
 
 ## H2 Titel
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/XXX.jpg"/>
+</p>
+
+## H2 Titel
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/XXX.jpg"/>
+</p>
+
+## H2 Titel
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/XXX.jpg"/>
+</p>
+
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Batterieanzeige Sensor und Anzeige** - Text
+
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Qualität der Orientierung** - Text
 
 Diese Seite befindet sich gerade in Bearbeitung.
 
