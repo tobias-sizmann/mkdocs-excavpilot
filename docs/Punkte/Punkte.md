@@ -19,10 +19,36 @@
 Text
 
 
-## H2 Titel
+## Einstellungen für die Darstellung von Punkten
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot (72) - Kopie.png"/>
+</p>
+
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** - Text 1
+
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Text** - Text 2
+
+Text
+
+
+## Erstellen eines neuen Punktes als GNSS-Punkt
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Screenshot (30) - Kopie.png"/>
+</p>
+
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** - Text 1
+
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Text** - Text 2
+
+Text
+
+
+## Erstellen eines neuen Punktes durch manuelle Eingabe
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Screenshot (31) - Kopie.png"/>
 </p>
 
 **<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** - Text 1
