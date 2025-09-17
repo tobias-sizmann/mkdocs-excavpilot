@@ -22,7 +22,7 @@ Text
 ## H2 Koordinatensystem mit x-Achse und y-Achse
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/XXX.jpg"/>
+  <img width="100%" src="/images_docs/1 (4) - Kopie.jpg"/>
 </p>
 
 **<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** - Text 1
@@ -34,7 +34,7 @@ Text
 ## H2 Titel
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/XXX.jpg"/>
+  <img width="100%" src="/images_docs/1 (5) - Kopie.jpg"/>
 </p>
 
 **<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** - Text 1
@@ -46,7 +46,7 @@ Text
 ## H2 Titel
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/XXX.jpg"/>
+  <img width="100%" src="/images_docs/Screenshot (34) - Kopie.jpg"/>
 </p>
 
 **<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** - Text 1
