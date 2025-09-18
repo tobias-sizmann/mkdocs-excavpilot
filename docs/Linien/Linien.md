@@ -6,7 +6,7 @@
 
 # Linien
 
-## H2 Titel
+## H2 Titel 1
 
 
 <p align="center" width="100%">
@@ -20,7 +20,7 @@ Text
 **<span style="color: red; font-weight: bold;">2: &nbsp;</span>** Text
 
 
-## H2 Titel
+## H2 Titel 2
 
 
 <p align="center" width="100%">
@@ -34,7 +34,7 @@ Text
 **<span style="color: red; font-weight: bold;">2: &nbsp;</span>** Text
 
 
-## H2 Titel
+## H2 Titel 3
 
 
 <p align="center" width="100%">
