@@ -6,17 +6,22 @@
 
 # Punkte
 
+Text 
+
+
 ## Punkteliste
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot (71) - Kopie.png"/>
 </p>
 
-**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** - Text 1
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Auge-Button** | Zum Einblenden und Ausblenden des jeweiligen Punktes in der [Arbeitsansicht]().
 
-**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Text** - Text 2
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Löschen-Button** | Punkt aus der Punkteliste löschen. Achtung: Nicht wiederherstellbar! Wenn Sie den Punkt möglicherweise später noch mal benötigen, dann besser nur ausblenden.  
 
-Text
+**<span style="color: red; font-weight: bold;">3: &nbsp;</span> Punkt bearbeiten** | Durch Tippen auf den Punkt können Sie diesen bearbeiten, z.B. die Farbgebung, Bezeichnung oder ihn in der Höhe verschieben. Unter der Punktbezeichnung werden Ihnen alle Informationen zum Punkt in Echtzeit ausgegeben, welche Sie in den Punkt-Einstellungen (siehe **<span style="color: red; font-weight: bold;">4</span>**) aktiv gesetzt haben. 
+
+**<span style="color: red; font-weight: bold;">4: &nbsp;</span> Punkt-Einstellungen** | Öffnet das Einstellungs-Fenster. Hier können Sie auswählen, welche Informationen zu den Punkten in ihrer Punkteliste angezeigt werden sollen. 
 
 
 ## Punkt-Einstellungen
@@ -25,11 +30,15 @@ Text
   <img width="100%" src="/images_docs/Screenshot (72) - Kopie.png"/>
 </p>
 
-**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** - Text 1
+Welche Informationen zu den jeweiligen Punkten sollen in der Punkteliste angezeigt werden?
 
-**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Text** - Text 2
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Horizontale Position** | x-Koordinate und y-Koordinate des Punktes im aktiven Koordinatensystem
 
-Text
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Distanz in (X,Y)** | x-Abstand und y-Abstand separat ausgegeben zwischen dem Punkt und der aktuellen Position
+
+**<span style="color: red; font-weight: bold;">3: &nbsp;</span> Entfernung horizontal** | horizontaler Abstand zwischen dem Punkt und der aktuellen Position; nur x-Wert und y-Wert werden berücksichtigt 
+
+**<span style="color: red; font-weight: bold;">4: &nbsp;</span> Entfernung vertikal** | Höhendifferenz zwischen dem Punkt und der aktuellen Position; nur der z-Wert wird berücksichtigt
 
 
 ## GNSS-Punkt
@@ -57,6 +66,7 @@ Text
 
 Text
 
+## Schnelltaste zum Punkte erfassen
 
 Diese Seite befindet sich gerade in Bearbeitung.
 

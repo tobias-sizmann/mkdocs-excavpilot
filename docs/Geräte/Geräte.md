@@ -6,7 +6,7 @@
 
 # Geräte
 
-<p align="center" width="100%">
+<!-- <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Geräte.jpg"/>
 </p>
 
@@ -22,4 +22,6 @@ Sie erhalten eine Ansicht mit der Nennung vorhandener Sensoren. Wählen Sie den 
 
 Prüfen Sie zunächst, ob ein Internetverbindung über mobile Daten sowie Bluetooth zur Datenkommunikation aktiv sind, da ohne diese keine Arbeiten möglich sind. Zudem müssen beide Geräte ausreichend Akkuleistung verfügen, idealerweise zumindest mehr als 20 %, da sonst die Verbindungsqualität und die Performanz leiden. Normalerweise wird (falls mehrere Sensor-Exemplare zur Verfügung stehen bzw. standen) der letzte aktiv gekoppelte Sensor angezeigt. Sollte der gewünschte Sensor bereits mit der App eines anderen Tablets gekoppelt sein, ist ein Verbindungsaufbau nicht möglich. Hierfür muss zunächst auf dem anderen Tablet die Verbindung zum Sensor eingestellt werden, bevor Sie ihn selber auswählen und verbinden können. 
 
-Falls die App des Tablets den Sensor trotz direkter räumlicher Nähe zum Gerät nicht findet, schalten Sie ihn ggf. mehrfach an und aus, bis der Verbindungsaufbau gelingt. Dieselben Probleme können ebenfalls mit dem LED-Anzeigekreuz auftreten. Schalten Sie das Gerät ggf. mehrfach an und aus, bis der Verbindungsaufbau gelingt und stellen Sie sicher, dass er nicht bereits mit einem anderen Tablet verbunden ist.
+Falls die App des Tablets den Sensor trotz direkter räumlicher Nähe zum Gerät nicht findet, schalten Sie ihn ggf. mehrfach an und aus, bis der Verbindungsaufbau gelingt. Dieselben Probleme können ebenfalls mit dem LED-Anzeigekreuz auftreten. Schalten Sie das Gerät ggf. mehrfach an und aus, bis der Verbindungsaufbau gelingt und stellen Sie sicher, dass er nicht bereits mit einem anderen Tablet verbunden ist. -->
+
+Diese Seite befindet sich gerade in Bearbeitung.
