@@ -10,7 +10,7 @@
 
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/1.jpg"/>
+  <img width="100%" src="/images_docs/Screenshot (83) - Kopie.png"/>
 </p>
 
 Text
