@@ -6,7 +6,7 @@
 
 # Punkte
 
-## Auflistung von Referenzpunkt und weiteren Punkten
+## Punkteliste
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot (71) - Kopie.png"/>
@@ -19,7 +19,7 @@
 Text
 
 
-## Einstellungen für die Darstellung von Punkten
+## Punkt-Einstellungen
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot (72) - Kopie.png"/>
@@ -32,28 +32,28 @@ Text
 Text
 
 
-## Erstellen eines neuen Punktes als GNSS-Punkt
+## GNSS-Punkt
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot (30) - Kopie.png"/>
 </p>
 
-**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** - Text 1
-
-**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Text** - Text 2
-
 Text
 
 
-## Erstellen eines neuen Punktes durch manuelle Eingabe
+## Manueller Punkt
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot (31) - Kopie.png"/>
 </p>
 
-**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** - Text 1
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> UTM** - Text 
 
-**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Text** - Text 2
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> ECEF** - Text 
+
+**<span style="color: red; font-weight: bold;">3: &nbsp;</span> Lat/Long** - Text 
+
+**<span style="color: red; font-weight: bold;">4: &nbsp;</span> Local** - Text 
 
 Text
 
