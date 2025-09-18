@@ -10,7 +10,7 @@
 
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot (83) - Kopie.png"/>
+  <img width="100%" src="/images_docs/Weitere Screenshots (1) - Kopie.png"/>
 </p>
 
 Text
@@ -32,35 +32,6 @@ Text
 **<span style="color: red; font-weight: bold;">1: &nbsp;</span>** Text
 
 **<span style="color: red; font-weight: bold;">2: &nbsp;</span>** Text
-
-
-## H2 Titel
-
-
-<p align="center" width="100%">
-  <img width="100%" src="/images_docs/3.jpg"/>
-</p>
-
-Text
-
-**<span style="color: red; font-weight: bold;">1: &nbsp;</span>** Text
-
-**<span style="color: red; font-weight: bold;">2: &nbsp;</span>** Text
-
-
-## H2 Titel
-
-
-<p align="center" width="100%">
-  <img width="100%" src="/images_docs/4.jpg"/>
-</p>
-
-Text
-
-**<span style="color: red; font-weight: bold;">1: &nbsp;</span>** Text
-
-**<span style="color: red; font-weight: bold;">2: &nbsp;</span>** Text
-
 
 
 ## H2 Titel
