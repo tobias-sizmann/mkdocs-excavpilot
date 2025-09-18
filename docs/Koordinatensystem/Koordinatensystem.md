@@ -6,7 +6,7 @@
 
 # Koordinatensystem
 
-Die aktuelle Position der aktiven Werkzeugsecke wird über die drei Koordinaten x,y,z mehrmals die Sekunde in Echtzeit übermittelt und in der Arbeitsansicht angezeigt (siehe Abb. 4). 
+Die aktuelle Position der aktiven Werkzeugsecke wird über die drei Koordinaten x,y,z mehrmals die Sekunde in Echtzeit übermittelt und in der Arbeitsansicht angezeigt (siehe Abb. 3). 
 
 Standardmäßig ist das gängige GNSS-Koordinatensystem END (East-North-Down) aktiv. D.h. die x-Achse spannt sich nach Osten auf, die y-Achse nach Norden und die z-Achse nach unten dem Zenit entgegen. Für viele praktische Anwendungen im Bau und der Vermessung sind diese Richtungen aber nicht immer hilfreich, da man oft lieber in einem projektspezifischen Achsensystem arbeiten möchte – beispielsweise entlang einer Bauachse, eines Zauns oder einer Straße.
 
