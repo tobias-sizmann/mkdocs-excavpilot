@@ -6,49 +6,79 @@
 
 # Linien
 
-## H2 Titel 1
+Mit Linien können Sie verschiedene Gegebenheiten Ihrer Baustelle direkt in der App selbst gestalten und darstellen – zum Beispiel, wenn sie keinen Bauplan oder kein Modell vorliegen haben. So lassen sich beispielsweise Baustellenbegrenzungen, Rohrleitungen oder Kanalwände einfach abbilden.
+
+Um Linien zu erstellen, gehen Sie ins [Designmenü]() und wählen Sie "Linien" aus.
+
+## Linien-Liste
 
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Weitere Screenshots (1) - Kopie.png"/>
 </p>
 
-Text
 
-**<span style="color: red; font-weight: bold;">1: &nbsp;</span>** Text
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Auge-Button** | Zum Einblenden und Ausblenden der jeweiligen Linie in der [Arbeitsansicht]().
 
-**<span style="color: red; font-weight: bold;">2: &nbsp;</span>** Text
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Löschen-Button** | Linie aus der Linien-Liste löschen. Achtung: Nicht wiederherstellbar! Wenn Sie die Linie möglicherweise später noch mal benötigen, dann besser nur ausblenden.
 
+**<span style="color: red; font-weight: bold;">3: &nbsp;</span> Linie bearbeiten** | Durch Tippen auf eine Linie können Sie diese bearbeiten, z.B. die Farbgebung oder Bezeichnung. Unter der Linienbezeichnung werden Ihnen alle Informationen zur Linie (z.B. Länge der Linie) ausgegeben, welche Sie in den Linien-Einstellungen (siehe **<span style="color: red; font-weight: bold;">4</span>**) aktiv gesetzt haben. 
 
-## H2 Titel 2
+**<span style="color: red; font-weight: bold;">4: &nbsp;</span> Linien-Einstellungen** | Öffnet das Einstellungs-Fenster. Hier können Sie auswählen, welche Informationen zu den Linien in Ihrer Linien-Liste angezeigt werden sollen. Je nach Linienart (Strecke, Unendliche Strecke, Polylinie, Polyeder) gibt es verschiedene Informationen zu Auswahl. 
+
+## Neue Linie erstellen
+
+Tippen Sie auf den Button "Neue Linie" unter der Linien-Liste.
+
+..BildvonNeueLinieFenster..
+
+Geben Sie der Linie Start- und Endpunkt indem Sie 
+
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span>** Den Punkt aus der Punkteliste auswählen
+
+oder
+
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span>** Den Punkt direkt antasten, indem Sie die aktive Werkzeugecke (oder entsprechend die Spitze des Messstabes) auf die gewünschte Position setzen und den "Punkt erfassen" - Button drücken.
+
+</br></br>
+
+**<span style="color: red; font-weight: bold;">3: &nbsp;</span> Zusätzlicher Punkt** | Mit dem Plus-Button können Sie der Linie einen weiteren Punkt hinzufügen. 
+
+!!! info "Wichtig"
+    Die Reinfolge in der Sie die Punkte auswählen, bestimmt den Verlauf der Linie. Also P1 -> P2 -> P3 usw. 
+
+**<span style="color: red; font-weight: bold;">4: &nbsp;</span> Unendliche Strecke /Polylinie schließen** | Bei einer Linie aus zwei Punkten kann die Strecke über beide Punkte hinaus unendlich verlängert werden, z.B. zum Darstellen einer Flucht. Bei einer Polylinie mit mehr als zwei Punkten haben Sie die Option die Polylinie zu schließen. Dabei wird der zuletzt gesetzte Punkt automatisch mit dem zuerst gewählten Punkt verbunden und Sie erhalten ein Polyeder. 
+
+Jetzt noch mit "OK" bestätigen, dann wird die Linie in der Linien-Liste abgespeichert und in der [Arbeitsansicht]() angezeigt. 
+
+## Linien-Einstellungen
 
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot (77) - Kopie.png"/>
 </p>
 
-Text
+Welche Informationen zu den jeweiligen Linen sollen in der Linien-Liste angezeigt werden? Je nach Linienart (Strecke, Polylinie, Polyeder) gibt es verschiedene Informationen zur Auswahl. 
 
-**<span style="color: red; font-weight: bold;">1: &nbsp;</span>** Text
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Strecke** 
 
-**<span style="color: red; font-weight: bold;">2: &nbsp;</span>** Text
+- **Länge horizontal**: horizontaler Abstand der beiden Punkte; nur x-Wert und y-Wert werden berücksichtigt 
+- **Länge 3D**: räumlicher Abstand der beiden Punkte; x-Wert, y-Wert und z-Wert werden berücksichtigt 
+- **Höhenunterschied**: Höhendifferenz der beiden Punkte; nur der z-Wert wird berücksichtigt
+- **Ausrichtung**: die Himmelsrichtung des Richtungsvektors P1->P2; Nord bei 0°, Ost bei 90°
+- **Steigung**: die Steigung der Linie von Punkt 1 nach Punkt 2
 
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Polylinie** 
 
-## H2 Titel 3
+- **Länge horizontal**: Länge der horizontalen Projektion; alle **horizontalen Längen** der Einzelstrecken P1->P2, P2->P3 usw. aufsummiert
+- **Länge 3D**: Länge der Polylinie im Raum; alle **3D-Längen** der Einzelstrecken P1->P2, P2->P3 usw. aufsummiert
 
+**<span style="color: red; font-weight: bold;">3: &nbsp;</span> Polyeder**
 
-<p align="center" width="100%">
-  <img width="100%" src="/images_docs/5.jpg"/>
-</p>
+- **Umfang horizontal**: siehe **Länge horizontal** bei Polylinie
+- **Umfang 3D**: siehe **Länge 3D** bei Polylinie
+- **Fläche horizontal**: die eingeschlossene Fläche des Polyeders, hilfreich für die Mengenermittlung z.B. bei Pflasterarbeiten
 
-Text
-
-**<span style="color: red; font-weight: bold;">1: &nbsp;</span>** Text
-
-**<span style="color: red; font-weight: bold;">2: &nbsp;</span>** Text
-
-
-Diese Seite befindet sich gerade in Bearbeitung.
 
 <!-- <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Arbeitsplatz Menü 2-6.jpg"/>

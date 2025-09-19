@@ -6,8 +6,9 @@
 
 # Punkte
 
-Text 
+Punkte sind das grundlegende Designobjekt in der App. Mit Punkten können Sie alle weiteren Designobjekte wie z.B Linien, Polylinien, Kreise, Flächen oder eine Baugraube modellieren. 
 
+Alle bereits aufgenommenen Punkte finden Sie abgespeichert in der Punkteliste unter "Punkte" im Designmenü. 
 
 ## Punkteliste
 
@@ -21,7 +22,7 @@ Text
 
 **<span style="color: red; font-weight: bold;">3: &nbsp;</span> Punkt bearbeiten** | Durch Tippen auf den Punkt können Sie diesen bearbeiten, z.B. die Farbgebung, Bezeichnung oder ihn in der Höhe verschieben. Unter der Punktbezeichnung werden Ihnen alle Informationen zum Punkt in Echtzeit ausgegeben, welche Sie in den Punkt-Einstellungen (siehe **<span style="color: red; font-weight: bold;">4</span>**) aktiv gesetzt haben. 
 
-**<span style="color: red; font-weight: bold;">4: &nbsp;</span> Punkt-Einstellungen** | Öffnet das Einstellungs-Fenster. Hier können Sie auswählen, welche Informationen zu den Punkten in ihrer Punkteliste angezeigt werden sollen. 
+**<span style="color: red; font-weight: bold;">4: &nbsp;</span> Punkt-Einstellungen** | Öffnet das Einstellungs-Fenster. Hier können Sie auswählen, welche Informationen zu den Punkten in Ihrer Punkteliste angezeigt werden sollen. 
 
 
 ## Punkt-Einstellungen
@@ -47,7 +48,7 @@ Welche Informationen zu den jeweiligen Punkten sollen in der Punkteliste angezei
   <img width="100%" src="/images_docs/Screenshot (30) - Kopie.png"/>
 </p>
 
-Text
+Bei Bestätigung mit "OK" wird die aktuelle Position der aktiven Werkzeugecke (beim Messstab die Position der Spitze) als Punkt erfasst und in der Punkteliste abgespeichert.
 
 
 ## Manueller Punkt
@@ -56,19 +57,20 @@ Text
   <img width="100%" src="/images_docs/Screenshot (31) - Kopie.png"/>
 </p>
 
-**<span style="color: red; font-weight: bold;">1: &nbsp;</span> UTM** - Text 
+Sie können Punkte auch manuell erfassen, indem Sie das entsprechende Referenzsystem auswählen und die Koordinaten für Ihren Punkt eingeben. Vermessungen werden in Deutschland üblicherweise in UTM32/ETRS89 durchgeführt. 
 
-**<span style="color: red; font-weight: bold;">2: &nbsp;</span> ECEF** - Text 
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> UTM** | Universal Transverse Mercator - 2D-projeziertes, zonenspezifisches Koordinatensystem mit Rechtswert (Easting) und Hochwert (Northing) in Metern, aufgeteilt in 60 Zonen mit je 6° Breite. Deutschland liegt in Zone 32, ggf. Zone 33 im Osten. Achtung: nur genau, wenn innerhalb der angegebenen Zone! Bezugssystem in Europa: ETRS89
 
-**<span style="color: red; font-weight: bold;">3: &nbsp;</span> Lat/Long** - Text 
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> ECEF** | Earth-Centered, Earth-Fixed - 3D-kartesisches erdfestes Koordinatensystem mit (x,y,z)-Koordinaten in Metern, Ursprung im Erdmittelpunkt; x-Achse Schnittpunkt Äquator/Greenwich Meridian, y-Achse 90° östlich davon, z-Achse Nordpol. Bezugssystem in Europa: ETRS89  
 
-**<span style="color: red; font-weight: bold;">4: &nbsp;</span> Local** - Text 
+**<span style="color: red; font-weight: bold;">3: &nbsp;</span> Lat/Long** | geografisches Kugel-/Ellipsoid-basiertes Koordinatensystem mit Breite (Latitude, φ) als Nord-/Südwinkel vom Äquator und Länge (Longitude, λ) als Ost-/Westwinkel vom Nullmeridian (Greenwich), Achtung: Winkel in der App bitte als Dezimalzahlen eingeben. Bezugssystem in Europa: ETRS89
 
-Text
+**<span style="color: red; font-weight: bold;">4: &nbsp;</span> Local** | Hier können Sie eines Ihrer lokal angelegten [Koordinatensysteme]() auswählen. 
 
 ## Schnelltaste zum Punkte erfassen
 
-Diese Seite befindet sich gerade in Bearbeitung.
+!!! info "Tipp"
+    Seitlich rechts in der Arbeitsansicht befindet sich eine Schnelltaste zum Aufnehmen von Punkten (dritter oranger Button von unten). 
 
 <!-- <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Arbeitsplatz Menü 2-3.jpg"/>
