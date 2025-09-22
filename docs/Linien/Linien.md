@@ -6,6 +6,8 @@
 
 # Linien
 
+..Bild von schönem Polyeder in der Arbeitsansicht..
+
 Mit Linien können Sie verschiedene Gegebenheiten Ihrer Baustelle direkt in der App selbst gestalten und darstellen – zum Beispiel, wenn sie keinen Bauplan oder kein Modell vorliegen haben. So lassen sich beispielsweise Baustellenbegrenzungen, Rohrleitungen oder Kanalwände einfach abbilden.
 
 Um Linien zu erstellen, gehen Sie ins [Designmenü]() und wählen Sie "Linien" aus.
