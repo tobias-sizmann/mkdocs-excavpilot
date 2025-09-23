@@ -6,16 +6,15 @@
 
 # Kreise
 
-@Peter: Bild oben Frontal- und Seitenansicht wegschneiden
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/1.jpg"/>
+  <img width="100%" src="/images_docs/Screenshot (98)- Kopie.jpg"/>
 </p>
 
 Manche Zielvorgaben im Garten- und Landschaftsbau lassen sich am besten durch einen Kreis abbilden, wie z.B. das Anlegen eines runden Blumenbeetes, eines Teichs oder einer kreisförmigen Pflasterfläche.
 
 ## Kreis-Liste
 
-@Peter Bild von Kreisen in der Liste
+@Peter Bild von Kreisen in der Liste  --> in Erstellung
 
 **<span style="color: red; font-weight: bold;">1: &nbsp;</span> Auge-Button** | Zum Einblenden und Ausblenden des jeweiligen Kreises in der [Arbeitsansicht]().
 
