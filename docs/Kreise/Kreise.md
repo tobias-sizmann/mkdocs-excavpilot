@@ -30,9 +30,8 @@ Tippen Sie auf den Button "Neuer Kreis" unter der Kreise-Liste.
 
 ### Mit Mittelpunkt und Radius
 
-@Peter: Bild mit Nummern versehen
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/2.jpg"/>
+  <img width="100%" src="/images_docs/Screenshot (90) - Kopie.png"/>
 </p>
 
 Bestimmen Sie für den Kreis einen Mittelpunkt, indem Sie 
