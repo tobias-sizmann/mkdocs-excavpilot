@@ -7,7 +7,7 @@
 # Bauplan
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/XXX.jpg"/>
+  <img width="100%" src="/images_docs/Weitere Screenshots (8).jpg"/>
 </p>
 
 Text
@@ -17,51 +17,49 @@ Text
 
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/XXX.jpg"/>
+  <img width="100%" src="/images_docs/Weitere Screenshots (1) - Kopie.jpg"/>
 </p>
 
-
-**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** | XXX.
-
-**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Text** | XXX
-
-**<span style="color: red; font-weight: bold;">3: &nbsp;</span> Text** | XXX
-
-**<span style="color: red; font-weight: bold;">4: &nbsp;</span> Text** | XXX
+Text
 
 
-
-## H2 Linie
+## H2 Titel
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/XXX.jpg"/>
+  <img width="100%" src="/images_docs/Weitere Screenshots (2) - Kopie 3.png"/>
 </p>
 
 
-**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** | XXX.
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** | XXX
 
 **<span style="color: red; font-weight: bold;">2: &nbsp;</span> Text** | XXX
 
 **<span style="color: red; font-weight: bold;">3: &nbsp;</span> Text** | XXX
 
-**<span style="color: red; font-weight: bold;">4: &nbsp;</span> Text** | XXX
 
 
-
-## H2 Linie
+## H2 Titel
 
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/XXX.jpg"/>
+  <img width="100%" src="/images_docs/Weitere Screenshots (6) - Kopie.jpg"/>
 </p>
 
-**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** | XXX.
+Text
 
-**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Text** | XXX
 
-**<span style="color: red; font-weight: bold;">3: &nbsp;</span> Text** | XXX
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Weitere Screenshots (7) - Kopie.jpg"/>
+</p>
 
-**<span style="color: red; font-weight: bold;">4: &nbsp;</span> Text** | XXX
+Text
+
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Weitere Screenshots (10) - Kopie.jpg"/>
+</p>
+
+Text
 
 
 <!-- <p align="center" width="100%">
