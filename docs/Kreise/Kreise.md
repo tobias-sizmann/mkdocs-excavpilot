@@ -14,7 +14,9 @@ Manche Zielvorgaben im Garten- und Landschaftsbau lassen sich am besten durch ei
 
 ## Kreis-Liste
 
-@Peter Bild von Kreisen in der Liste  --> in Erstellung
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Screenshot (100) - Kopie.png"/>
+</p>
 
 **<span style="color: red; font-weight: bold;">1: &nbsp;</span> Auge-Button** | Zum Einblenden und Ausblenden des jeweiligen Kreises in der [Arbeitsansicht]().
 

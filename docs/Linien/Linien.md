@@ -33,7 +33,7 @@ Um Linien zu erstellen, gehen Sie ins [Designmenü]() und wählen Sie "Linien" a
 ## Neue Linie erstellen
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot (74) - Kopie 2.png"/>
+  <img width="100%" src="/images_docs/Weitere Screenshots (5) - Kopie.png"/>
 </p>
 
 Tippen Sie auf den Button "Neue Linie" unter der Linien-Liste.
