@@ -21,13 +21,13 @@ Text
 </p>
 
 
-**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Auge-Button** | XXX.
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** | XXX.
 
-**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Löschen-Button** | XXX
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Text** | XXX
 
-**<span style="color: red; font-weight: bold;">3: &nbsp;</span> Linie bearbeiten** | XXX
+**<span style="color: red; font-weight: bold;">3: &nbsp;</span> Text** | XXX
 
-**<span style="color: red; font-weight: bold;">4: &nbsp;</span> Linien-Einstellungen** | XXX
+**<span style="color: red; font-weight: bold;">4: &nbsp;</span> Text** | XXX
 
 
 
@@ -38,13 +38,13 @@ Text
 </p>
 
 
-**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Auge-Button** | XXX.
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** | XXX.
 
-**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Löschen-Button** | XXX
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Text** | XXX
 
-**<span style="color: red; font-weight: bold;">3: &nbsp;</span> Linie bearbeiten** | XXX
+**<span style="color: red; font-weight: bold;">3: &nbsp;</span> Text** | XXX
 
-**<span style="color: red; font-weight: bold;">4: &nbsp;</span> Linien-Einstellungen** | XXX
+**<span style="color: red; font-weight: bold;">4: &nbsp;</span> Text** | XXX
 
 
 
@@ -55,13 +55,14 @@ Text
   <img width="100%" src="/images_docs/XXX.jpg"/>
 </p>
 
-**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Auge-Button** | XXX.
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** | XXX.
 
-**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Löschen-Button** | XXX
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Text** | XXX
 
-**<span style="color: red; font-weight: bold;">3: &nbsp;</span> Linie bearbeiten** | XXX
+**<span style="color: red; font-weight: bold;">3: &nbsp;</span> Text** | XXX
 
-**<span style="color: red; font-weight: bold;">4: &nbsp;</span> Linien-Einstellungen** | XXX
+**<span style="color: red; font-weight: bold;">4: &nbsp;</span> Text** | XXX
+
 
 <!-- <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Arbeitsplatz Bauplan.jpg"/>
