@@ -10,7 +10,7 @@
 
 Das mitgelieferte LED-Anzeigekreuz wird am Arm oder Stiel oberhalb des Baggerlöffels magnetisch angebracht und bietet eine zusätzliche visuelle Unterstützung bei der Erfassung der aktuellen Werkzeugposition in Relation zur gewünschten Sollhöhe.
 
-Die Farbgebung der LED-Stränge umfasst Grün (ideale Ausrichtung bis moderate Abweichung), Gelb (erhöhte bis merkliche Abweichung) sowie Rot (erhebliche Abweichung von der Sollhöhe).
+Die Farbgebung der LED-Stränge umfasst Grün (ideale Ausrichtung bis moderate Abweichung), Gelb (erhöhte bis merkliche Abweichung) sowie Rot (erhebliche Abweichung von der Sollhöhe bzw. Sollneigung).
 
 Der **vertikale LED-Strang** informiert über die Höhendifferenz von Löffel- oder Werkzeugschneide und eingegebener Sollhöhe:
 
