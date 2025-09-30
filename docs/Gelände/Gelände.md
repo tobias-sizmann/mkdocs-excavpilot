@@ -6,7 +6,53 @@
 
 # Gelände
 
-Diese Seite befindet sich gerade in Bearbeitung.
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/XXX.jpg"/>
+</p>
+
+Text
+
+
+## H2 Titel
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/XXX.jpg"/>
+</p>
+
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** - Text
+
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Text** - Text
+
+Text
+
+
+## H2 Titel
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/XXX.jpg"/>
+</p>
+
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** - Text
+
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Text** - Text
+
+Text
+
+
+## H2 Titel
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/XXX.jpg"/>
+</p>
+
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** - Text
+
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Text** - Text
+
+Text
+
+Hinweis: Diese Seite befindet sich gerade in Bearbeitung.
+
 
 <!-- [//]: # (Peter: Gelände überarbeitet / neuer Erklärung hier angelegt)
 
