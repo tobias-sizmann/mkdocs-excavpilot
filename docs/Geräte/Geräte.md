@@ -7,6 +7,15 @@
 # Geräte
 
 <p align="center" width="100%">
+  <img width="100%" src="/images_docs/Collage GNSS-Sensor + LED-Anzeigekreuz.png"/>
+</p>
+
+Text
+
+
+## H2 Titel
+
+<p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot Geräte (1) - Kopie.jpg"/>
 </p>
 
