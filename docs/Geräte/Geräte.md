@@ -19,6 +19,10 @@ Text
   <img width="100%" src="/images_docs/Screenshot Geräte (1) - Kopie.jpg"/>
 </p>
 
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** - Text
+
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Text** - Text
+
 Text
 
 
