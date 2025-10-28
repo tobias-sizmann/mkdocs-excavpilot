@@ -8,6 +8,157 @@
 
 Diese Seite befindet sich gerade in Bearbeitung.
 
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Screenshot (112) - Kopie.jpg"/>
+</p>
+
+Das Erstellen von horizontalen und geneigten Flächen über mindestens einen oder optional mehrere Punkte, ist eine der wichtigsten Standardfunktionen des excav PILOT.
+
+
+## Neue Flächen erstellen
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Screenshot (100) - Kopie.jpg"/>
+</p>
+
+Folgende Arten von Flächen sind in der excav PILOT App standardmäßig als Option verfügbar: 
+
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> 1-Punkt Fläche** - Eine Fläche, die durch mindestens einen Punkt im Raum definiert ist. 
+
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> 2-Punkt Fläche** - Eine Fläche, die durch mindestens zwei Punkte im Raum definiert ist.
+
+**<span style="color: red; font-weight: bold;">3: &nbsp;</span> 3-Punkt Fläche** - Eine Fläche, die durch mindestens drei Punkte im Raum definiert ist.
+
+Alle grundlegenden Arten von Flächen (1-Punkt Fläche, 2-Punkt Fläche und 3-Punkt Fläche) können grundsätzlich durch mindestens einen oder mehrere Punkte anlegt werden. Weiterhin können Sie die gewünschte Fläche durch Angabe der Steigung (Neigungswinkel) sowie durch Angabe des Höhenversatzes präziser als lediglich durch einzelne Punkte im Raum bestimmen.
+
+Durch die Definition über mehrere Punkte sowie unter Angabe der Steigung bzw. Neigung und des Höhenversatzes können auch spezifisch genaue Flächen im komplexen Arbeitsumfeld einer modernen Baustelle realisiert werden.  
+
+
+
+## 1-Punkt Fläche erstellen
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Screenshot (101) - Kopie.jpg"/>
+</p>
+
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** - Text
+
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Text** - Text
+
+**<span style="color: red; font-weight: bold;">3: &nbsp;</span> Text** - Text
+
+Text
+
+<br>
+
+### Varianten der 1-Punkt Fläche
+
+**Horizontale 1-Punkt Fläche (keine Neigung)**
+
+Text
+
+**Beispiel: Horizontale Fläche im Sportplatzbau**
+
+Text
+
+**Beispiel: Horizontale Sohlenläche einer Baugrube**
+
+Text
+
+<br>
+
+**1-Punkt Fläche mit einem Neigungswinkel**
+
+Text
+
+**Beispiel: Großräumiges Abtragen von Erdreich**
+
+Text
+
+**Beispiel: Großräumiges Aufschütten von Erdreich**
+
+Text
+
+<br>
+
+## 2-Punkt Fläche erstellen
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Screenshot (102) - Kopie.jpg"/>
+</p>
+
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** - Text
+
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Text** - Text
+
+**<span style="color: red; font-weight: bold;">3: &nbsp;</span> Text** - Text
+
+Text
+
+<br>
+
+### Varianten der 2-Punkt Fläche
+
+**2-Punkt-Fläche ohne eine Neigung**
+
+Text
+
+**Beispiel: Geringfügig geneigte Fläche für Auffahrt**
+
+Text
+
+**Beispiel: Geringfügig geneigte Fläche im Straßenbau**
+
+Text
+
+<br>
+
+**2-Punkt-Fläche mit einer Neigung**
+
+Text
+
+**Beispiel: XXX**
+
+Text
+
+<br>
+
+## 3-Punkt Fläche erstellen
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Screenshot (103) - Kopie.jpg"/>
+</p>
+
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** - Text
+
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Text** - Text
+
+**<span style="color: red; font-weight: bold;">3: &nbsp;</span> Text** - Text
+
+Text
+
+<br>
+
+### Varianten der 3-Punkt Fläche
+
+**Variante 1: XXX**
+
+Text
+
+**Beispiel: XXX**
+
+Text
+
+<br>
+
+**Variante 2: XXX**
+
+Text
+
+**Beispiel: XXX**
+
+Text
+
 <!-- <style>
     setCenter{
         justify-content: center;
@@ -40,7 +191,7 @@ Sollte der Steigungswinkel 0° betragen, spielt der Steigungswinkel als Faktor f
 
 **Beispiel: Fläche über einen Punkt erstellen**
 
-Im Alltag auf Baustellen kann es erforderlich sein horizontale Flächen für päzise Planierarbeiten und das gezielte Abziehen von Erdmaterial und Schuttt auf Oberflächen zu erstellen. Gelegentlich ist eine größere ebene Fläche mit einem geringen Neigungswinkel (ca. 2° bis 5°) erforderlich, wie einer sehr gering bis moderat geneigten Fläche einer längeren Tiefgaragenausfahrt, einer Rampe oder eine anderweitige Auffahrt für Fahrzeuge. Für solche Arbeiten genügt es einen Punkt sowie einen Neigungswinkel zu definieren und das Erdreich mit einem Planierschild abzuziehen.
+Im Alltag auf Baustellen kann es erforderlich sein horizontale Flächen für päzise Planierarbeiten und das gezielte Abziehen von Erdmaterial und Schutt auf Oberflächen zu erstellen. Gelegentlich ist eine größere ebene Fläche mit einem geringen Neigungswinkel (ca. 2° bis 5°) erforderlich, wie einer sehr gering bis moderat geneigten Fläche einer längeren Tiefgaragenausfahrt, einer Rampe oder eine anderweitige Auffahrt für Fahrzeuge. Für solche Arbeiten genügt es einen Punkt sowie einen Neigungswinkel zu definieren und das Erdreich mit einem Planierschild abzuziehen.
 
 [//]: # (Peter: Beispiel Ein-Punkt-Fläche)
 
