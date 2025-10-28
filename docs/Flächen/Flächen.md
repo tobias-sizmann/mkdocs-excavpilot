@@ -8,8 +8,6 @@
 
 Diese Seite befindet sich gerade in Bearbeitung.
 
-Text
-
 <!-- <style>
     setCenter{
         justify-content: center;
