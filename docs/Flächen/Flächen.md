@@ -12,7 +12,7 @@ Diese Seite befindet sich gerade in Bearbeitung.
   <img width="100%" src="/images_docs/Screenshot (112) - Kopie.jpg"/>
 </p>
 
-Das Erstellen von horizontalen und geneigten Flächen über mindestens einen oder optional mehrere Punkte, ist eine der wichtigsten Standardfunktionen des excav PILOT.
+Das Erstellen von horizontalen und geneigten Flächen über einen oder optional mehrere Punkte, ist eine der wichtigsten Arbeitsfunktionen der 3D-basierten App-Anwendung des excav PILOT. 
 
 
 ## Neue Flächen erstellen
@@ -20,6 +20,8 @@ Das Erstellen von horizontalen und geneigten Flächen über mindestens einen ode
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot (100) - Kopie.jpg"/>
 </p>
+
+Flächen erscheinen in der App-Anwendung (mathematisch) als unbegrenzte Ebenen. 
 
 Folgende Arten von Flächen sind in der excav PILOT App standardmäßig als Option verfügbar: 
 
