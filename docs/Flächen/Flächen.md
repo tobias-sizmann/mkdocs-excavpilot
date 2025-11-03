@@ -12,7 +12,12 @@ Diese Seite befindet sich gerade in Bearbeitung.
   <img width="100%" src="/images_docs/Screenshot (112) - Kopie.jpg"/>
 </p>
 
-Das Erstellen von horizontalen und geneigten Flächen über einen oder optional mehrere Punkte, ist eine der wichtigsten Arbeitsfunktionen der 3D-basierten App-Anwendung des excav PILOT. 
+Das Erstellen von horizontalen und geneigten Flächen über einen oder optional mehrere Punkte, ist eine der wichtigsten Arbeitsfunktionen der 3D-basierten App-Anwendung des excav PILOT.
+
+Das aktuell ausgewählte Werkzeug oder Sensor wird in der primären Arbeitsansicht räumlich im Verhältnis zur aktiven Fläche dargestellt (farblich in einem dunkleren Grauton abgehoben) sowie in der Frontal- und Seitenansicht im oberen Bildschirmabschnitt. 
+
+!!! info "Information"
+Die Höhenangabe der Fläche bezieht sich auf die Höhenangabe zum Meeresspiegel (exakt 0 Höhenmeter) und kann sich abhängig vom Standort innerhalb von Deutschland und anderswo erheblich unterscheiden. Die für die Arbeit auf der Baustelle vor Ort erforderlichen Angaben zur Positionsbestimmung werden über die Angaben der x-,y- und z-Koordinate dargestellt. 
 
 
 ## Neue Flächen erstellen
@@ -21,7 +26,7 @@ Das Erstellen von horizontalen und geneigten Flächen über einen oder optional 
   <img width="100%" src="/images_docs/Screenshot (100) - Kopie.jpg"/>
 </p>
 
-Flächen erscheinen in der App-Anwendung (mathematisch) als unbegrenzte Ebenen. 
+Die Funktion zur Flächenerstellung finden Sie in der Sidebar des Designmenüs. Aktive Flächen erscheinen in der primären Arbeitsansicht (mathematisch) als unbegrenzte Ebenen. 
 
 Folgende Arten von Flächen sind in der excav PILOT App standardmäßig als Option verfügbar: 
 
@@ -33,23 +38,33 @@ Folgende Arten von Flächen sind in der excav PILOT App standardmäßig als Opti
 
 Alle grundlegenden Arten von Flächen (1-Punkt Fläche, 2-Punkt Fläche und 3-Punkt Fläche) können grundsätzlich durch mindestens einen oder mehrere Punkte anlegt werden. Weiterhin können Sie die gewünschte Fläche durch Angabe der Steigung (Neigungswinkel) sowie durch Angabe des Höhenversatzes präziser als lediglich durch einzelne Punkte im Raum bestimmen.
 
-Durch die Definition über mehrere Punkte sowie unter Angabe der Steigung bzw. Neigung und des Höhenversatzes können auch spezifisch genaue Flächen im komplexen Arbeitsumfeld einer modernen Baustelle realisiert werden.  
+Die standardmäßig vorhandenen Optionen zur Flächenerstellung lassen sich mit entsprechender Erfahrung in der alltäglichen Nutzung modifizieren. Durch die Definition über mehrere Punkte sowie unter Angabe der Steigung bzw. Neigung und des Höhenversatzes können auch spezifisch genaue Flächen im komplexen Arbeitsumfeld einer modernen Baustelle realisiert werden.  
 
+!!! info "Information"
+Für das Erstellen einer neuen Fläche können sowohl bereits vorhandene Punkte der Punkteliste verwendet oder gänzlich neu eingemessen Punkte verwendet werden. Wir empfehlen Punkte zu verwenden, die bereits zuvor genau bestimmt und eingemessen wurden, um Flächen im Bedarfsfall leichter erneut anlegen zu können. 
 
+Über das Zahnrad-Symbol oben rechts öffnet sich das Einstellungs-Fenster. Hier können Sie auswählen, welche Informationen zu den Flächen in Ihrer Flächen-Liste angezeigt werden sollen.
 
 ## 1-Punkt Fläche erstellen
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot (101) - Kopie.jpg"/>
+  <img width="100%" src="/images_docs/Screenshot (101) - Kopie 2.png"/>
 </p>
 
-**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** - Text
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Punkt aus Punkteliste** | Nutzen Sie diese Funktion, um einen bereits vorhandenen Punkt der Punkteliste für die Flächenerstellung zu verwenden. 
 
-**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Text** - Text
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Punkt neu erfassen** | Nutzen Sie diese Funktion, um einen bereits vorhandenen Punkt der Punkteliste für die Flächenerstellung zu verwenden. 
 
-**<span style="color: red; font-weight: bold;">3: &nbsp;</span> Text** - Text
+**<span style="color: red; font-weight: bold;">3: &nbsp;</span> Flächenbezeichnung** | Vergeben Sie einen geeigneten Arbeitsnamen für die Fläche, insbesondere bei mehreren aktiven Flächen.
 
-Text
+**<span style="color: red; font-weight: bold;">4: &nbsp;</span> Angabe Steigung** | Nutzen Sie diese Funktion für die Angabe der Steigung. Wenn kein Wert angegeben ist, wird das Eingabefeld standardmäßig 0.0 ausweisen.
+
+**<span style="color: red; font-weight: bold;">5: &nbsp;</span> Höhenversatz** | Nutzen Sie die Funktion, um die Höhe (+) bzw. Tiefe (-) der Fläche anzugeben. 
+
+Für die 1-Punkt Fläche kann zusätzlich zur Position und Höhenangabe des einzig erforderlichen Punktes ein Steigungswinkel als Neigung angegeben werden. Sollte keine Neigung angegeben werden, beträgt der Wert im Eingabefeld der Steigung standardmäßig 0.0. 
+
+Optional kann über die Funktion Höhenversatz die Höhe (+) bzw. Tiefe (-) der Fläche zu Punkt 1 manuell angegeben werden, um die Fläche auf der gewünschten Höhe bzw. Tiefe darzustellen. 
+
 
 <br>
 
@@ -86,14 +101,20 @@ Text
 ## 2-Punkt Fläche erstellen
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot (102) - Kopie.jpg"/>
+  <img width="100%" src="/images_docs/Screenshot (102) - Kopie 2.png"/>
 </p>
 
-**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** - Text
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Punkt aus Punkteliste** | Nutzen Sie diese Funktion, um einen bereits vorhandenen Punkt der Punkteliste für die Flächenerstellung zu verwenden. 
 
-**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Text** - Text
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Punkt neu erfassen** | Nutzen Sie diese Funktion, um einen bereits vorhandenen Punkt der Punkteliste für die Flächenerstellung zu verwenden. 
 
-**<span style="color: red; font-weight: bold;">3: &nbsp;</span> Text** - Text
+**<span style="color: red; font-weight: bold;">3: &nbsp;</span> Flächenbezeichnung** | Vergeben Sie einen geeigneten Arbeitsnamen für die Fläche, insbesondere bei mehreren aktiven Flächen.
+
+**<span style="color: red; font-weight: bold;">4: &nbsp;</span> Angabe Steigung** | Nutzen Sie diese Funktion für die Angabe der Steigung. Wenn kein Wert angegeben ist, wird das Eingabefeld standardmäßig 0.0 ausweisen.
+
+**<span style="color: red; font-weight: bold;">5: &nbsp;</span> Angabe Höhenversatz** | Nutzen Sie die Funktion, um die Höhe (+) bzw. Tiefe (-) der Fläche anzugeben. 
+
+**<span style="color: red; font-weight: bold;">6: &nbsp;</span> Angleichung Höhe** | XXX 
 
 Text
 
@@ -128,14 +149,18 @@ Text
 ## 3-Punkt Fläche erstellen
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot (103) - Kopie.jpg"/>
+  <img width="100%" src="/images_docs/Screenshot (103) - Kopie 2.png"/>
 </p>
 
-**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** - Text
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Punkt aus Punkteliste** | Nutzen Sie diese Funktion, um einen bereits vorhandenen Punkt der Punkteliste für die Flächenerstellung zu verwenden. 
 
-**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Text** - Text
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Punkt neu erfassen** | Nutzen Sie diese Funktion, um einen bereits vorhandenen Punkt der Punkteliste für die Flächenerstellung zu verwenden. 
 
-**<span style="color: red; font-weight: bold;">3: &nbsp;</span> Text** - Text
+**<span style="color: red; font-weight: bold;">3: &nbsp;</span> Flächenbezeichnung** | Vergeben Sie einen geeigneten Arbeitsnamen für die Fläche, insbesondere bei mehreren aktiven Flächen.
+
+**<span style="color: red; font-weight: bold;">5: &nbsp;</span> Angabe Höhenversatz** | Nutzen Sie die Funktion, um die Höhe (+) bzw. Tiefe (-) der Fläche anzugeben. 
+
+**<span style="color: red; font-weight: bold;">5: &nbsp;</span> Angabe Steigung** | Text
 
 Text
 
