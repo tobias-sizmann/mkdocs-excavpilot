@@ -40,12 +40,18 @@ Alle grundlegenden Arten von Flächen (1-Punkt Fläche, 2-Punkt Fläche und 3-Pu
 
 Die standardmäßig vorhandenen Optionen zur Flächenerstellung lassen sich mit entsprechender Erfahrung in der alltäglichen Nutzung modifizieren. Durch die Definition über mehrere Punkte sowie unter Angabe der Steigung bzw. Neigung und des Höhenversatzes können auch spezifisch genaue Flächen im komplexen Arbeitsumfeld einer modernen Baustelle realisiert werden.  
 
+Mit folgenden Funktionen lässt sich die gewünschte Fläche im Raum präziser bestimmen.
+
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Steigung** | Der Faktor Steigung beträgt standardmäßig 0.0 und kann sowohl in Prozent (%) sowie in Höhengrad (deg) dargestellt werden. Als Ausrichtungsoptionen kommen sowohl die Werkzeugrichtung des Sensors oder die Himmelsrichtung infrage. Der Wert der Steigung kann sowohl positiv als auch negativ sein. 
+
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Höhenversatz** | Der Faktor Höhenversatz beträgt standardmäßig 0.0 und kann sowohl in Zentimeter (cm) sowie in Meter (m) dargestellt werden. Als Ausrichtungsoptionen kommen die vertikale und orthogonale Ausrichtung infrage. Die Unterschiede zwischen beiden Optionen werden in einem kleinen Informationsfenster näher erklärt. Der Wert des Höhenversatzes kann sowohl positiv als auch negativ sein. 
+
 !!! info "Information"
-Für das Erstellen einer neuen Fläche können sowohl bereits vorhandene Punkte der Punkteliste verwendet oder gänzlich neu eingemessen Punkte verwendet werden. Wir empfehlen Punkte zu verwenden, die bereits zuvor genau bestimmt und eingemessen wurden, um Flächen im Bedarfsfall leichter erneut anlegen zu können. 
+Für das Erstellen einer neuen Fläche können sowohl bereits vorhandene Punkte der Punkteliste verwendet oder gänzlich neu eingemessene Punkte verwendet werden. Wir empfehlen Punkte zu verwenden, die bereits zuvor genau bestimmt und eingemessen wurden, um eine Fläche im Bedarfsfall leichter erneut anlegen zu können. 
 
-Über das Zahnrad-Symbol oben rechts öffnet sich das Einstellungs-Fenster. Hier können Sie auswählen, welche Informationen zu den Flächen in Ihrer Flächen-Liste angezeigt werden sollen.
+Über das Zahnrad-Symbol oben rechts öffnet sich das Einstellungs-Fenster. Hier können Sie auswählen, welche Informationen zu den Flächen in Ihrer Flächen-Liste angezeigt werden sollen, darunter den Typ sowie den optional vergebenen Wert des Höhenversatzes einer Fläche.
 
-## 1-Punkt Fläche erstellen
+## Eine 1-Punkt Fläche erstellen
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot (101) - Kopie 2.png"/>
@@ -53,17 +59,17 @@ Für das Erstellen einer neuen Fläche können sowohl bereits vorhandene Punkte 
 
 **<span style="color: red; font-weight: bold;">1: &nbsp;</span> Punkt aus Punkteliste** | Nutzen Sie diese Funktion, um einen bereits vorhandenen Punkt der Punkteliste für die Flächenerstellung zu verwenden. 
 
-**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Punkt neu erfassen** | Nutzen Sie diese Funktion, um einen bereits vorhandenen Punkt der Punkteliste für die Flächenerstellung zu verwenden. 
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Punkt neu erfassen** | Nutzen Sie diese Funktion, um einen neu ausgewählten Punkt für die Flächenerstellung zu verwenden. 
 
-**<span style="color: red; font-weight: bold;">3: &nbsp;</span> Flächenbezeichnung** | Vergeben Sie einen geeigneten Arbeitsnamen für die Fläche, insbesondere bei mehreren aktiven Flächen.
+**<span style="color: red; font-weight: bold;">3: &nbsp;</span> Flächenbezeichnung** | Vergeben Sie einen geeigneten Arbeitsnamen für die neue Fläche, insbesondere bei mehreren aktiven Flächen.
 
 **<span style="color: red; font-weight: bold;">4: &nbsp;</span> Angabe Steigung** | Nutzen Sie diese Funktion für die Angabe der Steigung. Wenn kein Wert angegeben ist, wird das Eingabefeld standardmäßig 0.0 ausweisen.
 
-**<span style="color: red; font-weight: bold;">5: &nbsp;</span> Höhenversatz** | Nutzen Sie die Funktion, um die Höhe (+) bzw. Tiefe (-) der Fläche anzugeben. 
+**<span style="color: red; font-weight: bold;">5: &nbsp;</span> Angabe Höhenversatz** | Nutzen Sie die Funktion, um die Höhe (+) bzw. Tiefe (-) der Fläche vertikal oder orthogonal anzugeben.  
 
-Für die 1-Punkt Fläche kann zusätzlich zur Position und Höhenangabe des einzig erforderlichen Punktes ein Steigungswinkel als Neigung angegeben werden. Sollte keine Neigung angegeben werden, beträgt der Wert im Eingabefeld der Steigung standardmäßig 0.0. 
+Für die 1-Punkt Fläche kann zusätzlich zur Position und Höhenangabe des einzig erforderlichen Punktes ein Steigungswinkel als Neigung angegeben werden. Sollte keine Neigung angegeben werden, beträgt der Wert im unteren Eingabefeld der Steigung standardmäßig 0.0. 
 
-Optional kann über die Funktion Höhenversatz die Höhe (+) bzw. Tiefe (-) der Fläche zu Punkt 1 manuell angegeben werden, um die Fläche auf der gewünschten Höhe bzw. Tiefe darzustellen. 
+Optional kann über die Funktion Höhenversatz die Höhe (+) bzw. Tiefe (-) der Fläche zu Punkt 1 manuell angegeben werden, um die Fläche auf der gewünschten Höhe bzw. Tiefe darzustellen. Der Höhenversatz kann entweder vertikal (im senkrechten Lot) zur virtuellen Referenzebene des Koordinatensystems oder orthogonal (im senkrechten Lot) zur Referenzfläche mit Neigung abgebildet werden. Durch die Auswahloption ergeben sich Abweichungen im Höhenversatz.    
 
 
 <br>
@@ -72,33 +78,43 @@ Optional kann über die Funktion Höhenversatz die Höhe (+) bzw. Tiefe (-) der 
 
 **Horizontale 1-Punkt Fläche (keine Neigung)**
 
-Text
+Die einfachste Variante stellt eine 1-Punkt Fläche ohne Neigungswinkel dar und somit völlig ebenerdig ist. Sie liegt parallel zur virtuellen Grundfläche des Koordinatensystems in der primären Arbeitsansicht und befindet sich auf Höhe des einzelnen Punktes.   
 
 **Beispiel: Horizontale Fläche im Sportplatzbau**
 
-Text
+Normalerweise werden Sportplatzflächen mit einer minimalen Neigung (zumindest zum Feldrand hin) angelegt, damit Regen- und Schmelzwasser gefahrlos abfließen können. Gelegentlich kann es jedoch im Sportplatzbau erforderlich sein eine Fläche zunächst völlig ebenerdig und glatt zu gestalten, beispielsweise um Material wie Schotter sauber abzuziehen. Dies gilt beispielsweise für ausgedehnte Flächen wie die langezogenen Start- und Landebahnen auf Flughäfen.  
 
-**Beispiel: Horizontale Sohlenläche einer Baugrube**
+**Beispiel: Horizontale Sohlenfläche einer Baugrube**
 
-Text
+Auf großen Baustellen für die Grundsteinlegung eines größeren Gebäudes ist es zu Beginn erforderlich, die spätere Baufläche ebenerdig anzulegen und jede unerwünschte Erhebung zu begradigen, um den Bodengrund für das Anlegen des Fundaments zu erschließen.     
 
 <br>
 
 **1-Punkt Fläche mit einem Neigungswinkel**
 
-Text
+Über die Funktion Steigung lässt sich die Neigung der Fläche über den Punkt bestimmen. Hierbei kommt es auf drei Faktoren an: Den Umfang der Steigung in Prozent oder Grad, ob die Steigung positiv oder negativ ist sowie die Ausrichtung (in Werkzeug- oder in Himmelsrichtung). 
 
 **Beispiel: Großräumiges Abtragen von Erdreich**
 
-Text
+Eine 1-Punkt Fläche mit einem moderaten Neigungswinkel ist ideal, um in einem Arbeitsbereich großflächig Erdreich oder anderes Material schrittweise abzutragen, wo lediglich ein minimaler Höhenunterschied von 0 bis 3° anfällt oder später Regen- und Schmelzwasser von der künftigen Einsatzfläche gefahrlos ablaufen müssen.  
 
 **Beispiel: Großräumiges Aufschütten von Erdreich**
 
-Text
+Umgekehrt lässt sich eine 1-Punkt Fläche mit einem moderaten Neigungswinkel nutzen, um eine zuvor völlig ebenerdige Fläche bis zu einer gewissen Höhe schrittweise mit Erdreich oder anderem Material aufzuschütten und somit ein leichtes Gefälle herzustellen.   
 
 <br>
 
-## 2-Punkt Fläche erstellen
+**1-Punkt Fläche mit einem Höhenversatz**
+
+Über die Funktion Höhenversatz lässt sich die Höhe der Fläche über den Punkt bestimmen, sowohl positiv (oberhalb des Punktes) als auch negativ (unterhalb des Punktes). Die Höhenangabe kann sowohl in Zentimeter (cm) oder in Meter (m) erfolgen. 
+
+**Beispiel: Anlegen einer Fläche als Plateau**
+
+Gelegentlich kann es erforderlich sein, eine Fläche zwar ebenerdig und somit parallel zum Koordinatensystem der primären Arbeitsansicht, jedoch gegenüber dem Ausgangspunkt erhöht, zu gestalten. Hierzu lässt sich eine ebenerdige oder geneigte Fläche mit Erdreich oder anderem Material aufzuschütten und sauber mit einem Planierbalken abziehen, bis das Plateau in der gewünschten Sollhöhe gegeben ist. 
+
+<br>
+
+## Eine 2-Punkt Fläche erstellen
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot (102) - Kopie 2.png"/>
@@ -106,47 +122,57 @@ Text
 
 **<span style="color: red; font-weight: bold;">1: &nbsp;</span> Punkt aus Punkteliste** | Nutzen Sie diese Funktion, um einen bereits vorhandenen Punkt der Punkteliste für die Flächenerstellung zu verwenden. 
 
-**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Punkt neu erfassen** | Nutzen Sie diese Funktion, um einen bereits vorhandenen Punkt der Punkteliste für die Flächenerstellung zu verwenden. 
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Punkt neu erfassen** | Nutzen Sie diese Funktion, um einen neu ausgewählten Punkt für die Flächenerstellung zu verwenden. 
 
-**<span style="color: red; font-weight: bold;">3: &nbsp;</span> Flächenbezeichnung** | Vergeben Sie einen geeigneten Arbeitsnamen für die Fläche, insbesondere bei mehreren aktiven Flächen.
+**<span style="color: red; font-weight: bold;">3: &nbsp;</span> Flächenbezeichnung** | Vergeben Sie einen geeigneten Arbeitsnamen für die neue Fläche, insbesondere bei mehreren aktiven Flächen.
 
 **<span style="color: red; font-weight: bold;">4: &nbsp;</span> Angabe Steigung** | Nutzen Sie diese Funktion für die Angabe der Steigung. Wenn kein Wert angegeben ist, wird das Eingabefeld standardmäßig 0.0 ausweisen.
 
-**<span style="color: red; font-weight: bold;">5: &nbsp;</span> Angabe Höhenversatz** | Nutzen Sie die Funktion, um die Höhe (+) bzw. Tiefe (-) der Fläche anzugeben. 
+**<span style="color: red; font-weight: bold;">5: &nbsp;</span> Angabe Höhenversatz** | Nutzen Sie die Funktion, um die Höhe (+) bzw. Tiefe (-) der Fläche vertikal oder orthogonal anzugeben. 
 
-**<span style="color: red; font-weight: bold;">6: &nbsp;</span> Angleichung Höhe** | XXX 
+**<span style="color: red; font-weight: bold;">6: &nbsp;</span> Angleichung Höhe** | Die Höhe von Punkt 2 kann optional auf die Höhe von Punkt 1 angeglichen werden.
 
-Text
+Für die 2-Punkt Fläche kann zusätzlich zur Position und Höhenangabe der zwei erforderlichen Punkte ein Steigungswinkel als seitliche Neigung angegeben werden. Sollte keine Neigung angegeben werden, beträgt der Wert im unteren Eingabefeld der Steigung standardmäßig 0.0. 
+
+Optional kann über die Funktion Höhenversatz die Höhe (+) bzw. Tiefe (-) der Fläche zu Punkt 1 manuell angegeben werden, um die Fläche auf der gewünschten Höhe bzw. Tiefe darzustellen. Der Höhenversatz kann entweder vertikal (im senkrechten Lot) zur virtuellen Referenzebene des Koordinatensystems oder orthogonal (im senkrechten Lot) zur Referenzfläche mit Neigung abgebildet werden.
+
+Die Neigung einer 2-Punkt Fläche als Steigungsfaktor ergibt sich aus dem Höhenunterschied zwischen Punkt 1 und Punkt 2, da die Fläche beide Punkte durchläuft und sich somit nicht parallel zum Koordinatensystem der primären Arbeitsansicht bewegt. Je größer der Höhenunterschied und je näher die Punkte P1 und P2 räumlich beieinander liegen, desto größer und somit steiler fällt die Steigung der Fläche aus. Darüber hinaus lässt sich ein seitlicher Neigungswinkel der Fläche (zusätzlich zur eigentlichen Höhenneigung über die Steigung) nach rechts in Blickrichtung von P1 auf P2 angeben. 
+
+Alternativ kann Punkt 2 räumlich auf die Höhe von Punkt 1 angeglichen werden, um gezielt über einen manuellen Eingabewert die Höhenneigung über die Steigung anzugeben. Hierzu steht unten im Menü die Funktion "Punkt 2 auf Punkt 1 angleichen" zur Verfügung. Hierdurch liegt Punkt 2 sozusagen ebenfalls auf der Ebene von Punkt 1. Die Höhenneigung kann als seitliche Steigung rechts in Blickrichtung von P1 auf P2 definiert werden.
 
 <br>
 
 ### Varianten der 2-Punkt Fläche
 
-**2-Punkt-Fläche ohne eine Neigung**
+**2-Punkt-Fläche ohne eine weitere Neigung**
 
-Text
+Im einfachsten Fall kann eine 2-Punkt Fläche einzig über zwei Punkte ohne weitere Angabe einer Steigung oder eines Höhenversatzes angegeben werden. Die Steigung bzw. das Gefälle der Fläche ergibt sich somit aus dem Höhenunterschied und der Nähe von Punkt 2 zu Punkt 1. Hierdurch ergeben sich dennoch präzisere Möglichkeiten eine Fläche in der Neigung zu bestimmen.     
 
 **Beispiel: Geringfügig geneigte Fläche für Auffahrt**
 
-Text
+Ein typisches Beispiel für eine einfache 2-Punkt-Fläche ist das Anlegen einer Straßenausfahrt für ein Gebäude, wobei Punkt 1 beispielsweise den Beginn der Auffahrt am Straßenrand und Punkt 2 den endgradigen Punkt an der Garage oder Stellplatzfläche bildet. In diesem Beispiel liegt verständlicherweise nur ein geringer Neigungswinkel vor. Auch für ähnliche Zwecke, wie das Gestalten einer Fläche für eine Rampe auf einer großen Tiefbau-Baustelle oder dergleichen, lässt sich diese Methode gut anwenden.  
 
 **Beispiel: Geringfügig geneigte Fläche im Straßenbau**
 
-Text
+Auf einer sehr langgestreckten ebenen Fläche wie im Straßenbau ist es im Regelfall erforderlich, dass eine minimale Neigung zum Fahrbahnrand vorliegen muss, damit Regen- und Schmelzwasser gefahrlos ablaufen können und sich nicht auf der Fahrbahn ansammeln sowie den späteren Verkehr gefährden. Eine minimale Seitenneigung in Richtung rechter Fahrbahnseite von unter einem Grad wird im Straßenbau praktiziert, um dieses Problem zu lösen.   
 
 <br>
 
 **2-Punkt-Fläche mit einer Neigung**
 
-Text
+In komplexeren Anwendungsfällen kann eine 2-Punkt Fläche über zwei Punkte sowie unter Angabe einer weiteren Steigung als Seitenneigung angegeben werden. Die Steigung bzw. das Gefälle der Fläche ergibt sich somit aus dem Höhenunterschied und der Nähe von Punkt 2 zu Punkt 1. Hinzukommt ein seitlicher Neigungswinkel nach rechts in Blickrichtung von P1 auf P2. 
 
-**Beispiel: XXX**
+**Beispiel: Große Baugrube als Polyeder oder anderes Vieleck**
 
-Text
+Diese Auswahloption bietet sich jederzeit an, wenn eine Fläche nicht nur einen Steigungswinkel zwischen Punkt 1 und Punkt 2 aufweist, sondern zudem in eine spezifische Richtung geneigt sein muss.   
+
+**Beispiel: Geringfügig geneigte Fläche für Auffahrt**
+
+Über die Auswahloption "Punkt 2 auf Punkt 1" angleichen lässt sich ebenfalls gut eine größere Straßenausfahrt anlegen. Hierbei liegen Punkt 1 sowie versetzt Punkt 2 (in der Höhe angeglichen) entlang des Straßenrandes und die seitliche Neigung entspricht der moderaten Steigung in Richtung des Gebäudes, zu dessen Stellplatz die Ausfahrt hinführen soll.  
 
 <br>
 
-## 3-Punkt Fläche erstellen
+## Eine 3-Punkt Fläche erstellen
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot (103) - Kopie 2.png"/>
@@ -154,37 +180,39 @@ Text
 
 **<span style="color: red; font-weight: bold;">1: &nbsp;</span> Punkt aus Punkteliste** | Nutzen Sie diese Funktion, um einen bereits vorhandenen Punkt der Punkteliste für die Flächenerstellung zu verwenden. 
 
-**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Punkt neu erfassen** | Nutzen Sie diese Funktion, um einen bereits vorhandenen Punkt der Punkteliste für die Flächenerstellung zu verwenden. 
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Punkt neu erfassen** | Nutzen Sie diese Funktion, um einen neu ausgewählten Punkt für die Flächenerstellung zu verwenden. 
 
-**<span style="color: red; font-weight: bold;">3: &nbsp;</span> Flächenbezeichnung** | Vergeben Sie einen geeigneten Arbeitsnamen für die Fläche, insbesondere bei mehreren aktiven Flächen.
+**<span style="color: red; font-weight: bold;">3: &nbsp;</span> Flächenbezeichnung** | Vergeben Sie einen geeigneten Arbeitsnamen für die neue Fläche, insbesondere bei mehreren aktiven Flächen.
 
-**<span style="color: red; font-weight: bold;">5: &nbsp;</span> Angabe Höhenversatz** | Nutzen Sie die Funktion, um die Höhe (+) bzw. Tiefe (-) der Fläche anzugeben. 
+**<span style="color: red; font-weight: bold;">5: &nbsp;</span> Angabe Höhenversatz** | Nutzen Sie die Funktion, um die Höhe (+) bzw. Tiefe (-) der Fläche vertikal oder orthogonal anzugeben. 
 
-**<span style="color: red; font-weight: bold;">5: &nbsp;</span> Angabe Steigung** | Text
+**<span style="color: red; font-weight: bold;">5: &nbsp;</span> Angabe Steigung** | Über die optional verfügbare Steigungsfunktion kann eine Neigung als Steigung angegeben werden.   
 
-Text
+Für die 3-Punkt Fläche kann zusätzlich zur Position und Höhenangabe der drei erforderlichen Punkte ein Steigungswinkel als seitliche Neigung jeweils in Blickrichtung von P1 auf P2 sowie in Blickrichtung von P1 auf P3 angegeben werden. Sollte die Funktion "Mit Steigung" nicht ausgewählt und keine Art der Neigung angegeben werden, wird einzig der Neigungswinkel als Steigung zwischen P3 und der Gerade zwischen P1 und P2 dargestellt.  
+
+Optional kann über die Funktion Höhenversatz die Höhe (+) bzw. Tiefe (-) der Fläche zu Punkt 1 manuell angegeben werden, um die Fläche auf der gewünschten Höhe bzw. Tiefe darzustellen. Der Höhenversatz kann entweder vertikal (im senkrechten Lot) zur virtuellen Referenzebene des Koordinatensystems oder orthogonal (im senkrechten Lot) zur Referenzfläche mit Neigung abgebildet werden.
 
 <br>
 
 ### Varianten der 3-Punkt Fläche
 
-**Variante 1: XXX**
+**Variante 1: Einfache 3-Punkt-Fläche ohne eine weitere Neigung**
 
-Text
+Eine einfache 3-Punkt Fläche ohne weiteren Neigungswinkel ist ideal, wenn die Lage einer Fläche im Raum exakt bestimmt werden muss, um präzise Erdarbeiten aufgrund räumlicher Begrenzung der Baugrube oder den Abschluss von Tiefbauarbeiten ermöglichen zu können. Alle zuvor genannten Anwendungsbeispiele lassen sich mit der Option einer 3-Punkt Fläche abbilden, allerdings genauer und mit mehr Möglichkeiten die Beschaffenheit der Fläche zu präzisieren.     
 
-**Beispiel: XXX**
+**Beispiel: Abgeschrägte Fläche in der Baugrube**
 
-Text
+Aufgrund der präzisen Referenzierung der Fläche über drei Punkte im Raum kann man mit einer einfachen 3-Punkt Fläche ohne weiteren Neigungswinkel überall innerhalb einer größeren Baugrube flexibel eine kleine schräge Fläche anlegen, um beispielsweise Erdreich oder anderes Material gezielt abzutragen und durch anschließende Planierarbeiten eine Rampe für einen weiteren Zugang der Baumaschine in die Baugrube anzulegen.   
 
 <br>
 
-**Variante 2: XXX**
+**Variante 2: 3-Punkt-Fläche inklusive weiterer Neigung**
 
-Text
+Wenn im Rahmen der Option der 3-Punkt Fläche die Funktion "Mit Steigung" ausgewählt wird, fungiert Punkt 1 als zentraler Referenzpunkt der Fläche mit der Möglichkeit die Steigung in Blickrichtung von P1 auf P2 oder in Blickrichtung von P1 auf P3 manuell als Höhenneigung anzugeben. 
 
-**Beispiel: XXX**
+**Beispiel: Komplexe geometrische Modelle im Garten- und Landschaftsbau**
 
-Text
+Eine solche Option bietet sich an, wenn beispielsweise im Garten- und Landschaftsbau eine Vielzahl individueller und verschiedenartiger Flächen wird, um die natürlich Unebenheit und Abwesenheit menschlicher Begradigung im Landschaftsbild zu suggerieren, wie kleine Hügel, Senken, Täler und Teichmulden im Rahmen eines größeren Garten- und Landschaftsbauprojektes.  
 
 <!-- <style>
     setCenter{
