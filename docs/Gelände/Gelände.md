@@ -53,6 +53,235 @@ Text
 
 Text
 
+### Koordinatensystem: Universal Transverse Mercator (UTM)
+
+#### Geo-Referenzsystem: UTM32 - GRS80 - Ellipsoid
+
+**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
+
+**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
+
+Text
+
+<br>
+
+### Koordinatensystem: Universal Transverse Mercator (UTM)
+
+#### Geo-Referenzsystem: UTM33 - GRS80 - Ellipsoid
+
+**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
+
+**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
+
+Text
+
+<br>
+
+### Koordinatensystem: Universal Transverse Mercator (UTM)
+
+#### Geo-Referenzsystem: UTM34 - GRS80 - Ellipsoid
+
+**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
+
+**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
+
+Text
+
+<br>
+
+### Koordinatensystem: Universal Transverse Mercator (UTM)
+
+#### Geo-Referenzsystem: UTM32 - GRS80 - GCG16
+
+**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
+
+**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
+
+Text
+
+<br>
+
+## Universal Transverse Mercator (UTM)
+
+### Koordinatensystem: Universal Transverse Mercator (UTM)
+
+#### Geo-Referenzsystem: UTM33 - GRS80 - GCG16
+
+**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
+
+**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
+
+Text
+
+<br>
+
+### Koordinatensystem: Universal Transverse Mercator (UTM)
+
+#### Geo-Referenzsystem: UTM34 - GRS80 - GCG16
+
+**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
+
+**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
+
+Text
+
+<br>
+
+### Koordinatensystem: Universal Transverse Mercator (UTM)
+
+#### Geo-Referenzsystem: UTM32 - GRS80 - EGG15
+
+**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
+
+**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
+
+Text
+
+<br>
+
+### Koordinatensystem: Universal Transverse Mercator (UTM)
+
+#### Geo-Referenzsystem: UTM33 - GRS80 - EGG15
+
+**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
+
+**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
+
+Text
+
+<br>
+
+### Koordinatensystem: Universal Transverse Mercator (UTM)
+
+#### Geo-Referenzsystem: UTM34 - GRS80 - EGG15
+
+**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
+
+**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
+
+Text
+
+## Gauss-Krüger (DE)
+
+### Koordinatensystem: Gauss-Krüger (DE)
+
+#### Geo-Referenzsystem: GK2(De)-Bessel1841-Ellipsoid
+
+**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
+
+**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
+
+Text
+
+<br>
+
+### Koordinatensystem: Gauss-Krüger (DE)
+
+#### Geo-Referenzsystem: GK3(De)-Bessel1841-Ellipsoid
+
+**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
+
+**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
+
+Text
+
+<br>
+
+### Koordinatensystem: Gauss-Krüger (DE)
+
+#### Geo-Referenzsystem: GK4(De)-Bessel1841-Ellipsoid
+
+**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
+
+**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
+
+Text
+
+<br>
+
+### Koordinatensystem: Gauss-Krüger (DE)
+
+#### Geo-Referenzsystem: GK5(De)-Bessel1841-Ellipsoid
+
+**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
+
+**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
+
+Text
+
+<br>
+
+### Koordinatensystem: Gauss-Krüger (AT)
+
+#### Geo-Referenzsystem: GKM28(At)-Bessel1841-Ellipsoid
+
+**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
+
+**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
+
+Text
+
+<br>
+
+### Koordinatensystem: Gauss-Krüger (AT)
+
+#### Geo-Referenzsystem: GKM31(At)-Bessel1841-Ellipsoid
+
+**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
+
+**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
+
+Text
+
+<br>
+
+### Koordinatensystem: Gauss-Krüger (AT)
+
+#### Geo-Referenzsystem: GKM34(At)-Bessel1841-Ellipsoid
+
+**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
+
+**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
+
+Text
+
+<br>
+
+## Krovak (North Oriented)
+
+### Koordinatensystem: Krovak (North Oriented)
+
+#### Geo-Referenzsystem: KrovakN(Cz)-Bessel1841-Ellipsoid
+
+**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
+
+**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
+
+Text
+
+<br>
+
+### Koordinatensystem: Krovak (North Oriented)
+
+#### Geo-Referenzsystem: KrovakN(Cz)-Bessel1841-QGZU13
+
+**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
+
+**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
+
+Text
+
+<br>
+
+### Koordinatensystem: Geodetic
+
+#### Geo-Referenzsystem: Geodetic-GRS80-Ellipsoid
+
+Text
+
+<br>
+
+
 
 <!-- [//]: # (Peter: Gelände überarbeitet / neuer Erklärung hier angelegt)
 
