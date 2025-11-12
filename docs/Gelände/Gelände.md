@@ -27,242 +27,122 @@ Da die Baupläne einer LandXML-Datei nicht wie bei einer PDF-Datei ohne jede Geo
   <img width="100%" src="/images_docs/Screenshot Gelände (1) - Kopie.jpg"/>
 </p>
 
-Um einen neuen Arbeitsplatz speziell im Dateieformat LandXML in der App anzulegen, müssen Sie einen vorhandenen Baustellenplan als LandXML-Datei zunächst auf das Tablet hochladen und dort lokal ablegen. Wenn Sie die Funktion Gelände im Designmenü auswählen, werden Sie gebeten über "+ XML importieren" eine LandXML-Datei vom lokalen Speicher des Tablets auszuwählen.
+Um einen neuen Arbeitsplatz speziell im Dateieformat LandXML in der App anzulegen, müssen Sie einen vorhandenen Baustellenplan als LandXML-Datei zunächst auf das Tablet hochladen und dort lokal ablegen. Wenn Sie die Funktion Gelände im Designmenü auswählen, werden Sie gebeten über "+ XML importieren" eine LandXML-Datei vom lokalen Speicher des Tablets auszuwählen. Für DGM steht aktuell (Stand November 2025) nur das Dateifomat LandXML zur Verfügung. Folglich ist diese Auswahloption unter der Funktion Gelände voreingestellt.   
 
 
 ## Koordinaten- und Georeferenzsysteme
 
-<p align="center" width="100%">
-  <img width="100%" src="/images_docs/XXX.jpg"/>
-</p>
-
-Text
-
-**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Universal Transverse Mercator (UTM)** | Universal Transverse Mercator (UTM)
-
-**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Gauss-Krüger (DE)** | Gauss-Krüger (DE)
-
-**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Gauss-Krüger (AT)** | Gauss-Krüger (AT)
-
-Text
-
-
-## H2 Titel
+### Koordinatensysteme
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/XXX.jpg"/>
+  <img width="100%" src="/images_docs/Screenshot Gelände aktuell (5) - Kopie.jpg"/>
 </p>
 
-**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** - Text
+Ein Koordinatensystem ist ein länderspezifisch oder weltweit einheitliches Bezugssystem zur Bestimmung von Positionen auf der Erdoberfläche. Es basiert auf dem Modell eines Erdellipsoid, das die Form der Erde mathematisch exakt beschreibt, und definiert Breiten- und Längengrade als Koordinaten. Hierdurch lassen sich Orte auf der Erdoberfläche eindeutig durch geografische Breite (Latitude) und geografische Länge (Longitude) angeben.
 
-**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Text** - Text
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Universal Transverse Mercator (UTM)** | Das UTM-System (englisch Universal Transverse Mercator) ist ein global anwendbares und weltweit einheitlich angewandtes Koordinatensystem. 
 
-Text
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Gauss-Krüger (DE)** | Das Gauss-Krüger-Koordinatensystem (DE) ist ein in Deutschland traditionell verwendetes Abbildungssystem, welches zunehmend durch UTM abgelöst wird. 
+
+**<span style="color: red; font-weight: bold;">3: &nbsp;</span> Gauss-Krüger (AT)** | Das Gauss-Krüger-Koordinatensystem (AT) ist das frühere amtliche Koordinatensystem von Österreich, welches ebenfalls zunehmend durch UTM abgelöst wird. 
+
+**<span style="color: red; font-weight: bold;">4: &nbsp;</span> Geodätisches Koordinatensystem (Geodetic)** | Geodetic verwendet ein mathematisches Erdmodell, das die Form und Größe der Erde als Rotationsellipsoid beschreibt und präzise Berechnung geografischer Koordinaten auf der Erdoberfläche ermöglicht.
+
+Weitere länderspezifische Koordinatensysteme werden zusätzlich zum europa- und weltweit anerkannten und angewandten UTM-System schrittweise implementiert.
+
+!!! info "Koordinatensystem Universal Transverse Mercator (UTM)"
+
+Das UTM-Koordinatensystem ist ein weltweit einheitliches, rechtwinkliges Koordinatensystem zur genauen Positionsbestimmung. Es basiert auf einer Abbildung des Erdellipsoids in 60 Meridianzonen, die jeweils 6° breit sind und durch eine transversale Mercatorprojektion dargestellt werden. Jede Zone besitzt ein eigenes Koordinatennetz mit Ost- (Rechtswert) und Nordwert (Hochwert) in Metern, wodurch Entfernungen direkt messbar sind. Das UTM-System wird häufig in topografischen Karten, GPS-Geräten und geographischen Informationssystemen (GIS) verwendet, da es präzise, metrisch und weltweit standardisiert ist. In Deutschland wird meist das auf dem ETRS89-Referenzellipsoid basierende UTM-System genutzt.
+
+!!! info "Koordinatensystem Gauss-Krüger (DE)"
+
+Das Gauss-Krüger-Koordinatensystem ist ein in Deutschland traditionell verwendetes rechtwinkliges Abbildungssystem, das auf der transversalen Mercatorprojektion basiert. Die Erdoberfläche wird dabei in 3° breite Meridianstreifen unterteilt, in denen Positionen durch Rechts- (Ost-) und Hochwerte (Nordwerte) in Metern angegeben werden. Grundlage ist meist das Bessel-Ellipsoid und das Datum Potsdam (DHDN). Das System wurde lange für amtliche topographische Karten und Vermessungen genutzt, wird heute jedoch zunehmend durch das UTM-Koordinatensystem ersetzt, das international einheitlicher und GPS-kompatibler ist.
 
 
-## Universal Transverse Mercator (UTM)
+!!! info "Koordinatensystem Gauss-Krüger (AT)"
 
-### Koordinatensystem: Universal Transverse Mercator (UTM)
+Das Gauss-Krüger-Koordinatensystem (AT) ist das frühere amtliche Koordinatensystem Österreichs, das auf der transversalen Mercatorprojektion basiert. Es teilt die Erdoberfläche in 3° breite Meridianstreifen, innerhalb derer Positionen durch Rechts- und Hochwerte in Metern angegeben werden. Als Bezugsellipsoid dient das Bessel-Ellipsoid, und als geodätisches Datum wurde das MGI (Militärgeographisches Institut) verwendet. Das System war lange Zeit Grundlage für amtliche Kartenwerke und Vermessungen in Österreich, wurde jedoch inzwischen durch das UTM-Koordinatensystem mit dem Referenzrahmen ETRS89 ersetzt, das eine europaweit einheitliche Georeferenzierung ermöglicht. Aufgrund des Vertrieb des excav PILOT in Österreich findet das Koordinatensystem Gauss-Krüger (AT) ebenfalls Verwendung als Option i der App.
 
-#### Geo-Referenzsystem: UTM32 - GRS80 - Ellipsoid
 
-**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
+!!! info "Geodätisches Koordinatensystem (Geodetic)"
 
-**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
+Das geodätische Koordinatensystem beschreibt die Lage von Punkten auf der Erdoberfläche anhand geografischer Breite, geografischer Länge und Höhe über einem Referenzellipsoid. Es basiert auf einem Referenzsystem, das die Form und Orientierung des Erdellipsoids festlegt. Solche Systeme ermöglichen eine präzise, einheitliche Positionsbestimmung auf der Erde.
 
-Text
-
-<br>
-
-### Koordinatensystem: Universal Transverse Mercator (UTM)
-
-#### Geo-Referenzsystem: UTM33 - GRS80 - Ellipsoid
-
-**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
-
-**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
-
-Text
-
-<br>
-
-### Koordinatensystem: Universal Transverse Mercator (UTM)
-
-#### Geo-Referenzsystem: UTM34 - GRS80 - Ellipsoid
-
-**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
-
-**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
-
-Text
 
 <br>
 
-### Koordinatensystem: Universal Transverse Mercator (UTM)
+### Georeferenzsysteme
 
-#### Geo-Referenzsystem: UTM32 - GRS80 - GCG16
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Screenshot Gelände aktuell (11) - Kopie.jpg"/>
+</p>
 
-**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
+Ein geodätisches Referenzsystem dient der eindeutigen Lagebestimmung von Punkten auf der Erdoberfläche. Es definiert, wie geografische Koordinaten (Breite, Länge und Höhe) auf ein mathematisches Erdmodell, meist ein Referenzellipsoid, bezogen werden und somit einem festen Bezugssystem zur Erde. Das Europäische Terrestrische Referenzsystem 1989 (ETRS89) zum Beispiel ist das offizielle geodätische Referenzsystem für Europa. Es ist in diesem Fall an die eurasische Kontinentalplatte gebunden und bleibt somit im europäischen Raum stabil, wodurch präzise und zeitlich konsistente Lageangaben innerhalb von Europa gewährleistet sind.
 
-**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
 
-Text
+Weiteres Beispiel: UTM32-GRS80-Ellipsoid für UTM (global)
 
-<br>
+Das UTM32-GRS80-Ellipsoid kombiniert das UTM-Koordinatensystem (Zone 32) mit dem GRS80-Ellipsoid als Referenzmodell der Erde. Es wird verwendet, um Punkte innerhalb dieser Zone präzise zu positionieren, wobei Breite, Länge und Höhe auf dem GRS80-Ellipsoid basieren.
 
-### Koordinatensystem: Universal Transverse Mercator (UTM)
 
-#### Geo-Referenzsystem: UTM33 - GRS80 - GCG16
+Weiteres Beispiel: GK2(De)-Bessel1841-Ellipsoid für Gauss-Krüger (DE)
 
-**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
+Das Bessel1841-Ellipsoid ist ein historisches Erdmodell und beschreibt die Erdform als Rotationsellipsoid. In Deutschland diente es als Grundlage des Gauß-Krüger-Koordinatensystems (GK2 bzw. GK-System), das für topografische Karten und Vermessungen verwendet wurde.
 
-**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
 
-Text
+Weitere spezifische Georeferenzsysteme (in Abhängigkeit von europa- und weltweit anerkannten und angewandten Koordinatenystemen wie UTM) werden schrittweise in der App implementiert.
 
-<br>
-
-### Koordinatensystem: Universal Transverse Mercator (UTM)
-
-#### Geo-Referenzsystem: UTM34 - GRS80 - GCG16
-
-**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
-
-**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
-
-Text
+Im Folgenden werden alle zu den Koordinatensystemen dazugehörigen Georeferenzsysteme einzeln inkluive der verfügbaren Auswahloption für Formate aufgezählt.
 
 <br>
 
-### Koordinatensystem: Universal Transverse Mercator (UTM)
+#### Georeferenzsysteme für Universal Transverse Mercator (global)
 
-#### Geo-Referenzsystem: UTM32 - GRS80 - EGG15
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> UTM32-GRS80-Ellipsoid** | Formate: Northing Easting Altitude / Easting Northing Altitude
 
-**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> UTM33-GRS80-Ellipsoid** | Formate: Northing Easting Altitude / Easting Northing Altitude
 
-**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
+**<span style="color: red; font-weight: bold;">3: &nbsp;</span> UTM34-GRS80-Ellipsoid** | Formate: Northing Easting Altitude / Easting Northing Altitude
 
-Text
+**<span style="color: red; font-weight: bold;">4: &nbsp;</span> UTM32-GRS80-GCG16** | Formate: Northing Easting Altitude / Easting Northing Altitude
 
-<br>
+**<span style="color: red; font-weight: bold;">5: &nbsp;</span> UTM33-GRS80-GCG16** | Formate: Northing Easting Altitude / Easting Northing Altitude
 
-### Koordinatensystem: Universal Transverse Mercator (UTM)
+**<span style="color: red; font-weight: bold;">6: &nbsp;</span> UTM34-GRS80-GCG16** | Formate: Northing Easting Altitude / Easting Northing Altitude
 
-#### Geo-Referenzsystem: UTM33 - GRS80 - EGG15
+**<span style="color: red; font-weight: bold;">7: &nbsp;</span> UTM32-GRS80-EGG15** | Formate: Northing Easting Altitude / Easting Northing Altitude
 
-**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
+**<span style="color: red; font-weight: bold;">8: &nbsp;</span> UTM33-GRS80-EGG15** | Formate: Northing Easting Altitude / Easting Northing Altitude
 
-**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
-
-Text
+**<span style="color: red; font-weight: bold;">9: &nbsp;</span> UTM34-GRS80-EGG15** | Formate: Northing Easting Altitude / Easting Northing Altitude
 
 <br>
 
-### Koordinatensystem: Universal Transverse Mercator (UTM)
+#### Georeferenzsysteme für Gauss-Krüger (Deutschland)
 
-#### Geo-Referenzsystem: UTM34 - GRS80 - EGG15
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> GK2(De)-Bessel1841-Ellipsoid** | Formate: Northing Easting Altitude / Easting Northing Altitude
 
-**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> GK3(De)-Bessel1841-Ellipsoid** | Formate: Northing Easting Altitude / Easting Northing Altitude
 
-**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
+**<span style="color: red; font-weight: bold;">3: &nbsp;</span> GK4(De)-Bessel1841-Ellipsoid** | Formate: Northing Easting Altitude / Easting Northing Altitude
 
-Text
-
-<br>
-
-## Gauss-Krüger (DE)
-
-### Koordinatensystem: Gauss-Krüger (DE)
-
-#### Geo-Referenzsystem: GK2(De)-Bessel1841-Ellipsoid
-
-**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
-
-**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
-
-Text
+**<span style="color: red; font-weight: bold;">4: &nbsp;</span> GK5(De)-Bessel1841-Ellipsoid** | Formate: Northing Easting Altitude / Easting Northing Altitude
 
 <br>
 
-### Koordinatensystem: Gauss-Krüger (DE)
+#### Georeferenzsysteme für Gauss-Krüger (Österreich)
 
-#### Geo-Referenzsystem: GK3(De)-Bessel1841-Ellipsoid
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> GKM28(At)-Bessel1841-Ellipsoid** | Formate: Northing Easting Altitude / Easting Northing Altitude
 
-**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> GKM31(At)-Bessel1841-Ellipsoid** | Formate: Northing Easting Altitude / Easting Northing Altitude
 
-**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
-
-Text
+**<span style="color: red; font-weight: bold;">3: &nbsp;</span> GKM34(At)-Bessel1841-Ellipsoid** | Formate: Northing Easting Altitude / Easting Northing Altitude
 
 <br>
 
-### Koordinatensystem: Gauss-Krüger (DE)
+#### Georeferenzsysteme für Geodätisches Koordinatensystem (Geodetic)
 
-#### Geo-Referenzsystem: GK4(De)-Bessel1841-Ellipsoid
-
-**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
-
-**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
-
-Text
-
-<br>
-
-### Koordinatensystem: Gauss-Krüger (DE)
-
-#### Geo-Referenzsystem: GK5(De)-Bessel1841-Ellipsoid
-
-**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
-
-**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
-
-Text
-
-<br>
-
-### Koordinatensystem: Gauss-Krüger (AT)
-
-#### Geo-Referenzsystem: GKM28(At)-Bessel1841-Ellipsoid
-
-**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
-
-**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
-
-Text
-
-<br>
-
-### Koordinatensystem: Gauss-Krüger (AT)
-
-#### Geo-Referenzsystem: GKM31(At)-Bessel1841-Ellipsoid
-
-**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
-
-**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
-
-Text
-
-<br>
-
-### Koordinatensystem: Gauss-Krüger (AT)
-
-#### Geo-Referenzsystem: GKM34(At)-Bessel1841-Ellipsoid
-
-**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
-
-**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
-
-Text
-
-<br>
-
-### Koordinatensystem: Geodetic
-
-#### Geo-Referenzsystem: Geodetic-GRS80-Ellipsoid
-
-Text
-
-<br>
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Geodetic-GRS80-Ellipsoid** | kein weiteres Format erforderlich (keine Auswahloption möglich)
 
 
 
