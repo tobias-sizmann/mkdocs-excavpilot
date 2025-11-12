@@ -6,7 +6,7 @@
 
 # Baugrube
 
-Diese Seite befindet sich gerade in Bearbeitung.
+Hinweis: Diese Seite befindet sich gerade in Bearbeitung.
 
 
 <!-- <p align="center" width="100%">

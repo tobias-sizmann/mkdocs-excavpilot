@@ -4,10 +4,10 @@
     }
 </style>
 
-# Ladegerät
+# Ladegerät und Kabel
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/Anleitung & FAQ Bild 8-Photoroom.png"/>
+  <img width="100%" src="/images_docs/excav PILOT 2025 Ladegerät freigestellt.png"/>
 </p>
 
 Der GNSS-Sensor und das LED-Anzeigekreuz verfügen über einen magnetischen Ladeanschluss seitlich am Gehäuse. Das Tablet besitzt einen regulären USB-C-Anschluss.

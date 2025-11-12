@@ -5,12 +5,10 @@
 # LED-Anzeigekreuz
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/Anleitung & FAQ Bild 3-Photoroom.png"/>
+  <img width="100%" src="/images_docs/excav PILOT 2025 LED-Anzeigekreuz Collage freigestellt.png"/>
 </p>
 
-Das mitgelieferte LED-Anzeigekreuz wird am Arm oder Stiel oberhalb des Baggerlöffels magnetisch angebracht und bietet eine zusätzliche visuelle Unterstützung bei der Erfassung der aktuellen Werkzeugposition in Relation zur gewünschten Sollhöhe.
-
-Die Farbgebung der LED-Stränge umfasst Grün (ideale Ausrichtung bis moderate Abweichung), Gelb (erhöhte bis merkliche Abweichung) sowie Rot (erhebliche Abweichung von der Sollhöhe bzw. Sollneigung).
+Das mitgelieferte LED-Anzeigekreuz wird am Arm oder Stiel oberhalb des Baggerlöffels magnetisch angebracht und bietet eine zusätzliche visuelle Unterstützung bei der Erfassung der aktuellen Werkzeugposition in Relation zur gewünschten Sollhöhe. Die Farbgebung der LED-Stränge umfasst Grün (ideale Ausrichtung bis moderate Abweichung), Gelb (erhöhte bis merkliche Abweichung) sowie Rot (erhebliche Abweichung von der Sollhöhe bzw. Sollneigung).
 
 Der **vertikale LED-Strang** informiert über die Höhendifferenz von Löffel- oder Werkzeugschneide und eingegebener Sollhöhe:
 

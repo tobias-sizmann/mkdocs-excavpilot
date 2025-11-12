@@ -5,6 +5,10 @@
 </style>
 # NTRIP
 
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Screenshot (5) - Kopie.jpg"/>
+</p>
+
 ## Was ist NTRIP?
 
 NTRIP steht für Networked Transport of RTCM via Internet Protocol und ist ein gängiges Verfahren zur Bereitstellung von RTK-Korrekturdaten über das Internet. Die erreichbare **Lagegenauigkeit** wird je nach Korrekturdatendienstleister mit **ca. 1 - 3 cm** angegeben.

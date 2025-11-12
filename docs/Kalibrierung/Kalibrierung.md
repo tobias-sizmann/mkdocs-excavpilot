@@ -4,9 +4,9 @@
     }
 </style>
 
-# Werkzeugkalibrierung und Verfahren
+# Kalibrierung
 
-Diese Seite befindet sich gerade in Bearbeitung.
+Hinweis: Diese Seite befindet sich gerade in Bearbeitung.
 
 <!-- **Verfügbare Verfahren zur Kalibirierung**
 
