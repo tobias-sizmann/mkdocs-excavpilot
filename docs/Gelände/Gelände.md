@@ -14,7 +14,9 @@ Hinweis: Diese Seite befindet sich gerade in Bearbeitung.
 
 Das Einlesen und die Nutzung von Digitalen Geländemodellen (DGM) im LandXML-Format für eine vollständig in 3D visualisierte Arbeitsweise auf der Baustelle ist eine der Hauptfunktionen der excav App-Anwendung. Nutzer können sich jederzeit entscheiden, ob sie Baupläne als PDF in der zweidimensionalen Ansicht oder mithilfe von DGM im LandXML-Format sogar im dreidimensionalen Raum für ein intuitives und immersives Arbeitserlebnis. 
 
-LandXML ist ein gängiges Dateiformat zum Austauschen von georeferenzierten Objekten zwischen Anwendungen. Die XML-Anwendung erlaubt damit die Übermittlung von Objekten mit Attributen, Distanzrelationen und Geometrien zwischen verschiedenen Endgeräten, insbesondere für die Geodäsie und Tiefbauanwendungen. Da die Vermessungsdaten georeferenziert sind, erscheinen die Inhalte der Datei lediglich dann sichtbar auf dem Bildschirm des Tablets, wenn sich der Nutzer mit dem Sensor innerhalb des dafür georeferenzierten Areals befindet.
+!!! info "Dateiformat LandXML"
+
+LandXML ist ein gängiges Dateiformat zum Austauschen von georeferenzierten Objekten zwischen Anwendungen. Die XML-Anwendung erlaubt damit die Übermittlung von Objekten mit Attributen, Distanzrelationen und Geometrien zwischen verschiedenen Endgeräten, insbesondere für die Geodäsie und Tiefbauanwendungen. Da die Vermessungsdaten georeferenziert sind, erscheinen die Inhalte der Datei lediglich dann sichtbar auf dem Bildschirm des Tablets, wenn sich der Nutzer mit dem GNSS-Sensor innerhalb des dafür georeferenzierten Areals befindet.
 
 Da die Baupläne einer LandXML-Datei nicht wie bei einer PDF-Datei ohne jede Georeferenzierung auskommen und bereits in 2D einfach aus der Vogelperspektive darstellbar sind, erfordert der Import eines DGM ein grundlegendes Verständnis für die Vermessung in der Geodäsie. 
 
@@ -25,18 +27,22 @@ Da die Baupläne einer LandXML-Datei nicht wie bei einer PDF-Datei ohne jede Geo
   <img width="100%" src="/images_docs/Screenshot Gelände (1) - Kopie.jpg"/>
 </p>
 
-Ein DGM als LandXML-Datei lässt sich einfach importieren. Nutzen Sie die Funktion "Gelände" im Designmenü und folgen Sie der Aufforderung eine XML-Datei zu importieren. Sie gelangen daraufhin zum internen Dokumentenablageordner für PDF und Dateien in anderen Formaten. Dort wählen Sie die gewünschte LandXML-Datei aus und durchlaufen die Referenzierung. 
+Um einen neuen Arbeitsplatz speziell im Dateieformat LandXML in der App anzulegen, müssen Sie einen vorhandenen Baustellenplan als LandXML-Datei zunächst auf das Tablet hochladen und dort lokal ablegen. Wenn Sie die Funktion Gelände im Designmenü auswählen, werden Sie gebeten über "+ XML importieren" eine LandXML-Datei vom lokalen Speicher des Tablets auszuwählen.
 
 
-## H2 Titel
+## Koordinaten- und Georeferenzsysteme
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/XXX.jpg"/>
 </p>
 
-**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Text** - Text
+Text
 
-**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Text** - Text
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Universal Transverse Mercator (UTM)** | Universal Transverse Mercator (UTM)
+
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Gauss-Krüger (DE)** | Gauss-Krüger (DE)
+
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Gauss-Krüger (AT)** | Gauss-Krüger (AT)
 
 Text
 
@@ -52,6 +58,9 @@ Text
 **<span style="color: red; font-weight: bold;">2: &nbsp;</span> Text** - Text
 
 Text
+
+
+## Universal Transverse Mercator (UTM)
 
 ### Koordinatensystem: Universal Transverse Mercator (UTM)
 
@@ -100,8 +109,6 @@ Text
 Text
 
 <br>
-
-## Universal Transverse Mercator (UTM)
 
 ### Koordinatensystem: Universal Transverse Mercator (UTM)
 
@@ -160,6 +167,8 @@ Text
 **<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
 
 Text
+
+<br>
 
 ## Gauss-Krüger (DE)
 
@@ -247,32 +256,6 @@ Text
 
 <br>
 
-## Krovak (North Oriented)
-
-### Koordinatensystem: Krovak (North Oriented)
-
-#### Geo-Referenzsystem: KrovakN(Cz)-Bessel1841-Ellipsoid
-
-**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
-
-**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
-
-Text
-
-<br>
-
-### Koordinatensystem: Krovak (North Oriented)
-
-#### Geo-Referenzsystem: KrovakN(Cz)-Bessel1841-QGZU13
-
-**<span style="color: white; font-weight: bold;">Format 1: &nbsp;</span> Northing Easting Altitude**
-
-**<span style="color: white; font-weight: bold;">Format 2: &nbsp;</span> Easting Northing Altitude**
-
-Text
-
-<br>
-
 ### Koordinatensystem: Geodetic
 
 #### Geo-Referenzsystem: Geodetic-GRS80-Ellipsoid
@@ -283,7 +266,7 @@ Text
 
 
 
-<!-- [//]: # (Peter: Gelände überarbeitet / neuer Erklärung hier angelegt)
+<!-- [//]: #
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Arbeitsplatz Gelände.jpg"/>
