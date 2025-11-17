@@ -14,11 +14,9 @@ Das Einlesen und die Nutzung von Digitalen Geländemodellen (DGM) im LandXML-For
 
 !!! info "Dateiformat LandXML"
 
-LandXML ist ein gängiges Dateiformat zum Austauschen von georeferenzierten Objekten zwischen Softwareprogrammen. LandXML erlaubt damit die Übermittlung von Objekten mit Attributen, Distanzrelationen und Geometrien zwischen verschiedenen Endgeräten, insbesondere für Anwendungen im Tiefbau, im Straßenbau oder im Garten- und Landschaftsbau. 
+LandXML ist ein gängiges Dateiformat zum Austauschen von georeferenzierten Objekten zwischen Softwareprogrammen. LandXML erlaubt damit die Übermittlung von Objekten mit Attributen, Distanzrelationen und Geometrien zwischen verschiedenen Endgeräten, insbesondere für Anwendungen im Tiefbau, im Straßenbau oder im Garten- und Landschaftsbau.
 
-Da die Vermessungsdaten georeferenziert sind, erscheinen die Inhalte der Datei lediglich dann sichtbar auf dem Bildschirm des Tablets, wenn sich der Nutzer mit dem GNSS-Sensor innerhalb des entsprechenden georeferenzierten Areals befindet. 
-
---> Info woanders platzieren
+Da die Vermessungsdaten georeferenziert sind, erscheinen die Inhalte der Datei lediglich dann sichtbar auf dem Bildschirm des Tablets, wenn sich der Nutzer mit dem GNSS-Sensor innerhalb des entsprechenden georeferenzierten Areals befindet.
 
 
 !!! info "Bezug von geodätischen Plänen"
@@ -56,15 +54,6 @@ Um einen neuen Arbeitsplatz speziell im Dateiformat LandXML in der App anzulegen
 
 Ein Koordinatensystem ist ein länderspezifisch oder weltweit einheitliches Bezugssystem zur Bestimmung von Positionen auf der Erdoberfläche. Es basiert auf dem Modell eines Erdellipsoid, das die Form der Erde mathematisch exakt beschreibt, und definiert Breiten- und Längengrade als Koordinaten. Hierdurch lassen sich Orte auf der Erdoberfläche eindeutig durch geografische Breite (Latitude) und geografische Länge (Longitude) angeben.
 
-**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Universal Transverse Mercator (UTM)** | Das UTM-System (englisch Universal Transverse Mercator) ist ein global anwendbares und weltweit einheitlich angewandtes Koordinatensystem. 
-
-**<span style="color: red; font-weight: bold;">2: &nbsp;</span> Gauss-Krüger (DE)** | Das Gauss-Krüger-Koordinatensystem (DE) ist ein in Deutschland traditionell verwendetes Abbildungssystem, welches zunehmend durch UTM abgelöst wird. 
-
-**<span style="color: red; font-weight: bold;">3: &nbsp;</span> Gauss-Krüger (AT)** | Das Gauss-Krüger-Koordinatensystem (AT) ist das frühere amtliche Koordinatensystem von Österreich, welches ebenfalls zunehmend durch UTM abgelöst wird. 
-
-**<span style="color: red; font-weight: bold;">4: &nbsp;</span> Geodätisches Koordinatensystem (Geodetic)** | Geodetic verwendet ein mathematisches Erdmodell, das die Form und Größe der Erde als Rotationsellipsoid beschreibt und präzise Berechnung geografischer Koordinaten auf der Erdoberfläche ermöglicht.
-
-Weitere länderspezifische Koordinatensysteme werden zusätzlich zum europa- und weltweit anerkannten und angewandten UTM-System schrittweise implementiert.
 
 !!! info "Koordinatensystem Universal Transverse Mercator (UTM)"
 
@@ -77,7 +66,7 @@ Das Gauss-Krüger-Koordinatensystem ist ein in Deutschland traditionell verwende
 
 !!! info "Koordinatensystem Gauss-Krüger (AT)"
 
-Das Gauss-Krüger-Koordinatensystem (AT) ist das frühere amtliche Koordinatensystem Österreichs, das auf der transversalen Mercatorprojektion basiert. Es teilt die Erdoberfläche in 3° breite Meridianstreifen, innerhalb derer Positionen durch Rechts- und Hochwerte in Metern angegeben werden. Als Bezugsellipsoid dient das Bessel-Ellipsoid, und als geodätisches Datum wurde das MGI (Militärgeografisches Institut) verwendet. Das System war lange Zeit Grundlage für amtliche Kartenwerke und Vermessungen in Österreich, wurde jedoch inzwischen durch das UTM-Koordinatensystem mit dem Referenzrahmen ETRS89 ersetzt, das eine europaweit einheitliche Georeferenzierung ermöglicht. Aufgrund des Vertriebs des excav PILOT in Österreich findet das Koordinatensystem Gauss-Krüger (AT) ebenfalls Verwendung als Option i der App.
+Das Gauss-Krüger-Koordinatensystem (AT) ist das frühere amtliche Koordinatensystem Österreichs, das auf der transversalen Mercatorprojektion basiert. Es teilt die Erdoberfläche in 3° breite Meridianstreifen, innerhalb derer Positionen durch Rechts- und Hochwerte in Metern angegeben werden. Als Bezugsellipsoid dient das Bessel-Ellipsoid, und als geodätisches Datum wurde das MGI (Militärgeografisches Institut) verwendet. Das System war lange Zeit Grundlage für amtliche Kartenwerke und Vermessungen in Österreich, wurde jedoch inzwischen durch das UTM-Koordinatensystem mit dem Referenzrahmen ETRS89 ersetzt, das eine europaweit einheitliche Georeferenzierung ermöglicht. Aufgrund des Vertriebs des excav PILOT in Österreich findet das Koordinatensystem Gauss-Krüger (AT) ebenfalls Verwendung als Option in der App.
 
 
 !!! info "Geodätisches Koordinatensystem (Geodetic)"
