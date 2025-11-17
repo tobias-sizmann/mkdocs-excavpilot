@@ -9,106 +9,108 @@
 Hinweis: Diese Seite befindet sich gerade in Bearbeitung.
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot Arbeitsplatz (4) - Kopie.jpg"/>
+  <img width="100%" src="/images_docs/Screenshot Arbeitsplatz neu (1) - Kopie.jpg"/>
 </p>
 
-Der Menüpunkt „Arbeitsplatz“ bietet eine Reihe von Funktionen, um erstmals oder erneut einen Arbeitsplatz anzulegen, zu speichern und mehrere Arbeitsplätze entsprechend zu organisieren. 
-
-Die Ansicht des Arbeitsplatzmenüs bietet Zugang zu mehreren Arbeitsplätzen mit Angabe von Datum und Uhrzeit des letzten Bearbeitungsstandes. Ein Arbeitsplatz lässt sich neu erstellen, bearbeiten sowie ggf. löschen, falls nicht länger erforderlich. 
-
-Beachten Sie bitte beim Laden den Hinweis, dass ungespeicherte Änderungen im Zuge der Arbeit verloren gehen können. Falls Sie sich nicht sicher sind, speichern Sie einfach den Arbeitsplatz ab.  
-
-
-## Einrichtung der App
-
-<p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot Arbeitsplatz weitere.jpg"/>
-</p>
+Der Menüpunkt „Arbeitsplatz“ bietet eine Reihe von Funktionen, um erstmals oder erneut einen Arbeitsplatz anzulegen, zu speichern und mehrere Arbeitsplätze entsprechend zu organisieren.
 
 Sobald Sie den excav PILOT erstmals nutzen wollen und dafür die vorinstallierte App auf dem Tablet aufrufen, werden Sie direkt zu Beginn gebeten einen ersten Arbeitsplatz anzulegen oder einen bereits vorhandenen Arbeitsplatz zu laden, um Informationen abspeichern zu können.
 
 In diesem Beispiel wird davon ausgegangen, dass Sie den excav PILOT zum ersten Mal nutzen und einen Arbeitsplatz anlegen müssen, um mit weiteren Funktionen fortfahren zu können.  
 
 
-## Arbeitsplatz anlegen (leer)
+## Neuen Arbeitsplatz erstellen
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot Arbeitsplatz (1) - Kopie.jpg"/>
-</p>
-
-Falls Sie die excav PILOT App zum ersten Mal einrichten oder bisherige Arbeitsplätze gelöscht wurden, dann erscheint die Ansicht für die Arbeitsplätze wie oben auf dem Bild. Folgen Sie einfach der Aufforderung einen neuen Arbeitsplatz anzulegen.     
-
-
-## Erster Arbeitsplatz
-
-<p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot Arbeitsplatz (2) - Kopie.jpg"/>
+  <img width="100%" src="/images_docs/Screenshot Arbeitsplatz PNG 1.png"/>
 </p>
 
 Text
 
 
-## LandXML-Datei laden
+## Ansicht Arbeitsplätze
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot Arbeitsplatz (3) - Kopie.jpg"/>
+  <img width="100%" src="/images_docs/Screenshot Arbeitsplatz PNG 2.png"/>
 </p>
 
-Um einen neuen Arbeitsplatz speziell im Dateiformat LandXML in der App anzulegen, haben Sie zwei Möglichkeiten: Entweder in einem bestehenden Arbeitsplatz eine LandXML-Datei reinladen oder einen gänzlich neuen Arbeitsplatz mithilfe einer LandXML-Datei erstellen.
+Text     
+
+
+## Namen für einen neuen Arbeitsplatz
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Screenshot Arbeitsplatz PNG 3.png"/>
+</p>
+
+Text   
+
+
+## Optional: Kalibrierung über CSV-Datei laden
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Screenshot Arbeitsplatz PNG 4.png"/>
+</p>
+
+Text  
+
+
+## Optionl: DGM als LandXML-Datei laden
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Screenshot Arbeitsplatz PNG 5.png"/>
+</p>
+
+Um einen neuen Arbeitsplatz speziell im Dateiformat LandXML in der App anzulegen, haben Sie zwei Möglichkeiten: Entweder in einem bestehenden Arbeitsplatz eine LandXML-Datei reinladen oder einen gänzlich neuen Arbeitsplatz mithilfe einer LandXML-Datei gezielt erstellen.
 
 !!! info "Umgang mit LandXML-Dateien"
+    Um einen neuen Arbeitsplatz speziell im Format LandXML in der App anzulegen, müssen Sie einen vorhandenen Baustellenplan als LandXML-Datei zunächst auf den lokalen Speicher des Tablets hochladen. Als Nächstes müssen Sie exakte Angaben zu den XML-Metadaten der Datei für das Georeferenz- und Höhenreferenzsystem machen, die Sie von Ihrem Planungs- oder Ingenieuerbüro erhalten.
 
-Um einen neuen Arbeitsplatz speziell im Format LandXML in der App anzulegen, müssen Sie einen vorhandenen Baustellenplan als LandXML-Datei zunächst auf das Tablet hochladen. Als Nächstes müssen Sie exakte Angaben zu den XML-Metadaten der Datei für das Georeferenz- und Höhenreferenzsystem machen, die Sie von Ihrem Planungs- oder Ingenieuerbüro erhalten.
-
-Über Art und Umfang der erforderlichen Angaben entscheidet maßgeblich die Wahl des Georeferenzsystems (mehr dazu erfahren Sie unter der Seite [Gelände](https://docs.excav.de/Gelände/Gelände/)). Sollten die eingegebenen Daten oder Einstellungen sowie die Beschaffenheit der LandXML-Datei nicht miteinander übereinstimmen, wird automatisch eine Fehlermeldung ausgelöst.
+Über Art und Umfang der erforderlichen Angaben entscheidet maßgeblich die Wahl des Koordinaten- und Georeferenzsystems (mehr dazu erfahren Sie unter [Gelände](https://docs.excav.de/Gelände/Gelände/)). Sollten die eingegebenen Daten oder Einstellungen sowie die Beschaffenheit der LandXML-Datei nicht miteinander übereinstimmen, wird automatisch eine Fehlermeldung ausgelöst.
 
 
-## Referenzpunkt setzen
+## Ursprung (Referenzpunkt) setzen
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot Arbeitsplatz (6) - Kopie.jpg"/>
+  <img width="100%" src="/images_docs/Screenshot Arbeitsplatz PNG 6.png"/>
 </p>
-
-Text
-
-Der oben gezeigte neue Arbeitsplatz heißt "Ref1" in Abkürzung zu Referenz als Beispiel. 
 
 Wichtig: Im Arbeitsplatz sind alle Punkte absolut (nicht relativ) zum Referenzpunkt gespeichert (sie haben absolute Koordinaten und folglich einen absoluten Bezugspunkt).
 
-## Erster aktiver Arbeitsplatz
+
+## Neuer aktiver Arbeitsplatz
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot Arbeitsplatz (7) - Kopie.jpg"/>
+  <img width="100%" src="/images_docs/Screenshot Arbeitsplatz PNG 7.png"/>
 </p>
 
 Sie können einen zuvor abgespeicherten Arbeitsplatz wieder laden und bearbeiten. In Ihrem ausgewählten Arbeitsplatz befinden sich alle folgenden Informationen gespeichert, die über das Designmenü (siehe das Füller-Symbol) angelegt worden sind:
 
-• Alle erfassten Punkte inklusive Referenzpunkt
+• Alle erfassten Punkte inklusive des Ursprungs (vormals Referenzpunkt)
 
 • Alle erfassten Strecken, Geraden und Polyeder
 
-• Die aktuell aktive Fläche mit eingestelltem Versatz und aktiver Werkzeugecke
+• Die aktuell aktive Fläche mit aktiver Werkzeugecke
 
 • Den aktuell geladenen und entsprechend ausgerichteten Bauplan
 
 
 !!! Warning "Speichern von Daten erforderlich"
+    Wenn Sie den Arbeitsplatz neu laden, werden alle bisher erfassten und eingestellten Punkte oder Flächen nicht gespeichert und die Daten gehen somit verloren. Speichern Sie zur Sicherheit Ihren aktuellen Arbeitsplatz nach jedem größeren Bearbeitungsschritt, um Datenverluste zu vermeiden.
 
-Wenn Sie den Arbeitsplatz neu laden, werden alle bisher erfassten und eingestellten Punkte oder Flächen nicht gespeichert und die Daten gehen somit verloren. Speichern Sie zur Sicherheit Ihren aktuellen Arbeitsplatz nach jedem größeren Bearbeitungsschritt, um Datenverluste zu vermeiden. 
 
 
 !!! info "Speicherung der Werkzeuge"
-
-Die erstellten Werkzeuge (z.B. Baggerschaufel oder andere Werkzeuge) werden zwar auf Ebene der App, jedoch nicht auf der Ebene des einzelnen Arbeitsplatzes selbst gespeichert. Auf diese Weise bleiben alle exakt einkalibrierten Werkzeuge erhalten und müssen nicht stets aufs Neue in jedem Arbeitsplatz neu kalibriert und hinterlegt werden. Zudem gehen die einkalibrierten Maße nicht verloren, sollten Sie ohne Speicherung der Daten den Arbeitsplatz wechseln.
+    Die erstellten Werkzeuge (z.B. Baggerschaufel oder andere Werkzeuge) werden zwar auf Ebene der App, jedoch nicht auf der Ebene des einzelnen Arbeitsplatzes selbst gespeichert. Auf diese Weise bleiben alle exakt einkalibrierten Werkzeuge erhalten und müssen nicht stets aufs Neue in jedem Arbeitsplatz neu kalibriert und hinterlegt werden. Zudem gehen die einkalibrierten Maße nicht verloren, sollten Sie ohne Datenspeicherung den Arbeitsplatz wechseln.
 
 
 ## Hauptarbeitsansicht
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot Arbeitsplatz (11).jpg"/>
+  <img width="100%" src="/images_docs/Screenshot Arbeitsplatz neu (10).jpg"/>
 </p>
 
-Text
+Sobald ein erster oder weiterer Arbeitsplatz angelegt worden ist (im Beispiel oben ohne eine LandXML-Datei), erscheint der GNSS-Sensor auf der primären Arbeitsansicht im Ursprung.
 
 
 <!--

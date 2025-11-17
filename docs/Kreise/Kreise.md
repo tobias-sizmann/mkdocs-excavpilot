@@ -22,9 +22,9 @@ Manche Zielvorgaben im Garten- und Landschaftsbau lassen sich am besten durch ei
 
 **<span style="color: red; font-weight: bold;">2: &nbsp;</span> Löschen-Button** | Kreis aus der Kreise-Liste löschen. Achtung: Nicht wiederherstellbar! Wenn Sie den Kreis möglicherweise später noch mal benötigen, dann besser nur ausblenden.
 
-**<span style="color: red; font-weight: bold;">3: &nbsp;</span> Linie bearbeiten** | Durch Tippen auf einen Kreis können Sie diesen bearbeiten, z.B. die Farbgebung oder Bezeichnung. Unter der Kreisbezeichnung werden Ihnen alle Informationen zum Kreis (z.B. Umfang und Fläche) ausgegeben, welche Sie in den Kreis-Einstellungen (siehe **<span style="color: red; font-weight: bold;">4</span>**) aktiv gesetzt haben. 
+**<span style="color: red; font-weight: bold;">3: &nbsp;</span> Kreis bearbeiten** | Durch Tippen auf einen Kreis können Sie diesen bearbeiten, z.B. die Farbgebung oder Bezeichnung. Unter der Kreisbezeichnung werden Ihnen alle Informationen zum Kreis (z.B. Umfang und Fläche) ausgegeben, welche Sie in den Kreis-Einstellungen (siehe **<span style="color: red; font-weight: bold;">4</span>**) aktiv gesetzt haben. 
 
-**<span style="color: red; font-weight: bold;">4: &nbsp;</span> Linien-Einstellungen** | Öffnet das Einstellungs-Fenster. Hier können Sie auswählen, welche Informationen zu den Kreisen in Ihrer Kreise-Liste angezeigt werden sollen.
+**<span style="color: red; font-weight: bold;">4: &nbsp;</span> Kreis-Einstellungen** | Öffnet das Einstellungs-Fenster. Hier können Sie auswählen, welche Informationen zu den Kreisen in Ihrer Kreise-Liste angezeigt werden sollen.
 
 ## Neuen Kreis erstellen
 
