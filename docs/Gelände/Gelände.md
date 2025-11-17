@@ -43,7 +43,7 @@ Im ersten Schritt müssen Sie einen vorhandenen Baustellenplan als LandXML-Datei
 ### Koordinatensysteme
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot Gelände aktuell (5) - Kopie 2.png"/>
+  <img width="100%" src="/images_docs/Gelände Auswahl (1).png"/>
 </p>
 
 **<span style="color: red; font-weight: bold;">1: &nbsp;</span> Koordinatensystem** | Wählen Sie hier das zugrunde liegende Koordinatensystem aus. 
@@ -97,7 +97,7 @@ Ein Koordinatensystem ist ein länderspezifisches oder weltweit einheitliches Be
 ### Georeferenzsysteme
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot Gelände aktuell (11) - Kopie.jpg"/>
+  <img width="100%" src="/images_docs/Gelände Auswahl (2).png"/>
 </p>
 
 Ein geodätisches Referenzsystem dient der eindeutigen Lagebestimmung von Punkten auf der Erdoberfläche. Es definiert, wie geografische Koordinaten (Breite, Länge, Höhe) auf ein mathematisches Erdmodell – meist ein Referenzellipsoid – bezogen werden. So entsteht ein festes Bezugssystem. Das Europäische Terrestrische Referenzsystem 1989 (ETRS89) ist beispielsweise das offizielle geodätische Referenzsystem für Europa. Es ist an die eurasische Kontinentalplatte gebunden und daher im europäischen Raum stabil, wodurch präzise und zeitlich konsistente Lageangaben gewährleistet sind.
@@ -114,7 +114,7 @@ Beispiele:
 ### Formate
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot Gelände aktuell (16) - Kopie.jpg"/>
+  <img width="100%" src="/images_docs/Gelände Auswahl (3).png"/>
 </p>
 
 Die Formate Northing, Easting, Altitude (NEA) und Easting, Northing, Altitude (ENA) beschreiben die Koordinaten in einem kartesischen oder projektiven Georeferenzsystem:
@@ -127,7 +127,7 @@ Die Formate Northing, Easting, Altitude (NEA) und Easting, Northing, Altitude (E
 
 Die Reihenfolge (NEA oder ENA) hängt vom Koordinatensystem ab, verändert jedoch nicht die tatsächliche Lage eines Punktes.
 
-Im Folgenden werden alle zu den Koordinatensystemen gehörenden Georeferenzsysteme inklusive der
+Im Folgenden werden alle zu den Koordinatensystemen gehörenden Georeferenzsysteme inklusive der verfügbaren Formatoptionen aufgeführt.
 
 
 <br>
