@@ -54,7 +54,7 @@ Text
   <img width="100%" src="/images_docs/Screenshot Arbeitsplatz (3) - Kopie.jpg"/>
 </p>
 
-Text
+Um einen neuen Arbeitsplatz speziell im Dateiformat LandXML in der App anzulegen, haben Sie zwei Möglichkeiten: Entweder in einem bestehenden Arbeitsplatz eine LandXML-Datei reinladen oder einen gänzlich neuen Arbeitsplatz mithilfe einer LandXML-Datei erstellen.
 
 !!! info "Umgang mit LandXML-Datein"
 
