@@ -15,8 +15,7 @@ Das Einlesen und die Nutzung von Digitalen Geländemodellen (DGM) im LandXML-For
 !!! info "Dateiformat LandXML"
 
 LandXML ist ein gängiges Dateiformat zum Austauschen von georeferenzierten Objekten zwischen Anwendungen. Die XML-Anwendung erlaubt damit die Übermittlung von Objekten mit Attributen, Distanzrelationen und Geometrien zwischen verschiedenen Endgeräten, insbesondere für die Geodäsie und Tiefbauanwendungen. Da die Vermessungsdaten georeferenziert sind, erscheinen die Inhalte der Datei lediglich dann sichtbar auf dem Bildschirm des Tablets, wenn sich der Nutzer mit dem GNSS-Sensor innerhalb des dafür georeferenzierten Areals befindet.
-
-Da die Baupläne einer LandXML-Datei nicht wie bei einer PDF-Datei ohne jede Georeferenzierung auskommen und bereits in 2D einfach aus der Vogelperspektive darstellbar sind, erfordert der Import eines DGM ein grundlegendes Verständnis für die Vermessung in der Geodäsie. 
+ 
 
 !!! info "Bezug von geodätischen Plänen"
 
