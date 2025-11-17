@@ -14,9 +14,10 @@ In der [Komponentenübersicht](https://docs.excav.de/Gesamtsystem/Gesamtsystem/)
 
 Falls Sie das System zum ersten Mal in Betrieb nehmen, starten Sie am besten mit [Erste Schritte](https://docs.excav.de/System%20aufbauen/System%20aufbauen/). In diesem Reiter werden Ihnen alle wichtigen Schritte zur Inbetriebnahme des excav PILOT ausführlich erklärt. Wir empfehlen Ihnen zudem, sich unsere [Videoanleitung](https://www.youtube.com/watch?v=0_yEPTznHgQ&t){:target="\_blank"} anzusehen.
 
+
 ## App
 
-Nach erfolgreicher Inbetriebnahme finden Sie im Reiter "App" alle Erklärungen zur App sowie den Funktionen und Einstellungsmöglichkeiten. 
+Nach erfolgreicher Inbetriebnahme finden Sie im Reiter „App“ alle Erklärungen zur App sowie zu den Funktionen und Einstellungsmöglichkeiten. 
 
 [Arbeitsansicht](https://docs.excav.de/Arbeitsansicht/Arbeitsansicht/): Dies ist die Standardbenutzeroberfläche, mit der Sie arbeiten. In diesem Abschnitt werden sämtliche Bedienelemente und angezeigten Informationen im Detail erläutert. 
 
@@ -45,12 +46,3 @@ Diese Nachricht weist auf mögliche Gefahren hin.
 
 !!! question "Häufige Fragen"
 Hier finden Sie häufig gestellte Fragen und Antworten zum Gebrauch.
-
-<!-- Hier finden Sie wichtige Sicherheits- und Warnhinweise für den Gebrauch. Der Abschnitt für Sicherheitshinweise befindet sich am Ende der Bedienungsanleitung.
-
-## Sonstige Informationen
-
-Aktuelle produktbezogene Informationen zum mobilen 3D-GNSS-Assistenzsystem excav PILOT finden Sie jederzeit auf Deutsch sowie Englisch auf unserer Webseite unter [www.excav.de](https://excav.de/) vor. -->
-
-
-

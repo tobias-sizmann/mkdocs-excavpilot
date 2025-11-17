@@ -12,11 +12,11 @@ Hinweis: Diese Seite befindet sich gerade in Bearbeitung.
   <img width="100%" src="/images_docs/Screenshot Arbeitsplatz (4) - Kopie.jpg"/>
 </p>
 
-Der Menüpunkt „Arbeitsplatz“ bietet eine Reihe von Funktionen, um erstmals oder erneut einen Arbeitsplatz anzulegen, zu speichern und mehrere Arbeitsplätze zu organisieren. 
+Der Menüpunkt „Arbeitsplatz“ bietet eine Reihe von Funktionen, um erstmals oder erneut einen Arbeitsplatz anzulegen, zu speichern und mehrere Arbeitsplätze entsprechend zu organisieren. 
 
 Die Ansicht des Arbeitsplatzmenüs bietet Zugang zu mehreren Arbeitsplätzen mit Angabe von Datum und Uhrzeit des letzten Bearbeitungsstandes. Ein Arbeitsplatz lässt sich neu erstellen, bearbeiten sowie ggf. löschen, falls nicht länger erforderlich. 
 
-Beachten Sie bitte beim Laden den Hinweis, dass ungespeicherte Änderungen im zuge der Arbeit verloren gehen können. Falls Sie sich nicht sicher sind, speichern Sie einfach den Arbeitsplatz ab.  
+Beachten Sie bitte beim Laden den Hinweis, dass ungespeicherte Änderungen im Zuge der Arbeit verloren gehen können. Falls Sie sich nicht sicher sind, speichern Sie einfach den Arbeitsplatz ab.  
 
 
 ## Einrichtung der App
@@ -25,9 +25,9 @@ Beachten Sie bitte beim Laden den Hinweis, dass ungespeicherte Änderungen im zu
   <img width="100%" src="/images_docs/Screenshot Arbeitsplatz weitere.jpg"/>
 </p>
 
-Sobald Sie den excav PILO erstmal nutzen wollen und dafür die vorinstallierte App auf dem Tablet aufrufen, werden Sie direkt zu Beginn gebeten einen ersten Arbeitsplatz anzulegen oder einen bereits vorhandenen Arbeitsplatz zu laden, um Informationen abspeichern zu können.
+Sobald Sie den excav PILOT erstmals nutzen wollen und dafür die vorinstallierte App auf dem Tablet aufrufen, werden Sie direkt zu Beginn gebeten einen ersten Arbeitsplatz anzulegen oder einen bereits vorhandenen Arbeitsplatz zu laden, um Informationen abspeichern zu können.
 
-In diesem Beispiel wird davon ausgegangen, dass Sie den excav PILOT zum ersten Mal nutzen wollen und hierfür einen ersten Arbeitsplatz anlegen möchten.  
+In diesem Beispiel wird davon ausgegangen, dass Sie den excav PILOT zum ersten Mal nutzen und einen Arbeitsplatz anlegen müssen, um mit weiteren Funktionen fortfahren zu können.  
 
 
 ## Arbeitsplatz anlegen (leer)
@@ -36,7 +36,7 @@ In diesem Beispiel wird davon ausgegangen, dass Sie den excav PILOT zum ersten M
   <img width="100%" src="/images_docs/Screenshot Arbeitsplatz (1) - Kopie.jpg"/>
 </p>
 
-Text
+Falls Sie die excav PILOT App zum ersten Mal einrichten oder bisherige Arbeitsplätze gelöscht wurden, dann erscheint die Ansicht für die Arbeitsplätze wie oben auf dem Bild. Folgen Sie einfach der Aufforderung einen neuen Arbeitsplatz anzulegen.     
 
 
 ## Erster Arbeitsplatz
@@ -56,7 +56,7 @@ Text
 
 Um einen neuen Arbeitsplatz speziell im Dateiformat LandXML in der App anzulegen, haben Sie zwei Möglichkeiten: Entweder in einem bestehenden Arbeitsplatz eine LandXML-Datei reinladen oder einen gänzlich neuen Arbeitsplatz mithilfe einer LandXML-Datei erstellen.
 
-!!! info "Umgang mit LandXML-Datein"
+!!! info "Umgang mit LandXML-Dateien"
 
 Um einen neuen Arbeitsplatz speziell im Format LandXML in der App anzulegen, müssen Sie einen vorhandenen Baustellenplan als LandXML-Datei zunächst auf das Tablet hochladen. Als Nächstes müssen Sie exakte Angaben zu den XML-Metadaten der Datei für das Georeferenz- und Höhenreferenzsystem machen, die Sie von Ihrem Planungs- oder Ingenieuerbüro erhalten.
 

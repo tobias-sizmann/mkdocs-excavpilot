@@ -10,9 +10,9 @@
   <img width="100%" src="/images_docs/excav PILOT 2025 GNSS-Sensor Collage freigestellt.png"/>
 </p>
 
-Der GNSS-Sensor ist das Hauptelement des Assistenzsystems. Er wird direkt am Baggerlöffel angebracht und liefert kontinuierlich genaue Informationen über dessen räumliche Position, Ausrichtung und Neigung. Auf dieser Basis berechnet das System in Echtzeit Steuer-empfehlungen für den Maschinenführer, um exaktes und effizientes Arbeiten zu ermöglichen.
+Der GNSS-Sensor ist das zentrale Element des Assistenzsystems. Er wird direkt am Baggerlöffel angebracht und liefert kontinuierlich präzise Informationen über dessen räumliche Position, Ausrichtung und Neigung. Auf dieser Basis berechnet das System in Echtzeit Steuere­mpfehlungen für den Maschinenführer, um exaktes und effizientes Arbeiten zu ermöglichen.
 
-Die Positionsbestimmung erfolgt über ein integriertes Mehrfrequenz-GNSS-Modul, das alle gängigen Satellitensysteme (**GPS, GLONASS, Galileo, BeiDou**) unterstützt. In Kombination mit Korrekturdaten über NTRIP erreicht das System eine Positionierungsgenauigkeit im Zentimeterbereich (je nach Qualität der RTK-Korrektur **1-3cm**). Ergänzt wird das GNSS-Modul durch eine integrierte inertiale Messeinheit (IMU), die Bewegungs- und Neigungsdaten erfasst.
+Die Positionsbestimmung erfolgt über ein integriertes Mehrfrequenz-GNSS-Modul, das alle gängigen Satellitensysteme (**GPS, GLONASS, Galileo, BeiDou**) unterstützt. In Kombination mit Korrekturdaten über NTRIP erreicht das System eine Positionierungsgenauigkeit im Zentimeterbereich (je nach Qualität der RTK-Korrektur **1–3 cm**). Ergänzt wird das GNSS-Modul durch eine integrierte inertiale Messeinheit (IMU), die Bewegungs- und Neigungsdaten erfasst.
 
 Ein wesentliches Merkmal des Sensors ist die **werkzeuglose Befestigung** am Baggerlöffel. Starke Industriemagnete ermöglichen eine schnelle und sichere Anbringung ohne Bohren oder Schrauben. Der Sensor kann somit flexibel an verschiedenen Maschinen oder Anbaugeräten eingesetzt werden. Trotz der einfachen Handhabung ist die Befestigung vibrationsfest und zuverlässig auch unter anspruchsvollen Baustellenbedingungen.
 
