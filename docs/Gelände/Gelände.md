@@ -14,8 +14,12 @@ Das Einlesen und die Nutzung von Digitalen Geländemodellen (DGM) im LandXML-For
 
 !!! info "Dateiformat LandXML"
 
-LandXML ist ein gängiges Dateiformat zum Austauschen von georeferenzierten Objekten zwischen Anwendungen. Die XML-Anwendung erlaubt damit die Übermittlung von Objekten mit Attributen, Distanzrelationen und Geometrien zwischen verschiedenen Endgeräten, insbesondere für die Geodäsie und Tiefbauanwendungen. Da die Vermessungsdaten georeferenziert sind, erscheinen die Inhalte der Datei lediglich dann sichtbar auf dem Bildschirm des Tablets, wenn sich der Nutzer mit dem GNSS-Sensor innerhalb des dafür georeferenzierten Areals befindet.
- 
+LandXML ist ein gängiges Dateiformat zum Austauschen von georeferenzierten Objekten zwischen Softwareprogrammen. LandXML erlaubt damit die Übermittlung von Objekten mit Attributen, Distanzrelationen und Geometrien zwischen verschiedenen Endgeräten, insbesondere für Anwendungen im Tiefbau, im Straßenbau oder im Garten- und Landschaftsbau. 
+
+Da die Vermessungsdaten georeferenziert sind, erscheinen die Inhalte der Datei lediglich dann sichtbar auf dem Bildschirm des Tablets, wenn sich der Nutzer mit dem GNSS-Sensor innerhalb des entsprechenden georeferenzierten Areals befindet. 
+
+--> Info woanders platzieren
+
 
 !!! info "Bezug von geodätischen Plänen"
 
@@ -28,7 +32,10 @@ Sie erhalten georeferenzierte Baupläne als LandXML oder in vergleichbaren Datei
   <img width="100%" src="/images_docs/Screenshot Gelände (1) - Kopie.jpg"/>
 </p>
 
-Um einen neuen Arbeitsplatz speziell im Dateiformat LandXML in der App anzulegen, müssen Sie einen vorhandenen Baustellenplan als LandXML-Datei zunächst auf das Tablet hochladen und dort lokal ablegen. Wenn Sie die Funktion Gelände im Designmenü auswählen, werden Sie gebeten über "+ XML importieren" eine LandXML-Datei vom lokalen Speicher des Tablets auszuwählen. Für DGM steht aktuell (Stand November 2025) nur das Dateifomat LandXML zur Verfügung. Folglich ist diese Auswahloption unter der Funktion Gelände voreingestellt.   
+Um einen neuen Arbeitsplatz speziell im Dateiformat LandXML in der App anzulegen, müssen Sie einen vorhandenen Baustellenplan als LandXML-Datei zunächst auf das Tablet hochladen und dort lokal ablegen. Wenn Sie die Funktion Gelände im Designmenü auswählen, werden Sie gebeten über "+ XML importieren" eine Datei vom lokalen Speicher des Tablets auszuwählen.   
+
+--> Text oben in Arbeitsplatz
+--> LandXML auf zwei ege möglich: Neu oder reinladen
 
 
 ## Koordinaten- und Georeferenzsysteme
@@ -39,7 +46,7 @@ Um einen neuen Arbeitsplatz speziell im Dateiformat LandXML in der App anzulegen
   <img width="100%" src="/images_docs/Screenshot Gelände aktuell (5) - Kopie 2.png"/>
 </p>
 
-**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Koordinatensysem** | Wählen Sie hier das Ihnen mitgeteilte Koordinatensystem für die LandXML-Datei aus. 
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span> Koordinatensystem** | Wählen Sie das für die Georeferenzierung verwendete Koordinatensystem aus. 
 
 **<span style="color: red; font-weight: bold;">2: &nbsp;</span> Georeferenzsystem** | Wählen Sie hier das Ihnen mitgeteilte Georeferenzsystem (basierend zuvor auf Punkt 1) für die LandXML-Datei aus. 
 
