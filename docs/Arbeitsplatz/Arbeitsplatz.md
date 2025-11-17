@@ -8,6 +8,109 @@
 
 Hinweis: Diese Seite befindet sich gerade in Bearbeitung.
 
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Screenshot Arbeitsplatz (4) - Kopie.jpg"/>
+</p>
+
+Der Menüpunkt „Arbeitsplatz“ bietet eine Reihe von Funktionen, um erstmals oder erneut einen Arbeitsplatz anzulegen, zu speichern und mehrere Arbeitsplätze zu organisieren. 
+
+Die Ansicht des Arbeitsplatzmenüs bietet Zugang zu mehreren Arbeitsplätzen mit Angabe von Datum und Uhrzeit des letzten Bearbeitungsstandes. Ein Arbeitsplatz lässt sich neu erstellen, bearbeiten sowie ggf. löschen, falls nicht länger erforderlich. 
+
+Beachten Sie bitte beim Laden den Hinweis, dass ungespeicherte Änderungen im zuge der Arbeit verloren gehen können. Falls Sie sich nicht sicher sind, speichern Sie einfach den Arbeitsplatz ab.  
+
+
+## Einrichtung der App
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Screenshot Arbeitsplatz weitere.jpg"/>
+</p>
+
+Sobald Sie den excav PILO erstmal nutzen wollen und dafür die vorinstallierte App auf dem Tablet aufrufen, werden Sie direkt zu Beginn gebeten einen ersten Arbeitsplatz anzulegen oder einen bereits vorhandenen Arbeitsplatz zu laden, um Informationen abspeichern zu können.
+
+In diesem Beispiel wird davon ausgegangen, dass Sie den excav PILOT zum ersten Mal nutzen wollen und hierfür einen ersten Arbeitsplatz anlegen möchten.  
+
+
+## Arbeitsplatz anlegen (leer)
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Screenshot Arbeitsplatz (1) - Kopie.jpg"/>
+</p>
+
+Text
+
+
+## Erster Arbeitsplatz
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Screenshot Arbeitsplatz (2) - Kopie.jpg"/>
+</p>
+
+Text
+
+
+## LandXML-Datei laden
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Screenshot Arbeitsplatz (3) - Kopie.jpg"/>
+</p>
+
+Text
+
+!!! info "Umgang mit LandXML-Datein"
+
+Um einen neuen Arbeitsplatz speziell im Format LandXML in der App anzulegen, müssen Sie einen vorhandenen Baustellenplan als LandXML-Datei zunächst auf das Tablet hochladen. Als Nächstes müssen Sie exakte Angaben zu den XML-Metadaten der Datei für das Georeferenz- und Höhenreferenzsystem machen, die Sie von Ihrem Planungs- oder Ingenieuerbüro erhalten.
+
+Über Art und Umfang der erforderlichen Angaben entscheidet maßgeblich die Wahl des Georeferenzsystems (mehr dazu erfahren Sie unter der Seite [Gelände](https://docs.excav.de/Gelände/Gelände/)). Sollten die eingegebenen Daten oder Einstellungen sowie die Beschaffenheit der LandXML-Datei nicht miteinander übereinstimmen, wird automatisch eine Fehlermeldung ausgelöst.
+
+
+## Referenzpunkt setzen
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Screenshot Arbeitsplatz (6) - Kopie.jpg"/>
+</p>
+
+Text
+
+Der oben gezeigte neue Arbeitsplatz heißt "Ref1" in Abkürzung zu Referenz als Beispiel. 
+
+Wichtig: Im Arbeitsplatz sind alle Punkte absolut (nicht relativ) zum Referenzpunkt gespeichert (sie haben absolute Koordinaten und folglich einen absoluten Bezugspunkt).
+
+## Erster aktiver Arbeitsplatz
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Screenshot Arbeitsplatz (7) - Kopie.jpg"/>
+</p>
+
+Sie können einen zuvor abgespeicherten Arbeitsplatz wieder laden und bearbeiten. In Ihrem ausgewählten Arbeitsplatz befinden sich alle folgenden Informationen gespeichert, die über das Designmenü (siehe das Füller-Symbol) angelegt worden sind:
+
+• Alle erfassten Punkte inklusive Referenzpunkt
+
+• Alle erfassten Strecken, Geraden und Polyeder
+
+• Die aktuell aktive Fläche mit eingestelltem Versatz und aktiver Werkzeugecke
+
+• Den aktuell geladenen und entsprechend ausgerichteten Bauplan
+
+
+!!! Warning "Speichern von Daten erforderlich"
+
+Wenn Sie den Arbeitsplatz neu laden, werden alle bisher erfassten und eingestellten Punkte oder Flächen nicht gespeichert und die Daten gehen somit verloren. Speichern Sie zur Sicherheit Ihren aktuellen Arbeitsplatz nach jedem größeren Bearbeitungsschritt, um Datenverluste zu vermeiden. 
+
+
+!!! info "Speicherung der Werkzeuge"
+
+Die erstellten Werkzeuge (z.B. Baggerschaufel oder andere Werkzeuge) werden zwar auf Ebene der App, jedoch nicht auf der Ebene des einzelnen Arbeitsplatzes selbst gespeichert. Auf diese Weise bleiben alle exakt einkalibrierten Werkzeuge erhalten und müssen nicht stets aufs Neue in jedem Arbeitsplatz neu kalibriert und hinterlegt werden. Zudem gehen die einkalibrierten Maße nicht verloren, sollten Sie ohne Speicherung der Daten den Arbeitsplatz wechseln.
+
+
+## Hauptarbeitsansicht
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Screenshot Arbeitsplatz (11).jpg"/>
+</p>
+
+Text
+
+
 <!--
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Arbeitsplatz 1.jpg"/>
@@ -16,7 +119,9 @@ Hinweis: Diese Seite befindet sich gerade in Bearbeitung.
 
 <!-- Der Menüpunkt „Arbeitsplatz“ bietet eine Reihe von Funktionen, um Arbeitsplätze anzulegen, zu speichern und zu organisieren. Er umfasst derzeit folgende Unterpunkte: Neuer Arbeitsplatz, Arbeitsplatz speichern, Arbeitsplatz speichern als, Arbeitsplatz aus LandXML, Arbeitsplatz aus DXF sowie Referenzpunkt verschieben. 
 
-Die Ansicht des Arbeitsplatzmenüs bietet Zugang zu mehreren Arbeitsplätzen mit Angabe von Datum und Uhrzeit des letzten Bearbeitungsstandes. Ein Arbeitsplatz lässt sich neu erstellen, bearbeiten sowie löschen, falls nicht länger erforderlich. Beachten Sie beim Laden den Hinweis, dass ungespeicherte Änderungen verloren gehen können. Vergeben Sie dem neuen Arbeitsplatz einen Namen und bestätigen Sie den Vorgang mit „Ok“ oder brechen Sie ihn ab mit „Abbrechen“.
+Die Ansicht des Arbeitsplatzmenüs bietet Zugang zu mehreren Arbeitsplätzen mit Angabe von Datum und Uhrzeit des letzten Bearbeitungsstandes. Ein Arbeitsplatz lässt sich neu erstellen, bearbeiten sowie löschen, falls nicht länger erforderlich. 
+
+Beachten Sie beim Laden den Hinweis, dass ungespeicherte Änderungen verloren gehen können. Vergeben Sie dem neuen Arbeitsplatz einen Namen und bestätigen Sie den Vorgang mit „Ok“ oder brechen Sie ihn ab mit „Abbrechen“.
 
 Sie können einen zuvor abgespeicherten Arbeitsplatz wieder laden und bearbeiten. In Ihrem ausgewählten Arbeitsplatz befinden sich alle folgenden Informationen gespeichert, die über das Designmenü (siehe das Füller-Symbol) angelegt worden sind:
 

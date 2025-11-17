@@ -10,7 +10,7 @@
   <img width="100%" src="/images_docs/Screenshot Gelände (19).jpg"/>
 </p>
 
-Das Einlesen und die Nutzung von Digitalen Geländemodellen (DGM) im LandXML-Format für eine vollständig in 3D visualisierte Arbeitsweise auf der Baustelle ist eine der Hauptfunktionen der excav App-Anwendung. Nutzer können sich jederzeit entscheiden, ob sie Baupläne als PDF in der zweidimensionalen Ansicht oder mithilfe von DGM im LandXML-Format sogar im dreidimensionalen Raum für ein intuitives und immersives Arbeitserlebnis. 
+Das Einlesen und die Nutzung von Digitalen Geländemodellen (DGM) im LandXML-Format für eine vollständig in 3D visualisierte Arbeitsweise auf der Baustelle ist eine der Hauptfunktionen der excav App-Anwendung. Nutzer können sich jederzeit entscheiden, ob sie Baupläne als PDF in der zweidimensionalen Ansicht oder mithilfe von DGM im LandXML-Format im dreidimensionalen Raum für intuitives und immersives Arbeitserlebnis nutzen wollen. 
 
 !!! info "Dateiformat LandXML"
 
