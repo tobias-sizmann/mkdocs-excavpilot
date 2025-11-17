@@ -14,17 +14,17 @@ Das Einlesen und die Nutzung von Digitalen Geländemodellen (DGM) im LandXML-For
 
 
 !!! Warning "Richtige Einstellungen für LandXML"
-    LandXML ist ein Dateiformat zum Austausch georeferenzierter Objekte zwischen Softwareprogrammen. Es ermöglicht die Übermittlung von Objekten mit Attributen, Distanzrelationen und Geometrien zwischen Endgeräten, insbesondere für Anwendungen im Tiefbau, Straßenbau oder im Garten- und Landschaftsbau.
+    LandXML ist ein gängiges Dateiformat zum Austausch georeferenzierter Objekte zwischen Softwareprogrammen. Es ermöglicht die Übermittlung von Objekten mit Attributen, Distanzrelationen und Geometrien zwischen Endgeräten, insbesondere für Anwendungen im Tiefbau, Straßenbau oder im Garten- und Landschaftsbau.
     
     Um die LandXML-Datei in der excav PILOT App richtig darzustellen, muss bekannt sein, mit welchen Einstellungen im Hinblick auf das Koordinatensystem, das Georeferenzsystem und das Format der LandXML-Datei im CAD-Programm gearbeitet wurde. Nur so lassen sich Fehler in der Darstellung oder Fehlermeldungen vermeiden. 
 
     
-!!! info "Inhalte be Georeferenzierung"
+!!! info "Inhalte bei Georeferenzierung"
     Da die Vermessungsdaten georeferenziert sind, erscheinen die Inhalte der Datei nur dann auf dem Bildschirm des Tablets, wenn sich der Nutzer mit dem GNSS-Sensor innerhalb des entsprechenden referenzierten Areals befindet.
 
 
 !!! info "Bezug von geodätischen Plänen"
-    Sie erhalten georeferenzierte Baupläne als LandXML oder in vergleichbaren Dateiformaten typischerweise von einem Ingenieurs- oder Planungsbüro sowie ggf. intern von einem fachkundigen Spezialisten. Von diesen erhalten Sie die notwendigen Informationen zum Koordinatensystem, Georeferenzsystem und Format, um die Datei korrekt darzustellen. 
+    Sie erhalten georeferenzierte Baupläne als LandXML oder in vergleichbaren Dateiformaten typischerweise von einem Ingenieurs- oder Planungsbüro sowie ggf. intern von einem Spezialisten. Von diesen erhalten Sie die notwendigen Informationen zum Koordinatensystem, Georeferenzsystem und Format, um die LandXML-Datei korrekt darzustellen. 
 
 
 ## Import eines digitalen Geländemodells
@@ -33,9 +33,9 @@ Das Einlesen und die Nutzung von Digitalen Geländemodellen (DGM) im LandXML-For
   <img width="100%" src="/images_docs/Screenshot Gelände (1) - Kopie.jpg"/>
 </p>
 
-Um einen neuen Arbeitsplatz speziell im Dateiformat LandXML in der App anzulegen, haben Sie zwei Möglichkeiten: Entweder laden Sie in einem bestehenden Arbeitsplatz eine LandXML-Datei hoch oder Sie erstellen einen neuen Arbeitsplatz mithilfe einer LandXML-Datei. 
+Um einen neuen Arbeitsplatz speziell im Dateiformat LandXML in der App anzulegen, haben Sie grundsätzlich zwei Möglichkeiten: Entweder laden Sie in einem bestehenden Arbeitsplatz eine LandXML-Datei hoch oder Sie erstellen einen neuen Arbeitsplatz mithilfe einer LandXML-Datei. 
 
-Im ersten Schritt müssen Sie einen vorhandenen Baustellenplan als LandXML-Datei auf das Tablet hochladen und dort lokal ablegen. Wenn Sie in einem bestehenden Arbeitsplatz eine LandXML-Datei einladen und die Funktion Gelände im Designmenü auswählen, werden Sie gebeten, über „+ XML importieren“ eine Datei aus dem lokalen Speicher des Tablets auszuwählen. 
+Im ersten Schritt müssen Sie einen vorhandenen Baustellenplan als LandXML-Datei auf das Tablet hochladen und dort lokal ablegen. Wenn Sie in einem bestehenden Arbeitsplatz eine LandXML-Datei einladen und die Funktion Gelände im Designmenü auswählen, werden Sie gebeten, über „+ XML importieren“ eine Datei aus dem lokalen Speicher auszuwählen. 
 
 
 ## Koordinaten- und Georeferenzsysteme
@@ -53,7 +53,7 @@ Im ersten Schritt müssen Sie einen vorhandenen Baustellenplan als LandXML-Datei
 **<span style="color: red; font-weight: bold;">3: &nbsp;</span> Format** | Wählen Sie hier das erforderliche Format für die LandXML-Datei aus. 
 
 
-Ein Koordinatensystem ist ein länderspezifisches oder weltweit einheitliches Bezugssystem zur Bestimmung von Positionen auf der Erdoberfläche. Es basiert auf dem Modell eines Erdellipsoids, das die Form der Erde mathematisch beschreibt, und definiert Breiten- und Längengrade als Koordinaten. Hierdurch lassen sich Orte und einzelne Punkte auf der Erdoberfläche eindeutig durch geografische Breite (engl. latitude) und geografische Länge (engl. longitude) angeben.
+Ein Koordinatensystem ist ein länderspezifisches oder weltweit einheitliches Bezugssystem zur Bestimmung von Positionen auf der Erdoberfläche. Es basiert auf dem Modell eines Erdellipsoids, das die Form der Erde mathematisch beschreibt, und definiert Breiten- und Längengrade als Koordinaten. Hierdurch lassen sich Orte auf der Erdoberfläche eindeutig durch geografische Breite (engl. latitude) und geografische Länge (engl. longitude) angeben.
 
 
 !!! info "Koordinatensystem Universal Transverse Mercator (UTM)"
@@ -71,7 +71,7 @@ Ein Koordinatensystem ist ein länderspezifisches oder weltweit einheitliches Be
 
 
 !!! info "Koordinatensystem Gauss-Krüger (AT)"
-    Das Gauss-Krüger-Koordinatensystem (AT) ist dasamtliche Koordinatensystem Österreichs, das auf der transversalen Mercatorprojektion basiert. Als Bezugsellipsoid dient das Bessel-Ellipsoid, und als geodätisches Datum wurde das MGI (Militärgeografisches Institut) verwendet.
+    Das Gauss-Krüger-Koordinatensystem (AT) ist das amtliche Koordinatensystem Österreichs, das auf der transversalen Mercatorprojektion basiert. Als Bezugsellipsoid dient das Bessel-Ellipsoid, und als geodätisches Datum wurde das MGI (Militärgeografisches Institut) verwendet.
 
     Alle UTM-Zonen in Österreich (WGS84 / ETRS89): 
 
@@ -79,7 +79,7 @@ Ein Koordinatensystem ist ein länderspezifisches oder weltweit einheitliches Be
     - UTM-Zone 33
 
 
-!!! info "Krovak (North Oriented) (für Tschechien)"
+!!! info "Krovak (North Oriented) - Tschechien"
     Das Krovak-Koordinatensystem ist eine speziell für Tschechien entwickelte, schiefachsige konforme Kegelprojektion, die die Landesfläche möglichst verzerrungsarm abbildet. Es basiert traditionell auf dem Bessel-Ellipsoid und wird weiterhin neben dem zunehmend verbreiteten UTM-System genutzt.
 
     Alle UTM-Zonen in Tschechien (WGS84 / ETRS89): 
@@ -91,7 +91,6 @@ Ein Koordinatensystem ist ein länderspezifisches oder weltweit einheitliches Be
 !!! info "Geodätisches Koordinatensystem (Geodetic)"
     Das geodätische Koordinatensystem beschreibt die Lage von Punkten auf der Erdoberfläche anhand geografischer Breite, geografischer Länge und Höhe über einem Referenzellipsoid. Es basiert auf einem Referenzsystem, das die Form und Orientierung des Erdellipsoids festlegt und ermöglicht eine präzise, einheitliche Positionsbestimmung.
 
-
 <br>
 
 ### Georeferenzsysteme
@@ -100,13 +99,9 @@ Ein Koordinatensystem ist ein länderspezifisches oder weltweit einheitliches Be
   <img width="100%" src="/images_docs/Gelände Auswahl (2).png"/>
 </p>
 
-Ein geodätisches Referenzsystem dient der eindeutigen Lagebestimmung von Punkten auf der Erdoberfläche. Es definiert, wie geografische Koordinaten (Breite, Länge, Höhe) auf ein mathematisches Erdmodell – meist ein Referenzellipsoid – bezogen werden. So entsteht ein festes Bezugssystem. Das Europäische Terrestrische Referenzsystem 1989 (ETRS89) ist beispielsweise das offizielle geodätische Referenzsystem für Europa. Es ist an die eurasische Kontinentalplatte gebunden und daher im europäischen Raum stabil, wodurch präzise und zeitlich konsistente Lageangaben gewährleistet sind.
+Ein geodätisches Referenzsystem dient der eindeutigen Lagebestimmung von Punkten auf der Erdoberfläche. Es definiert, wie geografische Koordinaten (Breite, Länge, Höhe) auf ein mathematisches Erdmodell – meist ein Referenzellipsoid – bezogen werden. So entsteht ein festes Bezugssystem, wie beispielsweise das Europäische Terrestrische Referenzsystem 1989 (ETRS89) als das offizielle geodätische Referenzsystem für Europa. Es ist an die eurasische Kontinentalplatte gebunden und daher im europäischen Raum stabil, wodurch präzise und zeitlich konsistente Lageangaben gewährleistet sind.
 
-Beispiele:
-
-– UTM32-GRS80-Ellipsoid für UTM (global) 
-<br>
-– GK2(De)-Bessel1841-Ellipsoid für Gauss-Krüger (Deutschland)
+Zwei mögliche Beispiele sind UTM32-GRS80-Ellipsoid für UTM (global) oder GK2(De)-Bessel1841-Ellipsoid für Gauss-Krüger (Deutschland). 
 
 
 <br>
@@ -125,16 +120,11 @@ Die Formate Northing, Easting, Altitude (NEA) und Easting, Northing, Altitude (E
 
 **Altitude** (Höhe): Vertikale Höhe über Referenzniveau
 
-Die Reihenfolge (NEA oder ENA) hängt vom Koordinatensystem ab, verändert jedoch nicht die tatsächliche Lage eines Punktes.
-
-Im Folgenden werden alle zu den Koordinatensystemen gehörenden Georeferenzsysteme inklusive der verfügbaren Formatoptionen aufgeführt.
-
+Die Reihenfolge (NEA oder ENA) hängt vom Koordinatensystem ab, verändert jedoch nicht die tatsächliche Lage eines Punktes. Im Folgenden werden alle zu den Koordinatensystemen gehörenden Georeferenzsysteme inklusive der verfügbaren Formatoptionen aufgeführt.
 
 <br>
 
 #### Georeferenzsysteme für UTM (global)
-
-Georeferenzsysteme für UTM (global)
 
 - UTM32-GRS80-Ellipsoid | Formate: NEA / ENA
 - UTM33-GRS80-Ellipsoid | Formate: NEA / ENA
@@ -178,7 +168,7 @@ Georeferenzsysteme für UTM (global)
 
 #### Georeferenzsysteme für Geodätisches Koordinatensystem (Geodetic)
 
-Geodetic-GRS80-Ellipsoid | kein weiteres Format erforderlich (keine Auswahloption möglich)
+Geodetic-GRS80-Ellipsoid | kein Format erforderlich (keine Auswahloption möglich)
 
 
 <!-- [//]: #
