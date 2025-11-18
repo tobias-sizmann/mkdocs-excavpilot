@@ -23,7 +23,7 @@ In diesem Beispiel wird davon ausgegangen, dass Sie den excav PILOT zum ersten M
   <img width="100%" src="/images_docs/Screenshot Arbeitsplatz PNG 1.png"/>
 </p>
 
-Direkt zu Beginn werden Sie auf der primären Arbeitsansicht gebeten, einen neuen Arbeitsplatz anzulegen oder einen vorhandenen Arbeitsplatz zu laden. Sie finden diese Funktion jederzeit standardmäßig unter dem Startmenü. Sie können den Arbeitsplatz entweder direkt zu Beginn mit einer LandXML-Datei erstellen oder diese später über den Menüpunkt Gelände im Designmenü laden.
+Direkt zu Beginn werden Sie auf der primären Arbeitsansicht gebeten, einen neuen Arbeitsplatz anzulegen oder einen vorhandenen Arbeitsplatz zu laden. Sie finden diese Funktion jederzeit standardmäßig unter dem Startmenü. Sie können den Arbeitsplatz entweder direkt zu Beginn mit einer LandXML-Datei erstellen oder diese später über [Gelände](https://docs.excav.de/Gelände/Gelände/) im Designmenü laden.
 
 
 ## Hauptansicht Arbeitsplätze
@@ -77,7 +77,7 @@ Art und Umfang der erforderlichen Angaben hängen maßgeblich von der Wahl des K
   <img width="100%" src="/images_docs/Screenshot Arbeitsplatz PNG 6.png"/>
 </p>
 
-Für die Erstellung einer Arbeitsansicht in einem neuen Projekt ist ein Ursprung (vormals Referenzpunkt) erforderlich. Der Ursprung muss nicht zwingend ein späterer Punkt auf dem Areal der Baustelle sein. Er wird als räumliche Referenz für ein neues Projekt benötigt. Sie können den Ursprungspunkt manuell durch Eingabe von Werten oder durch die Erfassung eines Punktes vor Ort bestimmen. 
+Für die Erstellung einer Arbeitsansicht in einem Projekt ist ein Ursprung (vormals Referenzpunkt) erforderlich. Der Ursprung muss nicht zwingend ein späterer Punkt auf dem Areal der Baustelle sein. Er wird als räumliche Referenz für ein neues Projekt benötigt. Sie können den Ursprung manuell durch Eingabe von Werten oder durch die Erfassung eines Punktes vor Ort bestimmen. 
 
 Wichtig: Im Arbeitsplatz sind alle Punkte absolut (nicht relativ) zum Referenzpunkt gespeichert (sie verfügen über absolute Koordinaten und somit einen absoluten Bezugspunkt).
 
