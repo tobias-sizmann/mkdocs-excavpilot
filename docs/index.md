@@ -15,7 +15,7 @@ In der [Komponentenübersicht](https://docs.excav.de/Gesamtsystem/Gesamtsystem/)
 Falls Sie das System zum ersten Mal in Betrieb nehmen, starten Sie am besten mit [Erste Schritte](https://docs.excav.de/System%20aufbauen/System%20aufbauen/). In diesem Reiter werden Ihnen alle wichtigen Schritte zur Inbetriebnahme des excav PILOT ausführlich erklärt. Wir empfehlen Ihnen zudem, sich unsere [Videoanleitung](https://www.youtube.com/watch?v=0_yEPTznHgQ&t){:target="\_blank"} anzusehen.
 
 
-## App
+## excav PILOT App
 
 Nach erfolgreicher Inbetriebnahme finden Sie im Reiter „App“ alle Erklärungen zur App sowie zu den Funktionen und Einstellungsmöglichkeiten. 
 
