@@ -1,4 +1,4 @@
-# excav PILOT Bedienungsanleitung
+# excav PILOT Bedienungsanleitung 2025
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/excav PILOT 2025 Gesamtsystem Seitenansicht freigestellt.png"/>

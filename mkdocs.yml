@@ -1,4 +1,4 @@
-site_name: excav PILOT
+site_name: excav PILOT Anleitung & FAQ
 theme:
   name: material
   custom_dir: docs/overrides
