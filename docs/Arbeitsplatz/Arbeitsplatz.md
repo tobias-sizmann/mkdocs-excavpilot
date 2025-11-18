@@ -6,15 +6,13 @@
 
 # Arbeitsplatz
 
-Hinweis: Diese Seite befindet sich gerade in Bearbeitung.
-
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot Arbeitsplatz neu (1) - Kopie.jpg"/>
 </p>
 
 Der Menüpunkt „Arbeitsplatz“ bietet eine Reihe von Funktionen, um erstmals oder erneut einen Arbeitsplatz anzulegen, zu speichern und mehrere Arbeitsplätze entsprechend zu organisieren.
 
-Sobald Sie den excav PILOT erstmals nutzen wollen und dafür die vorinstallierte App auf dem Tablet aufrufen, werden Sie direkt zu Beginn gebeten einen ersten Arbeitsplatz anzulegen oder einen bereits vorhandenen Arbeitsplatz zu laden, um Informationen abspeichern zu können.
+Sobald Sie den excav PILOT erstmals nutzen wollen und dafür die vorinstallierte App auf dem Tablet aufrufen, werden Sie direkt zu Beginn gebeten, einen ersten Arbeitsplatz anzulegen oder einen bereits vorhandenen Arbeitsplatz zu laden, um Informationen abspeichern zu können.
 
 In diesem Beispiel wird davon ausgegangen, dass Sie den excav PILOT zum ersten Mal nutzen und einen Arbeitsplatz anlegen müssen, um mit den weiteren Funktionen fortfahren zu können.  
 
@@ -25,7 +23,7 @@ In diesem Beispiel wird davon ausgegangen, dass Sie den excav PILOT zum ersten M
   <img width="100%" src="/images_docs/Screenshot Arbeitsplatz PNG 1.png"/>
 </p>
 
-Direkt zu Beginn werden Sie auf der primären Arbeitsansicht gebeten einen neuen Arbeitsplatz anzulegen oder einen vorhandnen Arbeitsplatz zu laden. Sie finden diese Funktion jederzeit standardmäßig unter dem Startmenü. Sie können den Arbeitsplatz entweder direkt zu Beginn oder später mithilfe einer reingeladenen LandXML-Datei erstellen.
+Direkt zu Beginn werden Sie auf der primären Arbeitsansicht gebeten, einen neuen Arbeitsplatz anzulegen oder einen vorhandenen Arbeitsplatz zu laden. Sie finden diese Funktion jederzeit standardmäßig unter dem Startmenü. Sie können den Arbeitsplatz entweder direkt zu Beginn mit einer LandXML-Datei erstellen oder diese später über den Menüpunkt Gelände im Designmenü laden.
 
 
 ## Hauptansicht Arbeitsplätze
@@ -34,7 +32,7 @@ Direkt zu Beginn werden Sie auf der primären Arbeitsansicht gebeten einen neuen
   <img width="100%" src="/images_docs/Screenshot Arbeitsplatz PNG 2.png"/>
 </p>
 
-Im Beispiel im Bild oben wurden bereits zwei Arbitsplätze zuvor angelegt, der Prozess für das Anlegen des ersten Arbeitsplatzes ist der gleiche wie für einen weiteren Arbeitsplatz. 
+Im Beispiel im Bild oben wurden bereits zwei Arbeitsplätze zuvor angelegt. Der Prozess zum Anlegen des ersten Arbeitsplatzes ist derselbe wie für jeden weiteren Arbeitsplatz. Auf dieser Ebene haben Sie zudem die Möglichkeit, gezielt alle Bearbeitungsschritte der Datei zu speichern.  
 
 
 ## Namen für einen neuen Arbeitsplatz
@@ -43,7 +41,7 @@ Im Beispiel im Bild oben wurden bereits zwei Arbitsplätze zuvor angelegt, der P
   <img width="100%" src="/images_docs/Screenshot Arbeitsplatz PNG 3.png"/>
 </p>
 
-Text   
+Vergeben Sie dem Arbeitsplatz einen eindeutigen Namen – vor allem, wenn Sie viele Arbeitsplätze über ein excav-PILOT-System verwalten müssen. Der Name darf nicht identisch zu anderen Arbeitsplätzen sein und kein Leerzeichen enthalten. 
 
 
 ## Optional: Kalibrierung über CSV-Datei laden
@@ -52,7 +50,11 @@ Text
   <img width="100%" src="/images_docs/Screenshot Arbeitsplatz PNG 4.png"/>
 </p>
 
-Text  
+Optional können Sie zu diesem Zeitpunkt eine CSV-Kalibrierungsdatei hochladen, um direkt eine sogenannte 7-Parameter-Transformation nach Helmert für das künftige Projekt zu erstellen.  
+
+!!! info "7-Parameter-Transformation (nach Helmert)"
+    Die 7-Parameter-Transformation (auch Helmert-Transformation genannt) ist ein mathematisches Verfahren, um Koordinatenpunkte von einem dreidimensionalen Bezugssystem in ein anderes zu überführen. Sie wird eingesetzt, wenn unterschiedliche Koordinatensysteme miteinander verbunden werden sollen. Die Transformation nutzt dabei sieben einzelne Parameter: drei Parameter für die Translation (Verschiebungen in x-, y- und z-Richtung), drei Parameter für die Rotation (Drehungen um die Achsen) und einen Parameter für den Maßstab (einheitliche Skalierung). Zusammenfassend beschreibt die Transformation, wie man einen 3D-Punkt durch Verschieben, Drehen und Skalieren vom Ausgangssystem ins Zielsystem überführen kann.
+
 
 
 ## Optional: DGM als LandXML-Datei laden
@@ -61,12 +63,12 @@ Text
   <img width="100%" src="/images_docs/Screenshot Arbeitsplatz PNG 5.png"/>
 </p>
 
-Um einen neuen Arbeitsplatz speziell im Dateiformat LandXML in der App anzulegen, haben Sie zwei Möglichkeiten: Entweder in einem bestehenden Arbeitsplatz eine LandXML-Datei reinladen oder einen gänzlich neuen Arbeitsplatz mithilfe einer vorhandenen LandXML-Datei erstellen.
+Um einen neuen Arbeitsplatz speziell im Dateiformat LandXML in der App anzulegen, haben Sie zwei Möglichkeiten: entweder in einem bestehenden Arbeitsplatz eine LandXML-Datei laden oder einen vollständig neuen Arbeitsplatz mithilfe einer vorhandenen LandXML-Datei erstellen.
 
 !!! info "Umgang mit LandXML-Dateien"
-    Um einen neuen Arbeitsplatz speziell im Format LandXML in der App anzulegen, müssen Sie einen vorhandenen Baustellenplan als LandXML-Datei zunächst auf den lokalen Speicher des Tablets hochladen. Als Nächstes müssen Sie exakte Angaben zu den XML-Metadaten der Datei für das Georeferenz- und Höhenreferenzsystem machen, die Sie von Ihrem Planungs- oder Ingenieuerbüro erhalten.
+    Um einen neuen Arbeitsplatz im Format LandXML in der App anzulegen, müssen Sie einen vorhandenen Baustellenplan als LandXML-Datei zunächst auf den lokalen Speicher des Tablets hochladen. Anschließend müssen Sie exakte Angaben zu den XML-Metadaten der Datei für das Geo- und Höhenreferenzsystem machen, die Sie von Ihrem Planungs- oder Ingenieurbüro erhalten.
 
-Über Art und Umfang der erforderlichen Angaben entscheidet maßgeblich die Wahl des Koordinaten- und Georeferenzsystems (mehr dazu erfahren Sie unter [Gelände](https://docs.excav.de/Gelände/Gelände/)). Sollten die eingegebenen Daten oder Einstellungen sowie die Beschaffenheit der LandXML-Datei nicht miteinander übereinstimmen, wird die App automatisch eine Fehlermeldung auslösen.
+Art und Umfang der erforderlichen Angaben hängen maßgeblich von der Wahl des Koordinaten- und Georeferenzsystems ab (mehr dazu unter [Gelände](https://docs.excav.de/Gelände/Gelände/)). Sollten die eingegebenen Daten oder Einstellungen sowie die Beschaffenheit der LandXML-Datei nicht miteinander übereinstimmen, wird die App automatisch eine Fehlermeldung auslösen.
 
 
 ## Ursprung (Referenzpunkt) setzen
@@ -75,7 +77,9 @@ Um einen neuen Arbeitsplatz speziell im Dateiformat LandXML in der App anzulegen
   <img width="100%" src="/images_docs/Screenshot Arbeitsplatz PNG 6.png"/>
 </p>
 
-Wichtig: Im Arbeitsplatz sind alle Punkte absolut (nicht relativ) zum Referenzpunkt gespeichert (sie haben absolute Koordinaten und folglich einen absoluten Bezugspunkt).
+Für die Erstellung einer Arbeitsansicht in einem neuen Projekt ist ein Ursprung (vormals Referenzpunkt) erforderlich. Der Ursprung muss nicht zwingend ein späterer Punkt auf dem Areal der Baustelle sein. Er wird als räumliche Referenz für ein neues Projekt benötigt. Sie können den Ursprungspunkt manuell durch Eingabe von Werten oder durch die Erfassung eines Punktes vor Ort bestimmen. 
+
+Wichtig: Im Arbeitsplatz sind alle Punkte absolut (nicht relativ) zum Referenzpunkt gespeichert (sie verfügen über absolute Koordinaten und somit einen absoluten Bezugspunkt).
 
 
 ## Neuer aktiver Arbeitsplatz
@@ -84,9 +88,9 @@ Wichtig: Im Arbeitsplatz sind alle Punkte absolut (nicht relativ) zum Referenzpu
   <img width="100%" src="/images_docs/Screenshot Arbeitsplatz PNG 7.png"/>
 </p>
 
-Sie können einen zuvor abgespeicherten Arbeitsplatz wieder laden und bearbeiten. In Ihrem ausgewählten Arbeitsplatz befinden sich alle folgenden Informationen gespeichert, die über das Designmenü in der Hauptansicht (siehe das Füller-Symbol) angelegt worden sind:
+Sie können einen zuvor gespeicherten Arbeitsplatz wieder laden und bearbeiten. In Ihrem ausgewählten Arbeitsplatz befinden sich alle folgenden Informationen, die über das Designmenü in der Hauptansicht (siehe das Füller-Symbol) angelegt wurden:
 
-• Alle erfassten Punkte inklusive des Ursprungs (vormals Referenzpunkt)
+• Alle erfassten Punkte einschließlich Ursprung (vormals Referenzpunkt)
 
 • Alle erfassten Strecken, Geraden und Formen wie Polyeder
 
@@ -96,12 +100,12 @@ Sie können einen zuvor abgespeicherten Arbeitsplatz wieder laden und bearbeiten
 
 
 !!! Warning "Speichern von Daten erforderlich"
-    Wenn Sie den Arbeitsplatz neu laden, werden alle bisher erfassten und eingestellten Punkte oder Flächen nicht gespeichert und die Daten gehen somit verloren. Speichern Sie zur Sicherheit Ihren aktuellen Arbeitsplatz nach jedem nennenswert größeren Bearbeitungsschritt, um Datenverluste zu vermeiden.
+    Wenn Sie den Arbeitsplatz neu laden, werden alle bisher erfassten und eingestellten Punkte oder Flächen nicht gespeichert und die Daten gehen somit verloren. Speichern Sie zur Sicherheit Ihren aktuellen Arbeitsplatz nach jedem nennenswerten Bearbeitungsschritt, um Datenverluste zu vermeiden.
 
 
 
 !!! info "Speicherung der Werkzeuge"
-    Die erstellten Werkzeuge (z.B. Baggerschaufel oder andere Werkzeuge) werden zwar auf Ebene der App, jedoch nicht auf der Ebene des einzelnen Arbeitsplatzes selbst gespeichert. Auf diese Weise bleiben alle exakt einkalibrierten Werkzeuge erhalten und müssen nicht stets aufs Neue in jedem Arbeitsplatz neu kalibriert und hinterlegt werden. Zudem gehen die einkalibrierten Maße nicht verloren, sollten Sie ohne Datenspeicherung den Arbeitsplatz wechseln.
+    Die erstellten Werkzeuge (z. B. Baggerschaufel oder andere Werkzeuge) werden zwar auf Ebene der App, jedoch nicht auf Ebene des einzelnen Arbeitsplatzes gespeichert. Auf diese Weise bleiben alle exakt kalibrierten Werkzeuge erhalten und müssen nicht in jedem Arbeitsplatz erneut kalibriert und hinterlegt werden. Zudem gehen die kalibrierten Maße nicht verloren, sollten Sie ohne Datenspeicherung den Arbeitsplatz wechseln.
 
 
 ## Hauptarbeitsansicht
@@ -110,7 +114,7 @@ Sie können einen zuvor abgespeicherten Arbeitsplatz wieder laden und bearbeiten
   <img width="100%" src="/images_docs/Screenshot Arbeitsplatz neu (10).jpg"/>
 </p>
 
-Sobald ein erster oder weiterer Arbeitsplatz angelegt worden ist (im Beispiel oben ohne eine LandXML-Datei), erscheint der GNSS-Sensor auf der primären Arbeitsansicht im Ursprung.
+Sobald ein erster oder weiterer Arbeitsplatz angelegt wurde (im Beispiel oben ohne eine LandXML-Datei), erscheint der GNSS-Sensor auf der primären Arbeitsansicht im Ursprungspunkt.
 
 
 <!--
