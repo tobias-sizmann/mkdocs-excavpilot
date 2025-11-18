@@ -50,8 +50,8 @@ oder
 
 **<span style="color: red; font-weight: bold;">3: &nbsp;</span> Zusätzlicher Punkt** | Mit dem Plus-Button können Sie der Linie einen weiteren Punkt hinzufügen. 
 
-!!! info "Wichtig"
-    Die Reinfolge in der Sie die Punkte auswählen, bestimmt den Verlauf der Linie. Also P1 -> P2 -> P3 usw. 
+!!! info "Reihenfolge der Punkte"
+    Die Reihenfolge in der Sie die Punkte auswählen, bestimmt den Verlauf der Linie. Also P1 -> P2 -> P3 usw. 
 
 **<span style="color: red; font-weight: bold;">4: &nbsp;</span> Unendliche Strecke /Polylinie schließen** | Bei einer Linie aus zwei Punkten kann die Strecke über beide Punkte hinaus unendlich verlängert werden, z.B. zum Darstellen einer Flucht. Bei einer Polylinie mit mehr als zwei Punkten haben Sie die Option die Polylinie zu schließen. Dabei wird der zuletzt gesetzte Punkt automatisch mit dem zuerst gewählten Punkt verbunden und Sie erhalten ein Polyeder. 
 

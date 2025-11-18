@@ -20,7 +20,7 @@
 !!! danger "Sicherheits- und Warnhinweise"
     An der Unterseite von GNSS-Sensor und LED-Anzeigekreuz befinden sich Starkmagnete zur Anbringung. Um Sachschäden und Verletzungen zu vermeiden, ist im Umgang mit diesen Magneten besondere Vorsicht geboten. Die Magnete können elektronische Geräte wie Hörgeräte, Herzschrittmacher, Computer, Speichermedien sowie Bankkarten beschädigen. Es ist daher jederzeit ein ausreichender Sicherheitsabstand zwischen den Magneten und magnetisch empfindlichen Gegenständen einzuhalten.
     
-    Besondere Vorsicht ist zudem beim Anbringen des GNSS-Sensors und des LED-Anzeigekreuzes erforderlich, da durch die Starkmagnete eine Quetschgefahr für Körperteile besteht. Zusätzlich ist beim Anbringen und Entfernen der Systemelemente auf scharfe Kanten zu achten, um Schnittverletzungen zu vermeiden. Um sowohl die Quetsch- als auch die Schnittgefahr zu reduzieren, sind beim Anbringen und Entfernen der Systemelemente Schutzhandschuhe zu tragen.
+    Vorsicht ist zudem beim Anbringen des GNSS-Sensors und des LED-Anzeigekreuzes erforderlich, da durch die Starkmagnete eine Quetschgefahr für Körperteile besteht. Zusätzlich ist beim Anbringen und Entfernen der Systemelemente auf scharfe Kanten zu achten, um Schnittverletzungen zu vermeiden. Um sowohl die Quetsch- als auch die Schnittgefahr zu reduzieren, sind beim Anbringen und Entfernen der Systemelemente Schutzhandschuhe zu tragen.
     
     Beim Anbringen der Systemelemente ist darauf zu achten, dass diese einen festen Halt am Werkzeug der Baumaschine haben. Befreien Sie daher vor der Anbringung die entsprechenden Stellen von Verunreinigungen und Hindernissen. Das Aufladen der Akkus der einzelnen Systemelemente darf nur unter Beaufsichtigung erfolgen.
     

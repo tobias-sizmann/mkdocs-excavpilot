@@ -58,12 +58,11 @@ In der Ansicht oben wurde im ersten Schritt beispielsweise der GNSS-Sensor verbu
 
 
 !!! warning "Probleme und Problembehebung im Umgang mit den Geräten"
-
-Prüfen Sie zunächst, ob die Internetverbindung über mobile Daten sowie Bluetooth aktiv sind. Zudem müssen beide Geräte ausreichend Akkuleistung verfügen, idealerweise mehr als 20 %, da sonst die Verbindungsqualität und die Performanz darunter leiden können. 
-
-Normalerweise wird (falls mehrere Sensoren zur Verfügung stehen bzw. standen) der letzte aktiv gekoppelte Sensor angezeigt. Sollte der gewünschte Sensor bereits mit der App eines anderen Tablets gekoppelt sein, ist kein Verbindungsaufbau möglich. Hierfür muss zunächst auf dem anderen Tablet die Verbindung zum Sensor beendet werden, bevor Sie ihn auswählen und verbinden können. 
-
-Falls die App des Tablets den Sensor trotz direkter räumlicher Nähe zum Gerät nicht findet, schalten Sie ihn mehrfach an und aus, bis der Verbindungsaufbau gelingt. Dieselben Probleme können ebenfalls mit dem LED-Anzeigekreuz auftreten. Schalten Sie das Gerät mehrfach an und aus, bis der Verbindungsaufbau gelingt und stellen Sie sicher, dass er nicht bereits mit einem anderen Tablet verbunden ist. 
+    Prüfen Sie zunächst, ob die Internetverbindung über mobile Daten sowie Bluetooth aktiv sind. Zudem müssen beide Geräte ausreichend Akkuleistung verfügen, idealerweise mehr als 20 %, da sonst die Verbindungsqualität und die Performanz darunter leiden können. 
+    
+    Normalerweise wird (falls mehrere Sensoren zur Verfügung stehen bzw. standen) der letzte aktiv gekoppelte Sensor angezeigt. Sollte der gewünschte Sensor bereits mit der App eines anderen Tablets gekoppelt sein, ist kein Verbindungsaufbau möglich. Hierfür muss zunächst auf dem anderen Tablet die Verbindung zum Sensor beendet werden, bevor Sie ihn auswählen und verbinden können. 
+    
+    Falls die App des Tablets den Sensor trotz direkter räumlicher Nähe zum Gerät nicht findet, schalten Sie ihn mehrfach an und aus, bis der Verbindungsaufbau gelingt. Dieselben Probleme können ebenfalls mit dem LED-Anzeigekreuz auftreten. Schalten Sie das Gerät mehrfach an und aus, bis der Verbindungsaufbau gelingt und stellen Sie sicher, dass er nicht bereits mit einem anderen Tablet verbunden ist. 
 
 
 <!-- <p align="center" width="100%">

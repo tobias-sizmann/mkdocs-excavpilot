@@ -14,10 +14,11 @@ Diese Seite befindet sich gerade in Bearbeitung.
 
 Das Erstellen von horizontalen und geneigten Flächen über einen oder optional mehrere Punkte, ist eine der wichtigsten Arbeitsfunktionen der 3D-basierten App-Anwendung des excav PILOT.
 
-Das aktuell ausgewählte Werkzeug oder Sensor wird in der primären Arbeitsansicht räumlich im Verhältnis zur aktiven Fläche dargestellt (farblich in einem dunkleren Grauton abgehoben) sowie in der Frontal- und Seitenansicht im oberen Bildschirmabschnitt. 
+Das aktuell ausgewählte Werkzeug oder Sensor wird in der primären Arbeitsansicht räumlich im Verhältnis zur aktiven Fläche dargestellt (farblich in einem dunkleren Grauton abgehoben) sowie in der Frontal- und Seitenansicht im oberen Bildschirmabschnitt.
 
-!!! info "Information"
-Die Höhenangabe der Fläche bezieht sich auf die Höhenangabe zum Meeresspiegel (exakt 0 Höhenmeter) und kann sich abhängig vom Standort innerhalb von Deutschland und anderswo erheblich unterscheiden. Die für die Arbeit auf der Baustelle vor Ort erforderlichen Angaben zur Positionsbestimmung werden über die Angaben der x-,y- und z-Koordinate dargestellt. 
+
+!!! info "Höhenangabe und Positionsbestimmung"
+    Die Höhenangabe der Fläche bezieht sich auf die Höhenangabe zum Meeresspiegel (exakt 0 Höhenmeter) und kann sich abhängig vom Standort innerhalb von Deutschland und anderswo erheblich unterscheiden. Die für die Arbeit auf der Baustelle vor Ort erforderlichen Angaben zur Positionsbestimmung werden über die Angaben der x-,y- und z-Koordinate dargestellt. 
 
 
 ## Neue Flächen erstellen
@@ -46,10 +47,13 @@ Mit folgenden Funktionen lässt sich die gewünschte Fläche im Raum präziser b
 
 **<span style="color: red; font-weight: bold;">2: &nbsp;</span> Höhenversatz** | Der Faktor Höhenversatz beträgt standardmäßig 0.0 und kann sowohl in Zentimeter (cm) sowie in Meter (m) dargestellt werden. Als Ausrichtungsoptionen kommen die vertikale und orthogonale Ausrichtung infrage. Die Unterschiede zwischen beiden Optionen werden in einem kleinen Informationsfenster näher erklärt. Der Wert des Höhenversatzes kann sowohl positiv als auch negativ sein. 
 
-!!! info "Information"
-Für das Erstellen einer neuen Fläche können sowohl bereits vorhandene Punkte der Punkteliste verwendet oder gänzlich neu eingemessene Punkte verwendet werden. Wir empfehlen Punkte zu verwenden, die bereits zuvor genau bestimmt und eingemessen wurden, um eine Fläche im Bedarfsfall leichter erneut anlegen zu können. 
 
-Über das Zahnrad-Symbol oben rechts öffnet sich das Einstellungs-Fenster. Hier können Sie auswählen, welche Informationen zu den Flächen in Ihrer Flächen-Liste angezeigt werden sollen, darunter den Typ sowie den optional vergebenen Wert des Höhenversatzes einer Fläche.
+!!! info "Tipps zur Flächenerstellung"
+    Für das Erstellen einer neuen Fläche können sowohl bereits vorhandene Punkte der Punkteliste verwendet oder gänzlich neu eingemessene Punkte verwendet werden. Wir empfehlen Punkte zu verwenden, die bereits zuvor genau bestimmt und eingemessen wurden, um eine Fläche im Bedarfsfall leichter erneut anlegen zu können. 
+    
+    Über das Zahnrad-Symbol oben rechts öffnet sich das Einstellungsfenster. Hier können Sie auswählen, welche Informationen zu den Flächen in Ihrer Flächen-Liste angezeigt werden sollen, darunter den Typ sowie den optional vergebenen Wert des Höhenversatzes einer Fläche. 
+
+
 
 ## Eine 1-Punkt Fläche erstellen
 

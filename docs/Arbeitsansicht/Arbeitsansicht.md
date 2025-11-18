@@ -37,7 +37,7 @@
 
 Der Sensor errechnet die Orientierung mithilfe von Bewegung, d.h. sollte die Orientierung schlecht sein, dann bewegen Sie den Löffel ein wenig vor und zurück bis die Qualität besser wird. Bei schlechtem GNSS-Empfang kann es schwierig sein grüne Orientierung dauerhaft zu erreichen. 
 
-!!! info
+!!! info "Verlust der Orientierung"
       Wenn Sie Ihren Löffel längere Zeit nicht bewegen, kann es sein, dass der Sensor die Orientierung verliert. Er sollte Sie aber schnell wieder finden, wenn Sie die Arbeiten fortsetzen.  
 
 **<span style="color: red; font-weight: bold;">3: &nbsp;</span> Empfangsqualität GNSS** - Gibt an, wie gut der GNSS-Empfang des Sensors ist. 
@@ -62,7 +62,7 @@ Der Sensor errechnet die Orientierung mithilfe von Bewegung, d.h. sollte die Ori
       <span>guter GNSS-Empfang - fix</span>
     </span>
 
-!!! warning "Wichtig"
+!!! warning "Ungestörter Satellitenempfang"
     Der Sensor benötigt freie Sicht zum Himmel, um GNSS-Signale empfangen zu können.
     Umliegende Strukturen wie Metall, Bäume, Hauswände oder auch der menschliche Körper können den Empfang stören oder sogar vollständig blockieren.
     Leichte Störungen lassen sich in der Regel kompensieren, jedoch ist ein zuverlässiger Empfang unter bestimmten Bedingungen nicht möglich – etwa in Waldschneisen, bei tieferen Kanalarbeiten, unter Dächern oder bei Arbeiten unter Wasser.
@@ -89,8 +89,8 @@ Der Sensor errechnet die Orientierung mithilfe von Bewegung, d.h. sollte die Ori
       <span>verbunden</span>
   </span>
 
-!!! warning "Wichtig"
-    Sie benötigen Internet auf Ihrem Tablet, um sich zu verbinden. Entweder Sie nutzen eine SIM-Karte mit mobilem Datenvolumen oder Sie verbinden sich mit einem Wlan (z.B. Hotspot). 
+!!! warning "Internetempfang erforderlich"
+    Sie benötigen Internet auf Ihrem Tablet, um sich zu verbinden. Entweder Sie nutzen eine SIM-Karte mit mobilem Datenvolumen oder Sie verbinden sich mit einem WLAN (z.B. Hotspot). 
 
 Genauere Informationen finden Sie unter [NTRIP](https://docs.excav.de/NTRIP/NTRIP/).
 

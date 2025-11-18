@@ -21,5 +21,5 @@ Wenn Sie ein eigenes Tablet verwenden möchten, stellen Sie bitte sicher, dass d
 
 Das Tablet kann über eine Quadlock-Verbindung sowohl am Rover-Stab als auch im Führerhaus des Baggers mittels Saugnapfhalterung an der Innenseite der Kabinenscheibe befestigt werden.
 
-!!! info 
-    Für optimalen Halt empfehlen wir, die Fensterscheibe vor der Montage leicht anzufeuchten. 
+!!! info "Befestigung des Tablets" 
+    Für optimalen Halt empfehlen wir, die Fensterscheibe in der Fahrerkabine vor der Montage leicht anzufeuchten. 

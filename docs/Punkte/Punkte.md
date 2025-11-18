@@ -65,11 +65,9 @@ Sie können Punkte auch manuell erfassen, indem Sie das entsprechende Referenzsy
 
 **<span style="color: red; font-weight: bold;">3: &nbsp;</span> Lat/Long** | geografisches Kugel-/Ellipsoid-basiertes Koordinatensystem mit Breite (Latitude, φ) als Nord-/Südwinkel vom Äquator und Länge (Longitude, λ) als Ost-/Westwinkel vom Nullmeridian (Greenwich), Achtung: Winkel in der App bitte als Dezimalzahlen eingeben. Bezugssystem in Europa: ETRS89
 
-**<span style="color: red; font-weight: bold;">4: &nbsp;</span> Local** | Hier können Sie eines Ihrer lokal angelegten [Koordinatensysteme]() auswählen. 
+**<span style="color: red; font-weight: bold;">4: &nbsp;</span> Local** | Hier können Sie eines Ihrer lokal angelegten [Koordinatensysteme]() auswählen.
 
-## Schnelltaste zum Punkte erfassen
-
-!!! info "Tipp"
+!!! info "Schnelltaste zum Punkte erfassen"
     Seitlich rechts in der Arbeitsansicht befindet sich eine Schnelltaste zum Aufnehmen von Punkten (dritter oranger Button von unten). 
 
 <!-- <p align="center" width="100%">
