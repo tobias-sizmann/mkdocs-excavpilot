@@ -16,7 +16,7 @@ Der Menüpunkt „Arbeitsplatz“ bietet eine Reihe von Funktionen, um erstmals 
 
 Sobald Sie den excav PILOT erstmals nutzen wollen und dafür die vorinstallierte App auf dem Tablet aufrufen, werden Sie direkt zu Beginn gebeten einen ersten Arbeitsplatz anzulegen oder einen bereits vorhandenen Arbeitsplatz zu laden, um Informationen abspeichern zu können.
 
-In diesem Beispiel wird davon ausgegangen, dass Sie den excav PILOT zum ersten Mal nutzen und einen Arbeitsplatz anlegen müssen, um mit weiteren Funktionen fortfahren zu können.  
+In diesem Beispiel wird davon ausgegangen, dass Sie den excav PILOT zum ersten Mal nutzen und einen Arbeitsplatz anlegen müssen, um mit den weiteren Funktionen fortfahren zu können.  
 
 
 ## Neuen Arbeitsplatz erstellen
@@ -25,16 +25,16 @@ In diesem Beispiel wird davon ausgegangen, dass Sie den excav PILOT zum ersten M
   <img width="100%" src="/images_docs/Screenshot Arbeitsplatz PNG 1.png"/>
 </p>
 
-Text
+Direkt zu Beginn werden Sie auf der primären Arbeitsansicht gebeten einen neuen Arbeitsplatz anzulegen oder einen vorhandnen Arbeitsplatz zu laden. Sie finden diese Funktion jederzeit standardmäßig unter dem Startmenü. Sie können den Arbeitsplatz entweder direkt zu Beginn oder später mithilfe einer reingeladenen LandXML-Datei erstellen.
 
 
-## Ansicht Arbeitsplätze
+## Hauptansicht Arbeitsplätze
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot Arbeitsplatz PNG 2.png"/>
 </p>
 
-Text     
+Im Beispiel im Bild oben wurden bereits zwei Arbitsplätze zuvor angelegt, der Prozess für das Anlegen des ersten Arbeitsplatzes ist der gleiche wie für einen weiteren Arbeitsplatz. 
 
 
 ## Namen für einen neuen Arbeitsplatz
@@ -55,18 +55,18 @@ Text
 Text  
 
 
-## Optionl: DGM als LandXML-Datei laden
+## Optional: DGM als LandXML-Datei laden
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot Arbeitsplatz PNG 5.png"/>
 </p>
 
-Um einen neuen Arbeitsplatz speziell im Dateiformat LandXML in der App anzulegen, haben Sie zwei Möglichkeiten: Entweder in einem bestehenden Arbeitsplatz eine LandXML-Datei reinladen oder einen gänzlich neuen Arbeitsplatz mithilfe einer LandXML-Datei gezielt erstellen.
+Um einen neuen Arbeitsplatz speziell im Dateiformat LandXML in der App anzulegen, haben Sie zwei Möglichkeiten: Entweder in einem bestehenden Arbeitsplatz eine LandXML-Datei reinladen oder einen gänzlich neuen Arbeitsplatz mithilfe einer vorhandenen LandXML-Datei erstellen.
 
 !!! info "Umgang mit LandXML-Dateien"
     Um einen neuen Arbeitsplatz speziell im Format LandXML in der App anzulegen, müssen Sie einen vorhandenen Baustellenplan als LandXML-Datei zunächst auf den lokalen Speicher des Tablets hochladen. Als Nächstes müssen Sie exakte Angaben zu den XML-Metadaten der Datei für das Georeferenz- und Höhenreferenzsystem machen, die Sie von Ihrem Planungs- oder Ingenieuerbüro erhalten.
 
-Über Art und Umfang der erforderlichen Angaben entscheidet maßgeblich die Wahl des Koordinaten- und Georeferenzsystems (mehr dazu erfahren Sie unter [Gelände](https://docs.excav.de/Gelände/Gelände/)). Sollten die eingegebenen Daten oder Einstellungen sowie die Beschaffenheit der LandXML-Datei nicht miteinander übereinstimmen, wird automatisch eine Fehlermeldung ausgelöst.
+Über Art und Umfang der erforderlichen Angaben entscheidet maßgeblich die Wahl des Koordinaten- und Georeferenzsystems (mehr dazu erfahren Sie unter [Gelände](https://docs.excav.de/Gelände/Gelände/)). Sollten die eingegebenen Daten oder Einstellungen sowie die Beschaffenheit der LandXML-Datei nicht miteinander übereinstimmen, wird die App automatisch eine Fehlermeldung auslösen.
 
 
 ## Ursprung (Referenzpunkt) setzen
@@ -84,11 +84,11 @@ Wichtig: Im Arbeitsplatz sind alle Punkte absolut (nicht relativ) zum Referenzpu
   <img width="100%" src="/images_docs/Screenshot Arbeitsplatz PNG 7.png"/>
 </p>
 
-Sie können einen zuvor abgespeicherten Arbeitsplatz wieder laden und bearbeiten. In Ihrem ausgewählten Arbeitsplatz befinden sich alle folgenden Informationen gespeichert, die über das Designmenü (siehe das Füller-Symbol) angelegt worden sind:
+Sie können einen zuvor abgespeicherten Arbeitsplatz wieder laden und bearbeiten. In Ihrem ausgewählten Arbeitsplatz befinden sich alle folgenden Informationen gespeichert, die über das Designmenü in der Hauptansicht (siehe das Füller-Symbol) angelegt worden sind:
 
 • Alle erfassten Punkte inklusive des Ursprungs (vormals Referenzpunkt)
 
-• Alle erfassten Strecken, Geraden und Polyeder
+• Alle erfassten Strecken, Geraden und Formen wie Polyeder
 
 • Die aktuell aktive Fläche mit aktiver Werkzeugecke
 
@@ -96,7 +96,7 @@ Sie können einen zuvor abgespeicherten Arbeitsplatz wieder laden und bearbeiten
 
 
 !!! Warning "Speichern von Daten erforderlich"
-    Wenn Sie den Arbeitsplatz neu laden, werden alle bisher erfassten und eingestellten Punkte oder Flächen nicht gespeichert und die Daten gehen somit verloren. Speichern Sie zur Sicherheit Ihren aktuellen Arbeitsplatz nach jedem größeren Bearbeitungsschritt, um Datenverluste zu vermeiden.
+    Wenn Sie den Arbeitsplatz neu laden, werden alle bisher erfassten und eingestellten Punkte oder Flächen nicht gespeichert und die Daten gehen somit verloren. Speichern Sie zur Sicherheit Ihren aktuellen Arbeitsplatz nach jedem nennenswert größeren Bearbeitungsschritt, um Datenverluste zu vermeiden.
 
 
 
