@@ -9,18 +9,20 @@
 Hinweis: Diese Seite befindet sich gerade in Bearbeitung.
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/XXX.jpg"/>
+  <img width="100%" src="/images_docs/Placeholder Kalibrierung 0.png"/>
 </p>
 
-Text
+Text in Bearbeitung
 
 <br>
 
+## Titel
+
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/XXX.jpg"/>
+  <img width="100%" src="/images_docs/Placeholder Kalibrierung 1.png"/>
 </p>
 
-Text
+Text in Bearbeitung
 
 !!! info "Titel"
     Text
@@ -30,13 +32,13 @@ Text
 
 <br>
 
-## H2 Titel
+## Titel
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/XXX.jpg"/>
+  <img width="100%" src="/images_docs/Placeholder Kalibrierung 2.png"/>
 </p>
 
-Text
+Text in Bearbeitung
 
 !!! info "Titel"
     Text
@@ -46,13 +48,13 @@ Text
 
 <br>
 
-## H2 Titel
+## Titel
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/XXX.jpg"/>
+  <img width="100%" src="/images_docs/Placeholder Kalibrierung 3.png"/>
 </p>
 
-Text
+Text in Bearbeitung
 
 !!! info "Titel"
     Text
@@ -62,13 +64,13 @@ Text
 
 <br>
 
-## H2 Titel
+## Titel
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/XXX.jpg"/>
+  <img width="100%" src="/images_docs/Placeholder Kalibrierung 4.png"/>
 </p>
 
-Text
+Text in Bearbeitung
 
 !!! info "Titel"
     Text
@@ -78,13 +80,12 @@ Text
 
 <br>
 
-## H2 Titel
+## Titel
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/XXX.jpg"/>
+  <img width="100%" src="/images_docs/Placeholder Kalibrierung 5.png"/>
 </p>
-
-Text
+Text in Bearbeitung
 
 !!! info "Titel"
     Text
@@ -94,19 +95,109 @@ Text
 
 <br>
 
-## H2 Titel
+## Titel
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/XXX.jpg"/>
+  <img width="100%" src="/images_docs/Placeholder Kalibrierung 6.png"/>
 </p>
 
-Text
+Text in Bearbeitung
 
 !!! info "Titel"
     Text
 
 !!! Warning "Titel"
     Text
+
+
+## Titel
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Placeholder Kalibrierung 7.png"/>
+</p>
+
+Text in Bearbeitung
+
+!!! info "Titel"
+    Text
+
+!!! Warning "Titel"
+    Text
+
+
+## Titel
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Placeholder Kalibrierung 8.png"/>
+</p>
+
+Text in Bearbeitung
+
+!!! info "Titel"
+    Text
+
+!!! Warning "Titel"
+    Text
+
+
+## Titel
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Placeholder Kalibrierung 9.png"/>
+</p>
+
+Text in Bearbeitung
+
+!!! info "Titel"
+    Text
+
+!!! Warning "Titel"
+    Text
+
+
+## Titel
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Placeholder Kalibrierung 10.png"/>
+</p>
+
+Text in Bearbeitung
+
+!!! info "Titel"
+    Text
+
+!!! Warning "Titel"
+    Text
+
+## Titel
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Placeholder Kalibrierung 11.png"/>
+</p>
+
+Text in Bearbeitung
+
+!!! info "Titel"
+    Text
+
+!!! Warning "Titel"
+    Text
+
+
+## Titel
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Placeholder Kalibrierung 12.png"/>
+</p>
+
+Text in Bearbeitung
+
+!!! info "Titel"
+    Text
+
+!!! Warning "Titel"
+    Text
+
 
 <!-- **Verfügbare Verfahren zur Kalibirierung**
 

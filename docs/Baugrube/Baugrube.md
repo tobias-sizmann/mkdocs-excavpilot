@@ -8,6 +8,83 @@
 
 Hinweis: Diese Seite befindet sich gerade in Bearbeitung.
 
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Ansicht Baugrube (5).jpg"/>
+</p>
+
+Text in Bearbeitung
+
+!!! info "Titel"
+    Text
+
+!!! Warning "Titel"
+    Text
+
+<br>
+
+## Titel
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Ansicht Baugrube (1).jpg"/>
+</p>
+
+Text in Bearbeitung
+
+!!! info "Titel"
+    Text
+
+!!! Warning "Titel"
+    Text
+
+<br>
+
+## Titel
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Ansicht Baugrube (2).jpg"/>
+</p>
+
+Text in Bearbeitung
+
+!!! info "Titel"
+    Text
+
+!!! Warning "Titel"
+    Text
+
+<br>
+
+## Titel
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Ansicht Baugrube (3).jpg"/>
+</p>
+
+Text in Bearbeitung
+
+!!! info "Titel"
+    Text
+
+!!! Warning "Titel"
+    Text
+
+<br>
+
+## Titel
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Ansicht Baugrube (4).jpg"/>
+</p>
+
+Text in Bearbeitung
+
+!!! info "Titel"
+    Text
+
+!!! Warning "Titel"
+    Text
+
+<br>
 
 <!-- <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Arbeitsplatz Baugrube.jpg"/>

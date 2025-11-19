@@ -12,7 +12,7 @@ Hinweis: Diese Seite befindet sich gerade in Bearbeitung.
   <img width="100%" src="/images_docs/XXX.jpg"/>
 </p>
 
-Text
+Text in Bearbeitung
 
 <br>
 
@@ -20,7 +20,7 @@ Text
   <img width="100%" src="/images_docs/XXX.jpg"/>
 </p>
 
-Text
+Text in Bearbeitung
 
 !!! info "Titel"
     Text
@@ -30,13 +30,13 @@ Text
 
 <br>
 
-## H2 Titel
+## Titel
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/XXX.jpg"/>
 </p>
 
-Text
+Text in Bearbeitung
 
 !!! info "Titel"
     Text
@@ -46,13 +46,13 @@ Text
 
 <br>
 
-## H2 Titel
+## Titel
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/XXX.jpg"/>
 </p>
 
-Text
+Text in Bearbeitung
 
 !!! info "Titel"
     Text
@@ -62,13 +62,13 @@ Text
 
 <br>
 
-## H2 Titel
+## Titel
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/XXX.jpg"/>
 </p>
 
-Text
+Text in Bearbeitung
 
 !!! info "Titel"
     Text
@@ -78,13 +78,13 @@ Text
 
 <br>
 
-## H2 Titel
+## Titel
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/XXX.jpg"/>
 </p>
 
-Text
+Text in Bearbeitung
 
 !!! info "Titel"
     Text
@@ -94,13 +94,13 @@ Text
 
 <br>
 
-## H2 Titel
+## Titel
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/XXX.jpg"/>
 </p>
 
-Text
+Text in Bearbeitung
 
 !!! info "Titel"
     Text
