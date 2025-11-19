@@ -9,31 +9,19 @@
 Hinweis: Diese Seite befindet sich gerade in Bearbeitung.
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/XXX.jpg"/>
+  <img width="100%" src="/images_docs/Placeholder System einrichten 0.png"/>
 </p>
 
 Text in Bearbeitung
 
-<br>
+Lesen Sie sich bitte die folgenden Unterpunkte für die Einrichtung des Systems sorgfältig durch und starten Sie anschließend die excav PILOT App auf dem mitgelieferten Tablet. Vergewissern Sie sich bitte, dass die einzelnen Geräte gemäß dem vorherigen Abschnitt „System aufbauen“ richtig aufgestellt bzw. am Fahrzeugarm und dem jeweiligen Werkzeug befestigt wurden.
 
-<p align="center" width="100%">
-  <img width="100%" src="/images_docs/XXX.jpg"/>
-</p>
-
-Text in Bearbeitung
-
-!!! info "Titel"
-    Text
-
-!!! Warning "Titel"
-    Text
+Es gibt eine ausführliche [Videoanleitung auf YouTube](https://www.youtube.com/watch?v=0_yEPTznHgQ){:target="\_blank"}, in der ein komplettes erstmaliges Setup im Detail durchgeführt und erklärt wird. Wir raten Erstnutzern, bei der Systemeinrichtung des excav PILOT auf die Videoanleitung zurückzugreifen und den Leitfaden nur unterstützend zu verstehen.
 
 <br>
 
-## Titel
-
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/XXX.jpg"/>
+  <img width="100%" src="/images_docs/Placeholder System einrichten 1.png"/>
 </p>
 
 Text in Bearbeitung
@@ -49,7 +37,7 @@ Text in Bearbeitung
 ## Titel
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/XXX.jpg"/>
+  <img width="100%" src="/images_docs/Placeholder System einrichten 2.png"/>
 </p>
 
 Text in Bearbeitung
@@ -65,7 +53,7 @@ Text in Bearbeitung
 ## Titel
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/XXX.jpg"/>
+  <img width="100%" src="/images_docs/Placeholder System einrichten 3.png"/>
 </p>
 
 Text in Bearbeitung
@@ -81,7 +69,7 @@ Text in Bearbeitung
 ## Titel
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/XXX.jpg"/>
+  <img width="100%" src="/images_docs/Placeholder System einrichten 4.png"/>
 </p>
 
 Text in Bearbeitung
@@ -97,7 +85,87 @@ Text in Bearbeitung
 ## Titel
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/XXX.jpg"/>
+  <img width="100%" src="/images_docs/Placeholder System einrichten 5.png"/>
+</p>
+
+Text in Bearbeitung
+
+!!! info "Titel"
+    Text
+
+!!! Warning "Titel"
+    Text
+
+<br>
+
+## Titel
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Placeholder System einrichten 6.png"/>
+</p>
+
+Text in Bearbeitung
+
+!!! info "Titel"
+    Text
+
+!!! Warning "Titel"
+    Text
+
+<br>
+
+## Titel
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Placeholder System einrichten 7.png"/>
+</p>
+
+Text in Bearbeitung
+
+!!! info "Titel"
+    Text
+
+!!! Warning "Titel"
+    Text
+
+<br>
+
+## Titel
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Placeholder System einrichten 8.png"/>
+</p>
+
+Text in Bearbeitung
+
+!!! info "Titel"
+    Text
+
+!!! Warning "Titel"
+    Text
+
+<br>
+
+## Titel
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Placeholder System einrichten 9.png"/>
+</p>
+
+Text in Bearbeitung
+
+!!! info "Titel"
+    Text
+
+!!! Warning "Titel"
+    Text
+
+<br>
+
+## Titel
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Placeholder System einrichten 10.png"/>
 </p>
 
 Text in Bearbeitung

@@ -9,16 +9,10 @@
 Hinweis: Diese Seite befindet sich gerade in Bearbeitung.
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/XXX.jpg"/>
+  <img width="100%" src="/images_docs/Placeholder System aufbauen 0.png"/>
 </p>
 
 Text in Bearbeitung
-
-!!! info "Titel"
-    Text
-
-!!! Warning "Titel"
-    Text
 
 <br>
 
@@ -28,8 +22,8 @@ Text in Bearbeitung
 
 Text in Bearbeitung
 
-!!! info "Besserer WLAN-Empfang"
-    Das LED-Anzeigekreuz dient nicht nur der visuellen Unterstützung, sondern spannt auch das WLAN-Netz für das Tablet auf. Entsprechend kann es bei tieferen Arbeiten Abhilfe schaffen, das LED-Anzeigekreuz weiter oben als üblich am Baggerarm zu montieren.
+!!! info "Titel"
+    Text
 
 !!! Warning "Titel"
     Text
@@ -60,13 +54,10 @@ Text in Bearbeitung
 
 Text in Bearbeitung
 
-!!! Warning "Werkzeug an der Anbringstelle gründlich säubern"
-    Das Werkzeug muss an der Anbringstelle des Sensors sauber und möglichst glatt sein, sodass die Magneten direkt das Metall berühren und keine Schmutzschicht dazwischen liegt. Wenn diese aus Sand und Lehm besteht, kann dies die Magnetstärke und somit Haftfähigkeit signifikant beeinträchtigen.
-
-!!! Warning "Sensor sorgfältig und fest anbringen"
-    Sowohl das Anbringen des Sensors als auch das Einmessen des Werkzeugs sind von hoher Wichtigkeit. Ist die Einrichtung des Sensors fehlerhaft, so kann dies die Qualität der darauffolgenden Arbeiten reduzieren. Die richtige Anbringung des Sensors auf dem Werkzeug ist entscheidend für genaue Ergebnisse und lässt sich rein textbasiert in einer Anleitung nicht trivial beschreiben. Wir empfehlen daher, dass Sie sich auch mithilfe der grafischen Anleitung in unserem YouTube-Erklärungsvideo informieren.
-
 !!! info "Titel"
+    Text
+
+!!! Warning "Titel"
     Text
 
 <br>
@@ -79,11 +70,11 @@ Text in Bearbeitung
 
 Text in Bearbeitung
 
-!!! Warning "Titel"
+!!! info "Titel"
     Text
 
-!!! info "Anfeuchten der Saugnäpfe"
-    Sollte sich der Tablet-Halter wiederholt von der Scheibe lösen, können Sie die Saugnäpfe mit Wasser oder Reinigungsmittel behutsam anfeuchten. Mit den Knöpfen an der Seite des Tablets kann dieses ein- und ausgeschaltet werden. Sofern die Baumaschine über einen Zigarettenanzünder oder einen 5V- bzw. 12V-Anschluss verfügt, können Sie das Tablet auch an die bordeigene Stromquelle anschließen. Falls Sie mit einem Tablet den ganzen Tag auf Akku arbeiten möchten, empfehlen wir, dieses in den Pausen kurz auszuschalten.
+!!! Warning "Titel"
+    Text
 
 <br>
 
@@ -104,6 +95,24 @@ Text
 <!-- <p align="center" width="100%">
   <img width="100%" src="/images_docs/Anleitung & FAQ Youtube Thumbnail.png"/>
 </p>
+
+
+BACKLOG
+
+!!! info "Besserer WLAN-Empfang"
+    Das LED-Anzeigekreuz dient nicht nur der visuellen Unterstützung, sondern spannt auch das WLAN-Netz für das Tablet auf. Entsprechend kann es bei tieferen Arbeiten Abhilfe schaffen, das LED-Anzeigekreuz weiter oben als üblich am Baggerarm zu montieren.
+
+
+!!! Warning "Werkzeug an der Anbringstelle gründlich säubern"
+    Das Werkzeug muss an der Anbringstelle des Sensors sauber und möglichst glatt sein, sodass die Magneten direkt das Metall berühren und keine Schmutzschicht dazwischen liegt. Wenn diese aus Sand und Lehm besteht, kann dies die Magnetstärke und somit Haftfähigkeit signifikant beeinträchtigen.
+
+!!! Warning "Sensor sorgfältig und fest anbringen"
+    Sowohl das Anbringen des Sensors als auch das Einmessen des Werkzeugs sind von hoher Wichtigkeit. Ist die Einrichtung des Sensors fehlerhaft, so kann dies die Qualität der darauffolgenden Arbeiten reduzieren. Die richtige Anbringung des Sensors auf dem Werkzeug ist entscheidend für genaue Ergebnisse und lässt sich rein textbasiert in einer Anleitung nicht trivial beschreiben. Wir empfehlen daher, dass Sie sich auch mithilfe der grafischen Anleitung in unserem YouTube-Erklärungsvideo informieren.
+
+!!! info "Anfeuchten der Saugnäpfe"
+    Sollte sich der Tablet-Halter wiederholt von der Scheibe lösen, können Sie die Saugnäpfe mit Wasser oder Reinigungsmittel behutsam anfeuchten. Mit den Knöpfen an der Seite des Tablets kann dieses ein- und ausgeschaltet werden. Sofern die Baumaschine über einen Zigarettenanzünder oder einen 5V- bzw. 12V-Anschluss verfügt, können Sie das Tablet auch an die bordeigene Stromquelle anschließen. Falls Sie mit einem Tablet den ganzen Tag auf Akku arbeiten möchten, empfehlen wir, dieses in den Pausen kurz auszuschalten.
+
+
 
 Ein Live-Beispiel zum Aufbauen und Einrichten des excav PILOT Gesamtsystems auf einer normalen Baustelle finden Sie in unserer [Videoanleitung](https://www.youtube.com/watch?v=dZmhDPmHHl0) (auch in der App abspielbar).
 
