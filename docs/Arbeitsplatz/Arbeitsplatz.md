@@ -56,7 +56,6 @@ Optional können Sie zu diesem Zeitpunkt eine CSV-Kalibrierungsdatei hochladen, 
     Die 7-Parameter-Transformation (auch Helmert-Transformation genannt) ist ein mathematisches Verfahren, um Koordinatenpunkte von einem dreidimensionalen Bezugssystem in ein anderes zu überführen. Sie wird eingesetzt, wenn unterschiedliche Koordinatensysteme miteinander verbunden werden sollen. Die Transformation nutzt dabei sieben einzelne Parameter: drei Parameter für die Translation (Verschiebungen in x-, y- und z-Richtung), drei Parameter für die Rotation (Drehungen um die Achsen) und einen Parameter für den Maßstab (einheitliche Skalierung). Zusammenfassend beschreibt die Transformation, wie man einen 3D-Punkt durch Verschieben, Drehen und Skalieren vom Ausgangssystem ins Zielsystem überführen kann.
 
 
-
 ## Optional: DGM als LandXML-Datei laden
 
 <p align="center" width="100%">
@@ -98,11 +97,8 @@ Sie können einen zuvor gespeicherten Arbeitsplatz wieder laden und bearbeiten. 
 
 • Den aktuell geladenen und entsprechend ausgerichteten Bauplan
 
-
 !!! Warning "Speichern von Daten erforderlich"
     Wenn Sie den Arbeitsplatz neu laden, werden alle bisher erfassten und eingestellten Punkte oder Flächen nicht gespeichert und die Daten gehen somit verloren. Speichern Sie zur Sicherheit Ihren aktuellen Arbeitsplatz nach jedem nennenswerten Bearbeitungsschritt, um Datenverluste zu vermeiden.
-
-
 
 !!! info "Speicherung der Werkzeuge"
     Die erstellten Werkzeuge (z. B. Baggerschaufel oder andere Werkzeuge) werden zwar auf Ebene der App, jedoch nicht auf Ebene des einzelnen Arbeitsplatzes gespeichert. Auf diese Weise bleiben alle exakt kalibrierten Werkzeuge erhalten und müssen nicht in jedem Arbeitsplatz erneut kalibriert und hinterlegt werden. Zudem gehen die kalibrierten Maße nicht verloren, sollten Sie ohne Datenspeicherung den Arbeitsplatz wechseln.

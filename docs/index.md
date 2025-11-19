@@ -6,9 +6,11 @@
 
 Hier finden Sie eine ausführliche Online-Bedienungsanleitung für Ihren excav PILOT, ausgestattet mit zahlreichen Bildern, Tipps und Empfehlungen. Falls Sie zu Ihrem neuen excav PILOT Fragen oder Probleme haben, kontaktieren Sie uns gerne jederzeit per E-Mail an support@excav.de. 
 
+
 ## Komponentenübersicht
 
 In der [Komponentenübersicht](https://docs.excav.de/Gesamtsystem/Gesamtsystem/) wird die gesamte Hardware im Überblick dargestellt.
+
 
 ## Erste Schritte
 
@@ -27,9 +29,11 @@ Nach erfolgreicher Inbetriebnahme finden Sie im Reiter „App“ alle Erklärung
 
 Die App wird standardmäßig auf dem Tablet installiert ausgeliefert und schrittweise um neue Funktionen ergänzt.
 
+
 ## Weitere Informationen
 
 Dieser Abschnitt bietet eine Übersicht über häufig gestellte Fragen ([FAQ](https://docs.excav.de/H%C3%A4ufige%20Fragen/H%C3%A4ufige%20Fragen/)), praxisnahe [Lösungsvorschläge für typische Fehlerszenarien](https://docs.excav.de/Fehlerbehebung/Fehlerbehebung/) sowie [sicherheitsrelevante Hinweise](https://docs.excav.de/Sicherheitshinweise/Sicherheitshinweise/).
+
 
 ## Wichtige Hinweise
 

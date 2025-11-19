@@ -63,9 +63,9 @@ Schalten Sie den Sensor ein, indem Sie den Button auf der Unterseite drücken. E
 
 • Die Hinterkante des Sensors muss parallel zur Schaufel- oder Werkzeugschneide verlaufen.
 
-• Der Sensor darf nicht durch Hydraulik, überstehende Bleche oder andere Aufbauten verdeckt werden.
+• Der Sensor darf nicht durch Hydraulik, Bleche oder andere Aufbauten verdeckt werden.
 
-• Der Sensor sollte auf einem vor Geröll und Bauschutt sowie Stößen geschützten Bereich befestigt werden.
+• Der Sensor sollte auf einem vor Geröll sowie Stößen geschützten Bereich befestigt werden.
 
 !!! info "Titel"
     Text

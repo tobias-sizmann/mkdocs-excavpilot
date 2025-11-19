@@ -12,6 +12,7 @@ Haben Sie einen .pdf-Plan von Ihrer Baustelle? Dann können Sie diesen auch in d
   <img width="100%" src="/images_docs/Weitere Screenshots (10) - Kopie.jpg"/>
 </p>
 
+
 ## PDF laden
 
 Wählen Sie in der Arbeitsansicht unten rechts das Füller-Icon aus und dann Bauplan.
