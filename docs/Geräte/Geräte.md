@@ -14,6 +14,7 @@ Unter dem Menüführungspunkt Geräte im Startmenü haben Sie die Möglichkeit d
 
 Über den Menüpunkt können Sie zudem die aktuelle Verbindung prüfen, falls Probleme bei der Konnektivität vorliegen sollten und die Geräte nach erneutem Anschalten neu verbinden. 
 
+
 ## excav PILOT App starten
 
 <p align="center" width="100%">
@@ -31,6 +32,7 @@ Da das erstmalige Koppeln und Verbinden der Geräte mit dem Tablet unabdingbar i
 
 Bevor Sie einen Arbeitsplatz laden oder neu erstellen können, müssen Sie zuerst im Startmenü unter Geräte den GNSS-Sensor und das LED-Anzeigekreuz per Bluetooth koppeln und verbinden. Im Bild oben sind beide Geräte auf einem eingerichteten und eingesetzten Tablet gekoppelt, diese sind zunächst nicht verbunden, wenn Sie den Vorgang zum ersten Mal durchführen.  
 
+
 ## Geräte erstmals verbinden
 
 <p align="center" width="100%">
@@ -39,12 +41,9 @@ Bevor Sie einen Arbeitsplatz laden oder neu erstellen können, müssen Sie zuers
 
 Der GNSS-Sensor und das LED-Anzeigekreuz sind als verfügbare Geräte hinterlegt und lassen sich per Button entweder über Bluetooth verbinden oder die Verbindung wieder aufheben. 
 
-
 Um die Geräte hinzuzufügen und mit der App-Anwendung zu verknüpfen, müssen beide Geräte zunächst angeschaltet werden. Beginnen Sie hierbei mit dem Sensor und halten Sie den Button auf der Rückseite kurz gedrückt, bis das rückseitige Licht grün aufleuchtet. Beachten Sie bitte, dass Bluetooth auf dem Tablet bereits aktiviert sein muss. Sobald die Geräte eingeschaltet sind und Bluetooth auf dem Tablet aktiviert ist, betätigen Sie in der App unter dem Menüpunkt "Geräte" den orangefarbenen Button "Scannen", zuerst für die Sensoreinheit. 
 
-
 Treten möglicherweise Verbindungsprobleme auf, vergewissern Sie sich, dass beide Geräte ausreichend geladen sind und schalten Sie diese ggf. aus und gleich wieder ein. Achten Sie darauf, dass sich kein weiterer angeschalteter und aktiver GNSS-Sensor des excav PILOT in der Nähe befindet. Zudem sollte sich das Tablet für den Verbindungsaufbau in der Nähe befinden. 
-
 
 !!! warning "Akkustand der Geräte"
     Der Akkustand des GNSS-Sensors und des LED-Anzeigekreuz werden dauerhaft angezeigt. Achten Sie darauf, dass die Akkustände der einzelnen Geräte nicht unter 10 % fallen, da sich dies bei Sensor auf die Performanz und somit Genauigkeit auswirken kann. Eine volle Akkuladung reicht für ca. 16 Stunden Einsatzdauer. Die Ladezeit der Geräte beläuft sich in etwa auf 2,5 Stunden.
@@ -59,7 +58,6 @@ Treten möglicherweise Verbindungsprobleme auf, vergewissern Sie sich, dass beid
 Wählen Sie in der Ansicht oben den vorhandenen Sensor aus und führen Sie den Vorgang ebenfalls mit dem LED-Anzeigekreuz durch. Sobald beide Geräte erfolgreich verbunden sind, erscheinen die Buttons grau mit der Beschriftung "Trennen". Sie können die Verbindung zu den einzelnen Geräten jederzeit manuell trennen. 
 
 In der Ansicht oben wurde im ersten Schritt beispielsweise der GNSS-Sensor verbunden und gekoppelt. Der Button erscheint bei aktiver Verbindung nun in Grau mit der Aufforderung "Trennen". Sie können beide Geräte unabhängig voneinander verbinden und koppeln. 
-
 
 !!! warning "Probleme und Problembehebung im Umgang mit den Geräten"
     Prüfen Sie zunächst, ob die Internetverbindung über mobile Daten sowie Bluetooth aktiv sind. Zudem müssen beide Geräte ausreichend Akkuleistung verfügen, idealerweise mehr als 20 %, da sonst die Verbindungsqualität und die Performanz darunter leiden können. 

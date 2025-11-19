@@ -10,7 +10,6 @@
   <img width="100%" src="/images_docs/Anleitung & FAQ Bild Fehlerbehebung Fragen & Antworten-Photoroom.png"/>
 </p>
 
-
 !!! question "Brauche ich externe Korrekturdaten?"
     Ja. Sie beziehen externe RTK-Korrekturdaten über die integrierte NTRIP-Funktionalität.
 

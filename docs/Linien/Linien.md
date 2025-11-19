@@ -14,13 +14,12 @@ Mit Linien können Sie verschiedene Gegebenheiten Ihrer Baustelle direkt in der 
 
 Um Linien zu erstellen, gehen Sie ins [Designmenü]() und wählen Sie "Linien" aus.
 
-## Linien-Liste
 
+## Linien-Liste
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Weitere Screenshots (1) - Kopie.png"/>
 </p>
-
 
 **<span style="color: red; font-weight: bold;">1: &nbsp;</span> Auge-Button** | Zum Einblenden und Ausblenden der jeweiligen Linie in der [Arbeitsansicht]().
 
@@ -29,6 +28,7 @@ Um Linien zu erstellen, gehen Sie ins [Designmenü]() und wählen Sie "Linien" a
 **<span style="color: red; font-weight: bold;">3: &nbsp;</span> Linie bearbeiten** | Durch Tippen auf eine Linie können Sie diese bearbeiten, z.B. die Farbgebung oder Bezeichnung. Unter der Linienbezeichnung werden Ihnen alle Informationen zur Linie (z.B. Länge der Linie) ausgegeben, welche Sie in den Linien-Einstellungen (siehe **<span style="color: red; font-weight: bold;">4</span>**) aktiv gesetzt haben. 
 
 **<span style="color: red; font-weight: bold;">4: &nbsp;</span> Linien-Einstellungen** | Öffnet das Einstellungs-Fenster. Hier können Sie auswählen, welche Informationen zu den Linien in Ihrer Linien-Liste angezeigt werden sollen. Je nach Linienart (Strecke, Unendliche Strecke, Polylinie, Polyeder) gibt es verschiedene Informationen zu Auswahl. 
+
 
 ## Neue Linie erstellen
 
@@ -57,8 +57,8 @@ oder
 
 Jetzt noch mit "OK" bestätigen, dann wird die Linie in der Linien-Liste abgespeichert und in der [Arbeitsansicht]() angezeigt. 
 
-## Linien-Einstellungen
 
+## Linien-Einstellungen
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot (77) - Kopie.png"/>

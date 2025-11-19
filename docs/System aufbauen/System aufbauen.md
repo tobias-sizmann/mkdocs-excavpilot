@@ -114,12 +114,6 @@ Text
 
 Text in Bearbeitung
 
-!!! info "Titel"
-    Text
-
-!!! Warning "Titel"
-    Text
-
 !!! info "Besserer WLAN-Empfang"
     Das LED-Anzeigekreuz dient nicht nur der visuellen Unterstützung, sondern spannt auch das WLAN-Netz für das Tablet auf. Entsprechend kann es bei tieferen Arbeiten Abhilfe schaffen, das LED-Anzeigekreuz weiter oben als üblich am Baggerarm zu montieren.
 
@@ -127,6 +121,7 @@ Text in Bearbeitung
     Durch den GPS-Empfang über ein globales Satellitennetzwerk und RTK-Korrekturdaten über NTRIP kann die exakte Position des Sensors im Raum bestimmt werden. Um zudem die genaue Ausrichtung zu bestimmen, muss der Sensor zu Beginn oder bei entsprechendem Hinweis (kein GNSS oder GNSS zu ungenau) geschwenkt oder bewegt werden - auch, um den verloren gegangenen GPS-Empfang wiederherzustellen.
     
     Das System findet die Orientierung im Normalfall nach wenigen Minuten von selbst (hierfür muss der Messstab, die Baggerschaufel oder das Werkzeug bewegt und geschwenkt werden). Erhalten Sie keine Verbindungen befinden Sie sich wahrscheinlich mit dem Sensor zu nahe an größeren Strukturen, welche den Satellitenempfang beeinträchtigen.
+    
 
 ## Orientierung für den GNSS-Sensor herstellen
 

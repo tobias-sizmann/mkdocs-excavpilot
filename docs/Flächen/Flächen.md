@@ -16,7 +16,6 @@ Das Erstellen von horizontalen und geneigten Flächen über einen oder optional 
 
 Das aktuell ausgewählte Werkzeug oder Sensor wird in der primären Arbeitsansicht räumlich im Verhältnis zur aktiven Fläche dargestellt (farblich in einem dunkleren Grauton abgehoben) sowie in der Frontal- und Seitenansicht im oberen Bildschirmabschnitt.
 
-
 !!! info "Höhenangabe und Positionsbestimmung"
     Die Höhenangabe der Fläche bezieht sich auf die Höhenangabe zum Meeresspiegel (exakt 0 Höhenmeter) und kann sich abhängig vom Standort innerhalb von Deutschland und anderswo erheblich unterscheiden. Die für die Arbeit auf der Baustelle vor Ort erforderlichen Angaben zur Positionsbestimmung werden über die Angaben der x-,y- und z-Koordinate dargestellt. 
 
@@ -47,7 +46,6 @@ Mit folgenden Funktionen lässt sich die gewünschte Fläche im Raum präziser b
 
 **<span style="color: red; font-weight: bold;">2: &nbsp;</span> Höhenversatz** | Der Faktor Höhenversatz beträgt standardmäßig 0.0 und kann sowohl in Zentimeter (cm) sowie in Meter (m) dargestellt werden. Als Ausrichtungsoptionen kommen die vertikale und orthogonale Ausrichtung infrage. Die Unterschiede zwischen beiden Optionen werden in einem kleinen Informationsfenster näher erklärt. Der Wert des Höhenversatzes kann sowohl positiv als auch negativ sein. 
 
-
 !!! info "Tipps zur Flächenerstellung"
     Für das Erstellen einer neuen Fläche können sowohl bereits vorhandene Punkte der Punkteliste verwendet oder gänzlich neu eingemessene Punkte verwendet werden. Wir empfehlen Punkte zu verwenden, die bereits zuvor genau bestimmt und eingemessen wurden, um eine Fläche im Bedarfsfall leichter erneut anlegen zu können. 
     
@@ -74,7 +72,6 @@ Mit folgenden Funktionen lässt sich die gewünschte Fläche im Raum präziser b
 Für die 1-Punkt Fläche kann zusätzlich zur Position und Höhenangabe des einzig erforderlichen Punktes ein Steigungswinkel als Neigung angegeben werden. Sollte keine Neigung angegeben werden, beträgt der Wert im unteren Eingabefeld der Steigung standardmäßig 0.0. 
 
 Optional kann über die Funktion Höhenversatz die Höhe (+) bzw. Tiefe (-) der Fläche zu Punkt 1 manuell angegeben werden, um die Fläche auf der gewünschten Höhe bzw. Tiefe darzustellen. Der Höhenversatz kann entweder vertikal (im senkrechten Lot) zur virtuellen Referenzebene des Koordinatensystems oder orthogonal (im senkrechten Lot) zur Referenzfläche mit Neigung abgebildet werden. Durch die Auswahloption ergeben sich Abweichungen im Höhenversatz.    
-
 
 <br>
 
@@ -217,6 +214,7 @@ Wenn im Rahmen der Option der 3-Punkt Fläche die Funktion "Mit Steigung" ausgew
 **Beispiel: Komplexe geometrische Modelle im Garten- und Landschaftsbau**
 
 Eine solche Option bietet sich an, wenn beispielsweise im Garten- und Landschaftsbau eine Vielzahl individueller und verschiedenartiger Flächen wird, um die natürlich Unebenheit und Abwesenheit menschlicher Begradigung im Landschaftsbild zu suggerieren, wie kleine Hügel, Senken, Täler und Teichmulden im Rahmen eines größeren Garten- und Landschaftsbauprojektes.  
+
 
 <!-- BACKLOG
 

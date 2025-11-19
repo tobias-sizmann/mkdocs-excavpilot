@@ -11,12 +11,12 @@
   <figcaption>Abb. 1: Menü => Werkzeuge</figcaption>
 </figure>
 
-
 Es ist vorab zu erwähnen, dass beim excav PILOT anders als bei herkömmlichen Assistenzsystemen bzw. Baggersteuerungen das GNSS-Modul direkt am Werkzeug montiert wird. Demnach wissen wir nichts über die eigentliche Baumaschine (weder Stiel noch Rumpf) und erfassen nur das Werkzeug selbst 3D im Raum.
 
 Vorteil: Sie können ohne Probleme innerhalb von Minuten zwischen Baumaschinen wechseln und auch Anbau-Features wie z.B. **Tiltrotator** sind kein Problem. 
 
 Sie müssen entsprechend dem Sensor mitteilen, wie das Werkzeug genau aussieht, auf dem er sich aktuell befindet. Je genauer er das weiß, desto bessere Ergebnisse erhalten Sie. 
+
 
 ## Unterstützte Werkzeuge 
 
@@ -31,6 +31,7 @@ Aktuell werden folgende Werkzeuge für Baumaschinen im excav PILOT unterstützt:
 4. **Schild** - sowohl kleine Drei-Wege-Schilder und Sechs-Wege-Schilder am Bagger als auch Planierschilder von Raupen. Kalibrierung nur mittels Antastverfahren empfohlen, da es bei Schildern schwierig ist die für das Einmessverfahren benötigte Nullneigung des Sensors zu ermitteln.
 
 Mit etwas Erfahrung können Sie auch speziellere Werkzeuge einkalibrieren wie z.B. **Planierbalken** oder **Ramme**. Diese werden allerdings aktuell noch nicht als solche in der App unterstützt und müssen als Löffel angelegt werden. 
+
 
 ## Zwei Möglichkeiten für die Kalibrierung
 
@@ -49,6 +50,7 @@ Der Rover-Stab ist standardmäßig als Werkzeug in der App hinterlegt.
     Bitte verwenden Sie alle vier Komponenten des Rover-Stabs, ansonsten stimmt die Vorabkalibrierung nicht!
 
 Falls Sie Ihren eigenen Rover-Stab mit abweichender Länge kalibrieren möchten, dann muss die Länge von der Stab-Spitze parallel laufend bis zur Gehäuseunterkante des Sensors gemessen werden. Achten Sie bei kürzeren Rover-Stäben darauf, dass Sie den Stab zur Punkterfassung möglichst weit vom Körper weghalten (ausgestreckter Arm). 
+
 
 ## Werkzeug wechseln und Werkzeugecke wechseln
 

@@ -10,6 +10,7 @@ Punkte sind das grundlegende Designobjekt in der App. Mit Punkten können Sie al
 
 Alle bereits aufgenommenen Punkte finden Sie abgespeichert in der Punkteliste unter "Punkte" im Designmenü. 
 
+
 ## Punkteliste
 
 <p align="center" width="100%">
@@ -68,7 +69,8 @@ Sie können Punkte auch manuell erfassen, indem Sie das entsprechende Referenzsy
 **<span style="color: red; font-weight: bold;">4: &nbsp;</span> Local** | Hier können Sie eines Ihrer lokal angelegten [Koordinatensysteme]() auswählen.
 
 !!! info "Schnelltaste zum Punkte erfassen"
-    Seitlich rechts in der Arbeitsansicht befindet sich eine Schnelltaste zum Aufnehmen von Punkten (dritter oranger Button von unten). 
+    Seitlich rechts in der Arbeitsansicht befindet sich eine Schnelltaste zum Aufnehmen von Punkten (dritter oranger Button von unten).
+ 
 
 <!-- BACKLOG
 

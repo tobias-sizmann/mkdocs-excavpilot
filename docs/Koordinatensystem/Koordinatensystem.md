@@ -31,6 +31,7 @@ Beispiel: Sie möchten ein Rechteck für einen 3mx6m Pool abstecken, welcher gen
 
 Beide Optionen zum Setzen eines individuellen, lokalen Koordinatensystems werden in den folgenden Unterkapiteln genauer erklärt. 
 
+
 ## Koordinatensystem mit Ursprung und x-Achse
 
 <p align="center" width="100%">
@@ -51,7 +52,9 @@ oder
 </p>
 
 Beide Punkte sind erfasst. Jetzt noch mit "OK" bestätigen und das Koordinatensystem ist aktiv. 
+
 <br><br>
+
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot (22) - Kopie.png"/>
 </p>
@@ -83,6 +86,7 @@ In der Arbeitsansicht wird Ihnen dann die aktuelle Position im Koordinatensystem
 Alternativ können Sie auch beide Achsen definieren. Der Ursprung ergibt sich dann als Schnitt der beiden Achsen. Diese Option ist zum Beispiel dann sinnvoll, wenn der Ursprung schlecht oder gar nicht anzutasten ist. 
 
 Die x-Achse verläuft immer von Punkt 1 nach Punkt 2. Die y-Achse verläuft dann automatisch im 90° Winkel zur x-Achse nach links durch Punkt 3. Das Koordinatensystem wird auf Höhe von Punkt 1 aufgespannt, d.h. die Höhe des Punktes, welcher als Punkt 1 gewählt wird, ist im neuen Koordinatensystem die Nullhöhe. 
+
 
 ## Manuellen Punkt im lokalen Koordinatensystem setzen
 

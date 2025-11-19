@@ -84,7 +84,6 @@ Text in Bearbeitung
 !!! Warning "Titel"
     Text
 
-<br>
 
 <!-- BACKLOG
 

@@ -9,9 +9,11 @@
   <img width="100%" src="/images_docs/Screenshot (5) - Kopie.jpg"/>
 </p>
 
+
 ## Was ist NTRIP?
 
 NTRIP steht für Networked Transport of RTCM via Internet Protocol und ist ein gängiges Verfahren zur Bereitstellung von RTK-Korrekturdaten über das Internet. Die erreichbare **Lagegenauigkeit** wird je nach Korrekturdatendienstleister mit **ca. 1 - 3 cm** angegeben.
+
 
 ## Was brauche ich für die Nutzung von NTRIP?
 
@@ -63,6 +65,7 @@ In der folgenden Auflistung gelangen Sie zu den Übersichtsseiten der bundesweit
 - Thüringen - [Satellitenpositionierungs-Dienst SAPOS® Thüringen](https://tlbg.thueringen.de/geobasisdaten/raumbezug/sapos)
 
 Es gibt weitere national sowie zum Teil international tätige Anbieter, welche in speziellen Anwendungsfällen, wie in Grenznähe zu anderen Staaten oder bei grenzüberschreitenden Projekten im Bau, kostengünstig und hilfreich sind.
+
 
 ## Wie verbinde ich mich mit NTRIP?
 

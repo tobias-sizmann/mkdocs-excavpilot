@@ -4,7 +4,7 @@
     }
 </style>
 
-# Tablet un Halterung
+# Tablet und Halterung
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/excav GmbH Tablet excav PILOT frontal freigestellt.png"/>
@@ -17,7 +17,7 @@ Das mitgelieferte Android-Tablet ist das **Samsung Tab S9 FE**. Die excav PILOT-
 Wenn Sie ein eigenes Tablet verwenden möchten, stellen Sie bitte sicher, dass darauf mindestens Android 14 als Betriebssystem installiert ist. Geringfügige Abweichungen im Layout der Benutzeroberfläche sind je nach Gerät möglich. iOS wird aktuell noch nicht unterstüzt. 
 
 
-# Halterung
+# Tablet-Halterung
 
 Das Tablet kann über eine Quadlock-Verbindung sowohl am Rover-Stab als auch im Führerhaus des Baggers mittels Saugnapfhalterung an der Innenseite der Kabinenscheibe befestigt werden.
 

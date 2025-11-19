@@ -43,9 +43,6 @@ Text in Bearbeitung
   <img width="100%" src="/images_docs/Placeholder Kalibrierung 6.png"/>
 </p>
 
-Text in Bearbeitung
-
-
 **1. Antastverfahren**
 
 Über die Schaufel- oder Werkzeugecke wird die Höhendifferenz zur Arbeitsfläche berechnet und des Weiteren wird sie zur Erfassung von Punkten auf der Baustelle herangezogen. Daher kann die Schaufel- oder Werkzeugecke zur Bestimmung von Punkten genutzt werden. Den genauesten Messwert erhalten Sie jeweils an der am nächsten zum Sensor befindlichen Ecke. Bei bereits abgenutzten Ecken der Schaufel- oder Werkzeugschneide empfiehlt sich die mittlere Position zum Antasten von Punkten, vor allem bei denen die Höhe relevant ist. 
@@ -54,20 +51,12 @@ Für das Antastverfahren benötigen Sie einen statischen Basispunkt, der sich gu
 
 Als Nächstes platzieren Sie den Sensor mit Blickrichtung zur Fahrerkabine der Baumaschine auf die linke Außenseite des Werkzeugs, um die linke Werkzeugecke zu erfassen. Bewegen Sie das Werkzeug derart, dass die linke Werkzeugecke (aus Sicht der Fahrerkabine heraus) an dem Basispunkt aufliegt und erfassen Sie den Punkt. Praktizieren Sie den gleichen Vorgang analog mit der rechten Werkzeugecke und erfassen Sie ebenfalls den Punkt. 
 
-
 **2. Eingabeverfahren**
 
 Für das Eingabeverfahren werden exakte Angaben zum Werkzeug benötigt, damit der Sensor die Maße in der App korrekt abbilden kann. Bestimmen Sie zuerst die Breite der Schaufel- oder Werkzeugschneide und tragen Sie den Wert in das Abfragefeld der App ein. Bitte messen Sie bis auf eine Nachkommastelle im Zentimeterbereich genau. Danach bestimmen Sie den seitlichen Versatz (Einrückung) des Sensors. Dies ist die Distanz von der Sensormitte bis zur von der Fahrerkabine gesehen rechten Außenseite der Baggerschaufel oder des Werkzeugs. Tragen Sie den ermittelten Wert in das Abfragefeld in der App ein und bestätigen Sie diese.
 
-
 !!! info "Kalibriertool in älteren Versionen"
     Der excav PILOT wurde ursprünglich mit einem kleinen und handlichen Kalibriertool ausgestattet, um das Eingabeverfahren zu erleichtern. Dieses ist bei älteren excav Systemen bereits erhältlich gewesen und kann daher weiterhin zur Kalibrierung Anwendung finden.
-
-!!! info "Titel"
-    Text
-
-!!! Warning "Titel"
-    Text
 
 
 ## Beispiel: Manuelle Kalibrierung durch Antastverfahren
@@ -107,9 +96,6 @@ Text in Bearbeitung
 </p>
 
 Text in Bearbeitung
-
-!!! info "Titel"
-    Text
 
 !!! Warning "Abgenutzte Schaufel- oder Werkzeugschneide"
     Bei manchen Baggerschaufeln oder Werkzeugen sind die Seitenwände leicht angeschrägt oder die Schneide steht etwas über. Messen Sie in diesem Fall die Distanz bis zum äußersten Punkt der Schaufel- oder Werkzeugschneide.
@@ -177,7 +163,6 @@ Gehen Sie beim Anbringen des Kalibriertools an der Baggerschaufel oder am Werkze
 
 • Lassen Sie das Kalibriertool mit Meterstab für den nachfolgenden Schritt an der Baggerschaufel oder am Werkzeug befestigt.
 
-
 Heben Sie die Baggerschaufel durch Bedienung der Baumaschine als nächstes leicht an und neigen Sie diese, bis die Spitze des Meterstabs exakt mit der Schneide übereinstimmt. Das Kalibriertool mit fixiertem Meterstab dient Ihnen dabei als Hilfe, das Lot von 180° zu finden. Holen Sie sich hierzu ggf. eine zweite Person zu Hilfe, die die Position von der Seite überprüft. 
 
 !!! info "Titel"
@@ -185,6 +170,7 @@ Heben Sie die Baggerschaufel durch Bedienung der Baumaschine als nächstes leich
 
 !!! Warning "Titel"
     Text
+
 
 <!-- BACKLOG
 
