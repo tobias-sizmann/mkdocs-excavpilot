@@ -46,6 +46,10 @@ Um die Geräte hinzuzufügen und mit der App-Anwendung zu verknüpfen, müssen b
 Treten möglicherweise Verbindungsprobleme auf, vergewissern Sie sich, dass beide Geräte ausreichend geladen sind und schalten Sie diese ggf. aus und gleich wieder ein. Achten Sie darauf, dass sich kein weiterer angeschalteter und aktiver GNSS-Sensor des excav PILOT in der Nähe befindet. Zudem sollte sich das Tablet für den Verbindungsaufbau in der Nähe befinden. 
 
 
+!!! warning "Akkustand der Geräte"
+    Der Akkustand des GNSS-Sensors und des LED-Anzeigekreuz werden dauerhaft angezeigt. Achten Sie darauf, dass die Akkustände der einzelnen Geräte nicht unter 10 % fallen, da sich dies bei Sensor auf die Performanz und somit Genauigkeit auswirken kann. Eine volle Akkuladung reicht für ca. 16 Stunden Einsatzdauer. Die Ladezeit der Geräte beläuft sich in etwa auf 2,5 Stunden.
+
+
 ## Sensor erfolgreich verbunden
 
 <p align="center" width="100%">
@@ -65,11 +69,7 @@ In der Ansicht oben wurde im ersten Schritt beispielsweise der GNSS-Sensor verbu
     Falls die App des Tablets den Sensor trotz direkter räumlicher Nähe zum Gerät nicht findet, schalten Sie ihn mehrfach an und aus, bis der Verbindungsaufbau gelingt. Dieselben Probleme können ebenfalls mit dem LED-Anzeigekreuz auftreten. Schalten Sie das Gerät mehrfach an und aus, bis der Verbindungsaufbau gelingt und stellen Sie sicher, dass er nicht bereits mit einem anderen Tablet verbunden ist. 
 
 
-<!-- <p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Geräte.jpg"/>
-</p>
-
-[//]: # (Maurice: Hier sollten wir genauer darauf eingehen, wie der User sich mit einem Gerät verbindet (genauer Ablauf; sowas wie: Gerät anschalten, checken Bluetooth an, Gerät aus Liste auswählen) und was er machen kann, wenn er ein Problem hat. Probleme könnten sein: App findet Gerät nicht; App hat nicht die nötigen Rechte; Sensor schon mit einem anderen Tablet verbunden?)
+<!-- BACKLOG
 
 Der Menüpunkt „Geräte“ stellt die zwei standardmäßig vorhandenen Systemeinheiten – den GNSS-Sensor (abgekürzt Sensor) und das LED-Anzeigekreuz – dar. Über den Menüpunkt können Sie die Verbindung zu den Geräten manuell herstellen oder auch trennen sowie die aktuelle Verbindung prüfen, falls Probleme bei der Konnektivität vorliegen sollten.
 
@@ -81,4 +81,6 @@ Sie erhalten eine Ansicht mit der Nennung vorhandener Sensoren. Wählen Sie den 
 
 Prüfen Sie zunächst, ob ein Internetverbindung über mobile Daten sowie Bluetooth zur Datenkommunikation aktiv sind, da ohne diese keine Arbeiten möglich sind. Zudem müssen beide Geräte ausreichend Akkuleistung verfügen, idealerweise zumindest mehr als 20 %, da sonst die Verbindungsqualität und die Performanz leiden. Normalerweise wird (falls mehrere Sensor-Exemplare zur Verfügung stehen bzw. standen) der letzte aktiv gekoppelte Sensor angezeigt. Sollte der gewünschte Sensor bereits mit der App eines anderen Tablets gekoppelt sein, ist ein Verbindungsaufbau nicht möglich. Hierfür muss zunächst auf dem anderen Tablet die Verbindung zum Sensor eingestellt werden, bevor Sie ihn selber auswählen und verbinden können. 
 
-Falls die App des Tablets den Sensor trotz direkter räumlicher Nähe zum Gerät nicht findet, schalten Sie ihn ggf. mehrfach an und aus, bis der Verbindungsaufbau gelingt. Dieselben Probleme können ebenfalls mit dem LED-Anzeigekreuz auftreten. Schalten Sie das Gerät ggf. mehrfach an und aus, bis der Verbindungsaufbau gelingt und stellen Sie sicher, dass er nicht bereits mit einem anderen Tablet verbunden ist. -->
+Falls die App des Tablets den Sensor trotz direkter räumlicher Nähe zum Gerät nicht findet, schalten Sie ihn ggf. mehrfach an und aus, bis der Verbindungsaufbau gelingt. Dieselben Probleme können ebenfalls mit dem LED-Anzeigekreuz auftreten. Schalten Sie das Gerät ggf. mehrfach an und aus, bis der Verbindungsaufbau gelingt und stellen Sie sicher, dass er nicht bereits mit einem anderen Tablet verbunden ist. 
+
+BACKLOG -->

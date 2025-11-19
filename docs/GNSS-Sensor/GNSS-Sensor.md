@@ -19,5 +19,3 @@ Ein wesentliches Merkmal des Sensors ist die **werkzeuglose Befestigung** am Bag
 Der Sensor ist kompakt, robust und für den Baustelleneinsatz konzipiert. Das wetterfeste Gehäuse (**Schutzklasse IP67**) schützt die Elektronik zuverlässig vor Staub, Feuchtigkeit und mechanischen Einflüssen. Die Stromversorgung erfolgt über einen integrierten Akku mit einer Betriebsdauer von mindestens 16 Stunden.
 
 Zusätzlich zum Hauptsensor können Sie auch [Zweitsensoren](https://excav.de/produkte/) erwerben, z.B. wenn Sie für bestimmte Bauarbeiten regelmäßig das Werkzeug wechseln müssen. In absehbarer Zeit werden Zweitsensoren optional als stationäre Basisstationen nutzbar sein, etwa in Einsatzszenarien mit eingeschränktem mobilen Datenempfang auf der Baustelle.
-
-

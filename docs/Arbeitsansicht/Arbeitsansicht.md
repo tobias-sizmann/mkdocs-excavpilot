@@ -134,17 +134,12 @@ Sie können die Werkzeugecke wechseln, indem Sie auf das Werkzeug in der Frontal
 
 **<span style="color: red; font-weight: bold;">7: &nbsp;</span> [Designmenü]()** - Öffnet das Designmenü; dort finden Sie alle Funktionen rund um das Aufmaß und Nachbilden Ihrer Baustelle, wie z.B. [Erstellen von Flächen]() oder das [Einspielen von DGMs]().
 
-<!--
-Der Arbeitsbereich setzt sich aus mehreren Ansichten zusammen, die Aufschluss über die exakte Lage des Sensors und des Werkzeugs im Raum, den Akkuladestand der Systemeinheiten, die Konnektivität sowie zu wichtigen weiterführenden Menüpunkten bietet.
+<!-- BACKLOG
 
-Der Akkustand der LED-Anzeige und des Sensors werden dauerhaft angezeigt. Achten Sie darauf, dass die Akkustände der einzelnen Geräte nicht unter 10 % fallen, da sich dies bei Sensor und ggf. der optionalen Basisstation negativ auf die Performanz und somit Genauigkeit auswirken kann. Eine volle Akkuladung reicht für ca. 16 Stunden Einsatzdauer. Die Ladezeit der Geräte beläuft sich in etwa auf 2,5 Stunden.
+Der Arbeitsbereich setzt sich aus mehreren Ansichten zusammen, die Aufschluss über die exakte Lage des Sensors und des Werkzeugs im Raum, den Akkuladestand der Systemeinheiten, die Konnektivität sowie zu wichtigen weiterführenden Menüpunkten bietet.
 
 
 ## Frontalansicht
-
-<p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht linksoben neu.jpg"/>
-</p>
 
 Die linke obere Ansicht in der Arbeitsansicht unterhalb der Kopfleiste visualisiert die aktiv genutzte Baggerschaufel oder das Werkzeug in einer frontalen 3D-Ansicht (aus der Kabine):
 
@@ -154,11 +149,8 @@ Die linke obere Ansicht in der Arbeitsansicht unterhalb der Kopfleiste visualisi
 
 - Der rote Strich stellt die Höhe der erstellten Fläche im Geländemodell dar.
 
-## Seitenansicht
 
-<p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht linksoben neu.jpg"/>
-</p>
+## Seitenansicht
 
 Die rechte obere Ansicht in der Arbeitsansicht unterhalb der Kopfleiste visualisiert die Baggerschaufel oder das Werkzeug in einer 3D-Ansicht von der Seite:
 
@@ -166,11 +158,8 @@ Die rechte obere Ansicht in der Arbeitsansicht unterhalb der Kopfleiste visualis
 
 - Der grüne Strich stellt die Höhe der erstellten Fläche im Geländemodell dar.
 
-## Hauptarbeitsbereich
 
-<p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Hauptbereich neu.jpg"/>
-</p>
+## Hauptarbeitsbereich
 
 Der primäre Arbeitsplatz informiert den Nutzer über die exakte Position der Baggerschaufel oder des Werkzeugs in Bezug zum Referenzpunkt (REF) und den von Ihnen erfassten Punkten auf der Baustelle. Die aktuelle Höhe nach DHHN (Deutsches Höhenhauptnetz) der ausgewählten Ecke der Baggerschaufel oder des Werkzeugs wird links oben in Meter angezeigt.
 
@@ -178,25 +167,20 @@ Die Höhe des Referenzpunktes wird durch ein festes Gitternetz dargestellt, wobe
 
 Sie können eigene Baupläne sowie digitale Geländemodelle in der Arbeitsansicht hochladen. Mehr Informationen hierzu finden Sie nachfolgend in der App unter [Bauplan](../Bauplan/Bauplan.md) und [Gelände](../Gelände/Gelände.md).
 
+
 ## Ansicht der Höhen- und Neigungsabweichung
 
 Die Höhen- und Neigungsabweichung erscheint in der oben links in der Arbeitsansicht angezeigt, wenn eine Fläche oder in Geländemodell aktiv ist. Die Farbgebung entspricht analog derselben der LED-Lichtquellen des LED-Anzeigekreuzes.
 
-## Ansicht Anpassung der primären Arbeitsansicht
 
-<p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Nord neu.jpg"/>
-</p>
+## Ansicht Anpassung der primären Arbeitsansicht
 
 Über die auf der rechten Seite der Ansicht befindlichen mittleren Buttons können Sie die Koordinate Absolut-Nord aktivieren oder deaktivieren. Durch Absolut-Nord können Sie die Ansicht des Gitternetzes fixieren oder am Werkzeug ausrichten.
 
 Sie können die primäre Arbeitsansicht wahlweise von 2D auf 3D wechseln und umgekehrt. PDF-Baupläne werden nur und der 2D-Ansicht angezeigt. Für DGMs bietet sich die 3D-Ansicht an. 
 
-## Ansicht Buttons der primären Arbeitsansicht
 
-<p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Menü 1 neu.jpg"/>
-</p>
+## Ansicht Buttons der primären Arbeitsansicht
 
 Über mehrere Buttons auf der primären Arbeitsansicht können Sie die laufenden Tätigkeiten im Arbeitsplatz schnell und in wenigen Schritten anpassen.
 
@@ -206,4 +190,6 @@ Sie können die primäre Arbeitsansicht wahlweise von 2D auf 3D wechseln und umg
 
 Über den nachfolgenden Button mit dem **Pfeil-Symbol** können Sie einfache Flächen, Baugruben und Geländemodelle aktiv schalten. Dadurch wird die Höhen- und Neigungsabweichung vom Werkzeug zur aktiven Geländestruktur sowohl in der Arbeitsansicht als auch auf dem LED-Anzeigekreuz angezeigt.
 
-Über den Button mit dem **Tintenfüller-Symbol** öffnet sich das Arbeitsmenü mit einer Auswahl von Funktionen für die Organisation der Arbeit auf der Baustelle. Die Funktionen werden im Abschnitt „Arbeitsmenü“ näher erläutert. -->
+Über den Button mit dem **Tintenfüller-Symbol** öffnet sich das Arbeitsmenü mit einer Auswahl von Funktionen für die Organisation der Arbeit auf der Baustelle. Die Funktionen werden im Abschnitt „Arbeitsmenü“ näher erläutert. 
+
+BACKLOG -->

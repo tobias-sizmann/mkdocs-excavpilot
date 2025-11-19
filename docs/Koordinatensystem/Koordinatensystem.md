@@ -93,13 +93,9 @@ Die x-Achse verläuft immer von Punkt 1 nach Punkt 2. Die y-Achse verläuft dann
 Sie können auch manuelle Punkte im neuen Koordinatensystem erstellen ohne diese antasten zu müssen. Wählen Sie bei **<span style="color: red; font-weight: bold;">1:</span> Koordinatensystem** das richtige Koordinatensystem aus (standardmäßig ist immer das aktuell aktive Koordinatensystem ausgewählt, Sie können aber auch zwischen mehreren Koordinatensystemen wechseln) und geben Sie für **<span style="color: red; font-weight: bold;">2</span>, <span style="color: red; font-weight: bold;">3</span>, <span style="color: red; font-weight: bold;">4</span>** die entsprechenden Koordinaten ein. 
 
 
-<!-- <p align="center" width="100%">
-  <img width="100%" src="/images_docs/Screenshot excav PILOT Arbeitsansicht Arbeitsplatz Menü 2-2.jpg"/>
-</p>
+<!-- BACKLOG
 
 Unter dem Menüpunkt „Koordinatensystem“ erhalten Sie die Möglichkeit ein dreidimensionales Koordinatensystem (x-, y- und z-Achse) mit dem Referenzpunkt als Mittelpunkt oder mit einem ersten Messpunkt der Wahl als Mittelpunkt hinterlegen und speichern. Entweder bildet der Referenzpunkt den Mittelpunkt oder er befindet sich außerhalb mit einem oder mehreren Messpunkten auf der x- und y-Achse. Erstellen Sie das Koordinatensystem und bestätigen Sie den Vorgang mit „Ok“ oder brechen Sie ihn ab mit „Abbrechen“.
-
-<br>
 
 # Anwendungsbeispiel: Koordinatensystem in 2D
 
@@ -109,7 +105,6 @@ Das Anlegen eines Koordinatensystems ermöglicht Ihnen einen zweidimensionalen R
 
 Ausgehend vom Mittelpunkt (Eckpfosten eines Zauns oder Gatters) werden zwei zueinander im 90° Winkel stehende Zäune jeweils als Linien für die x- und y-Achse verwendet. Dadurch kann im zweidimensionalen Koordinatensystem ein jeweils 100 cm von beiden Achsen entfernter Punkte als erster Referenzpunkt für eine Baugrube definiert und angelegt werden, um beispielsweise einen Sicherheitsabstand von exakt 100 cm zum Zaun während der Bauarbeiten einzuhalten.
 
-<br>
 
 # Anwendungsbeispiel: Koordinatensystem in 3D
 
@@ -121,4 +116,6 @@ Als Mittelpunkt eines neu angelegten Koordinatensystems kann ein wichtiger Refer
 
 Ausgehend vom Mittelpunkt (Eckpfosten eines Zauns oder Gatters) werden zwei zueinander im 90° Winkel stehende Zäune jeweils als Linien für die x- und y-Achse verwendet. Zusätzlich wird eine vertikale Linie oder Lot (beispielsweise der Eckpfosten) als z-Achse durch den Mittelpunkt gezogen, um eine dreidimensionale Positionsbestimmung zu ermöglichen.
 
-Dadurch kann im dreidimensionalen Koordinatensystem ein jeweils 100 cm von beiden Achsen entfernter Punkte als erster Referenzpunkt für die Ecke einer horizontalen Fläche definiert und angelegt werden. Zusätzlich kann im dreidimensionalen Raum eine Höhe für die Fläche, beispielsweise als maximale oder Solltiefe, für Erdaushubarbeiten definiert werden. -->
+Dadurch kann im dreidimensionalen Koordinatensystem ein jeweils 100 cm von beiden Achsen entfernter Punkte als erster Referenzpunkt für die Ecke einer horizontalen Fläche definiert und angelegt werden. Zusätzlich kann im dreidimensionalen Raum eine Höhe für die Fläche, beispielsweise als maximale oder Solltiefe, für Erdaushubarbeiten definiert werden. 
+
+BACKLOG -->

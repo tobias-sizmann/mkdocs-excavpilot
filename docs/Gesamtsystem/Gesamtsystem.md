@@ -20,5 +20,3 @@ Diese schematische und kompakte Übersicht zeigt die im Transportkoffer enthalte
 - [Ladegerät für die Hardware inkl. Netzstecker](https://docs.excav.de/Ladeger%C3%A4t/Ladeger%C3%A4t/)
 - [Metallrahmen für den GNSS-Sensor](https://docs.excav.de/Metallrahmen/Metallrahmen/)
 - [Transportkoffer inkl. Schaumstoffinlets](https://docs.excav.de/Transportkoffer/Transportkoffer/)
-
-<!-- Auf Wunsch können weitere Komponenten, darunter ein weiterer GNSS-Sensor, der optional als Basisstation zum Erzeugen eigener RTK-Korrekturdaten genutzt werden kann, und ein Metallrahmen zum Schutz der Sensoreinheit, bestellt werden. -->

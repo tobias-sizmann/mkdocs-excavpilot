@@ -16,7 +16,7 @@ Sobald die mobile Internet- und NTRIP-Verbindung aktiv sind und aufgrund Blick a
 
 Die nachstehenden Schritte müssen sorgfältig ausgeführt werden, da ansonsten Messfehler entstehen, die sich in der späteren Arbeit immer wieder fortsetzen und Ergebnisse verfälschen. 
 
-Es gibt zwei Möglichkeiten ein Werkzeug erstmals zu kalibrieren: Das Eingabeverfahren mit präzise ermittelten Messwerten sowie das Antastverfahren über das Werkzeug mit dem Sensor. Das Antastverfahren ist einfacher realisierbar und daher bei der ersten Einrichtung zu empfehlen. 
+Es gibt zwei Möglichkeiten ein Werkzeug erstmals zu kalibrieren: Das Eingabeverfahren mit präzise ermittelten Messwerten sowie das Antastverfahren über das Werkzeug mit dem Sensor. Das Antastverfahren ist einfacher realisierbar und daher bei der ersten Einrichtung zu empfehlen. Die nachstehenden Schritte im Rahmen der Kalibrierung müssen sorgfältig ausgeführt werden, da ansonsten Messfehler entstehen, die sich in der späteren Arbeit immer wieder fortsetzen. 
 
 Der Einrichtungsprozess für ein Werkzeug wie einen Baggerlöffel läuft für jede Baumaschine egal welcher Art und Größe gleich ab. Einzig der bereits vorkonfigurierte Messstab kann direkt geladen werden.
 
@@ -186,26 +186,14 @@ Heben Sie die Baggerschaufel durch Bedienung der Baumaschine als nächstes leich
 !!! Warning "Titel"
     Text
 
-<!-- **Verfügbare Verfahren zur Kalibirierung**
-
-[//]: # (ALLGEMEINE ERKLÄRUNG)
-
-Für die Kalibrierung der Baggerschaufel stehen Ihnen das klassische Engabeverfahren mit genau ermittelten Messwerten sowie das Antastverfahren. Beide Verfahren zur Kalibrierung werden im Rahmen eines Beispiels mit einer Mockup-Baggerschaufel visuell vereinfacht dargestellt. Die nachstehenden Schritte im Rahmen der Kalibrierung müssen sorgfältig ausgeführt werden, da ansonsten Messfehler entstehen, die sich in der späteren Arbeit immer wieder fortsetzen. 
-
-
-## Baggerschaufel oder Werkzeug kalibrieren
-
-**Antast- und Eingabeverfahren in der App**
-
-
-Es gibt zwei Möglichkeiten ein Werkzeug erstmals zu kalibrieren: Das **Eingabeverfahren** mit ermittelten Messwerten sowie das **Antastverfahren** über das Werkzeug mit dem Sensor. Das Antastverfahren ist einfacher realisierbar und daher bei der ersten Einrichtung zu empfehlen.   
-
+<!-- BACKLOG
 
 [//]: # (THEMA: ANTASTVERFAHREN)
 
 ## Verfahren 1: Das Antastverfahren
 
 **Kalibrierung des GNSS-Sensors über die Werkzeugecke**
+
 
 [//]: # (ERKLÄRUNG WICHTIGE PUNKTE)
 
@@ -215,6 +203,7 @@ Das Antastverfahren erlaubt es, die Maße der Baggerschaufel oder des Werkzeugs 
 
 
 **Platzierung des Sensors mit dem Mittelpunkt auf der Markierung**
+
 
 [//]: # (BASISSTATION AUF MARKIERUNG)
 
@@ -231,12 +220,14 @@ Sobald sich der Mittelpunkt des Sensors oder die jeweiligen Werkzeugecken am Pun
 
 **Platzierung der linken Werkzeugecke auf der Markierung**
 
+
 [//]: # (ERFASSUNG LINKE ECKE)
 
 Als Nächstes platzieren Sie den Sensor mit Blickrichtung zur Fahrerkabine der Baumaschine auf die linke Außenseite des Werkzeugs, um die linke Werkzeugecke zu erfassen. Bewegen Sie das Werkzeug derart, dass die linke Werkzeugecke (aus Sicht der Fahrerkabine heraus) an dem Basispunkt aufliegt und erfassen Sie den Punkt. 
 
 
 **Platzierung der rechten Werkzeugecke auf der Markierung**
+
 
 [//]: # (ERFASSUNG RECHTE ECKE)
 
@@ -250,6 +241,7 @@ Praktizieren Sie den gleichen Vorgang analog mit der rechten Werkzeugecke und er
 
 **Kalibrierung des GNSS-Sensors über manuelle Eingabe von Messwerten**
 
+
 [//]: # (ERKLÄRUNG WICHTIGE PUNKTE)
 
 Das Eingabeverfahren erlaubt es, die Maße der Baggerschaufel oder des Werkzeugs über eine Mitteilung der exakten Position des GNSS-Sensors durch zuvor vermessene Werte in cm zu bestimmen. Für das Eingabeverfahren werden exakte Angaben zum Werkzeug benötigt, damit der Sensor die Maße in der App korrekt abbilden kann.
@@ -261,6 +253,7 @@ Bestimmen Sie zuerst die Breite der Schaufel- oder Werkzeugschneide und tragen S
 
 
 **Erfassung der Einrückung des Sensors vom Seitenrand bis zum Mittelpunkt**
+
 
 [//]: # (ERFASSUNG EINRÜCKUNG)
 
@@ -285,4 +278,4 @@ Für das manuelle Eingabeverfahren wird das mitgelieferte Kalibriertool benötig
 
 Bei manchen Baggerschaufeln oder Werkzeugen sind die Seitenwände leicht angeschrägt oder die Schneide steht etwas über. Messen Sie in diesem Fall die Distanz bis zum äußersten Punkt der Schaufel- oder Werkzeugschneide. Wie Sie die Höhe der Baggerschaufel oder des Werkzeugs mithilfe des Kalibriertools ablesen, wird Ihnen im nächsten Abschnitt erklärt.
 
--->
+BACKLOG -->
