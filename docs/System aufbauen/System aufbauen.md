@@ -16,56 +16,10 @@ Text in Bearbeitung
 
 <br>
 
-<p align="center" width="100%">
-  <img width="100%" src="/images_docs/XXX.jpg"/>
-</p>
-
-Text in Bearbeitung
-
-!!! info "Titel"
-    Text
-
-!!! Warning "Titel"
-    Text
-
-<br>
-
-## LED-Anzeigekreuz am Maschinenarm anbringen
+## Titel
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/XXX.jpg"/>
-</p>
-
-Text in Bearbeitung
-
-!!! info "Titel"
-    Text
-
-!!! Warning "Titel"
-    Text
-
-<br>
-
-## GNSS-Sensor anbringen und kalibrieren
-
-<p align="center" width="100%">
-  <img width="100%" src="/images_docs/XXX.jpg"/>
-</p>
-
-Text in Bearbeitung
-
-!!! info "Titel"
-    Text
-
-!!! Warning "Titel"
-    Text
-
-<br>
-
-## Tablet und Tablet-Halterung im Fahrerhaus anbringen
-
-<p align="center" width="100%">
-  <img width="100%" src="/images_docs/XXX.jpg"/>
+  <img width="100%" src="/images_docs/Placeholder System aufbauen 1.png"/>
 </p>
 
 Text in Bearbeitung
@@ -81,7 +35,55 @@ Text in Bearbeitung
 ## Titel
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/XXX.jpg"/>
+  <img width="100%" src="/images_docs/Placeholder System aufbauen 2.png"/>
+</p>
+
+Text in Bearbeitung
+
+!!! info "Titel"
+    Text
+
+!!! Warning "Titel"
+    Text
+
+<br>
+
+## Titel
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Placeholder System aufbauen 3.png"/>
+</p>
+
+Text in Bearbeitung
+
+!!! info "Titel"
+    Text
+
+!!! Warning "Titel"
+    Text
+
+<br>
+
+## Titel
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Placeholder System aufbauen 4.png"/>
+</p>
+
+Text in Bearbeitung
+
+!!! info "Titel"
+    Text
+
+!!! Warning "Titel"
+    Text
+
+<br>
+
+## Titel
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Placeholder System aufbauen 5.png"/>
 </p>
 
 Text
@@ -91,6 +93,40 @@ Text
 
 !!! Warning "Titel"
     Text
+
+<br>
+
+## Titel
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Placeholder System aufbauen 6.png"/>
+</p>
+
+Text in Bearbeitung
+
+!!! info "Titel"
+    Text
+
+!!! Warning "Titel"
+    Text
+
+<br>
+
+## Titel
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Placeholder System aufbauen X.png"/>
+</p>
+
+Text in Bearbeitung
+
+!!! info "Titel"
+    Text
+
+!!! Warning "Titel"
+    Text
+
+<br>
 
 <!-- <p align="center" width="100%">
   <img width="100%" src="/images_docs/Anleitung & FAQ Youtube Thumbnail.png"/>

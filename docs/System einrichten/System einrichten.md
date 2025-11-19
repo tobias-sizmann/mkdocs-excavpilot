@@ -12,13 +12,13 @@ Hinweis: Diese Seite befindet sich gerade in Bearbeitung.
   <img width="100%" src="/images_docs/Placeholder System einrichten 0.png"/>
 </p>
 
-Text in Bearbeitung
-
 Lesen Sie sich bitte die folgenden Unterpunkte für die Einrichtung des Systems sorgfältig durch und starten Sie anschließend die excav PILOT App auf dem mitgelieferten Tablet. Vergewissern Sie sich bitte, dass die einzelnen Geräte gemäß dem vorherigen Abschnitt „System aufbauen“ richtig aufgestellt bzw. am Fahrzeugarm und dem jeweiligen Werkzeug befestigt wurden.
 
 Es gibt eine ausführliche [Videoanleitung auf YouTube](https://www.youtube.com/watch?v=0_yEPTznHgQ){:target="\_blank"}, in der ein komplettes erstmaliges Setup im Detail durchgeführt und erklärt wird. Wir raten Erstnutzern, bei der Systemeinrichtung des excav PILOT auf die Videoanleitung zurückzugreifen und den Leitfaden nur unterstützend zu verstehen.
 
 <br>
+
+## excav PILOT App öffnen und starten
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Placeholder System einrichten 1.png"/>
@@ -34,7 +34,7 @@ Text in Bearbeitung
 
 <br>
 
-## Titel
+## Geräte anschalten und verbinden
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Placeholder System einrichten 2.png"/>
@@ -50,7 +50,7 @@ Text in Bearbeitung
 
 <br>
 
-## Titel
+## GNSS-Sensor auswählen und verbinden
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Placeholder System einrichten 3.png"/>
@@ -66,7 +66,7 @@ Text in Bearbeitung
 
 <br>
 
-## Titel
+## LED-Anzeigekreuz auswählen und verbinden
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Placeholder System einrichten 4.png"/>
@@ -82,7 +82,7 @@ Text in Bearbeitung
 
 <br>
 
-## Titel
+## Alle Geräte einsatzbereit
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Placeholder System einrichten 5.png"/>
@@ -98,7 +98,7 @@ Text in Bearbeitung
 
 <br>
 
-## Titel
+## NTRIP für Korrekturdaten einrichten
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Placeholder System einrichten 6.png"/>
@@ -114,7 +114,7 @@ Text in Bearbeitung
 
 <br>
 
-## Titel
+## NTRIP-Verbindung über SAPOS
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Placeholder System einrichten 7.png"/>
@@ -130,7 +130,7 @@ Text in Bearbeitung
 
 <br>
 
-## Titel
+## Position des GNSS-Sensors eingeben
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Placeholder System einrichten 8.png"/>
@@ -146,7 +146,7 @@ Text in Bearbeitung
 
 <br>
 
-## Titel
+## Erste NTRIP-Verbindung einsatzbereit
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Placeholder System einrichten 9.png"/>
@@ -162,13 +162,15 @@ Text in Bearbeitung
 
 <br>
 
-## Titel
+## Geräte an der Baumaschine anbringen
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Placeholder System einrichten 10.png"/>
 </p>
 
 Text in Bearbeitung
+
+[System aufbauen](https://docs.excav.de/System aufbauen/System aufbauen/)
 
 !!! info "Titel"
     Text
