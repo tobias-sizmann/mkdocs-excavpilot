@@ -14,73 +14,10 @@ Hinweis: Diese Seite befindet sich gerade in Bearbeitung.
 
 Text in Bearbeitung
 
-<br>
+Mehr Informationen zum Thema "Kalibrierung" erhalten Sie in unserer aktuellen [Videoanleitung auf YouTube](https://www.youtube.com/watch?v=0_yEPTznHgQ){:target="\_blank"}, wo die Kalibrierung eines Werkzeugs im Detail durchgeführt und erklärt wird.
 
-## Titel
 
-<p align="center" width="100%">
-  <img width="100%" src="/images_docs/Placeholder Kalibrierung 1.png"/>
-</p>
-
-Text in Bearbeitung
-
-!!! info "Titel"
-    Text
-
-!!! Warning "Titel"
-    Text
-
-<br>
-
-## Titel
-
-<p align="center" width="100%">
-  <img width="100%" src="/images_docs/Placeholder Kalibrierung 2.png"/>
-</p>
-
-Text in Bearbeitung
-
-!!! info "Titel"
-    Text
-
-!!! Warning "Titel"
-    Text
-
-<br>
-
-## Titel
-
-<p align="center" width="100%">
-  <img width="100%" src="/images_docs/Placeholder Kalibrierung 3.png"/>
-</p>
-
-Text in Bearbeitung
-
-!!! info "Titel"
-    Text
-
-!!! Warning "Titel"
-    Text
-
-<br>
-
-## Titel
-
-<p align="center" width="100%">
-  <img width="100%" src="/images_docs/Placeholder Kalibrierung 4.png"/>
-</p>
-
-Text in Bearbeitung
-
-!!! info "Titel"
-    Text
-
-!!! Warning "Titel"
-    Text
-
-<br>
-
-## Titel
+## Art des Werkzeugs bestimmen
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Placeholder Kalibrierung 5.png"/>
@@ -93,9 +30,8 @@ Text in Bearbeitung
 !!! Warning "Titel"
     Text
 
-<br>
 
-## Titel
+## Werkzeug auswählen und Verfahren bestimmen
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Placeholder Kalibrierung 6.png"/>
@@ -110,7 +46,7 @@ Text in Bearbeitung
     Text
 
 
-## Titel
+## Beispiel: Manuelle Kalibrierung durch Antastverfahren
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Placeholder Kalibrierung 7.png"/>
@@ -125,7 +61,7 @@ Text in Bearbeitung
     Text
 
 
-## Titel
+## Basispunkt für Kalibrierung bestimmen
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Placeholder Kalibrierung 8.png"/>
@@ -140,7 +76,7 @@ Text in Bearbeitung
     Text
 
 
-## Titel
+## Werkzeugecke links bestimmen (Löffel)
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Placeholder Kalibrierung 9.png"/>
@@ -155,7 +91,7 @@ Text in Bearbeitung
     Text
 
 
-## Titel
+## Werkzeugecke rechts bestimmen (Löffel)
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Placeholder Kalibrierung 10.png"/>
@@ -169,7 +105,8 @@ Text in Bearbeitung
 !!! Warning "Titel"
     Text
 
-## Titel
+
+## Namen festlegen und Werkzeug speichern
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Placeholder Kalibrierung 11.png"/>
@@ -184,7 +121,7 @@ Text in Bearbeitung
     Text
 
 
-## Titel
+## Neu erstelltes Werkzeug einsatzbereit
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Placeholder Kalibrierung 12.png"/>

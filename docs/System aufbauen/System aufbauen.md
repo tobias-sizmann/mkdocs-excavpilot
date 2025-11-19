@@ -14,9 +14,10 @@ Hinweis: Diese Seite befindet sich gerade in Bearbeitung.
 
 Text in Bearbeitung
 
-<br>
+Mehr Informationen zum Thema "System aufbauen" erhalten Sie in unserer aktuellen [Videoanleitung auf YouTube](https://www.youtube.com/watch?v=0_yEPTznHgQ){:target="\_blank"}, wo der Aufbau des Systems im Detail durchgeführt und erklärt wird.
 
-## Titel
+
+## Alle Geräte einschalten
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Placeholder System aufbauen 1.png"/>
@@ -30,9 +31,8 @@ Text in Bearbeitung
 !!! Warning "Titel"
     Text
 
-<br>
 
-## Titel
+## LED-Anzeigekreuz richtig am Stiehl anbringen
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Placeholder System aufbauen 2.png"/>
@@ -46,9 +46,8 @@ Text in Bearbeitung
 !!! Warning "Titel"
     Text
 
-<br>
 
-## Titel
+## GNSS-Sensor richtig am Löffel anbringen
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Placeholder System aufbauen 3.png"/>
@@ -62,9 +61,8 @@ Text in Bearbeitung
 !!! Warning "Titel"
     Text
 
-<br>
 
-## Titel
+## Alle Geräte richtig angebracht und einsatzbereit
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Placeholder System aufbauen 4.png"/>
@@ -78,9 +76,8 @@ Text in Bearbeitung
 !!! Warning "Titel"
     Text
 
-<br>
 
-## Titel
+## GNSS-Sensor auswählen und verbinden
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Placeholder System aufbauen 5.png"/>
@@ -94,9 +91,8 @@ Text
 !!! Warning "Titel"
     Text
 
-<br>
 
-## Titel
+## GPS-Empfang für den GNSS-Sensor herstellen
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Placeholder System aufbauen 6.png"/>
@@ -110,12 +106,11 @@ Text in Bearbeitung
 !!! Warning "Titel"
     Text
 
-<br>
 
-## Titel
+## Orientierung für den GNSS-Sensor herstellen
 
 <p align="center" width="100%">
-  <img width="100%" src="/images_docs/Placeholder System aufbauen X.png"/>
+  <img width="100%" src="/images_docs/Placeholder System aufbauen 7.png"/>
 </p>
 
 Text in Bearbeitung
@@ -126,7 +121,23 @@ Text in Bearbeitung
 !!! Warning "Titel"
     Text
 
-<br>
+
+## Aufbau abschließen und mit Kalibrierung beginnen
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Placeholder System aufbauen 8.png"/>
+</p>
+
+Text in Bearbeitung
+
+Hier mehr erfahren im nächsten Schritt der Anleitung: [Kalibrierung](https://docs.excav.de/Kalibrierung/Kalibrierung/)
+
+!!! info "Titel"
+    Text
+
+!!! Warning "Titel"
+    Text
+
 
 <!-- <p align="center" width="100%">
   <img width="100%" src="/images_docs/Anleitung & FAQ Youtube Thumbnail.png"/>

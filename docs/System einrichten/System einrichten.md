@@ -16,7 +16,6 @@ Lesen Sie sich bitte die folgenden Unterpunkte für die Einrichtung des Systems 
 
 Es gibt eine ausführliche [Videoanleitung auf YouTube](https://www.youtube.com/watch?v=0_yEPTznHgQ){:target="\_blank"}, in der ein komplettes erstmaliges Setup im Detail durchgeführt und erklärt wird. Wir raten Erstnutzern, bei der Systemeinrichtung des excav PILOT auf die Videoanleitung zurückzugreifen und den Leitfaden nur unterstützend zu verstehen.
 
-<br>
 
 ## excav PILOT App öffnen und starten
 
@@ -32,7 +31,6 @@ Text in Bearbeitung
 !!! Warning "Titel"
     Text
 
-<br>
 
 ## Geräte anschalten und verbinden
 
@@ -48,7 +46,6 @@ Text in Bearbeitung
 !!! Warning "Titel"
     Text
 
-<br>
 
 ## GNSS-Sensor auswählen und verbinden
 
@@ -64,7 +61,6 @@ Text in Bearbeitung
 !!! Warning "Titel"
     Text
 
-<br>
 
 ## LED-Anzeigekreuz auswählen und verbinden
 
@@ -80,7 +76,6 @@ Text in Bearbeitung
 !!! Warning "Titel"
     Text
 
-<br>
 
 ## Alle Geräte einsatzbereit
 
@@ -96,7 +91,6 @@ Text in Bearbeitung
 !!! Warning "Titel"
     Text
 
-<br>
 
 ## NTRIP für Korrekturdaten einrichten
 
@@ -112,7 +106,6 @@ Text in Bearbeitung
 !!! Warning "Titel"
     Text
 
-<br>
 
 ## NTRIP-Verbindung über SAPOS
 
@@ -128,7 +121,6 @@ Text in Bearbeitung
 !!! Warning "Titel"
     Text
 
-<br>
 
 ## Position des GNSS-Sensors eingeben
 
@@ -144,7 +136,6 @@ Text in Bearbeitung
 !!! Warning "Titel"
     Text
 
-<br>
 
 ## Erste NTRIP-Verbindung einsatzbereit
 
@@ -160,7 +151,6 @@ Text in Bearbeitung
 !!! Warning "Titel"
     Text
 
-<br>
 
 ## Geräte an der Baumaschine anbringen
 
@@ -170,13 +160,14 @@ Text in Bearbeitung
 
 Text in Bearbeitung
 
-[System aufbauen](https://docs.excav.de/System aufbauen/System aufbauen/)
+Hier mehr erfahren im nächsten Schritt der Anleitung: [System aufbauen](https://docs.excav.de/System aufbauen/System aufbauen/)
 
 !!! info "Titel"
     Text
 
 !!! Warning "Titel"
     Text
+
 
 <!-- Lesen Sie sich bitte die folgenden Unterpunkte sorgfältig durch und starten Sie anschließend die excav PILOT App auf dem mitgelieferten Tablet. Vergewissern Sie sich bitte davor, dass die einzelnen Geräte gemäß dem vorherigen Abschnitt „System aufbauen und anbringen“ richtig aufgestellt bzw. am Stiel und der Baggerschaufel oder dem Werkzeug befestigt wurden.
 Es gibt eine ausführliche [Videoanleitung auf YouTube](https://www.youtube.com/watch?v=dZmhDPmHHl0&t=224s), in der ein komplettes erstmaliges Setup im Detail durchgeführt und erklärt wird. Wir raten Erstnutzern, bei der Systemeinrichtung des excav PILOT auf die Videoanleitung zurückzugreifen und den Leitfaden nur unterstützend zu verstehen.
