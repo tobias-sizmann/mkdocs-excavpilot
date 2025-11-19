@@ -74,7 +74,7 @@ Schalten Sie den GNSS-Sensor ein, indem Sie den Button auf der Unterseite drück
     Das Werkzeug muss an der Anbringstelle des Sensors sauber und möglichst glatt sein, sodass die Magneten direkt das Metall berühren und keine Schmutzschicht dazwischen liegt. Wenn diese aus Sand und Lehm besteht, kann dies die Magnetstärke und somit Haftfähigkeit signifikant beeinträchtigen.
 
 !!! Warning "Sensor sorgfältig und fest anbringen"
-    Sowohl das Anbringen des Sensors als auch das Einmessen des Werkzeugs sind von hoher Wichtigkeit. Ist die Einrichtung des Sensors fehlerhaft, so kann dies die Qualität der darauffolgenden Arbeiten reduzieren. Die richtige Anbringung des Sensors auf dem Werkzeug ist entscheidend für genaue Ergebnisse und lässt sich rein textbasiert in einer Anleitung nicht trivial beschreiben. Wir empfehlen daher, dass Sie sich auch mithilfe der grafischen Anleitung in unserem YouTube-Erklärungsvideo informieren.
+    Sowohl das Anbringen des Sensors als auch das Einmessen des Werkzeugs sind von hoher Wichtigkeit. Ist die Einrichtung des Sensors fehlerhaft, so kann dies die Qualität der darauffolgenden Arbeiten reduzieren. Die richtige Anbringung des Sensors auf dem Werkzeug ist entscheidend für genaue Ergebnisse.
 
 
 ## Alle Geräte richtig angebracht und einsatzbereit
