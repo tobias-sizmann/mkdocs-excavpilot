@@ -21,3 +21,13 @@ Der **horizontale LED-Strang** informiert über die Abweichung der frontalen Lö
 - Ein LED-Ausschlag nach rechts bedeutet, dass der Baggerlöffel zu weit nach rechts (im Uhrzeigersinn) geneigt ist und gegenläufig nach links geneigt werden sollte.
 
 - Ein LED-Ausschlag nach links bedeutet, dass der Baggerlöffel zu weit nach links (gegen den Uhrzeigersinn) geneigt ist und gegenläufig nach rechts geneigt werden sollte.
+
+Die Einstellungen des LED-Anzeigekreuzes erlauben es Ihnen die Helligkeit der Leuchtdioden festzulegen und Anpassungen der horizontalen sowie vertikalen Ausschlagssensibilität vorzunehmen. Die Standardeinstellungen ab Werk sind:
+
+• LED-Helligkeit: 50 % der maximalen Helligkeit
+
+• LED-Abstand horizontal: 1 Grad pro LED
+
+• LED-Abstand vertikal: 20 mm pro LED
+
+Beachten Sie, dass eine erhöhte LED-Helligkeit sich negativ auf die Akkulaufzeit der LED-Anzeige auswirkt und diese dann öfters aufgeladen werden muss.

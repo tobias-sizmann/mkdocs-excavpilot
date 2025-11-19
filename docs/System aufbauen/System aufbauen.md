@@ -38,7 +38,7 @@ Text in Bearbeitung
   <img width="100%" src="/images_docs/Placeholder System aufbauen 2.png"/>
 </p>
 
-Text in Bearbeitung
+Schalten Sie das LED-Anzeigekreuz an, indem Sie den Button auf der Rückseite betätigen. Ein grün leuchtender Button bedeutet, dass die LED-Anzeige eingeschaltet und aktiv ist. Befestigen Sie das LED-Anzeigekreuz anschließend mit den angebrachten Magneten auf mittlerer Höhe an der zur Fahrerkabine zeigenden Seite des Stiehls. Achten Sie hierbei auf gute Sichtbarkeit aus der Fahrerkabine heraus.
 
 !!! info "Titel"
     Text
@@ -53,13 +53,28 @@ Text in Bearbeitung
   <img width="100%" src="/images_docs/Placeholder System aufbauen 3.png"/>
 </p>
 
-Text in Bearbeitung
+Schalten Sie den Sensor ein, indem Sie den Button auf der Unterseite drücken. Ein grün leuchtender Button bedeutet, dass der Sensor eingeschaltet und aktiv ist. Befestigen Sie den Sensor oberhalb des Werkzeugs. Beachten Sie dabei Folgendes:
+
+• Der Sensor sollte möglichst weit außen auf der von der Fahrerkabine aus gesehen rechten oberen Seite des Werkzeugs befestigt werden.
+
+• Der Sensor darf nicht über den äußeren Rand des Werkzeugs hinausragen.
+
+• Das Pfeilsymbol auf der Oberseite des Sensors muss stets in Richtung der Fahrerkabine zeigen.
+
+• Die Hinterkante des Sensors muss parallel zur Schaufel- oder Werkzeugschneide verlaufen.
+
+• Der Sensor darf nicht durch Hydraulik, überstehende Bleche oder andere Aufbauten verdeckt werden.
+
+• Der Sensor sollte auf einem vor Geröll und Bauschutt sowie Stößen geschützten Bereich befestigt werden.
 
 !!! info "Titel"
     Text
 
-!!! Warning "Titel"
-    Text
+!!! Warning "Werkzeug an der Anbringstelle gründlich säubern"
+    Das Werkzeug muss an der Anbringstelle des Sensors sauber und möglichst glatt sein, sodass die Magneten direkt das Metall berühren und keine Schmutzschicht dazwischen liegt. Wenn diese aus Sand und Lehm besteht, kann dies die Magnetstärke und somit Haftfähigkeit signifikant beeinträchtigen.
+
+!!! Warning "Sensor sorgfältig und fest anbringen"
+    Sowohl das Anbringen des Sensors als auch das Einmessen des Werkzeugs sind von hoher Wichtigkeit. Ist die Einrichtung des Sensors fehlerhaft, so kann dies die Qualität der darauffolgenden Arbeiten reduzieren. Die richtige Anbringung des Sensors auf dem Werkzeug ist entscheidend für genaue Ergebnisse und lässt sich rein textbasiert in einer Anleitung nicht trivial beschreiben. Wir empfehlen daher, dass Sie sich auch mithilfe der grafischen Anleitung in unserem YouTube-Erklärungsvideo informieren.
 
 
 ## Alle Geräte richtig angebracht und einsatzbereit
@@ -68,13 +83,12 @@ Text in Bearbeitung
   <img width="100%" src="/images_docs/Placeholder System aufbauen 4.png"/>
 </p>
 
-Text in Bearbeitung
+Die Tablet-Halterung wird an einer Fensterscheibe auf der Innenseite der Fahrerkabine der Baumaschine befestigt. Achten Sie dabei auf eine saubere Fensterscheibe, ggf. reinigen Sie diese vorher mit Glasreiniger. Drücken Sie die Tablet-Halterung an die gewünschte Stelle an die Fensterscheibe fest. Prüfen Sie anschließend durch leichtes Ziehen und Drücken den sicheren und festen Sitz der Tablet-Halterung.
 
-!!! info "Titel"
-    Text
+Danach kann sie in die gewünschte Position eingeschwenkt werden. Schrauben Sie hierzu das Bindeglied zwischen Saugnäpfen und Tablet-Halterung leicht auf und ziehen Sie es nach Positionierung wieder fest. Das Tablet kann nachfolgend eingeschoben werden, sobald die Einrichtung abgeschlossen ist.
 
-!!! Warning "Titel"
-    Text
+!!! info "Anfeuchten der Saugnäpfe der Tablet-Halterung"
+    Sollte sich der Tablet-Halter wiederholt von der Scheibe lösen, können Sie die Saugnäpfe mit Wasser oder Reinigungsmittel behutsam anfeuchten. 
 
 
 ## GNSS-Sensor auswählen und verbinden
@@ -106,6 +120,13 @@ Text in Bearbeitung
 !!! Warning "Titel"
     Text
 
+!!! info "Besserer WLAN-Empfang"
+    Das LED-Anzeigekreuz dient nicht nur der visuellen Unterstützung, sondern spannt auch das WLAN-Netz für das Tablet auf. Entsprechend kann es bei tieferen Arbeiten Abhilfe schaffen, das LED-Anzeigekreuz weiter oben als üblich am Baggerarm zu montieren.
+
+!!! info "GPS-Empfang und Orientierung wiederherstellen"
+    Durch den GPS-Empfang über ein globales Satellitennetzwerk und RTK-Korrekturdaten über NTRIP kann die exakte Position des Sensors im Raum bestimmt werden. Um zudem die genaue Ausrichtung zu bestimmen, muss der Sensor zu Beginn oder bei entsprechendem Hinweis (kein GNSS oder GNSS zu ungenau) geschwenkt oder bewegt werden - auch, um den verloren gegangenen GPS-Empfang wiederherzustellen.
+    
+    Das System findet die Orientierung im Normalfall nach wenigen Minuten von selbst (hierfür muss der Messstab, die Baggerschaufel oder das Werkzeug bewegt und geschwenkt werden). Erhalten Sie keine Verbindungen befinden Sie sich wahrscheinlich mit dem Sensor zu nahe an größeren Strukturen, welche den Satellitenempfang beeinträchtigen.
 
 ## Orientierung für den GNSS-Sensor herstellen
 
@@ -128,7 +149,7 @@ Text in Bearbeitung
   <img width="100%" src="/images_docs/Placeholder System aufbauen 8.png"/>
 </p>
 
-Text in Bearbeitung
+Man erkennt eine optimale Verbindung daran, dass alle drei Symbole oben rechts in der Ansicht (Ausrichtung, GPS-Empfang und NTRIP-Verbindung) in Grün hinterlegt sind. Die Hardware kann durch das Betätigen der Drucktasten am GNSS-Sensor und der LED-Anzeige manuell abgeschaltet werden. Schalten Sie die Geräte im Normalfall nach Beendigung und Speicherung der Arbeit am Tablet aus.  
 
 Hier mehr erfahren im nächsten Schritt der Anleitung: [Kalibrierung](https://docs.excav.de/Kalibrierung/Kalibrierung/)
 
@@ -137,86 +158,3 @@ Hier mehr erfahren im nächsten Schritt der Anleitung: [Kalibrierung](https://do
 
 !!! Warning "Titel"
     Text
-
-
-<!-- <p align="center" width="100%">
-  <img width="100%" src="/images_docs/Anleitung & FAQ Youtube Thumbnail.png"/>
-</p>
-
-
-BACKLOG
-
-!!! info "Besserer WLAN-Empfang"
-    Das LED-Anzeigekreuz dient nicht nur der visuellen Unterstützung, sondern spannt auch das WLAN-Netz für das Tablet auf. Entsprechend kann es bei tieferen Arbeiten Abhilfe schaffen, das LED-Anzeigekreuz weiter oben als üblich am Baggerarm zu montieren.
-
-
-!!! Warning "Werkzeug an der Anbringstelle gründlich säubern"
-    Das Werkzeug muss an der Anbringstelle des Sensors sauber und möglichst glatt sein, sodass die Magneten direkt das Metall berühren und keine Schmutzschicht dazwischen liegt. Wenn diese aus Sand und Lehm besteht, kann dies die Magnetstärke und somit Haftfähigkeit signifikant beeinträchtigen.
-
-!!! Warning "Sensor sorgfältig und fest anbringen"
-    Sowohl das Anbringen des Sensors als auch das Einmessen des Werkzeugs sind von hoher Wichtigkeit. Ist die Einrichtung des Sensors fehlerhaft, so kann dies die Qualität der darauffolgenden Arbeiten reduzieren. Die richtige Anbringung des Sensors auf dem Werkzeug ist entscheidend für genaue Ergebnisse und lässt sich rein textbasiert in einer Anleitung nicht trivial beschreiben. Wir empfehlen daher, dass Sie sich auch mithilfe der grafischen Anleitung in unserem YouTube-Erklärungsvideo informieren.
-
-!!! info "Anfeuchten der Saugnäpfe"
-    Sollte sich der Tablet-Halter wiederholt von der Scheibe lösen, können Sie die Saugnäpfe mit Wasser oder Reinigungsmittel behutsam anfeuchten. Mit den Knöpfen an der Seite des Tablets kann dieses ein- und ausgeschaltet werden. Sofern die Baumaschine über einen Zigarettenanzünder oder einen 5V- bzw. 12V-Anschluss verfügt, können Sie das Tablet auch an die bordeigene Stromquelle anschließen. Falls Sie mit einem Tablet den ganzen Tag auf Akku arbeiten möchten, empfehlen wir, dieses in den Pausen kurz auszuschalten.
-
-
-
-Ein Live-Beispiel zum Aufbauen und Einrichten des excav PILOT Gesamtsystems auf einer normalen Baustelle finden Sie in unserer [Videoanleitung](https://www.youtube.com/watch?v=dZmhDPmHHl0) (auch in der App abspielbar).
-
-## LED-Anzeigekreuz am Baggerarm anbringen
-
-<p align="center" width="100%">
-  <img width="100%" src="/images_docs/Anleitung & FAQ Anbringung 3.png"/>
-</p>
-
-Schalten Sie das LED-Anzeigekreuz an, indem Sie den Knopf auf der Rückseite des Gehäuses drücken. Ein grün leuchtender Knopf bedeutet, dass die LED-Anzeige eingeschaltet und aktiv ist.
-Befestigen Sie das LED-Anzeigekreuz anschließend mit den angebrachten Magneten auf mittlerer Höhe an der zur Fahrerkabine zeigenden Seite des Baggerarms. Achten Sie hierbei auf gute Sichtbarkeit aus der Fahrerkabine der Baumaschine heraus.
-
-!!! information "WLAN"
-
-Das LED-Anzeigekreuz dient nicht nur der visuellen Unterstützung, sondern spannt auch das WLAN-Netz für das Tablet auf. Zusätzlich wird über das LED-Anzeigekreuz die Kommunikation zwischen Sensor und Basisstation bereitgestellt, sollte die Verbindungsqualität durch z.B. Ausschachtungsarbeiten beeinträchtigt sein. Entsprechend kann es bei tieferen Arbeiten Abhilfe schaffen, das LED-Anzeigekreuz weiter oben als gewöhnlich am Baggerstiel zu montieren.
-
-## GNSS-Sensor anbringen und kalibrieren
-
-<p align="center" width="100%">
-  <img width="100%" src="/images_docs/Anleitung & FAQ Anbringung 4.png"/>
-</p>
-
-Schalten Sie den Sensor ein, indem Sie den Knopf auf der Unterseite des Gehäuses drücken. Ein grün leuchtender Knopf bedeutet, dass der Sensor eingeschaltet und aktiv ist.
-Befestigen Sie den Sensor oberhalb an der Baggerschaufel oder das Werkzeug. Beachten Sie dabei Folgendes:
-
-• Der Sensor sollte möglichst weit außen auf der von der Fahrerkabine aus gesehen rechten oberen Seite der Baggerschaufel oder des Werkzeugs befestigt werden.
-
-• Der Sensor darf nicht über den äußeren Rand des Werkzeugs hinausragen.
-
-• Das Pfeilsymbol auf der Oberseite des Sensors muss stets in Richtung der Fahrerkabine zeigen.
-
-• Die Hinterkante des Sensors muss parallel zur Schaufel- oder Werkzeugschneide verlaufen.
-
-• Der Sensor darf nicht durch Hydraulik, überstehende Bleche oder andere Aufbauten verdeckt werden (siehe Problematik der Empfangsqualität)
-
-• Der Sensor sollte auf einem vor Geröll und Bauschutt sowie Stößen geschützten Bereich an der Baggerschaufel oder am Werkzeug befestigt werden.
-
-!!! warning "Werkzeug an der Anbringstelle ordentlich säubern."
-
-Die Baggerschaufel oder das Werkzeug muss an der Anbringstelle des Sensors sauber und möglichst glatt sein, sodass die Magneten direkt das Metall der Baggerschaufel oder des Werkzeugs berühren und keine Schmutzschicht dazwischen liegt. Wenn diese aus Sand und Lehm besteht, kann dies die Magnetstärke und somit Haftfähigkeit signifikant beeinträchtigen.
-
-!!! warning "Sensor sorgfältig und fest anbringen."
-
-Sowohl das Anbringen des Sensors als auch das Einmessen der Baggerschaufel oder des Werkzeugs sind von hoher Wichtigkeit. Ist die Einrichtung des Sensors fehlerhaft, so kann dies die Qualität der darauffolgenden Arbeiten reduzieren.
-Die richtige Anbringung des Sensors auf der Baggerschaufel oder des Werkzeugs ist entscheidend für gute Ergebnisse und lässt sich rein textbasiert in einer Anleitung nicht trivial beschreiben. Wir empfehlen daher, dass Sie sich auch mithilfe der grafischen Anleitung in unserem YouTube-Video informieren.
-
-## Tablet und Tablet-Halterung im Fahrerhaus anbringen
-
-<p align="center" width="100%">
-  <img width="100%" src="/images_docs/Anleitung & FAQ Anbringung 7.png"/>
-</p>
-
-Die Tablet-Halterung wird an einer Fensterscheibe auf der Innenseite der Fahrerkabine der Baumaschine befestigt. Achten Sie dabei auf eine saubere Fensterscheibe, ggf. reinigen Sie diese vorher mit Glasreiniger. Drücken Sie die Tablet-Halterung an die gewünschte Stelle an die Fensterscheibe und drehen Sie diese an den beiden Saugnäpfen fest. Prüfen Sie anschließend durch leichtes Ziehen und Drücken den sicheren und festen Sitz der Tablet-Halterung.
-
-Danach kann die Tablet-Halterung in die gewünschte Position eingeschwenkt werden. Schrauben Sie hierzu das Bindeglied zwischen Saugnäpfen und Tablet-Halterung leicht auf und ziehen Sie es nach Positionierung wieder fest. Das Tablet kann nachfolgend eingeschoben werden.
-
-!!! information "Anfeuchten der Saugnäpfe"
-
-Sollte sich der Tablet-Halter wiederholt von der Scheibe lösen, können Sie die Saugnäpfe mit Wasser oder Reinigungsmittel behutsam anfeuchten. Dies garantiert einen deutlich besseren Halt an der Innenseite der Fensterscheibe.
-Mit den Knöpfen an der Seite des Tablets kann dieses ein- und ausgeschaltet werden. Sofern die Baumaschine über einen Zigarettenanzünder oder einen 5V- bzw. 12V-Anschluss verfügt, können Sie das Tablet auch an die bordeigene Stromquelle anschließen. Falls Sie mit einem Tablet den ganzen Tag auf Akku arbeiten möchten, empfehlen wir, dieses in den Pausen kurz auszuschalten. -->

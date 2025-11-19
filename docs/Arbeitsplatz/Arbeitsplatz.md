@@ -116,6 +116,9 @@ Sie können einen zuvor gespeicherten Arbeitsplatz wieder laden und bearbeiten. 
 
 Sobald ein erster oder weiterer Arbeitsplatz angelegt wurde (im Beispiel oben ohne eine LandXML-Datei), erscheint der GNSS-Sensor auf der primären Arbeitsansicht im Ursprungspunkt.
 
+!!! info "Ursprung als Referenzpunkt"
+    Der Ursprung dient als Nullpunkt, von dem aus alle weiteren Maße errechnet werden. Zu Beginn eines neuen Arbeitsplatzes bildet der Referenzpunkt den Mittelpunkt eines statischen Koordinatensystems. Hierfür bietet sich idealerweise eine Stelle auf der Baustelle an, die über den gesamten Bauverlauf verfügbar bleibt, sich nicht ändert, jederzeit gut zu erreichen ist und freie Sicht auf den Himmel bietet. 
+
 
 <!--
 <p align="center" width="100%">
