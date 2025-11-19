@@ -12,7 +12,7 @@ Hinweis: Diese Seite befindet sich gerade in Bearbeitung.
   <img width="100%" src="/images_docs/Placeholder System aufbauen 0.png"/>
 </p>
 
-Text in Bearbeitung
+Nachdem Sie das Tablet des excav PILOT eingerichtet haben können Sie mit der Hardware des Systems fortfahren und ggf. testweise die Geräte am Werkzeug einer Baumaschine befestigen. 
 
 Mehr Informationen zum Thema "System aufbauen" erhalten Sie in unserer aktuellen [Videoanleitung auf YouTube](https://www.youtube.com/watch?v=0_yEPTznHgQ){:target="\_blank"}, wo der Aufbau des Systems im Detail durchgeführt und erklärt wird.
 
@@ -38,7 +38,7 @@ Text in Bearbeitung
   <img width="100%" src="/images_docs/Placeholder System aufbauen 2.png"/>
 </p>
 
-Schalten Sie das LED-Anzeigekreuz an, indem Sie den Button auf der Rückseite betätigen. Ein grün leuchtender Button bedeutet, dass die LED-Anzeige eingeschaltet und aktiv ist. Befestigen Sie das LED-Anzeigekreuz anschließend mit den angebrachten Magneten auf mittlerer Höhe an der zur Fahrerkabine zeigenden Seite des Stiehls. Achten Sie hierbei auf gute Sichtbarkeit aus der Fahrerkabine heraus.
+Schalten Sie das LED-Anzeigekreuz an, indem Sie den Button auf der Rückseite betätigen. Ein grün leuchtender Button bedeutet, dass sie eingeschaltet und aktiv ist. Befestigen Sie das LED-Anzeigekreuz anschließend mit den Magneten auf mittlerer Höhe an der zur Fahrerkabine zeigenden Stiehlseite. Achten Sie hierbei auf gute Sichtbarkeit aus der Fahrerkabine heraus.
 
 !!! info "Titel"
     Text
@@ -53,7 +53,7 @@ Schalten Sie das LED-Anzeigekreuz an, indem Sie den Button auf der Rückseite be
   <img width="100%" src="/images_docs/Placeholder System aufbauen 3.png"/>
 </p>
 
-Schalten Sie den Sensor ein, indem Sie den Button auf der Unterseite drücken. Ein grün leuchtender Button bedeutet, dass der Sensor eingeschaltet und aktiv ist. Befestigen Sie den Sensor oberhalb des Werkzeugs. Beachten Sie dabei Folgendes:
+Schalten Sie den GNSS-Sensor ein, indem Sie den Button auf der Unterseite drücken. Ein grün leuchtender Button bedeutet, dass er eingeschaltet und aktiv ist. Befestigen Sie den Sensor auf der Oberseite des jeweiligen Werkzeugs. Beachten Sie dabei folgende wichtige Punkte:
 
 • Der Sensor sollte möglichst weit außen auf der von der Fahrerkabine aus gesehen rechten oberen Seite des Werkzeugs befestigt werden.
 
