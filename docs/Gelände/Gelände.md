@@ -81,6 +81,9 @@ Sofern in dem Modell CgPoints hinterlegt sind und diese einen bekannten Bezug zu
 !!! question "Mein LandXML ist nach dem Import nicht sichtbar."
     Das LandXML ist georeferenziert. Wenn Ihre aktuelle Sensorposition weit von den Koordinaten der Datei entfernt ist, wird das Modell nicht im sichtbaren Bereich angezeigt. Klicken Sie auf den "Karte zentrieren"-Button (seitlich rechts in der Ansicht, dritter von oben), um zum Ursprung des Geländemodells zu springen.
 
+!!! question "Mein LandXML enthält keine Höhen."
+    Die .xml-Datei muss TIN surfaces enthalten. CoordGeom-Inhalte wie z.B. Lines oder Curves sind lediglich grafische Geometrien. Höheninformationen eingeschlossener Flächen werden nicht berechnet. Wenden Sie sich ggf. an den zuständigen Software-Berater Ihres CAD-Programms und beschreiben Sie, dass Sie mit einer Punktwolke eine Oberfläche als trianguliertes Netz erzeugen möchten.
+
 !!! question "Funktionieren auch andere Dateiformate wie DXF oder DWG?"
     Nein, aktuell unterstützen wir nur LandXML. Längerfristig soll auch DXF unterstützt werden. Die meisten CAD-Programme, die Ihnen ein DXF erzeugen können, unterstützen auch LandXML.
 
