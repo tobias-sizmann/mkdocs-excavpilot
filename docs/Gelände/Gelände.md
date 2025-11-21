@@ -4,13 +4,87 @@
     }
 </style>
 
-# Gelände
+# Geländemodelle (LandXML)
+
+Der excav Pilot ermöglicht das Laden und Anzeigen digitaler Geländemodelle direkt auf dem Bagger. Der Fahrer bekommt sowohl das 3D-Gelände als auch seine aktuelle Position im Modell visualisiert.
+Für den 3D-Import wird derzeit ausschließlich das LandXML-Format unterstützt.
+
+LandXML ist ein offener XML-basierter Standard zur Beschreibung vermessungstechnischer Daten (georeferenzierte Geländemodelle, Oberflächen, Linien, Korridore, Punkte, usw.). Unterstützte Inhalte sind derzeit:
+
+- Surfaces (Geländeoberflächen)
+- Lines / Breaklines / Curves (z. B. Böschungskanten, Achsen)
+- Points (CgPoint)
 
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Screenshot Gelände (19).jpg"/>
 </p>
 
-Das Einlesen und die Nutzung von Digitalen Geländemodellen (DGM) im LandXML-Format für eine vollständig in 3D visualisierte Arbeitsweise auf der Baustelle ist eine der Hauptfunktionen der excav App-Anwendung. Nutzer können sich jederzeit entscheiden, ob sie Baupläne als PDF in der zweidimensionalen Ansicht oder mithilfe von DGM im LandXML-Format im dreidimensionalen Raum für ein intuitives und immersives Arbeitserlebnis verwenden möchten. 
+!!! info "Wie bekomme ich LandXML-Dateien auf das Tablet?"
+
+    Es gibt mehrere Möglichkeiten, Dateien auf das Android-Tablet zu bekommen:
+
+       - USB / Direktübertragung ( USB-Stick, Laptop, …)
+       - Cloud Dienste mit Android App (Google Drive, OneDrive, Dropbox, …)
+       - Download über Browser (Chrome)
+       - E-Mailprogramm (GMail, Outlook, …)
+       - Bluetooth
+
+## Import von XML-Dateien
+
+Es gibt zwei Möglichkeiten eine XML-Datei vom Tablet in die excav PILOT App zu importieren. Wenn Sie noch keinen [Arbeitsplatz](https://docs.excav.de/Arbeitsplatz/Arbeitsplatz/) für dieses Modell haben, können Sie beim Erstellen des neuen Arbeitsplatzes direkt das XML laden. Falls Sie bereits einen Arbeitsplatz für die Baustelle haben, können Sie ein Modell über das [Designmenü -> Gelände]() hinzufügen.
+
+In beiden Fällen müssen danach drei Parameter gesetzt werden:
+
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Gelände Auswahl (1).png"/>
+</p>
+
+**<span style="color: red; font-weight: bold;">1: &nbsp;</span>** Koordinatensystem (Projection)
+
+- Universal Transverse Mercator (UTM)
+
+        gängige Zone in Deutschland: UTM-32, im Osten ggf. UTM-33
+
+- Gauss-Krüger (GK) 
+
+        gängige Zone in Deutschland: Zone 3, im Westen häufiger Zone 2, im Osten Zone 4 und selten 5
+
+- GROVAC (Tschechien)
+- Geodätisch (Breite/Länge)
+
+!!! info 
+    Je nach dem, welche Korrekturdatenquelle/-dienst genutzt wird, muss dies berücksichtigt werden. SAPOS arbeitet z.B. im ETRS89.
+
+**<span style="color: red; font-weight: bold;">2: &nbsp;</span>** CRS (Coordinate Reference System)
+
+Hier ist die entsprechende Pipeline auszuwählen, mit der das Modell erstellt wurde. Sollte die benötigte Pipline hier nicht vorhanden sein, wenden Sie sich bitte an uns!
+
+!!! info
+    Wenn z.B. in Deutschland mit einem Modell mit SAPOS in UTM gearbeitet wird, ist hier die entsprechende Zone (z.B. UTM32, UTM33, UTM34, …) mit dem Raumbezugssystem (z.B. GRS80, WGS84, …) und dem Ellipsoid / Geoidmodell (z.B.GCG16, …) auszuwählen. In Deutschland wird in den allermeisten Fällen 
+
+**<span style="color: red; font-weight: bold;">3: &nbsp;</span>** Format
+
+Hier ist die Reihenfolge anzugeben, in der die Daten in der XML-Datei aufgelistet sind. Der erste Wert aus der Datei wird entsprechend oberhalb des Projektions-Feldes angezeigt. Hierbei spielt es bei UTM keine Rolle, ob das Kurz- oder Langformat genutzt wird. Northing entspricht dem Hochwert, Easting dem Rechtswert und Altitude der Höhe.
+
+!!! info
+    Der Rechtswert (East/E) gibt die Entfernung vom Mittelmeridian einer UTM-Zone nach Osten (positiv) oder Westen (negativ, aber mit 500.000 m Offset, um immer positive Werte zu haben) an und wird in Metern gemessen, während der Hochwert (North/N) die Entfernung vom Äquator nach Norden in Metern angibt. In Deutschland ist die Unterscheidung einfach, da der Hochwert 7-stellig ist. Der Rechtswert kann 6 oder 8-stellig sein, je nachdem, ob die Zone (32, 33, …) vorne an den Rechtswert angehängt ist oder nicht.
+
+## Nachjustierung über CgPoints
+
+Sofern in dem Modell CgPoints hinterlegt sind und diese einen bekannten Bezug zu vorliegenden Punkten auf der Baustelle, kann das Modell anhand beliebig vieler CgPoints nochmals eingemessen werden. Das Modell wird hiermit aber nur verschoben und nicht rotiert oder skaliert. Anhand der errechneten Residuen kann die Einmessung kontrolliert werden.
+
+## Häufige Fragen
+
+!!! question "Ich habe mein Geländemodell auf das Tablet übertragen, finde es aber beim Import nicht."
+    Tippen Sie oben links auf das Hamburger-Menü (die drei horizontalen Linien) und navigieren Sie anschließend zu dem Ordner, in dem Sie die Datei gespeichert haben. 
+
+!!! question "Mein LandXML ist nach dem Import nicht sichtbar."
+    Das LandXML ist georeferenziert. Wenn Ihre aktuelle Sensorposition weit von den Koordinaten der Datei entfernt ist, wird das Modell nicht im sichtbaren Bereich angezeigt. Klicken Sie auf den "Karte zentrieren"-Button (seitlich rechts in der Ansicht, dritter von oben), um zum Ursprung des Geländemodells zu springen.
+
+!!! question "Funktionieren auch andere Dateiformate wie DXF oder DWG?"
+    Nein, aktuell unterstützen wir nur LandXML. Längerfristig soll auch DXF unterstützt werden. Die meisten CAD-Programme, die Ihnen ein DXF erzeugen können, unterstützen auch LandXML.
+
+<!-- Das Einlesen und die Nutzung von Digitalen Geländemodellen (DGM) im LandXML-Format für eine vollständig in 3D visualisierte Arbeitsweise auf der Baustelle ist eine der Hauptfunktionen der excav App-Anwendung. Nutzer können sich jederzeit entscheiden, ob sie Baupläne als PDF in der zweidimensionalen Ansicht oder mithilfe von DGM im LandXML-Format im dreidimensionalen Raum für ein intuitives und immersives Arbeitserlebnis verwenden möchten. 
 
 !!! Warning "Richtige Einstellungen für LandXML"
     LandXML ist ein gängiges Dateiformat zum Austausch georeferenzierter Objekte zwischen Softwareprogrammen. Es ermöglicht die Übermittlung von Objekten mit Attributen, Distanzrelationen und Geometrien zwischen Endgeräten, insbesondere für Anwendungen im Tiefbau, Straßenbau oder im Garten- und Landschaftsbau.
@@ -156,7 +230,7 @@ Die Reihenfolge (NEA oder ENA) hängt vom Koordinatensystem ab, verändert jedoc
 
 Geodetic-GRS80-Ellipsoid | kein Format erforderlich (keine Auswahloption möglich)
 
-
+-->
 <!-- BACKLOG
 
 Unter dem Menüpunkt „Gelände“ erhalten Sie die Möglichkeit eingelesene dreidimensionale Geländemodelle im gewünscht Dateiformat zu laden, einzusehen oder auch ggf. wieder zu löschen.
