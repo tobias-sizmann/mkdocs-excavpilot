@@ -60,7 +60,7 @@ In beiden Fällen müssen danach drei Parameter gesetzt werden:
 Hier ist die entsprechende Pipeline auszuwählen, mit der das Modell erstellt wurde. Sollte die benötigte Pipline hier nicht vorhanden sein, wenden Sie sich bitte an uns!
 
 !!! info
-    Wenn z.B. in Deutschland mit einem Modell mit SAPOS in UTM gearbeitet wird, ist hier die entsprechende Zone (z.B. UTM32, UTM33, UTM34, …) mit dem Raumbezugssystem (z.B. GRS80, WGS84, …) und dem Ellipsoid / Geoidmodell (z.B.GCG16, …) auszuwählen. In Deutschland wird in den allermeisten Fällen 
+    Wenn z.B. in Deutschland mit einem Modell mit SAPOS in UTM gearbeitet wird, ist hier die entsprechende Zone (z.B. UTM32, UTM33, UTM34, …) mit dem Raumbezugssystem (z.B. GRS80, WGS84, …) und dem Ellipsoid / Geoidmodell (z.B.GCG16, …) auszuwählen.
 
 **<span style="color: red; font-weight: bold;">3: &nbsp;</span>** Format
 
@@ -71,7 +71,7 @@ Hier ist die Reihenfolge anzugeben, in der die Daten in der XML-Datei aufgeliste
 
 ## Nachjustierung über CgPoints
 
-Sofern in dem Modell CgPoints hinterlegt sind und diese einen bekannten Bezug zu vorliegenden Punkten auf der Baustelle, kann das Modell anhand beliebig vieler CgPoints nochmals eingemessen werden. Das Modell wird hiermit aber nur verschoben und nicht rotiert oder skaliert. Anhand der errechneten Residuen kann die Einmessung kontrolliert werden.
+Sofern in dem Modell CgPoints hinterlegt sind und diese einen bekannten Bezug zu vorliegenden Punkten auf der Baustelle haben, kann das Modell anhand beliebig vieler CgPoints nochmals eingemessen werden. Das Modell wird hiermit aber nur verschoben und nicht rotiert oder skaliert. Anhand der errechneten Residuen kann die Einmessung kontrolliert werden.
 
 ## Häufige Fragen
 
