@@ -113,3 +113,8 @@ Geben Sie zuletzt die exakten Positionsdaten (engl. Latitude / Longitude) des ei
 </p>
 
 Wenn Sie die Einrichtung erfolgreich abgeschlossen haben, können Sie mit dem Systemaufbau fortfahren. Weitere Informationen finden Sie im nächsten Schritt der Anleitung: [System aufbauen](https://docs.excav.de/System aufbauen/System aufbauen/)
+
+<!-- BACKLOG
+
+
+BACKLOG -->

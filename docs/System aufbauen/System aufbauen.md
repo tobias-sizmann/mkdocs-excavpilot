@@ -25,11 +25,13 @@ Mehr Informationen zum Thema "System aufbauen" erhalten Sie in unserer aktuellen
 
 Text in Bearbeitung
 
-!!! info "Titel"
-    Text
+Bevor Sie die Geräte anbringen, müssen Sie diese anschalten und warten bis das Licht der Buttons auf der Rückseite grün aufleuchten. Sind die Geräte aktiv und in der Lage per Bluetooth an das Tablet angekoppelt zu werden können Sie jeweils mit der Platzierung beginnen.  
 
-!!! Warning "Titel"
-    Text
+!!! info "Geeignete Stellen an der Baumaschine ggf. reinigen"
+    Bedenken Sie, dass die vorgesehene Stelle von Verschmutzung, wie Erde, Sand, Lehm, Schlamm etc. gereinigt werden sollte, damit das Gerät mit den Starkmagneten guten Halt findet und nicht während der Arbeit verrutscht.
+
+!!! Warning "Geräte dürfen nicht abgeschirmt werden"
+    Achten Sie grundsätzlich darauf, dass weder der GNSS-Sensor noch das LED-Anzeigekreuz durch Aufbauten, Blech und andere metallische Hindernisse verdeckt oder im Empfang von GPS oder Bluetooth gestört werden können. 
 
 
 ## LED-Anzeigekreuz richtig am Stiehl anbringen
@@ -40,11 +42,8 @@ Text in Bearbeitung
 
 Schalten Sie das LED-Anzeigekreuz an, indem Sie den Button auf der Rückseite betätigen. Ein grün leuchtender Button bedeutet, dass sie eingeschaltet und aktiv ist. Befestigen Sie das LED-Anzeigekreuz anschließend mit den Magneten auf mittlerer Höhe an der zur Fahrerkabine zeigenden Stiehlseite. Achten Sie hierbei auf gute Sichtbarkeit aus der Fahrerkabine heraus.
 
-!!! info "Titel"
-    Text
-
-!!! Warning "Titel"
-    Text
+!!! info "Geeignte Position für das LED-Anzeigekreuz finden"
+    Das LED-Anzeigekreuz muss immer rückseitig am Maschinenarm (ggf. höher angebracht) und gut sichtbar mit Blick zur Fahrerkabine montiert werden, der Pfeil muss dabei nach unten in Richtung Fahrerkabine zeigen. Geübte Nutzer können mit kleinen Baumaschinen sogar nur mit dem LED-Anzeigekreuz allein (ohne Tablet) navigieren und arbeiten. 
 
 
 ## GNSS-Sensor richtig am Löffel anbringen
@@ -53,11 +52,11 @@ Schalten Sie das LED-Anzeigekreuz an, indem Sie den Button auf der Rückseite be
   <img width="100%" src="/images_docs/Placeholder System aufbauen 3.png"/>
 </p>
 
-Schalten Sie den GNSS-Sensor ein, indem Sie den Button auf der Unterseite drücken. Ein grün leuchtender Button bedeutet, dass er eingeschaltet und aktiv ist. Befestigen Sie den Sensor auf der Oberseite des jeweiligen Werkzeugs. Beachten Sie dabei folgende wichtige Punkte:
+Schalten Sie den GNSS-Sensor ein, indem Sie den Button auf der Unterseite drücken. Ein grün leuchtender Button bedeutet, dass er eingeschaltet und aktiv ist. Befestigen Sie den GNSS-Sensor auf der Oberseite des Werkzeugs. Beachten Sie dabei folgende wichtige Punkte:
 
-• Der Sensor sollte möglichst weit außen auf der von der Fahrerkabine aus gesehen rechten oberen Seite des Werkzeugs befestigt werden.
+• Der Sensor sollte möglichst weit außen auf der von der Fahrerkabine aus gesehen rechten oberen Seite des Werkzeugrandes befestigt werden.
 
-• Der Sensor darf nicht über den äußeren Rand des Werkzeugs hinausragen.
+• Der Sensor darf dabei allerdings nicht über den äußeren Rand des Werkzeugs hinausragen.
 
 • Das Pfeilsymbol auf der Oberseite des Sensors muss stets in Richtung der Fahrerkabine zeigen.
 
@@ -67,14 +66,14 @@ Schalten Sie den GNSS-Sensor ein, indem Sie den Button auf der Unterseite drück
 
 • Der Sensor sollte auf einem vor Geröll sowie Stößen geschützten Bereich befestigt werden.
 
-!!! info "Titel"
-    Text
+!!! info "Metallrahmen für die leichtere Anbringung"
+    Lassen Sie den optionalen Metallrahmen an die gewünschte Stelle schweißen, um künftig den GNSS-Sensor leichter und schneller stets an die korrekte Position auf dem Werkzeug anzubingen und das System in Betrieb zunehmen. 
 
 !!! Warning "Werkzeug an der Anbringstelle gründlich säubern"
-    Das Werkzeug muss an der Anbringstelle des Sensors sauber und möglichst glatt sein, sodass die Magneten direkt das Metall berühren und keine Schmutzschicht dazwischen liegt. Wenn diese aus Sand und Lehm besteht, kann dies die Magnetstärke und somit Haftfähigkeit signifikant beeinträchtigen.
+    Das Werkzeug muss an der Anbringstelle des Sensors sauber und möglichst glatt sein, sodass die Starkmagneten direkt das Metall berühren und keine Schmutzschicht dazwischen liegt. Wenn diese aus Sand und Lehm besteht, kann dies die Magnetstärke und somit Haftfähigkeit signifikant beeinträchtigen.
 
 !!! Warning "Sensor sorgfältig und fest anbringen"
-    Sowohl das Anbringen des Sensors als auch das Einmessen des Werkzeugs sind von hoher Wichtigkeit. Ist die Einrichtung des Sensors fehlerhaft, so kann dies die Qualität der darauffolgenden Arbeiten reduzieren. Die richtige Anbringung des Sensors auf dem Werkzeug ist entscheidend für genaue Ergebnisse.
+    Sowohl das richtige Anbringen des Sensors als auch das Einmessen des Werkzeugs sind von besonders hoher Wichtigkeit. Ist die Anbringung und Einmessung des Sensors fehlerhaft, so kann dies die Qualität der Arbeiten reduzieren. Die Anbringung des Sensors auf dem Werkzeug ist für genaue Ergebnisse daher ausschlaggebend.
 
 
 ## Alle Geräte richtig angebracht und einsatzbereit
@@ -85,25 +84,10 @@ Schalten Sie den GNSS-Sensor ein, indem Sie den Button auf der Unterseite drück
 
 Die Tablet-Halterung wird an einer Fensterscheibe auf der Innenseite der Fahrerkabine der Baumaschine befestigt. Achten Sie dabei auf eine saubere Fensterscheibe, ggf. reinigen Sie diese vorher mit Glasreiniger. Drücken Sie die Tablet-Halterung an die gewünschte Stelle an die Fensterscheibe fest. Prüfen Sie anschließend durch leichtes Ziehen und Drücken den sicheren und festen Sitz der Tablet-Halterung.
 
-Danach kann sie in die gewünschte Position eingeschwenkt werden. Schrauben Sie hierzu das Bindeglied zwischen Saugnäpfen und Tablet-Halterung leicht auf und ziehen Sie es nach Positionierung wieder fest. Das Tablet kann nachfolgend eingeschoben werden, sobald die Einrichtung abgeschlossen ist.
+Danach kann sie in die gewünschte Position eingeschwenkt werden. Schrauben Sie hierzu das Bindeglied zwischen Saugnäpfen und Tablet-Halterung leicht auf und ziehen Sie es nach Positionierung wieder fest. Das Tablet kann nachfolgend eingeschoben werden, sobald die Einrichtung abgeschlossen ist. Richten Sie die Montage der Halterung und die Ausrichtung des Tablets final aus, um ungestört bei der Arbeit auf das Tablet sehen zu können. 
 
 !!! info "Anfeuchten der Saugnäpfe der Tablet-Halterung"
-    Sollte sich der Tablet-Halter wiederholt von der Scheibe lösen, können Sie die Saugnäpfe mit Wasser oder Reinigungsmittel behutsam anfeuchten. 
-
-
-## GNSS-Sensor auswählen und verbinden
-
-<p align="center" width="100%">
-  <img width="100%" src="/images_docs/Placeholder System aufbauen 5.png"/>
-</p>
-
-Text
-
-!!! info "Titel"
-    Text
-
-!!! Warning "Titel"
-    Text
+    Sollte sich die Tablet-Halterung wiederholt von der Innenscheibe der Fahrerkabine lösen, können Sie die Saugnäpfe mit Wasser oder etwas Reinigungsmittel behutsam anfeuchten und dadurch deutlich haftbarer machen. 
 
 
 ## GPS-Empfang für den GNSS-Sensor herstellen
@@ -112,7 +96,7 @@ Text
   <img width="100%" src="/images_docs/Placeholder System aufbauen 6.png"/>
 </p>
 
-Text in Bearbeitung
+Haben Sie unter Beachtung der Hinweise zuvor die bestmögliche Position auf dem Werkzeug gefunden, können Sie den GNSS-Sensor nochmals entnehmen, falls er nicht bereits mit Bluetooth verbunden ist, eine GPS-Verbindung hergestellt hat und die Ausrichtung bislang fehlt.  
 
 !!! info "Besserer WLAN-Empfang"
     Das LED-Anzeigekreuz dient nicht nur der visuellen Unterstützung, sondern spannt auch das WLAN-Netz für das Tablet auf. Entsprechend kann es bei tieferen Arbeiten Abhilfe schaffen, das LED-Anzeigekreuz weiter oben als üblich am Baggerarm zu montieren.
@@ -144,12 +128,11 @@ Text in Bearbeitung
   <img width="100%" src="/images_docs/Placeholder System aufbauen 8.png"/>
 </p>
 
-Man erkennt eine optimale Verbindung daran, dass alle drei Symbole oben rechts in der Ansicht (Ausrichtung, GPS-Empfang und NTRIP-Verbindung) in Grün hinterlegt sind. Die Hardware kann durch das Betätigen der Drucktasten am GNSS-Sensor und der LED-Anzeige manuell abgeschaltet werden. Schalten Sie die Geräte im Normalfall nach Beendigung und Speicherung der Arbeit am Tablet aus.  
+Man erkennt eine optimale Verbindung daran, dass alle drei Symbole oben rechts in der Ansicht (Ausrichtung, GPS-Empfang und NTRIP-Verbindung) in Grün hinterlegt sind. Die Hardware kann durch das Betätigen der Drucktasten an den Geräten manuell abgeschaltet werden. Schalten Sie die Geräte im Normalfall nach Beendigung und Speicherung der Arbeit am Tablet aus.  
 
-Hier mehr erfahren im nächsten Schritt der Anleitung: [Kalibrierung](https://docs.excav.de/Kalibrierung/Kalibrierung/)
+Mehr erfahren im nächsten Schritt der Anleitung: [Kalibrierung](https://docs.excav.de/Kalibrierung/Kalibrierung/)
 
-!!! info "Titel"
-    Text
+<!-- BACKLOG
 
-!!! Warning "Titel"
-    Text
+
+BACKLOG -->
