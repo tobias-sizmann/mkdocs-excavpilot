@@ -6,8 +6,6 @@
 
 # System aufbauen
 
-Hinweis: Diese Seite befindet sich gerade in Bearbeitung.
-
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Placeholder System aufbauen 0.png"/>
 </p>
@@ -22,8 +20,6 @@ Mehr Informationen zum Thema "System aufbauen" erhalten Sie in unserer aktuellen
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Placeholder System aufbauen 1.png"/>
 </p>
-
-Text in Bearbeitung
 
 Bevor Sie die Geräte anbringen, müssen Sie diese anschalten und warten bis das Licht der Buttons auf der Rückseite grün aufleuchten. Sind die Geräte aktiv und in der Lage per Bluetooth an das Tablet angekoppelt zu werden können Sie jeweils mit der Platzierung beginnen.  
 
@@ -113,13 +109,15 @@ Haben Sie unter Beachtung der Hinweise zuvor die bestmögliche Position auf dem 
   <img width="100%" src="/images_docs/Placeholder System aufbauen 7.png"/>
 </p>
 
-Text in Bearbeitung
+Falls kein GPS-Empfang oder Orientierung voliegen sollten, müssen Sie den GNSS-Sensor entnehmen oder ggf. über das Werkzeug der Baumaschine bewegen. Schwenken Sie den GNSS-Sensor während Sie ihn mit ausgestrecktem Arm halten und neigen Sie ihn dabei gelegentlich in mehrere Richtungen zur Seite, bis sich der GPS-Empfang und die Orientierung einstellen. 
 
-!!! info "Titel"
-    Text
+Halten Sie sich dabei von großen festen Strukturen, wie Bäume, Wände, Häuser und Baucontainer fern, um die Empfangsqualität des GNSS-Sensors nicht zu beinträchtigen und bewegen Sie sich idealerweise über offenes Gelände der Baustelle. 
 
-!!! Warning "Titel"
-    Text
+!!! info "Beeinträchtigung durch solare Aktivitäten"
+    In seltenen Fällen ist es phasenweise möglich, dass der GPS-Empfang grundsätzlich durch solare Aktivitäten (wie Sonnenstürme) empfindlich gestört werden kann. Sowohl der Anbieter als auch Nutzer des excav PILOT haben darauf leider keinen Einfluss. Verfolgen Sie in diesem Fall die meteorloogische Berichterstattung in den Medien.   
+
+!!! Warning "Einfluss von Biomasse auf den GPS-Empfang"
+    Interessanterweise hat der menschliche Körper sowie andere natürliche Strukturen wie hohe Bäume großen Einfluss auf die Empfangsqualität eines GPS-Moduls. Das GPS-Signal kann dabei stark geschwächt oder sogar abgeschirmt werden. Halten Sie den GNSS-Sensor nach oben zum freien Himmel gerichtet und mit dem Arm möglichst weit vom Körper weg in die Luft bis sich ein Signal einstellt.   
 
 
 ## Aufbau abschließen und mit Kalibrierung beginnen
@@ -130,7 +128,7 @@ Text in Bearbeitung
 
 Man erkennt eine optimale Verbindung daran, dass alle drei Symbole oben rechts in der Ansicht (Ausrichtung, GPS-Empfang und NTRIP-Verbindung) in Grün hinterlegt sind. Die Hardware kann durch das Betätigen der Drucktasten an den Geräten manuell abgeschaltet werden. Schalten Sie die Geräte im Normalfall nach Beendigung und Speicherung der Arbeit am Tablet aus.  
 
-Mehr erfahren im nächsten Schritt der Anleitung: [Kalibrierung](https://docs.excav.de/Kalibrierung/Kalibrierung/)
+Wenn Sie den Systemaufbau erfolgreich abgeschlossen haben, können Sie mit der Kalibrierung fortfahren. Weitere Informationen finden Sie im nächsten Schritt der Anleitung: [Kalibrierung](https://docs.excav.de/Kalibrierung/Kalibrierung/)
 
 <!-- BACKLOG
 

@@ -148,20 +148,14 @@ Text in Bearbeitung
 !!! Warning "Titel"
     Text
 
+## Optional: Verwendung des Kalibriertools bei älteren Systemen
 
-<!-- BACKLOG
-
-
-[//]: # (KALIBRIERTOOL)
-
-Für das manuelle Eingabeverfahren wird das mitgelieferte Kalibriertool benötigt. Die Anleitung zur genauen Herangehensweise mit dem Kalibriertool erfahren Sie im nachfolgenden Abschnitt.
-
-!!! information "Abgenutzte Schaufel- oder Werkzeugschneide"
-
-Bei manchen Baggerschaufeln oder Werkzeugen sind die Seitenwände leicht angeschrägt oder die Schneide steht etwas über. Messen Sie in diesem Fall die Distanz bis zum äußersten Punkt der Schaufel- oder Werkzeugschneide. Wie Sie die Höhe der Baggerschaufel oder des Werkzeugs mithilfe des Kalibriertools ablesen, wird Ihnen im nächsten Abschnitt erklärt.
+<p align="center" width="100%">
+  <img width="100%" src="/images_docs/Sortiment excav PILOT 2024 Zubehör.jpg"/>
+</p>
 
 
-## Optional: Kalibriertool bei älteren Systemen
+Für das (vormals) manuelle Eingabeverfahren wurde das mitgelieferte Kalibriertool benötigt. Die Anleitung zur genauen Herangehensweise mit dem Kalibriertool erfahren Sie in diesem Abschnitt.
 
 Gehen Sie beim Anbringen des Kalibriertools an der Baggerschaufel oder am Werkzeug wie folgt vor:
 
@@ -175,7 +169,12 @@ Gehen Sie beim Anbringen des Kalibriertools an der Baggerschaufel oder am Werkze
 
 • Lassen Sie das Kalibriertool mit Meterstab für den nachfolgenden Schritt an der Baggerschaufel oder am Werkzeug befestigt.
 
+!!! info "Abgenutzte Schaufel- oder Werkzeugschneide"
+    Bei manchen Baggerschaufeln oder Werkzeugen sind die Seitenwände leicht angeschrägt oder die Schneide steht etwas über. Messen Sie in diesem Fall die Distanz bis zum äußersten Punkt der Schaufel- oder Werkzeugschneide.
+
 Heben Sie die Baggerschaufel durch Bedienung der Baumaschine als nächstes leicht an und neigen Sie diese, bis die Spitze des Meterstabs exakt mit der Schneide übereinstimmt. Das Kalibriertool mit fixiertem Meterstab dient Ihnen dabei als Hilfe, das Lot von 180° zu finden. Holen Sie sich hierzu ggf. eine zweite Person zu Hilfe, die die Position von der Seite überprüft. 
+
+<!-- BACKLOG
 
 
 BACKLOG -->
