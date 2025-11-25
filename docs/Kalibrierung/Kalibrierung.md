@@ -28,13 +28,11 @@ Mehr Informationen zum Thema "Kalibrierung" erhalten Sie in unserer aktuellen [V
 <p align="center" width="100%">
   <img width="100%" src="/images_docs/Placeholder Kalibrierung 5.png"/>
 </p>
-Text in Bearbeitung
 
-!!! info "Titel"
-    Text
+Es können eine Reihe von gängigen Werkzeugen von Baumaschinen im Tiefbau in der excav App angelegt und gespeichert werden. Der GNSS-Sensor selbst und der mitgelieferte Messstab sind bereits als Werkzeuge standardmäßig hinterlegt und somit direkt einsatzbereit. Wählen Sie das gewünschte Werkzeug aus und fahren Sie mit einer von zwei Methoden zur Einmessung fort.  
 
-!!! Warning "Titel"
-    Text
+!!! info "Messstab bereits als Werkzeug angelegt"
+    Der mitgelieferte, zerlegbare Messstab ist neben der Sensoreinheit bereits als ein Werkzeug standardmäßig hinterlegt. Der montierbare GNSS-Sensor rechnet dabei auf die Metallspitze des Messstabs herunter. Der beigefügte Messstab muss für korrekte Ergebnisse unbedingt vollständig aus allen Teilstücken zusammengesetzt sein.
 
 
 ## Werkzeug auswählen und Verfahren bestimmen
@@ -66,15 +64,7 @@ Das Eingabeverfahren erlaubt es, die Maße der Baggerschaufel oder des Werkzeugs
   <img width="100%" src="/images_docs/Placeholder Kalibrierung 7.png"/>
 </p>
 
-Text in Bearbeitung
-
-Sobald sich der Mittelpunkt des Sensors oder die jeweiligen Werkzeugecken am Punkt der gewünschten Markierung befinden, erfassen Sie den Punkt einfach automatisch über die App. 
-
-!!! info "Titel"
-    Text
-
-!!! Warning "Titel"
-    Text
+Text
 
 
 ## Basispunkt für Kalibrierung bestimmen
@@ -83,13 +73,7 @@ Sobald sich der Mittelpunkt des Sensors oder die jeweiligen Werkzeugecken am Pun
   <img width="100%" src="/images_docs/Placeholder Kalibrierung 8.png"/>
 </p>
 
-Text in Bearbeitung
-
-!!! info "Titel"
-    Text
-
-!!! Warning "Titel"
-    Text
+Beginnen Sie indem Sie mit dem Mittelpunkt des GNSS-Sensors einen fixen, am besten farblich markierten Punkt auf dem Boden oder ggf. auch erhöht als einen Referenzpunkt zum Einmessen der Werkzeugecken definieren.  
 
 
 ## Werkzeugecke links bestimmen (Löffel)
@@ -99,6 +83,8 @@ Text in Bearbeitung
 </p>
 
 Text in Bearbeitung
+
+Sobald der gewünschte Punkt bestimmt ist, bewegen Sie nacheinander die jeweiligen Werkzeugecken an den Punkt der Markierung und erfassen Sie den Punkt einfach automatisch über die App. 
 
 !!! Warning "Abgenutzte Schaufel- oder Werkzeugschneide"
     Bei manchen Baggerschaufeln oder Werkzeugen sind die Seitenwände leicht angeschrägt oder die Schneide steht etwas über. Messen Sie in diesem Fall die Distanz bis zum äußersten Punkt der Schaufel- oder Werkzeugschneide.
@@ -112,11 +98,7 @@ Text in Bearbeitung
 
 Text in Bearbeitung
 
-!!! info "Titel"
-    Text
-
-!!! Warning "Titel"
-    Text
+Sobald der gewünschte Punkt bestimmt ist, bewegen Sie nacheinander die jeweiligen Werkzeugecken an den Punkt der Markierung und erfassen Sie den Punkt einfach automatisch über die App. 
 
 
 ## Namen festlegen und Werkzeug speichern
@@ -127,12 +109,6 @@ Text in Bearbeitung
 
 Text in Bearbeitung
 
-!!! info "Titel"
-    Text
-
-!!! Warning "Titel"
-    Text
-
 
 ## Neu erstelltes Werkzeug einsatzbereit
 
@@ -141,12 +117,6 @@ Text in Bearbeitung
 </p>
 
 Text in Bearbeitung
-
-!!! info "Titel"
-    Text
-
-!!! Warning "Titel"
-    Text
 
 ## Optional: Verwendung des Kalibriertools bei älteren Systemen
 
