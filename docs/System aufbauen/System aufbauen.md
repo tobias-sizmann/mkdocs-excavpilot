@@ -95,9 +95,6 @@ Danach kann sie in die gewünschte Position eingeschwenkt werden. Schrauben Sie 
 
 Haben Sie unter Beachtung der Hinweise zuvor die bestmögliche Position auf dem Werkzeug gefunden, können Sie den GNSS-Sensor nochmals entnehmen, falls er nicht bereits mit Bluetooth verbunden ist, eine GPS-Verbindung hergestellt hat oder die Ausrichtung bislang fehlt. 
 
-!!! info "Besserer WLAN-Empfang"
-    Das LED-Anzeigekreuz dient nicht nur der visuellen Unterstützung, sondern spannt auch das WLAN-Netz für das Tablet auf. Entsprechend kann es bei tieferen Arbeiten Abhilfe schaffen, das LED-Anzeigekreuz weiter oben als üblich am Baggerarm zu montieren.
-
 !!! info "GPS-Empfang und Orientierung wiederherstellen"
     Durch den GPS-Empfang über ein globales Satellitennetzwerk und RTK-Korrekturdaten über NTRIP kann die exakte Position des Sensors im Raum bestimmt werden. Um zudem die genaue Ausrichtung zu bestimmen, muss der Sensor zu Beginn oder bei entsprechendem Hinweis (kein GNSS oder GNSS zu ungenau) geschwenkt oder bewegt werden – auch, um einen verloren gegangenen GPS-Empfang wiederherzustellen.
     
